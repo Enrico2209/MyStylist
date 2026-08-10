@@ -1,0 +1,22 @@
+# dati e artefatti generati dalla pipeline (foto, cache, output) — non codebase
+nuvolari_full/
+nuvolari_full_organizzato/
+test_output/
+test_organizzato/
+*.parquet
+category_cache.json
+brand_list.json
+progress_*.txt
+*.log
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS / tooling locale
+.DS_Store
+.claude/
+
+# notebook v1/v2 superati dallo scraper definitivo (scrape_with_attributes.py)
+Untitled-1.ipynb
+nuvolari pics scraper.ipynb
