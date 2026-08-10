@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+numpy
+pandas
+scikit-learn
+scikit-image
+Pillow
+pyarrow
