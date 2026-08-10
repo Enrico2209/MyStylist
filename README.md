@@ -2,7 +2,7 @@
 
 Algoritmo che, a partire dal catalogo fotografico di [nuvolari.biz](https://www.nuvolari.biz) (e-commerce Magento), seleziona automaticamente capi che stanno bene insieme e genera outfit completi — senza usare i suggerimenti di abbinamento già presenti sul sito.
 
-Scraping autorizzato via partnership. Non contiene dati scaricati (foto, cache, output): questo repo è solo il codice, vedi [Dati esclusi dal repo](#dati-esclusi-dal-repo).
+Scraping autorizzato via partnership; condivisione interna del catalogo fotografico autorizzata. Il repo contiene sia il codice sia foto + metadata del catalogo (via Git LFS, vedi [Dati inclusi / esclusi](#dati-inclusi--esclusi)) — clona con `git lfs` installato, altrimenti le foto restano puntatori testuali non risolti.
 
 ## Architettura
 
@@ -24,7 +24,7 @@ Il documento [`style_tagging_rules.md`](style_tagging_rules.md) descrive la tass
 pip install -r requirements.txt
 ```
 
-Python 3.10+.
+Python 3.10+. Serve anche [Git LFS](https://git-lfs.com) per le foto: `git lfs install` una volta sola sulla macchina, poi `git clone`/`git pull` normali scaricano anche i binari. Senza Git LFS, i file in `nuvolari_full_organizzato/*.jpg` restano puntatori testuali (poche righe, non l'immagine vera).
 
 ## Utilizzo
 
@@ -96,13 +96,16 @@ for o in outfits:
 
 Regole applicate nella selezione dei candidati per ogni slot: genere, stagione, cluster stilistico compatibile, dispersione di formalità contenuta, coerenza manica/gamba (niente maniche lunghe o giacche sui pantaloncini), e `needs_vision_review=False` (esclude capi il cui stile non ha riscontro testuale affidabile). Lo score outfit finale è il **minimo** dei punteggi pairwise tra tutti i capi scelti, non la media — un singolo abbinamento pessimo non deve poter nascondersi dietro tanti buoni.
 
-## Dati esclusi dal repo
+## Dati inclusi / esclusi
 
-Il `.gitignore` esclude tutto ciò che è dato/output generato, non codice:
+**Incluso** (via Git LFS, cartella `nuvolari_full_organizzato/`): foto + `metadata.json` per prodotto + `catalogo.jsonl` consolidato — l'output di Fase 1–2, condivisione autorizzata internamente.
 
-- `nuvolari_full/`, `nuvolari_full_organizzato/` — foto scaricate
-- `category_cache.json`, `brand_list.json` — cache
-- `*.parquet` — output di Fase 3/4
+**Escluso** dal `.gitignore` (output rigenerabile localmente, non serve versionarlo):
+
+- `nuvolari_full/` — dump v2 superato, pre-refactor, ridondante con `nuvolari_full_organizzato/`
+- `test_output/`, `test_organizzato/` — cartelle di run di test
+- `category_cache.json`, `brand_list.json` — cache (rigenerabili da `discover_category_seeds`/`discover_brand_list`)
+- `*.parquet` — output di Fase 3/4, si rigenera da `nuvolari_full_organizzato/` in pochi minuti
 - `progress_*.txt`, `*.log` — stato/log delle run
 
-Per rigenerare tutto: esegui le fasi in ordine come sopra (serve accesso autorizzato a nuvolari.biz per la Fase 1–2).
+Per rigenerare le fasi successive dalle foto già incluse: parti direttamente dalla Fase 3 (`build_feature_table`), non serve rifare lo scraping.
