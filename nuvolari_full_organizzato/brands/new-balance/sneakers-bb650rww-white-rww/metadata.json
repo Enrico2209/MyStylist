@@ -1,0 +1,22 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-bb650rww-white-rww.html",
+  "title": "SNEAKERS UOMO NEW BALANCE WHITE-RWW",
+  "description_text": "",
+  "price": 80.0,
+  "currency": "EUR",
+  "brand": "NEW BALANCE",
+  "brand_slug": "new-balance",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {},
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "brands/new-balance/sneakers-bb650rww-white-rww",
+  "image_count": 2
+}

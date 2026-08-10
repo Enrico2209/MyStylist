@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/polo-vallei-sabbia-sabbia.html",
+  "title": "POLO UOMO BAECKER VALLEI SABBIA",
+  "description_text": "Polo Uomo Baecker\r\nLa polo uomo Baecker è un capo essenziale per chi ama lo stile casual ma curato. Realizzata con tessuti di alta qualità, garantisce comfort e freschezza durante tutta la giornata. Il design sobrio e moderno la rende perfetta per ogni occasione, sia per un look informale che per eventi più eleganti.\r\nCaratteristiche:\r\n\r\nVestibilità regolare per il massimo comfort.\r\nColletto a coste con chiusura a bottoni per un tocco classico.\r\nTessuto traspirante, ideale per le giornate più calde.\r\nDisponibile in diverse tonalità, facili da abbinare a jeans o pantaloni chino.\r\n\r\nProposta Outfit:Abbina la polo Baecker a un paio di pantaloni chino per un look raffinato o a jeans slim-fit per un outfit casual. Completa il tutto con sneakers bianche per un tocco fresco e moderno.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "97% cotone, 3% elastane",
+  "sku": null,
+  "color_hints": [
+    "sabbia",
+    "sabbia"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "sportivo": 1.3,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "promo-abbigliamento/polo-vallei-sabbia-sabbia",
+  "image_count": 1
+}

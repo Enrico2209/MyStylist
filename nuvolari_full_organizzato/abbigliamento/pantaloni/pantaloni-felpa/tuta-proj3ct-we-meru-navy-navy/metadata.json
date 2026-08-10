@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/tuta-proj3ct-we-meru-navy-navy.html",
+  "title": "PANTALONE TUTA MERU NAVY",
+  "description_text": "Pantalone tuta da Uomo",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "navy"
+  ],
+  "style_tags": {
+    "casual": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-proj3ct-we-meru-navy-navy",
+  "image_count": 4
+}

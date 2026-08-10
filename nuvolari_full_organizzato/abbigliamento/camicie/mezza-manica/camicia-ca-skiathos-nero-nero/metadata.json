@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-ca-skiathos-nero-nero.html",
+  "title": "CAMICIA UOMO BLACK RAGS SKIATHOS NERO",
+  "description_text": "Camicia Uomo\r\nEssenziale nel guardaroba maschile, la camicia da uomo rappresenta l'equilibrio perfetto tra eleganza e praticità. Realizzata con materiali di alta qualità e rifinita nei dettagli, si distingue per una vestibilità moderna e uno stile senza tempo. Perfetta da indossare sia in contesti formali che informali, si abbina facilmente a capi come jeans, chinos o pantaloni sartoriali, rendendola una scelta versatile per ogni stagione.\r\nProposta Outfit:Crea un look completo dal gusto contemporaneo abbinando questa camicia a un pantalone uomo dal taglio dritto, una giacca leggera e un paio di sneakers uomo per un tocco casual ma curato. Aggiungi un accessorio dal carattere deciso come una cintura in pelle per completare l’outfit con stile.\r\nCome alternativa più elegante o una versione più street-style con camicie overshirt o bermuda.",
+  "price": 22.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "moderna",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero",
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-skiathos-nero-nero",
+  "image_count": 1
+}

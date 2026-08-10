@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/felpa-wg-snoop-2-0-black-green-blk-grn.html",
+  "title": "FELPA UOMO PROJ3CT BLACK/GREEN CON CAPPUCCIO",
+  "description_text": "Le felpe da uomo sono capi comodi e alla moda, perfetti per il tempo libero. Realizzate in tessuti morbidi e disponibili in diversi stili, offrono comfort senza compromettere lo stile.",
+  "price": 32.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "green"
+  ],
+  "style_tags": {
+    "casual": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/felpe/con-cappuccio/felpa-wg-snoop-2-0-black-green-blk-grn",
+  "image_count": 1
+}

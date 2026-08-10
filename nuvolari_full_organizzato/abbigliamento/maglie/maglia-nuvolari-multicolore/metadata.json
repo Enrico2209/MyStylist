@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-multicolore.html",
+  "title": "MAGLIONE UOMO NUVOLARI GOODALL NERO/OCRA/MILITARE",
+  "description_text": "Il maglione da uomo Nuvolari multicolore con girocollo regolare è un modello casual ed abbastanza elastico realizzato in mistolana con piccolo logo sul lato anteriore sinistro\r\nIl modello indossa la taglia L",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "`",
+  "composition": "75% misto lana 20% poliammide 5% altra fibra",
+  "sku": "WF GOODALL",
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 1.2,
+    "vintage_prep": 0.5,
+    "military": 0.8
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-nuvolari-multicolore",
+  "image_count": 4
+}

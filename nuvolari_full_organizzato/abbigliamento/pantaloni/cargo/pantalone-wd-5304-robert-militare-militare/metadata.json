@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-wd-5304-robert-militare-militare.html",
+  "title": "PANTALONE NUVOLARI 5304 ROBERT MILITARE",
+  "description_text": "Pantalone cargo da Uomo robert militare",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "75% poliestere 23% elastane",
+  "sku": null,
+  "color_hints": [
+    "militare",
+    "militare"
+  ],
+  "style_tags": {
+    "casual": 0.7,
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5,
+    "military": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-wd-5304-robert-militare-militare",
+  "image_count": 7
+}

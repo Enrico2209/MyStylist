@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-philipp-beige-chiaro-bge-chi.html",
+  "title": "PANTALONE CHINO BAECKER PHILIPP BEIGE CHIARO",
+  "description_text": "Pantalone Chino Uomo Baecker Eleganza smart-casual\r\nEssenziale nel guardaroba maschile, il chino firmato Baecker è il capo perfetto per chi cerca uno stile pulito, pratico e raffinato. Realizzato in tessuto leggero e traspirante, con una vestibilità regolare che valorizza la silhouette senza costrizioni. Il taglio classico con tasche laterali e la chiusura con zip e bottone lo rendono ideale dal lavoro all’aperitivo.\r\nPerfetto da abbinare a una camicia in lino per le giornate più calde, oppure con una polo per un look smart casual impeccabile. Completa il tuo outfit con un paio di sneakers per un tocco contemporaneo.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "77% poliestere, 18% viscosa, 5% elastane",
+  "sku": null,
+  "color_hints": [
+    "beige"
+  ],
+  "style_tags": {
+    "elegante": 1.3,
+    "casual": 1.6,
+    "sportivo": 1.8,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-philipp-beige-chiaro-bge-chi",
+  "image_count": 1
+}

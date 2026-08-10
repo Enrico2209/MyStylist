@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/rider-dee-dee-112342298-blue-blue.html",
+  "title": "JEANS UOMO LEE RIDER DEE DEE BLUE",
+  "description_text": "I jeans da uomo sono un elemento essenziale del guardaroba maschile. Disponibili in vari tagli, lavaggi e vestibilità, offrono comfort e versatilità per look casual o più elaborati.",
+  "price": 50.0,
+  "currency": "EUR",
+  "brand": "LEE",
+  "brand_slug": "lee",
+  "fit": "",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blue",
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/rider-dee-dee-112342298-blue-blue",
+  "image_count": 1
+}

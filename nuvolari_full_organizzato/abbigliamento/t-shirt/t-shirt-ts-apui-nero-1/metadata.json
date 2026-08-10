@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-ts-apui-nero-1.html",
+  "title": "T-SHIRT UOMO RAYZ APUI NERO",
+  "description_text": "La T-Shirt Uomo Rayz Apui è un capo che incarna perfettamente l'estetica \"dark-street\" contemporanea. Caratterizzata da un lavaggio speciale che crea un effetto marmorizzato e materico, questa t-shirt non è un semplice capo basic, ma un elemento di design capace di dare profondità e carattere a qualsiasi outfit urbano.\r\nPerché sceglierla\r\nIl modello Apui si distingue per il suo trattamento di tintura unico, che conferisce al tessuto un aspetto vissuto e dinamico, simile alla pietra lavica o al fumo. È la scelta ideale per chi cerca un capo scuro ma ricco di sfumature, capace di rompere la monotonia del nero pieno grazie a un gioco di luci e ombre naturali. Il jersey di alta qualità garantisce una vestibilità confortevole e una resistenza strutturale nel tempo.",
+  "price": 15.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/t-shirt-ts-apui-nero-1",
+  "image_count": 3
+}

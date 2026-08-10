@@ -1,0 +1,22 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-wg-ps-samuel-denim.html",
+  "title": "CAMICIA UOMO NUVOLARI SAMUEL DENIM",
+  "description_text": "Le camicie da uomo sono un pilastro dell'abbigliamento maschile, disponibili in una gamma di tessuti e stili, dalle classiche camicie button-down alle eleganti camicie formali. Offrono versatilità e raffinatezza per molteplici occasioni.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {},
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-wg-ps-samuel-denim",
+  "image_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/polo-ph4012-ladigue-ixw.html",
+  "title": "POLO UOMO LACOSTE LADIGUE",
+  "description_text": "Esplora l'eredità di innovazione e stile della polo Lacoste, che ha rivoluzionato l'abbigliamento sportivo elegante nel lontano 1933\r\nQuesta polo slim fit, di colore azzurro, è caratterizzata da un colletto singolo, abbottonatura e una maglia speciale, il famoso Petit Piqué, che ne garantisce comfort e resistenza. Realizzata con cotone al 100%, questa polo offre un taglio aderente per una vestibilità elegante e sofisticata. I dettagli di lusso includono bottoni in vera madreperla e il logo ricamato del coccodrillo sul petto, un'icona di stile senza tempo. Se hai dubbi sulla taglia da scegliere, ti consigliamo di optare per una taglia più grande rispetto a quella abituale, per un comfort ottimale.",
+  "price": 88.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.5,
+    "casual": 0.5,
+    "sportivo": 0.8,
+    "minimal": 1.1
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/lacoste/polo-ph4012-ladigue-ixw",
+  "image_count": 1
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/nuvolari-maglia-wd-davie-blu-nero-blu-nero.html",
+  "title": "MAGLIA UOMO NUVOLARI DAVIE BLU/NERO",
+  "description_text": "Maglione Girocollo da Uomo",
+  "price": 31.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "55% lana 25% poliammide 15% viscosa 5% cashmere",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "nero",
+    "blu",
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.9,
+    "casual": 1.2,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/girocollo/nuvolari-maglia-wd-davie-blu-nero-blu-nero",
+  "image_count": 3
+}

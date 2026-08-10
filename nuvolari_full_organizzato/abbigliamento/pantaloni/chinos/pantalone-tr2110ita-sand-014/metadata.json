@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-tr2110ita-sand-014.html",
+  "title": "PANTALONE CHINO UOMO LYLE & SCOTT TR2110ITA SAND",
+  "description_text": "Pantalone Uomo Lyle &amp; Scott\r\nIl pantalone Lyle &amp; Scott in stile cargo unisce praticità e design moderno. Dotato di chiusura con zip e bottone, presenta tasconi laterali e due tasche posteriori per una funzionalità ottimale. Il logo ricamato sul capo aggiunge un tocco caratteristico, perfetto per un look casual e contemporaneo.\r\nAbbinalo ad un paio di sneakers e ad una felpa con cappuccio per uno stile unico e sportivo adatto a qualsiasi contesto.",
+  "price": 48.0,
+  "currency": "EUR",
+  "brand": "LYLE & SCOTT",
+  "brand_slug": "lyle-scott",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "sand"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "sportivo": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-tr2110ita-sand-014",
+  "image_count": 3
+}

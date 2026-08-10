@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-uomo-proj3ct-w1-sunset-milk-milk.html",
+  "title": "MAGLIA UOMO PROJ3CT SUNSET MILK",
+  "description_text": "Maglia Uomo Proj3Ct Sunset Milk\r\nLa maglia Proj3ct a girocollo presenta un design semplice e pulito, con scritta sul petto. Realizzata in tessuto di alta qualità, è ideale per un look casual ma curato.\r\nAbbinala ad una camicia e ad un pantalone chino per uno stile elegante ed impeccabile adatto a qualsiasi occasione!",
+  "price": 43.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-uomo-proj3ct-w1-sunset-milk-milk",
+  "image_count": 4
+}

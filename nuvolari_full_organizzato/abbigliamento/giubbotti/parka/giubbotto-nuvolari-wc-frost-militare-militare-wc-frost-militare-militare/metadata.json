@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-nuvolari-wc-frost-militare-militare-wc-frost-militare-militare.html",
+  "title": "GIUBBOTTO FROST WC FROST MILITARE-MILITARE",
+  "description_text": "",
+  "price": 111.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "ESTERNO 100% POLIESTERE, FODERA 1 100% POLIESTERE, FODERA 2 100% NYLON IMBOTTITURA 100% POLIESTERE",
+  "sku": null,
+  "color_hints": [
+    "militare",
+    "militare",
+    "militare",
+    "militare"
+  ],
+  "style_tags": {
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 1.0,
+    "military": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/parka/giubbotto-nuvolari-wc-frost-militare-militare-wc-frost-militare-militare",
+  "image_count": 7
+}

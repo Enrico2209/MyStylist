@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/nuvolari-maglione-wd-damon-navy-navy.html",
+  "title": "MAGLIA UOMO NUVOLARI DAMON NAVY",
+  "description_text": "Maglione da Uomo",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "30% cotone 30% acrilico 20% lana 20% viscosa",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 1.4,
+    "casual": 1.7,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/girocollo/nuvolari-maglione-wd-damon-navy-navy",
+  "image_count": 6
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-gaelle-paris-sd-gbu2740-nero.html",
+  "title": "CAMICIA GBU2740 NERO",
+  "description_text": "Camicia Manica Corta da Uomo",
+  "price": 59.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-gaelle-paris-sd-gbu2740-nero",
+  "image_count": 3
+}

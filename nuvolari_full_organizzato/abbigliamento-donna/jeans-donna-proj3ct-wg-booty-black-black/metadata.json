@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-donna-proj3ct-wg-booty-black-black.html",
+  "title": "JEANS DONNA BOOTY PROJ3CT BLACK",
+  "description_text": "Jeans Donna Proj3ct Booty Black\r\nI jeans cargo Proj3ct, in 100% cotone, combinano funzionalità e stile. Con quattro tasconi laterali, offrono un look sportivo e streetwear ideale per le avventure urbane. Realizzati per la massima comodità e resistenza, sono un must-have per un guardaroba versatile e alla moda.\r\nAbbinala ad un paio di sneakers e ad una borsa per completare il tuo oufit con stile.",
+  "price": 72.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 1.1,
+    "streetwear": 0.8,
+    "sportivo": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-donna/jeans-donna-proj3ct-wg-booty-black-black",
+  "image_count": 2
+}

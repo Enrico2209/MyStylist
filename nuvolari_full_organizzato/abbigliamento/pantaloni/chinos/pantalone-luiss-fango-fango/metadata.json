@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-luiss-fango-fango.html",
+  "title": "PANTALONE CHINO UOMO BAECKER LUISS FANGO",
+  "description_text": "Il pantalone chino uomo Baecker Luiss FAngo è il capo ideale per chi cerca eleganza e comfort in un unico prodotto. Realizzato con materiali di alta qualità, offre una vestibilità perfetta, che valorizza ogni silhouette. Il colore grigio scuro versatile si abbina facilmente a camicie, t-shirt o maglie per creare look raffinati o casual.\r\nAbbina questi pantaloni a una maglia (scopri le maglie) o una camicia (scopri le camicie) per un outfit dallo stile impeccabile. Non dimenticare di completare il look con un paio di sneakers (scopri le sneakers) per un tocco moderno e dinamico.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "97% cotone , 3% elastane",
+  "sku": null,
+  "color_hints": [
+    "fango",
+    "fango"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "sportivo": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-luiss-fango-fango",
+  "image_count": 1
+}

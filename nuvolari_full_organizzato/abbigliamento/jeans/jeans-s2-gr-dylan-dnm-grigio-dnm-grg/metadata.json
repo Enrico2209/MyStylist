@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-s2-gr-dylan-dnm-grigio-dnm-grg.html",
+  "title": "JEANS UOMO NUVOLARI DYLAN GRIGIO",
+  "description_text": "Essenziali, versatili e curati nei dettagli: i jeans uomo Nuvolari sono il punto fermo di ogni guardaroba maschile. Realizzati con denim di alta qualità, offrono una vestibilità comoda e uno stile senza tempo, adatto sia ai look casual che a quelli più sofisticati. Disponibili in diversi lavaggi, dal chiaro al più scuro, si adattano a ogni stagione e occasione.\r\nPer un outfit completo, abbinali a una camicia Nuvolari per uno stile raffinato o scegli una felpa per un mood più rilassato. Da completare con un paio di sneakers per un tocco contemporaneo.",
+  "price": 33.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "grigio"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "sportivo": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-s2-gr-dylan-dnm-grigio-dnm-grg",
+  "image_count": 1
+}

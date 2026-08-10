@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-diadora-prestige-plain-182812-grigio.html",
+  "title": "SNEAKERS UOMO DIADORA PRESTIGE PLAIN GRIGIO",
+  "description_text": "Le Sneakers Diadora Prestige Plain rappresentano l'incontro perfetto tra l'estetica sportiva d'archivio e l'artigianalità contemporanea. Parte della linea che celebra lo storico design Diadora, questo modello si distingue per una silhouette pulita e \"essenziale\", progettata per chi cerca una scarpa versatile, robusta e dal fascino senza tempo.Il punto di forza delle Prestige Plain risiede nella loro costruzione in pelle premium. A differenza delle varianti più grafiche del brand, la versione \"Plain\" punta tutto sulla qualità dei materiali e sulla continuità cromatica. La tomaia liscia e uniforme offre una calzata flessibile che si adatta alla forma del piede, mentre il design minimale le rende facili da abbinare sia con un denim tecnico che con un pantalone più formale.",
+  "price": 90.0,
+  "currency": "EUR",
+  "brand": "DIADORA",
+  "brand_slug": "diadora",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "grigio"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-diadora-prestige-plain-182812-grigio",
+  "image_count": 4
+}

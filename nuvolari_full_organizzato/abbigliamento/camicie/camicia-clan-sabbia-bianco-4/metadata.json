@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-clan-sabbia-bianco-4.html",
+  "title": "CAMICIA UOMO RAYZ CLAN SABBIA/BIANCO",
+  "description_text": "La camicia Rayz con cappuccio è un capo d'avanguardia che fonde la struttura formale di una camicia con l'attitudine rilassata dello streetwear. Grazie alla sua ricercata composizione materica, offre un'esperienza di indosso superiore, ideale per chi cerca un look multistrato senza ingombri.\r\nPerché sceglierla\r\nIl vero punto di forza di questa camicia è il tessuto soft-touch: la prevalenza di poliestere assicura che il capo non si stropicci, la viscosa conferisce una lucentezza naturale e una morbidezza serica, mentre l'elastane permette una libertà di movimento totale. Il contrasto tra la trama a quadri nei toni del beige/marrone e il cappuccio bianco a contrasto la rende un pezzo unico nel suo genere.\r\nConsigli di Outfit\r\nLook Coordinato Urban: Indossa la camicia aperta sopra una t-shirt basic in cotone e abbinala a un pantalone cargo dal taglio tecnico. Il contrasto tra il motivo a quadri della camicia e la tinta unita del pantalone crea un equilibrio visivo moderno e ricercato.\r\nStile Layering Moderno: Porta la camicia chiusa sotto un bomber leggero, avendo cura di lasciare il cappuccio all'esterno. Questo gioco di sovrapposizioni aggiunge profondità all'outfit e lo rende ideale per le giornate con temperature variabili.\r\nCombinazione Calzature: Per enfatizzare l'anima dinamica del set, completa l'abbinamento con un paio di sneakers d'ispirazione sportiva. Se preferisci un look più strutturato e robusto, opta per uno scarponcino in pelle o nabuk.",
+  "price": 20.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "50% poliestere, 45% viscosa, 5% elastane",
+  "sku": null,
+  "color_hints": [
+    "sabbia",
+    "bianco"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "quadri",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/camicia-clan-sabbia-bianco-4",
+  "image_count": 3
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-nuvolari-s1-pv-frye-militare-251.html",
+  "title": "GIACCA UOMO NUVOLARI FRYE MILITARE",
+  "description_text": "Giacca Nuvolari Militare\r\nLa giacca Nuvolari, in verde militare, è una scelta elegante per cerimonie o ambienti formali. Con il suo design raffinato, questa giacca si adatta perfettamente a un look da ufficio o a occasioni speciali, aggiungendo un tocco di classe al tuo outfit.\r\nAbbina questa giacca  ad una camicia oppure ad una t-shirt per ottenere il look perfetto!",
+  "price": 59.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "70% poliestere 24% Viscosa 6% elastan",
+  "sku": "S1 PV FRYE MILITARE-251",
+  "color_hints": [
+    "militare"
+  ],
+  "style_tags": {
+    "elegante": 1.7,
+    "casual": 1.2,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5,
+    "military": 0.8
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-nuvolari-s1-pv-frye-militare-251",
+  "image_count": 4
+}

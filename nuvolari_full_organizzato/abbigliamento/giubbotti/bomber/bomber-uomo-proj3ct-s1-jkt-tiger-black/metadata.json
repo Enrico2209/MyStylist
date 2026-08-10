@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/bomber-uomo-proj3ct-s1-jkt-tiger-black.html",
+  "title": "BOMBER UOMO PROJ3CT TIGER BLACK",
+  "description_text": "Sperimenta un'eleganza senza tempo con il nostro BOMBER Uomo Proj3ct. Il design classico e il taglio impeccabile rendono questo bomber un investimento duraturo nel tuo guardaroba. Indossalo con fiducia durante la primavera, conferendo al tuo look un tocco di raffinatezza senza sforzo.",
+  "price": 44.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "94% polyester 6% spandex",
+  "sku": "S1 JKT TIGER",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/bomber/bomber-uomo-proj3ct-s1-jkt-tiger-black",
+  "image_count": 4
+}

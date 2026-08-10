@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-m4gas2-d5b11-aurea-auea.html",
+  "title": "JEANS UOMO GUESS JEANS AUREA",
+  "description_text": "Il pantalone bianco del brand Guess Jeans è un capo essenziale per il guardaroba estivo\r\nRealizzato con una composizione di cotone al 98% e elastane al 2%, che offre una leggera elasticità per il massimo comfort e una vestibilità aderente ma confortevole, il pantalone presenta una vita standard e una vestibilità slim fit, che si adatta perfettamente alla figura senza stringere. Il colore bianco aggiunge un tocco di freschezza e versatilità al look, perfetto per creare outfit eleganti o casual. Indossalo con una camicia leggera e un paio di mocassini per un look casual chic, oppure con una polo e delle sneakers per un'atmosfera più rilassata ma curata.",
+  "price": 49.5,
+  "currency": "EUR",
+  "brand": "GUESS JEANS",
+  "brand_slug": "guess-jeans",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-m4gas2-d5b11-aurea-auea",
+  "image_count": 1
+}

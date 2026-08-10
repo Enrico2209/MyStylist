@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-wg-n01d-benjamin-dark-denim-dk-dnm.html",
+  "title": "JEANS UOMO NUVOLARI BENJAMIN DARK DENIM",
+  "description_text": "I jeans da uomo sono un elemento essenziale del guardaroba maschile. Disponibili in vari tagli, lavaggi e vestibilità, offrono comfort e versatilità per look casual o più elaborati.",
+  "price": 49.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-wg-n01d-benjamin-dark-denim-dk-dnm",
+  "image_count": 1
+}

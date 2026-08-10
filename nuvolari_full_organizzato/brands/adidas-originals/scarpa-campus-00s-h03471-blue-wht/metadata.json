@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/scarpa-campus-00s-h03471-blue-wht.html",
+  "title": "SCARPA UOMO ADIDAS ORIGINALS CAMPUS 00s BLUE/WHT",
+  "description_text": "Scarpe Adidas Originals Campus 00s \r\nDopo il loro debutto sul parquet, queste iconiche scarpe hanno abbracciato una nuova direzione, restando sempre al passo coi tempi grazie all'utilizzo di materiali innovativi e a una cura meticolosa dei dettagli. La tomaia in pelle pregiata offre un'eleganza senza tempo, mentre la fodera interna in tessuto garantisce comfort e traspirabilità.  Con una calzata regolare e una chiusura con lacci, queste scarpe assicurano una vestibilità sicura e sportiva. La suola in gomma offre un'ottima trazione e resistenza all'usura, ideale per affrontare qualsiasi attività. Che tu le indossi per un'uscita casual con gli amici o per un'appuntamento più formale, le Adidas Originals Campus saranno sempre un'aggiunta al tuo guardaroba.\r\nAbbina le Campus con un paio di jeans, una t-shirt oppure una felpa pensata per te da Nuvolari per rendere il tuo stile sportivo e perfetto in qualsiasi contesto.",
+  "price": 60.0,
+  "currency": "EUR",
+  "brand": "ADIDAS ORIGINALS",
+  "brand_slug": "adidas-originals",
+  "fit": "sicura",
+  "composition": "Adidas Campus 00s blu",
+  "sku": null,
+  "color_hints": [
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/adidas-originals/scarpa-campus-00s-h03471-blue-wht",
+  "image_count": 3
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-s3-zerb-sand-white-2c.html",
+  "title": "CAMICIA UOMO NUVOLARI ZERB SAND/WHITE",
+  "description_text": "Nuvolari Zerb: Il Rigato Classico incontra la Performance Contemporanea\r\nCamicia Uomo Nuvolari Zerb 55% lino\r\nRendi impeccabile il tuo stile estivo con la camicia Zerb di Nuvolari. Caratterizzata da una sottile riga verticale bianca su base sabbia, questa camicia incarna un'eleganza discreta e senza tempo. Il segreto del modello Zerb risiede nel suo speciale blend tessile, studiato per offrirti la nobiltà visiva del lino e una gestione del capo estremamente semplificata, ideale per l'uomo che viaggia e vive la città con dinamismo.\r\nDettagli Materici e Stile \"Sartorial-Tech\"\r\nBlend Lino e Poliestere: La composizione al 55% lino e 45% poliestere garantisce l'inconfondibile freschezza e traspirabilità della fibra naturale, aggiungendo una resistenza superiore alle pieghe grazie alla componente tecnica.\r\nPattern a Micro-Righe: Il motivo a righe verticali sottili allunga la silhouette e conferisce un aspetto ordinato e professionale, perfetto per chi cerca un'alternativa alla tinta unita.\r\nColletto \"Modern Kent\": Il colletto a punta bilanciata permette di indossare la camicia sia aperta per un look rilassato, sia chiusa per contesti più formali, mantenendo sempre una tenuta perfetta.",
+  "price": 46.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "55% lino, 45% poliestere",
+  "sku": null,
+  "color_hints": [
+    "sand",
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 1.7,
+    "casual": 1.2,
+    "sportivo": 1.3,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "righe",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-zerb-sand-white-2c",
+  "image_count": 4
+}

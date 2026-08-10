@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yosemite-mel-green.html",
+  "title": "CAMICIA EXCLUSIVE X NUVOLARI YOSEMITE GREEN",
+  "description_text": "Camicia uomo a maniche lunghe in tessuto 100% cotone con fantasia a scacchi verde e collo alla francese firmata Camiceria Bellini in esclusiva per Nuvolari. Completa il tuo look Nuvolari con il pantalone chino Dexter sabbia.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "green"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.9,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yosemite-mel-green",
+  "image_count": 3
+}

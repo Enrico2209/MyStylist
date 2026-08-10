@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/tuta-black.html",
+  "title": "PANTALONE TUTA UOMO NEW BALANCE BLACK",
+  "description_text": "Il pantalone della tuta da uomo di New Balance fa parte di un completo sportivo felpa e pantalone.\r\nÈ un pantalone nero, a tinta unita, realizzato in misto cotone.\r\nHa vita elasticizzata regolabile con lacci.\r\nA completare questo capo di abbigliamento, due tasche laterali, una posteriore e il logo del brand sul fronte.\r\nIl modello indossa la taglia L.",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NEW BALANCE",
+  "brand_slug": "new-balance",
+  "fit": "regular",
+  "composition": "60% cotone 40% poliestere",
+  "sku": "UP21500 BLACK-BK",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "sportivo": 1.7,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-black",
+  "image_count": 4
+}

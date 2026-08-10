@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/polo-uomo-lacoste-slim-fit-white.html",
+  "title": "POLO UOMO LACOSTE SLIM FIT WHITE",
+  "description_text": "La Polo da Uomo White firmata Lacoste, è un capo eccezionale che non passa mai di moda.\r\nPolo bianca, con maniche corte e stampa grafica frontale riportante il nome del Brand. E' un modello semplice e pratico, a tinta unita. Se sei alla ricerca dell'outfit ideale, abbina la Polo con questo cappello!\r\nSe anche tu sei un fan sfegatato del brand Lacoste, dai uno sguardo qui agli altri capi d'abbigliamento del marchio, selezionati ad hoc per te da Nuvolari.\r\nIl modello è alto 1.88 cm e indossa la taglia L.",
+  "price": 88.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.5,
+    "streetwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "stampato",
+  "needs_vision_review": false,
+  "relpath": "brands/lacoste/polo-uomo-lacoste-slim-fit-white",
+  "image_count": 4
+}

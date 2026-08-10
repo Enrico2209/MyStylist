@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/cargo-s3-rp-nayt-black-black.html",
+  "title": "PANTALONE CARGO UOMO PROJ3CT RP NAYT BLACK",
+  "description_text": "Il Pantalone Cargo Uomo Proj3ct Rp Nayt è un capo che incarna perfettamente l'estetica utility moderna, fondendo funzionalità tattica e stile urban in un'unica silhouette versatile. Caratterizzato da una vestibilità confortevole e da una colorazione neutra, questo pantalone è pensato per chi vive la città con dinamismo senza rinunciare a un look curato e identitario.\r\nPerché sceglierlo\r\nIl modello Rp Nayt si distingue per il suo design equilibrato: non è il classico cargo ingombrante, ma una versione rifinita e moderna che si adatta a diverse occasioni. La tonalità è una scelta cromatica strategica, capace di abbinarsi con estrema facilità sia a tinte scure che a nuance più chiare, rendendolo un vero pilastro del guardaroba stagionale.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "97% cotone, 3% elastane",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "streetwear": 0.8,
+    "sportivo": 0.5,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/cargo-s3-rp-nayt-black-black",
+  "image_count": 3
+}

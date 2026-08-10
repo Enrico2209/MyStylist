@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-uomo-boss-lambey-50494740-dark-grey-022.html",
+  "title": "CAMICIA UOMO BOSS LAMBEY DARK GREY",
+  "description_text": "Camicia Uomo Boss Lambey Dark Grey\r\nCamicia uomo Boss, realizzata in 100% cotone, con taschino sul petto. Design elegante e raffinato, con colletto classico e chiusura a bottoni. Ideale per un look formale o casual, garantisce comfort e stile in ogni occasione.",
+  "price": 65.0,
+  "currency": "EUR",
+  "brand": "BOSS",
+  "brand_slug": "boss",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "grey"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-boss-lambey-50494740-dark-grey-022",
+  "image_count": 1
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/crew-neck-jkt-taion-black.html",
+  "title": "GIUBBOTTO UOMO TAION NERO",
+  "description_text": "Il giubbotto da uomo di Taion è un capo perfetto per la stagione primaverile ed estiva.\r\nQuesto giubbotto nero a tinta unita ha una leggera imbottitura e è resistente all'acqua e alle macchie.\r\nÈ un giubbotto con girocollo, due tasche laterali con zip e una vestibilità regular.\r\nIl modello indossa la taglia L.",
+  "price": 70.0,
+  "currency": "EUR",
+  "brand": "TAION",
+  "brand_slug": "taion",
+  "fit": "regular",
+  "composition": "100% nylon",
+  "sku": "TAION-104 BLACK-BLACK",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "streetwear": 0.5,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/piumini/crew-neck-jkt-taion-black",
+  "image_count": 3
+}

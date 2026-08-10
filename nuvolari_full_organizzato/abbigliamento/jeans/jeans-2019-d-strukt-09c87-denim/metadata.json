@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-2019-d-strukt-09c87-denim.html",
+  "title": "JEANS 2019 D-STRUKT 09C87 DENIM",
+  "description_text": "Jeans da Uomo",
+  "price": 136.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-2019-d-strukt-09c87-denim",
+  "image_count": 2
+}

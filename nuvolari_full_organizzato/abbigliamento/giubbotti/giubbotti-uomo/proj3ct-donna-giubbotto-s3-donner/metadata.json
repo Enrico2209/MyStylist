@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/proj3ct-donna-giubbotto-s3-donner.html",
+  "title": "GIUBBOTTO DONNA PROJ3CT DONNER COFFEE",
+  "description_text": "Il Giubbotto Donna Proj3ct Donner nella colorazione Coffee è un capospalla dal carattere deciso, progettato per chi cerca un perfetto equilibrio tra estetica vintage e design contemporaneo. La tonalità marrone caffè lo rende un pezzo versatile, ideale per arricchire outfit invernali e primaverili con una nota di calore e ricercatezza.",
+  "price": 30.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.8,
+    "vintage_prep": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/proj3ct-donna-giubbotto-s3-donner",
+  "image_count": 2
+}

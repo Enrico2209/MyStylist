@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/blazer-nuvolari-nero.html",
+  "title": "BLAZER UOMO NUVOLARI NERO",
+  "description_text": "Questa giacca da uomo Nuvolari nera è un blazer classico pensato per più occasioni, dalle più formali alle più disinvolte. Decidi tu se abbinarlo con una t-shirt basic per uscire con gli amici o se metterlo con una camicia più elegante per andare a qualche evento\r\nLa giacca ha due buttoni centrali neri, tre tasche esterne ed anteriori: una superiore e due laterali chiuse con una piccola zip, due tagli laterali nella parte di dietro e scollatura rifinita con cucitura a paramontura. In più ha una tasca interna e due bottoni di ricambio",
+  "price": 84.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "30% Nylon 65% Viscosa 5% Elastan",
+  "sku": "T405 CORNELIUS",
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.7,
+    "casual": 1.2,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/blazer-nuvolari-nero",
+  "image_count": 4
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-gbu01551-nero-v3.html",
+  "title": "JEANS UOMO GAELLE PARIS NERO",
+  "description_text": "I jeans da uomo sono un elemento essenziale del guardaroba maschile. Disponibili in vari tagli, lavaggi e vestibilità, offrono comfort e versatilità per look casual o più elaborati.",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-gbu01551-nero-v3",
+  "image_count": 1
+}

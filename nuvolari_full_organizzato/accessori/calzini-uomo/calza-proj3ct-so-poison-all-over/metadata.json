@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/calza-proj3ct-so-poison-all-over.html",
+  "title": "CALZA UOMO PROJ3CT POISON ALL OVER",
+  "description_text": "I calzini Proj3ct uniscono comfort e stile in un accessorio essenziale per il tuo outfit. Realizzati in morbido cotone elasticizzato, offrono una vestibilità perfetta e una sensazione di comfort per tutto il giorno. Il design minimal con dettagli distintivi li rende ideali da abbinare a qualsiasi look, dal casual allo sportivo.",
+  "price": 0.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "perfetta",
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "accessori/calzini-uomo/calza-proj3ct-so-poison-all-over",
+  "image_count": 2
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-s1-norbit-nero-nero.html",
+  "title": "GIUBBOTTO UOMO NUVOLARI NORBIT NERO",
+  "description_text": "Esplora lo stile senza tempo e la funzionalità con il Giubbotto Uomo Nuvolari Hamburg. Realizzato con materiali di alta qualità e un design pensato per resistere alle intemperie, questo capo è l'ideale per affrontare le giornate più fredde con stile. Con dettagli curati e una vestibilità confortevole, il Giubbotto Uomo Nuvolari è perfetto per creare outfit casual e alla moda. Sia che tu stia esplorando la città o trascorrendo del tempo all'aperto, questo giubbotto ti accompagnerà con eleganza e praticità ovunque tu vada.",
+  "price": 127.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% Poliestere",
+  "sku": "S1 norbit",
+  "color_hints": [
+    "nero",
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 1.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-s1-norbit-nero-nero",
+  "image_count": 4
+}

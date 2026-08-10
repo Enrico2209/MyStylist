@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-jay-wd-s031405-navy-blazer-3096.html",
+  "title": "CAMICIA SUIT JAY NAVY BLAZER",
+  "description_text": "Camicia Manica lunga da Uomo",
+  "price": 39.5,
+  "currency": "EUR",
+  "brand": "SUIT",
+  "brand_slug": "suit",
+  "fit": null,
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-jay-wd-s031405-navy-blazer-3096",
+  "image_count": 3
+}

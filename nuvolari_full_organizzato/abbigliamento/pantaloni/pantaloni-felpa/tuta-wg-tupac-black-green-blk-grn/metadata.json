@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/tuta-wg-tupac-black-green-blk-grn.html",
+  "title": "TUTA UOMO PROJ3CT BLACK/GREEN-BLK/GRN",
+  "description_text": "Un pantalone da uomo è un capo d'abbigliamento fondamentale nel guardaroba maschile. Realizzato in tessuto resistente e confortevole, può essere di diversi stili come pantaloni chino, jeans, cargo, pantaloni eleganti o casual, pantalacci o tute. I pantaloni da uomo sono versatili e adatti a molteplici occasioni, dalla vita quotidiana al lavoro o agli eventi più formali, offrendo comodità e stile in ogni contesto.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "green"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-wg-tupac-black-green-blk-grn",
+  "image_count": 1
+}

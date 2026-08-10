@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-es2-danbury-ecru-ecru.html",
+  "title": "CAMICIA UOMO NUVOLARI DANBURY ECRU 100% LINO",
+  "description_text": "Camicia Uomo Nuvolari Danbury\r\nLa camicia Nuvolari è un'opzione elegante e versatile con maniche lunghe. Perfetta per situazioni formali e casual, si distingue per il suo design raffinato adatto a ogni occasione.\r\nAbbina la camicia ad una giacca per un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di pantaloni chino che Nuvolari ha pensato per te.",
+  "price": 42.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% lino",
+  "sku": null,
+  "color_hints": [
+    "ecru",
+    "ecru"
+  ],
+  "style_tags": {
+    "elegante": 1.7,
+    "casual": 2.0
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/lino/camicia-es2-danbury-ecru-ecru",
+  "image_count": 1
+}

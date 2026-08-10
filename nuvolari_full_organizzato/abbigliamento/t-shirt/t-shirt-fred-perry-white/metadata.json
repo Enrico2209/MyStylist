@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-fred-perry-white.html",
+  "title": "T-SHIRT UOMO FRED PERRY WHITE",
+  "description_text": "Questa t-shirt da uomo di Fred Perry è una maglietta bianca a manica corta realizzata in jersey di cotone. La maglia è a tinta unita e ha la grafica del logo Fred Perry con corona d'alloro in contrasto di colore nero sul petto. E' un modello sobrio, basic e facilmente abbinabile. Se vuoi creare un outfit informale e sportivo abbina questa maglia con questi pantaloni della tuta e con queste sneakers! Invece, se cerchi qualcosa di più elegante dai un'occhiata qui a tutti i capi d'abbigliamento Fred Perry che Nuvolari ha scelto pe te!\r\nIl modello è alto 1.89 cm e indossa la taglia L",
+  "price": 33.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 2.0,
+    "sportivo": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "stampato",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/t-shirt-fred-perry-white",
+  "image_count": 3
+}

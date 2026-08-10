@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/sherpa-wg-lincoln-acid-green-acidgreen.html",
+  "title": "GIUBBOTTO UOMO PROJ3CT SHERPA LINCOLN ACID GREEN",
+  "description_text": "Giubbotto da uomo un capo d'abbigliamento versatile e funzionale, progettato per offrire comfort e stile in varie condizioni atmosferiche. Realizzato con materiali di alta qualità come pelle, tessuti tecnici o cotone resistente, il giubbotto può presentare diverse caratteristiche come chiusure con zip o bottoni, tasche multiple e un design adatto a diverse occasioni, dal casual all'elegante. Disponibile in una varietà di stili come giubbotti bomber, giacche di pelle, parka o giubbotti sportivi, offre una combinazione perfetta di praticità e moda per completare il guardaroba maschile.",
+  "price": 59.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "esterno:100% POLIESTERE",
+  "sku": null,
+  "color_hints": [
+    "green"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "sportivo": 0.5,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/sherpa-wg-lincoln-acid-green-acidgreen",
+  "image_count": 2
+}

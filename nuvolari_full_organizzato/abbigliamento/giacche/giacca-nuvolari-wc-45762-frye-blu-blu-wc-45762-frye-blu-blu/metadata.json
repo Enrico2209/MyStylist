@@ -1,0 +1,31 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-nuvolari-wc-45762-frye-blu-blu-wc-45762-frye-blu-blu.html",
+  "title": "GIACCA UOMO NUVOLARI WC FRYE BLU",
+  "description_text": "Giacca uomo Nuvolari Blu",
+  "price": 67.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": "70% Poliestere, 15% Viscosa, 15% Lana",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu",
+    "blu",
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 1.4,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 4,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giacche/giacca-nuvolari-wc-45762-frye-blu-blu-wc-45762-frye-blu-blu",
+  "image_count": 7
+}

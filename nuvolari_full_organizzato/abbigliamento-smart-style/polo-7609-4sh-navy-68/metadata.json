@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/polo-7609-4sh-navy-68.html",
+  "title": "POLO UOMO COLMAR ORIGINALS 7609 NAVY",
+  "description_text": "L'iconica polo Colmar 7609 rappresenta l'essenza dello stile sporty-chic italiano. Realizzata in piqué di cotone elasticizzato, è il capo ideale per chi cerca un look dinamico senza rinunciare all'eleganza, perfetto per il tempo libero o per contesti casual-business.\r\nComfort Dinamico: Grazie alla componente elastica, la polo segue i movimenti del corpo senza costrizioni, mantenendo la sua forma originale anche dopo numerosi lavaggi.\r\nTraspirabilità: La lavorazione a nido d'ape del piqué garantisce una ventilazione ottimale, rendendola un capo fresco per le stagioni calde.\r\nStile Senza Tempo: Il design minimale e la palette di colori (che spazia dai classici blu e bianco ai toni stagionali più audaci) la rendono estremamente facile da abbinare.",
+  "price": 42.5,
+  "currency": "EUR",
+  "brand": "COLMAR ORIGINALS",
+  "brand_slug": "colmar-originals",
+  "fit": "regular",
+  "composition": "96% COTONE, 4% ELASTANE",
+  "sku": null,
+  "color_hints": [
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.6,
+    "sportivo": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-smart-style/polo-7609-4sh-navy-68",
+  "image_count": 3
+}

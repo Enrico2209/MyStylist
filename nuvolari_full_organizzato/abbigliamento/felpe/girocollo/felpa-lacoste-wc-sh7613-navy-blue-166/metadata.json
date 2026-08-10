@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/felpa-lacoste-wc-sh7613-navy-blue-166.html",
+  "title": "FELPA SH7613 NAVY BLUE-166",
+  "description_text": "",
+  "price": 100.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "83% cotone 17% poliestere Poliestere",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/felpe/girocollo/felpa-lacoste-wc-sh7613-navy-blue-166",
+  "image_count": 1
+}

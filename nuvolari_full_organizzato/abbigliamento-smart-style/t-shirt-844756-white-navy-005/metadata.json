@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-844756-white-navy-005.html",
+  "title": "T-SHIRT UOMO RALPH LAUREN WHITE/NAVY",
+  "description_text": "La T-Shirt Ralph Lauren è l’emblema del minimalismo premium. Questo modello fa parte della linea Core Classics del brand, pensata per chi cerca un capo basico ma dalla qualità costruttiva impeccabile, capace di resistere al tempo e alle mode passeggere grazie a un taglio perfetto e a un cotone di altissimo livello.\r\nIl punto di forza di questa t-shirt risiede nel suo Jersey di Cotone a Fibra Lunga. Questo tessuto non è solo estremamente morbido sulla pelle, ma ha una struttura che evita l'effetto \"infeltrito\" dopo i lavaggi, mantenendo la lucentezza del colore e la forma originale.\r\nCustom Slim Fit: un taglio moderno che valorizza la zona delle spalle e del torace, restringendosi leggermente in vita per una silhouette pulita e atletica.",
+  "price": 60.0,
+  "currency": "EUR",
+  "brand": "RALPH LAUREN",
+  "brand_slug": "ralph-lauren",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white",
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-smart-style/t-shirt-844756-white-navy-005",
+  "image_count": 5
+}

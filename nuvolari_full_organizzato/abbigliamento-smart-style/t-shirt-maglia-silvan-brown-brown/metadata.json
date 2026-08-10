@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-maglia-silvan-brown-brown.html",
+  "title": "T-SHIRT MAGLIA UOMO BAECKER SILVAN BROWN",
+  "description_text": "La T-shirt Maglia Uomo Baecker in misto cotone e poliestere è il perfetto esempio di come la tecnologia tessile possa migliorare un capo basico. Grazie alla sua composizione bilanciata (60% cotone e 40% poliestere), questa maglia offre il meglio di entrambi i mondi: la traspirabilità naturale della fibra organica e la resilienza del materiale tecnico.\r\nPerché sceglierla\r\nQuesta t-shirt è progettata per chi cerca un capo \"easy care\" che mantenga la forma lavaggio dopo lavaggio. La presenza del poliestere non solo rende il tessuto più resistente alle sgualciture (riducendo drasticamente la necessità di stiratura), ma accelera anche i tempi di asciugatura, rendendola ideale per un uso quotidiano intensivo o per chi viaggia spesso.\r\nBlend 60/40: La prevalenza di cotone assicura una mano morbida e fresca sulla pelle, mentre la componente sintetica garantisce elasticità e stabilità dimensionale.",
+  "price": 25.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "60% cotone, 40% poliestere",
+  "sku": null,
+  "color_hints": [
+    "brown",
+    "brown"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "sportivo": 0.5,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-smart-style/t-shirt-maglia-silvan-brown-brown",
+  "image_count": 3
+}

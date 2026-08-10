@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/felpa-uomo-proj3ct-w1-cuba-camo-grey-camgry.html",
+  "title": "FELPA UOMO PROJ3CT CUBA HOOD CAMO GREY",
+  "description_text": "Felpa Uomo Proj3Ct Cuba Hood Camo Grey\r\nLa felpa Proj3ct con cappuccio, tasconi e coulisse si distingue per il tema fantasia, ideale per un look casual e originale.",
+  "price": 53.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "65% cotone, 35% poliestere",
+  "sku": null,
+  "color_hints": [
+    "grey"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-proj3ct-w1-cuba-camo-grey-camgry",
+  "image_count": 1
+}

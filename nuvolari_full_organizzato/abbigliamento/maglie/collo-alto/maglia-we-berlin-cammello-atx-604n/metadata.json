@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-we-berlin-cammello-atx-604n.html",
+  "title": "MAGLIONE BERLIN  CAMMELLO",
+  "description_text": "Maglione collo alto da Uomo",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "70% Viscosa, 30% Nylon",
+  "sku": null,
+  "color_hints": [
+    "cammello"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 0.8,
+    "streetwear": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/collo-alto/maglia-we-berlin-cammello-atx-604n",
+  "image_count": 6
+}

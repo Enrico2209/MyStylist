@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-proj3ct-girocollo-taglio-vivo-proj3ct-goose-nero.html",
+  "title": "MAGLIA UOMO PROJ3CT GIROCOLLO TAGLIO VIVO GOOSE NERO",
+  "description_text": "Maglia girocollo uomo con una particolare rifinitura del collo, a taglio vivo. Modello adatto ai ragazzi più alla moda, da abbinare ad esempio al jeans bull nero per un look streetwear interamente firmato Proj3ct.",
+  "price": 23.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "100% Cotone",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-proj3ct-girocollo-taglio-vivo-proj3ct-goose-nero",
+  "image_count": 3
+}

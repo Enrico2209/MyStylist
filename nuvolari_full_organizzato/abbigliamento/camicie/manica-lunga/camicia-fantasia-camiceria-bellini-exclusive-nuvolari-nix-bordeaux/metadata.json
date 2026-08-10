@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-bordeaux.html",
+  "title": "CAMICIA FANTASIA EXCLUSIVE X NVLR NIX BORDEAUX",
+  "description_text": "Camicia fantasia uomo a maniche lunghe con colletto francese firmata Camiceria Bellini in collaborazione con Nuvolari. Una camicia uomo casual chic dalla vestibilità slim in puro cotone, che colpisce per la micro fantasia geometrica all over dall'effetto ottico.",
+  "price": 31.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "bordeaux"
+  ],
+  "style_tags": {
+    "elegante": 1.1,
+    "casual": 1.3,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-bordeaux",
+  "image_count": 5
+}

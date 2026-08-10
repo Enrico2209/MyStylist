@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/piumino-uomo-proj3ct-violet.html",
+  "title": "PIUMINO UOMO PROJ3CT DALLAS VIOLET",
+  "description_text": "Il piumino da uomo Proj3ct unisce funzionalit&agrave; e stile in un capo essenziale. La chiusura a zip offre praticit&agrave; e versatilit&agrave;, garantendo una vestibilit&agrave; aderente. Le due tasche laterali aggiungono un tocco pratico e aggiornato. Il colore vibrante violet aggiunge un tocco di audacia al tuo guardaroba invernale. Sulla manica sinistra, la patch con la tigre iconica del brand aggiunge un elemento distintivo, conferendo al capo una personalit&agrave; unica e riconoscibile.\r\nAbbinamenti Versatili in viola\r\nCombina questo piumino con jeans e stivali per uno stile casual ma alla moda. Per un approccio pi&ugrave; elegante, indossalo sopra un maglione con pantaloni coordinati. Per completare il look, considera accessori come sciarpe o cappelli nel medesimo colore vibrante. Il piumino Proj3ct &egrave; il compagno ideale per affrontare le giornate fredde con stile senza rinunciare al comfort.",
+  "price": 74.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "rivestimento esterni 100% nylon + imbottitura interna 100% poliestere",
+  "sku": "WG DALLAS",
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 1.0,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/piumini/piumino-uomo-proj3ct-violet",
+  "image_count": 1
+}

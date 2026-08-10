@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-calvin-klein-denim-medium.html",
+  "title": "JEANS UOMO CALVIN KLEIN JEANS DENIM MEDIUM",
+  "description_text": "I jeans da uomo di Calvin Klein Jeans sono jeans a 5 tasche.\r\nJeans slim blu vintage\r\nQuesto denim da uomo è realizzato con cotone elasticizzato. Ha vita media e vestibilità slim con gamba affusolata.\r\nUn jeans con patta con cerniera, lavaggio vintage blu medio, segni di usura sulle gambe e rivetti con logo Calvin Klein Jeans ed etichetta in pelle.\r\nSe vuoi un look completo dai un'occhiata alle t-shirt e alle sneakers Nuvolari.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "CALVIN KLEIN JEANS",
+  "brand_slug": "calvin-klein-jeans",
+  "fit": "slim",
+  "composition": "79% cotone 20% cotone riciclato post-consumo 1% elastan",
+  "sku": "J319853 DENIM MEDIUM-1A4",
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 1.1,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "vintage_prep": 0.8,
+    "minimal": 0.7
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-calvin-klein-denim-medium",
+  "image_count": 3
+}

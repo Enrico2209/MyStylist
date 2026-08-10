@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/sciarpa-nuvolari-wc-rice-rosso-rosso-wc-rice-rosso-rosso.html",
+  "title": "SCIARPA RICE WC RICE ROSSO-ROSSO",
+  "description_text": "",
+  "price": 19.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": "70% acrilico 30% viscosa",
+  "sku": null,
+  "color_hints": [
+    "rosso",
+    "rosso",
+    "rosso",
+    "rosso"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 0.5
+  },
+  "formality_score": 3,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "accessori/sciarpe/sciarpa-nuvolari-wc-rice-rosso-rosso-wc-rice-rosso-rosso",
+  "image_count": 3
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s2-justin-blu-navy-blu-navy.html",
+  "title": "CARGO UOMO NUVOLARI JUSTIN BLU NAVY",
+  "description_text": "Cargo Uomo Nuvolari Stile utility, comfort urbano\r\nVersatili, pratici e dal taglio contemporaneo: i cargo uomo firmati Nuvolari sono il capo perfetto per chi ama un look dinamico senza rinunciare alla comodità. Realizzati in tessuto resistente con il 98% di cotone e un tocco di elastane, offrono la giusta elasticità per accompagnarti nei movimenti di tutti i giorni.\r\nCaratterizzati da tasche laterali e dettagli curati, sono ideali per chi ama lo stile utility rivisitato in chiave urbana. Indossali con una t-shirt in cotone e un bomber leggero per un outfit street raffinato, oppure con una camicia per un mix casual-smart.\r\nCompleta il tuo outfit con:\r\n\r\n\r\nSneakers uomo per uno stile urbano\r\n\r\n\r\nT-shirt Nuvolari\r\n\r\n\r\nGiacche e bomber",
+  "price": 49.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "navy",
+    "blu",
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "streetwear": 0.8,
+    "sportivo": 0.5,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-s2-justin-blu-navy-blu-navy",
+  "image_count": 1
+}

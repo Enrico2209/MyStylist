@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-ca-query-nero-115.html",
+  "title": "CAMICIA UOMO BLACK RAGS QUERY NERO",
+  "description_text": "La Camicia Uomo Black Rags realizzata in 100% poliestere è un capo tecnico d'avanguardia che unisce un'estetica formale alla praticità dei tessuti sintetici di ultima generazione. Progettata per un uomo dinamico, rappresenta la soluzione ideale per chi desidera un look sempre ordinato senza le complicazioni della manutenzione tradizionale.\r\nIl vantaggio competitivo di questa camicia risiede nella sua natura totalmente \"Easy Care\". Il 100% poliestere garantisce che il capo sia completamente no-iron (non necessita di stiratura) e che mantenga una superficie liscia e priva di pieghe durante tutto l'arco della giornata, indipendentemente dai movimenti o dalle ore trascorse seduti.\r\nAbbinala al Pantalaccio Black Rags in 100% poliestere per un completo coordinato dall'anima tecnologica, perfetto per un ambiente di lavoro moderno o un evento informale.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "100% poliestere",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-query-nero-115",
+  "image_count": 3
+}

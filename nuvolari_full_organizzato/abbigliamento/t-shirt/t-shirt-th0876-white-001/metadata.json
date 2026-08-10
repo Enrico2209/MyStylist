@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-th0876-white-001.html",
+  "title": "T-SHIRT UOMO LACOSTE TH0876 WHITE",
+  "description_text": "Lacoste, custode dell'eleganza sportiva sin dal 1933, presenta una t-shirt che fonde dettagli sartoriali e innovazione stilistica. Realizzato in un pregiato jersey di cotone pesante, questo capo offre una struttura impeccabile e una sensazione di massimo comfort. Il design è impreziosito dall'iconico coccodrillo ricamato, simbolo di un'estetica casual chic intramontabile, perfetta per chi cerca un look sofisticato ma disinvolto.",
+  "price": 0.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.6
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/t-shirt-th0876-white-001",
+  "image_count": 3
+}

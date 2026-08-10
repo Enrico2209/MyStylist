@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-alla-coreana-nuvolari-t446-fisher-denim.html",
+  "title": "GIACCA UOMO NUVOLARI COREANA T446 FISHER DENIM",
+  "description_text": "Giacca alla coreana da uomo in morbido misto lana con chiusura a 4 bottoni, taschino pochette fantasia, due tasche sul fondo e due taschine interne. Una giacca perfetta per un look casual contemporaneo e sempre raffinato.",
+  "price": 67.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": "60% lana, 35% poliestere, 5% altre fibre",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 1.7,
+    "casual": 1.2,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "vintage_prep": 0.5,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 4,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-alla-coreana-nuvolari-t446-fisher-denim",
+  "image_count": 6
+}

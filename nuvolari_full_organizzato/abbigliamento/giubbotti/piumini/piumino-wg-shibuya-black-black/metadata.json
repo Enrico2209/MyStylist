@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/piumino-wg-shibuya-black-black.html",
+  "title": "PIUMINO UOMO NUVOLARI SHIBUYA",
+  "description_text": "Giubbotto da uomo un capo d'abbigliamento versatile e funzionale, progettato per offrire comfort e stile in varie condizioni atmosferiche. Realizzato con materiali di alta qualità come pelle, tessuti tecnici o cotone resistente, il giubbotto può presentare diverse caratteristiche come chiusure con zip o bottoni, tasche multiple e un design adatto a diverse occasioni, dal casual all'elegante. Disponibile in una varietà di stili come giubbotti bomber, giacche di pelle, parka o giubbotti sportivi, offre una combinazione perfetta di praticità e moda per completare il guardaroba maschile.",
+  "price": 89.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "rivestimento: 100% nylon",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.5,
+    "streetwear": 0.5,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/piumini/piumino-wg-shibuya-black-black",
+  "image_count": 1
+}

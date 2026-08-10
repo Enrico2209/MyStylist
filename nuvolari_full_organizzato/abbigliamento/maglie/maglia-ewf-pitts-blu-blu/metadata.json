@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-ewf-pitts-blu-blu.html",
+  "title": "MAGLIA BLU-BLU",
+  "description_text": "Maglione a girocollo da uomo Nuvolari.",
+  "price": 42.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu"
+  ],
+  "style_tags": {},
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-ewf-pitts-blu-blu",
+  "image_count": 3
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-uomo-proj3ct-w1-wo-tiger-black-black.html",
+  "title": "MAGLIA UOMO PROJ3CT WO TIGER BLACK CON CAPPUCCIO",
+  "description_text": "Maglia Uomo Proj3Ct Wo Tiger Black\r\nMaglia uomo Proj3ct dal design essenziale, con cappuccio e maniche lunghe. Realizzata per offrire comfort e stile, presenta una vestibilità moderna e dettagli curati, ideale per completare un look casual e versatile.\r\nAbbinala ad un giubbotto e ad un pantalone chino per uno stile elegante ed impeccabile adatto a qualsiasi occasione!",
+  "price": 46.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-uomo-proj3ct-w1-wo-tiger-black-black",
+  "image_count": 1
+}

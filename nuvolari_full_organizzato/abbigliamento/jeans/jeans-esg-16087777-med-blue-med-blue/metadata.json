@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-esg-16087777-med-blue-med-blue.html",
+  "title": "JEANS MED BLUE-MED BLUE",
+  "description_text": "",
+  "price": 70.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blue",
+    "blue"
+  ],
+  "style_tags": {},
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-esg-16087777-med-blue-med-blue",
+  "image_count": 3
+}

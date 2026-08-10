@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/piumino-ewf-687906-nug-gold-blk-a713.html",
+  "title": "PIUMINO UOMO FILA NUG GOLD/BLK",
+  "description_text": "Piumino da Uomo",
+  "price": 140.0,
+  "currency": "EUR",
+  "brand": "FILA",
+  "brand_slug": "fila",
+  "fit": null,
+  "composition": "100% poliestere",
+  "sku": null,
+  "color_hints": [
+    "gold"
+  ],
+  "style_tags": {
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/piumini/piumino-ewf-687906-nug-gold-blk-a713",
+  "image_count": 3
+}

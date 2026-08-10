@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-kb-amur-nero-nero.html",
+  "title": "CARGO UOMO BLACK RAGS AMUR NERO",
+  "description_text": "Cargo Uomo Black Rags Stile utility, comfort urbano\r\nVersatili, pratici e dal taglio contemporaneo: i cargo uomo firmati Nuvolari sono il capo perfetto per chi ama un look dinamico senza rinunciare alla comodità. Realizzati in tessuto resistente con il 98% di cotone e un tocco di elastane, offrono la giusta elasticità per accompagnarti nei movimenti di tutti i giorni.\r\nCaratterizzati da tasche laterali e dettagli curati, sono ideali per chi ama lo stile utility rivisitato in chiave urbana. Indossali con una t-shirt in cotone e un bomber leggero per un outfit street raffinato, oppure con una camicia per un mix casual-smart.\r\nCompleta il tuo outfit con:\r\n\r\n\r\nSneakers uomo per uno stile urbano\r\n\r\n\r\nT-shirt Nuvolari\r\n\r\n\r\nGiacche e bomber",
+  "price": 24.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "95% poliestere, 5% elastane",
+  "sku": null,
+  "color_hints": [
+    "nero",
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "streetwear": 0.8,
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-kb-amur-nero-nero",
+  "image_count": 1
+}

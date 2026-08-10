@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/nuvolari-camicia-coreana-cordel-jeans-black.html",
+  "title": "CAMICIA ALLA COREANA CORDEL JEANS BLACK",
+  "description_text": "Camicia alla coreana da uomo a maniche lunghe dalla vestibilità slim realizzata in denim di cotone.",
+  "price": 69.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "casual": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/nuvolari-camicia-coreana-cordel-jeans-black",
+  "image_count": 2
+}

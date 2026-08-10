@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camiceria-bellini-camicia-microfantasia-lane-black-white.html",
+  "title": "CAMICIA MICROFANTASIA LANE BLACK AND WHITE",
+  "description_text": "Camicia uomo a maniche lunghe dalla vestibilità slim fit con micromotivo a fantasia geometrica bianca e nera realizzata in esclusiva da Camiceria Bellini per Nuvolari.",
+  "price": 26.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "97% cotone, 3% elastane",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "white"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camiceria-bellini-camicia-microfantasia-lane-black-white",
+  "image_count": 3
+}

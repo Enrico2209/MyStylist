@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-nuvolari-ny-thomas-muschio.html",
+  "title": "PANTALACCIO UOMO NUVOLARI TERRY MUSCHIO",
+  "description_text": "Un pantalone da uomo è un capo d'abbigliamento fondamentale nel guardaroba maschile. Realizzato in tessuto resistente e confortevole, può essere di diversi stili come pantaloni chino, jeans, cargo, pantaloni eleganti o casual, pantalacci o tute. I pantaloni da uomo sono versatili e adatti a molteplici occasioni, dalla vita quotidiana al lavoro o agli eventi più formali, offrendo comodità e stile in ogni contesto.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 1.2,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-ny-thomas-muschio",
+  "image_count": 1
+}

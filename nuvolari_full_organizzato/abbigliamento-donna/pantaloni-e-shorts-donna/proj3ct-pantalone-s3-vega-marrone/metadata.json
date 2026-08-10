@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/proj3ct-pantalone-s3-vega-marrone.html",
+  "title": "PANTALONE DONNA PROJ3CT VEGA MARRONE",
+  "description_text": "Il Pantalone Donna Proj3ct Vega Marrone è un modello dal taglio contemporaneo che unisce la struttura del denim a una colorazione calda e sofisticata. Caratterizzato da una silhouette ampia e pulita, rappresenta un'alternativa moderna ai classici jeans blu, ideale per chi desidera un look urbano con un tocco di eleganza cromatica.\r\nPerché sceglierlo\r\nIl modello Vega si distingue per il suo fit Wide Leg (a gamba larga), progettato per offrire comfort e slanciare la figura. La tonalità marrone cioccolato è estremamente attuale e versatile, perfetta per creare outfit autunnali o per aggiungere profondità a un look estivo neutro. La costruzione solida del tessuto garantisce una caduta impeccabile, mantenendo una linea dritta e definita.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "marrone"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "streetwear": 0.8,
+    "sportivo": 0.5
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/proj3ct-pantalone-s3-vega-marrone",
+  "image_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-16083082-lt-blue.html",
+  "title": "JEANS 16083082 LT BLUE",
+  "description_text": "Jeans da Uomo",
+  "price": 56.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "99% Cotone biologico, 1% Elastane",
+  "sku": null,
+  "color_hints": [
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-16083082-lt-blue",
+  "image_count": 2
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/bomber-bm-aiko-nero-nero.html",
+  "title": "BOMBER UOMO BLACK RAGS AIKO NERO",
+  "description_text": "Il Bomber Black Rags è l'essenza dello stile urban-casual. Realizzato con un tessuto tecnico di alta qualità, combina il design intramontabile del bomber con un tocco moderno e minimalista. Il colore nero profondo e la finitura semplice lo rendono un capo estremamente versatile, perfetto per completare qualsiasi outfit, dal più sportivo al più ricercato.\r\nVantaggi Chiave\r\n\r\n\r\nComfort e Movimento: La percentuale di Elastane garantisce una leggera elasticità e massima comodità.\r\n\r\n\r\nVersatilità: Facilmente abbinabile a jeans, chino o pantaloni sportivi.\r\n\r\n\r\nIdeale per la Mezza Stagione: Tessuto traspirante ma sufficientemente protettivo per le giornate fresche.",
+  "price": 69.9,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "96% poliestere, 4% elastane",
+  "sku": null,
+  "color_hints": [
+    "nero",
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 1.1,
+    "streetwear": 0.8,
+    "sportivo": 1.8,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/bomber/bomber-bm-aiko-nero-nero",
+  "image_count": 1
+}

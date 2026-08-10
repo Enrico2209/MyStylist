@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-uomo-lacoste-black.html",
+  "title": "T-SHIRT UOMO LACOSTE BLACK",
+  "description_text": "La t-shirt da uomo black firmata Lacoste, è un capo evergreen che non passa mai di moda.\r\nMaglietta a girocollo, nera, con maniche corte e stampa grafica frontale riportante il nome del Brand. Modello semplice e pratico, a tinta unita. Se sei alla ricerca dell'outfit ideale, abbina la t-shirt con questo cappello !\r\nIl modello indossa la taglia L.\r\nSe anche tu sei un fan sfegatato del brand Lacoste, dai uno sguardo qui agli altri capi d'abbigliamento del marchio, selezionati ad hoc per te da Nuvolari.",
+  "price": 65.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "stampato",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/t-shirt-uomo-lacoste-black",
+  "image_count": 1
+}

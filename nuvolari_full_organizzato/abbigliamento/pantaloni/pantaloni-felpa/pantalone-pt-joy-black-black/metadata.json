@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-pt-joy-black-black.html",
+  "title": "PANTALONE TUTA UOMO RAYZ JOY BLACK",
+  "description_text": "Il pantalone tuta da uomo Rayz combina stile e comfort per un look contemporaneo e versatile. Realizzato con materiali di alta qualità, offre una vestibilità perfetta e dettagli curati, ideali per chi ama distinguersi con un tocco casual ma ricercato. Perfetto da abbinare con una felpa per un look streetwear o con una camicia per un outfit più sofisticato. Completa il tuo stile con sneakers di tendenza o scarpe per un look urbano e dinamico.",
+  "price": 30.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "80% cotone, 20% poliestere",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "streetwear": 0.8,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/pantalone-pt-joy-black-black",
+  "image_count": 1
+}

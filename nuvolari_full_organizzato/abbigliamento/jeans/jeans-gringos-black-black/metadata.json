@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-gringos-black-black.html",
+  "title": "JEANS UOMO RAYZ GRINGOS BLACK",
+  "description_text": "COMPLETA IL TUO OUTFIT\r\n\r\n\r\n\r\n Esplora l'iconico jeans Rayz, un capo essenziale nel guardaroba di ogni uomo che offre comfort, stile e versatilità ineguagliabili\r\nRealizzato al 100% in resistente cotone, questo jeans rappresenta l'unione perfetta tra qualità artigianale e design moderno. La sua struttura robusta e resistente lo rende adatto a qualsiasi situazione, mentre la sua vestibilità impeccabile lo rende perfetto per ogni contesto. Con il suo taglio classico e senza tempo, questo jeans si adatta facilmente a diversi outfit e occasioni, garantendo sempre un look impeccabile e alla moda. Indossalo con una camicia per un look più formale, oppure con una t-shirt per un outfit casual e confortevole. I dettagli curati e l'attenzione al design rendono questo jeans un vero e proprio must-have nel guardaroba di ogni uomo moderno. Sia che tu stia affrontando una giornata in ufficio o un weekend fuori città, il jeans Rayz sarà sempre la scelta perfetta per un look impeccabile e alla moda.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-gringos-black-black",
+  "image_count": 5
+}

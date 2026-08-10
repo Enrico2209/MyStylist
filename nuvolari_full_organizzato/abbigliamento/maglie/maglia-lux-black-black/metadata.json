@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-lux-black-black.html",
+  "title": "MAGLIA UOMO BAECKER LUX BLACK",
+  "description_text": "La Maglia Uomo Baecker Lux Black è l'emblema del minimalismo raffinato, un capo \"essential\" progettato per chi cerca il massimo della qualità tattile e visiva. Realizzata con filati selezionati che conferiscono una lucentezza discreta e una mano estremamente setosa, questa maglia girocollo rappresenta il cuore di un guardaroba \"quiet luxury\".\r\nPerché sceglierla\r\nLa maglia Lux Black si distingue per la sua incredibile versatilità. Il nero profondo e la finitura levigata del tessuto la rendono adatta a sostituire la camicia in contesti formali o a elevare un look casual. La costruzione leggera ma termica permette di indossarla comodamente tutto l'anno, sia come strato unico che sotto un capospalla strutturato.",
+  "price": 30.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-lux-black-black",
+  "image_count": 3
+}

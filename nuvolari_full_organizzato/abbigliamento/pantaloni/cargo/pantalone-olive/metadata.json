@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-olive.html",
+  "title": "PANTALONE UOMO ALPHA INDUSTRIES OLIVA",
+  "description_text": "I pantaloni da uomo di Alpha Industries sono pantaloni color verde oliva, a tinta unita, modello cargo.\r\nQuesti pantaloni hanno elastico in vita con coulisse, gamba leggermente ristretta verso il basso, elastici sul fondo delle gambe, due tasche laterali, tasche posteriori e tasche per le gambe in velcro.\r\nIl modello indossa la taglia 48.",
+  "price": 47.5,
+  "currency": "EUR",
+  "brand": "ALPHA",
+  "brand_slug": "alpha-industries",
+  "fit": "regular",
+  "composition": "98% cotone 2% spandex",
+  "sku": "116202 OLIVE-11",
+  "color_hints": [
+    "olive"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-olive",
+  "image_count": 1
+}

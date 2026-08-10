@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-grigiomedio-nro.html",
+  "title": "MAGLIONE UOMO NUVOLARI MILNE GRIGIO/NERO",
+  "description_text": "Il maglione da uomo Nuvolari Milne grigio scuro con collo alto è un maglione comodo e caldo. Ha una cucitura a righe con polsini e girovita elasticizzati\r\nIl modello indossa la taglia L",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "70% lana 25% poliammide 5% altre fibre",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 1.5,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "righe",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/collo-alto/maglia-nuvolari-grigiomedio-nro",
+  "image_count": 4
+}

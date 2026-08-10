@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-th0147-navy-blue-166.html",
+  "title": "T-SHIRT UOMO LACOSTE TH0147 NAVY BLUE",
+  "description_text": "Questa t-shirt firmata Lacoste, marchio iconico nel mondo del tennis fin dal 1933, è progettata per offrire massima versatilità sia durante il gioco che nel tempo libero. La struttura in jersey assicura un'ampia libertà di movimento, mentre l'integrazione della tecnologia Ultra Dry garantisce una pelle sempre asciutta e una freschezza costante. Il design è arricchito da un motivo grafico sul retro che richiama le linee di un campo da tennis, donando al capo un ricercato fascino vintage.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "regular",
+  "composition": "cotone (65%),Polyestere (35%) / Collar:cotone (53%),Polyestere (47%)",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "vintage_prep": 1.2
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/lacoste/t-shirt-th0147-navy-blue-166",
+  "image_count": 3
+}

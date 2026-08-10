@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-uomo-nuvolari-s1-gb-achille-nero-nero.html",
+  "title": "PANTALONE UOMO NUVOLARI ACHILLE NERO",
+  "description_text": "Pantaloni Nuvolari Achille Nero\r\nQuesti pantaloni sono il mix perfetto tra eleganza e sportività. Realizzati con una materiali premium offrono comfort e libertà di movimento senza compromessi. Il design raffinato ed elegante li rende adatti a qualsiasi occasione, mentre la loro versatilità li rende ideali per un look formale o casual. Eleganza e praticità unite in un unico capo.\r\nAbbina questi bellissimi pantaloni ad una camicia oppure ad una t-shirt per ottenere il look perfetto!",
+  "price": 33.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "98%COTONE - 2%ELASTAN",
+  "sku": "S1 GB ACHILLE NERO-NERO",
+  "color_hints": [
+    "nero",
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "sportivo": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-s1-gb-achille-nero-nero",
+  "image_count": 4
+}

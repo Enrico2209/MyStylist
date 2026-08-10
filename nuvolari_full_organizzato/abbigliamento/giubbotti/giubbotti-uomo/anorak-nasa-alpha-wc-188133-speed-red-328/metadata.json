@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/anorak-nasa-alpha-wc-188133-speed-red-328.html",
+  "title": "GIACCA A VENTO TERMICA NASA ALPHA INDUSTRIES SPEED RED",
+  "description_text": "GIACCA A VENTO NASA ALPHA INDUSTRIES SPEED RED",
+  "price": 225.0,
+  "currency": "EUR",
+  "brand": "ALPHA",
+  "brand_slug": "alpha-industries",
+  "fit": null,
+  "composition": "esterno: 100% nylon, composizione interno: 100% poliestere",
+  "sku": null,
+  "color_hints": [
+    "red"
+  ],
+  "style_tags": {
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 1.0
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/anorak-nasa-alpha-wc-188133-speed-red-328",
+  "image_count": 8
+}

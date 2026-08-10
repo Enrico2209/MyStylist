@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-uomo-nuvolari-w1-lionel-bianco-bianco.html",
+  "title": "CAMICIA UOMO NUVOLARI LIONEL BIANCO",
+  "description_text": "Camicia Uomo Nuvolari Lionel Bianco\r\nLa camicia Nuvolari elegante si distingue per il suo taglio raffinato e il design pulito, perfetta per occasioni formali o eleganti. Realizzata con tessuti di alta qualità, offre una vestibilità comoda e un aspetto sofisticato, con dettagli curati come il colletto e i polsini.\r\nAbbina la camicia ad una giacca per un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di pantaloni di chino che Nuvolari ha pensato per te.",
+  "price": 69.9,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "bianco",
+    "bianco"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.7,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-w1-lionel-bianco-bianco",
+  "image_count": 1
+}

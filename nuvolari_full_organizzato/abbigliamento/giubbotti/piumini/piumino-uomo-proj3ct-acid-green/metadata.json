@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/piumino-uomo-proj3ct-acid-green.html",
+  "title": "PIUMINO UOMO PROJ3CT DALLAS ACID GREEN",
+  "description_text": "10:24:15Il Piumino da Uomo Proj3ct &egrave; la quintessenza dello stile e della funzionalit&agrave;. Dotato di una chiusura zip per una vestibilit&agrave; facile e veloce, questo piumino vanta due tasche laterali per un tocco pratico e moderno. Il colore acid green conferisce un'energia vivace, perfetta per distinguerti con un tocco audace in qualsiasi occasione. La patch con la tigre iconica sul braccio sinistro aggiunge un elemento distintivo che rimanda al brand, conferendo al capo un'identit&agrave; unica e di tendenza.\r\nAbbinamenti Versatili per un Look Completo\r\nPer completare il tuo look, abbina questo piumino con jeans slim fit e sneakers bianche per un outfit casual ma accattivante. Se cerchi uno stile pi&ugrave; formale, indossalo su una camicia e pantaloni chino. Inoltre, &egrave; perfetto per essere accostato a sciarpe e guanti coordinati per affrontare l'inverno con stile. Grazie alla sua versatilit&agrave;, il Piumino da Uomo Proj3ct diventa il capo ideale per esprimere il tuo stile distintivo in ogni situazione.",
+  "price": 74.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "rivestimento esterni 100% nylon + imbottitura interna 100% poliestere",
+  "sku": "WG DALLAS",
+  "color_hints": [
+    "green"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 1.0
+  },
+  "formality_score": 2,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/piumini/piumino-uomo-proj3ct-acid-green",
+  "image_count": 3
+}

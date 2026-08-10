@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s2-3-0-gue-sabbia-sabbia.html",
+  "title": "PANTALONE UOMO PROJ3CT 3.0 GUE SABBIA",
+  "description_text": "I pantaloni da uomo Proj3ct uniscono design contemporaneo e comfort in un capo versatile e di tendenza. Realizzati con tessuti di qualità, offrono una vestibilità moderna e dettagli curati per un look casual ma ricercato. Perfetti per essere abbinati a una t-shirt e sneakers per un outfit urban, o con una camicia per un tocco più sofisticato.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "sabbia",
+    "sabbia"
+  ],
+  "style_tags": {
+    "casual": 1.1,
+    "streetwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/pantalone-s2-3-0-gue-sabbia-sabbia",
+  "image_count": 1
+}

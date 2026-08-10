@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-nuvolari-verde.html",
+  "title": "PANTALONE UOMO NUVOLARI WONKA VERDE",
+  "description_text": "Questo pantalone uomo Nuvolari a costina di velluto verde è comodo, alla moda e perfetto con le sneakers. E' un modello regular che ti farà sicuramente ricordare\r\nHa due tasche anteriori, chiusura con zip e bottone, passante per la cinta e un piccolo risvoltino finale\r\nIl modello indossa la taglia 48",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "98& cotone 2& elastan",
+  "sku": "WF GP20 WONKA",
+  "color_hints": [
+    "verde"
+  ],
+  "style_tags": {
+    "casual": 2.0,
+    "sportivo": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-verde",
+  "image_count": 4
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-d-hor-diesel-white.html",
+  "title": "CAMICIA UOMO DIESEL D-HOR WHITE",
+  "description_text": "Camicia Diesel in stile western regular-fit. \r\nRealizzata in denim di cotone con impunture a contrasto e logo D ricamato in rosso. Chiusura con bottoni automatici e due tasche frontali con patta.",
+  "price": 157.5,
+  "currency": "EUR",
+  "brand": "DIESEL",
+  "brand_slug": "diesel",
+  "fit": "regular",
+  "composition": "100 %Cotone",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "casual": 1.2
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-d-hor-diesel-white",
+  "image_count": 3
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/tuta-lyle-scott-mid-grey-marl-t28.html",
+  "title": "PANTALONE TUTA UOMO LYLE & SCOTT MID GREY MARL",
+  "description_text": "Pantalone tuta da Uomo",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": "LYLE & SCOTT",
+  "brand_slug": "lyle-scott",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "grey"
+  ],
+  "style_tags": {
+    "casual": 1.2
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-lyle-scott-mid-grey-marl-t28",
+  "image_count": 3
+}

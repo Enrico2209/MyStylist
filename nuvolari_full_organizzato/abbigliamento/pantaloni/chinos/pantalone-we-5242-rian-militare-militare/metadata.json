@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-we-5242-rian-militare-militare.html",
+  "title": "PANTALONE UOMO NUVOLARI RIAN MILITARE",
+  "description_text": "Pantalone chino da Uomo firmato Nuvolari. Un pantalone con due tasche laterali e due posteriori. La salpa posteriore presenta il logo Nuvolari.",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "militare",
+    "militare"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "military": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-we-5242-rian-militare-militare",
+  "image_count": 3
+}

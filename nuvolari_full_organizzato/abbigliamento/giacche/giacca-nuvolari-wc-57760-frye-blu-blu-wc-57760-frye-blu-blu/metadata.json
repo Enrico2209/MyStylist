@@ -1,0 +1,31 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-nuvolari-wc-57760-frye-blu-blu-wc-57760-frye-blu-blu.html",
+  "title": "GIACCA UOMO NUVOLARI FRYE BLU",
+  "description_text": "Giacca Uomo Nuvolari\r\nLa giacca Nuvolari da abito è un capo elegante, perfetto per occasioni formali. Presenta un design classico con una vestibilità confortevole e dettagli semplici, ideale per completare un look raffinato.\r\nAbbinala ad una camicia e ad un pantalone chino per uno stile elegante ed impeccabile adatto a qualsiasi occasione!\r\nVedi Pantalone coordinato a questa giacca",
+  "price": 67.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "confortevole",
+  "composition": "70% Poliestere, 15% Viscosa, 15% Lana",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu",
+    "blu",
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 2.2,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 4,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-nuvolari-wc-57760-frye-blu-blu-wc-57760-frye-blu-blu",
+  "image_count": 7
+}

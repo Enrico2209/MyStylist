@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-w1-tiger-pant-black-black.html",
+  "title": "PANTALONE  BLACK-BLACK",
+  "description_text": "",
+  "price": 42.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {},
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-w1-tiger-pant-black-black",
+  "image_count": 1
+}

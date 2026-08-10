@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-wd-5304-robert-panna-panna.html",
+  "title": "PANTALONE 5304 ROBERT PANNA",
+  "description_text": "Pantalone cargo da Uomo colore panna",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "75% poliestere 23% elastane",
+  "sku": null,
+  "color_hints": [
+    "panna",
+    "panna"
+  ],
+  "style_tags": {
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-wd-5304-robert-panna-panna",
+  "image_count": 7
+}

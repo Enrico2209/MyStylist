@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/felpa-s2-3-0-manhattan-sabbia-sabbia.html",
+  "title": "FELPA UOMO PROJ3CT 3.0 MANHATTAN SABBIA",
+  "description_text": "Scopri la felpa da uomo Proj3ct, un capo dallo stile urbano e contemporaneo, perfetto per un look casual ma distintivo. Realizzata con tessuti di alta qualità, offre comfort e morbidezza ideali per ogni occasione. Il design moderno è arricchito da dettagli unici e finiture curate, mentre la vestibilità comoda assicura libertà di movimento. Perfetta da abbinare a jeans o pantaloni sportivi per un outfit versatile e alla moda.",
+  "price": 29.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "sabbia",
+    "sabbia"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "streetwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/felpe/con-cappuccio/felpa-s2-3-0-manhattan-sabbia-sabbia",
+  "image_count": 1
+}

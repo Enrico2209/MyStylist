@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-cc-rudy-uomo-black-rags-panna-panna.html",
+  "title": "CAMICIA UOMO BLACK RAGS CC RUDY PANNA",
+  "description_text": "Camicia Uomo Black Rags Cc Rudy Panna\r\nLa camicia Black Rags con colletto alla coreana è un capo essenziale che dona un tocco di eleganza. Con il suo design pulito e moderno, si adatta a diversi contesti, dal casual all'elegante, per uno stile versatile e raffinato.\r\nAbbina la camicia ad una giacca per un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di pantaloni di chino che Nuvolari ha pensato per te.",
+  "price": 28.0,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "panna",
+    "panna"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-cc-rudy-uomo-black-rags-panna-panna",
+  "image_count": 1
+}

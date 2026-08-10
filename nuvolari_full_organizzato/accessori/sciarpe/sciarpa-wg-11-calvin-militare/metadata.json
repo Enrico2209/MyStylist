@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/sciarpa-wg-11-calvin-militare.html",
+  "title": "SCIARPA UOMO NUVOLARI CALVIN MILITARE",
+  "description_text": "Le sciarpe da uomo sono accessori pratici e alla moda, offrendo calore durante i mesi più freddi e aggiungendo un tocco di stile all'abbigliamento.",
+  "price": 17.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "militare"
+  ],
+  "style_tags": {
+    "military": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "accessori/sciarpe/sciarpa-wg-11-calvin-militare",
+  "image_count": 1
+}

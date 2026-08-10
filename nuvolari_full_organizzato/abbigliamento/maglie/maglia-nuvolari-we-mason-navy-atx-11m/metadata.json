@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-we-mason-navy-atx-11m.html",
+  "title": "MAGLIONE MASON NAVY/ATX-11M",
+  "description_text": "Maglione girocollo da Uomo",
+  "price": 23.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "70% viscosa, 30% nylon",
+  "sku": null,
+  "color_hints": [
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 0.8,
+    "streetwear": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-nuvolari-we-mason-navy-atx-11m",
+  "image_count": 5
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/polo-lacoste-slim-fit-navy-blue.html",
+  "title": "POLO UOMO LACOSTE SLIM FIT BLU NAVY",
+  "description_text": "La polo da uomo firmata Lacoste è un capo di abbigliamento che, nonostante gli anni, rimane un’invariabile certezza di cui non riusciamo mai a fare a meno.\r\nQuesta maglietta a manica corta blu navy si chiude con due bottoni e ha il colletto.\r\nE’ una maglietta a tinta unita, un modello semplice, un capo slim fit realizzato in cotone.\r\nSe sei amante del brand Lacoste dai un'occhiata su Nuvolari ai suoi capi di abbigliamento!\r\nIl modello indossa la taglia L",
+  "price": 88.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": "PH4012 NAVY BLUE-166",
+  "color_hints": [
+    "navy",
+    "blue"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "brands/lacoste/polo-lacoste-slim-fit-navy-blue",
+  "image_count": 4
+}

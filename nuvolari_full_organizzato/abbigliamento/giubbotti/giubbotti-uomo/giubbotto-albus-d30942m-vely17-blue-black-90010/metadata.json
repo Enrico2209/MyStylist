@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-albus-d30942m-vely17-blue-black-90010.html",
+  "title": "GIUBBOTTO UOMO SAVE THE DUCK ALBUS BLUE BLACK",
+  "description_text": "Giubbotto da uomo un capo d'abbigliamento versatile e funzionale, progettato per offrire comfort e stile in varie condizioni atmosferiche. Realizzato con materiali di alta qualità come pelle, tessuti tecnici o cotone resistente, il giubbotto può presentare diverse caratteristiche come chiusure con zip o bottoni, tasche multiple e un design adatto a diverse occasioni, dal casual all'elegante. Disponibile in una varietà di stili come giubbotti bomber, giacche di pelle, parka o giubbotti sportivi, offre una combinazione perfetta di praticità e moda per completare il guardaroba maschile.",
+  "price": 200.0,
+  "currency": "EUR",
+  "brand": "SAVE THE DUCK",
+  "brand_slug": "save-the-duck",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blue",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-albus-d30942m-vely17-blue-black-90010",
+  "image_count": 1
+}

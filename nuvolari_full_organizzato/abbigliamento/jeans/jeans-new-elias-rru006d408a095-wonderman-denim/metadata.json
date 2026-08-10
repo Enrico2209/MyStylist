@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-new-elias-rru006d408a095-wonderman-denim.html",
+  "title": "JEANS NEW ELIAS RRU006D408A095 WONDERMAN DENIM",
+  "description_text": "Jeans da Uomo",
+  "price": 165.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "95% cotone 4% poliestere 1% gomma",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-new-elias-rru006d408a095-wonderman-denim",
+  "image_count": 3
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s1-yard-milk-milk.html",
+  "title": "PANTALONE UOMO PROJ3CT YARD MILK",
+  "description_text": "Pantalaccio Proj3ct: Un capo di abbigliamento maschile che unisce stile e funzionalità in perfetta armonia. Realizzato con tessuti di alta qualità per una sensazione di comfort e durata. Il suo design moderno e versatile si adatta a qualsiasi occasione, dal lavoro al tempo libero. Con dettagli curati e una vestibilità impeccabile, il pantalone Proj3ct è la scelta ideale per un look sofisticato e senza sforzo. Aggiungi un tocco di eleganza al tuo guardaroba con questo capo senza tempo.",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "impeccabile",
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-s1-yard-milk-milk",
+  "image_count": 4
+}

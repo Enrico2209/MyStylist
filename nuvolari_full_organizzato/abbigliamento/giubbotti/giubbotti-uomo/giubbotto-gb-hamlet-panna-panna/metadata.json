@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-gb-hamlet-panna-panna.html",
+  "title": "GIUBBOTTO UOMO BLACK RAGS HAMLET PANNA",
+  "description_text": "Il Giubbotto Uomo Black Rags realizzato in 80% viscosa e 20% poliammide è un capospalla che punta tutto sulla qualità tattile e sulla lucentezza naturale dei materiali. Questa particolare combinazione di fibre crea un tessuto \"luxury tech\", che si distingue dai classici modelli sportivi per una caduta più fluida e un aspetto decisamente più ricercato.\r\nPerché sceglierlo\r\nLa predominanza della viscosa (80%) conferisce al capo una mano estremamente morbida, simile alla seta, e una traspirabilità eccellente che lo rende piacevole a contatto con la pelle. Il 20% di poliammide (nylon) è l'elemento strutturale fondamentale: aggiunge la necessaria resistenza all'usura, aiuta il capo a mantenere la forma e conferisce una leggera protezione contro l'umidità.",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "80% viscosa, 20% poliammide",
+  "sku": null,
+  "color_hints": [
+    "panna",
+    "panna"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 0.8
+  },
+  "formality_score": 2,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-hamlet-panna-panna",
+  "image_count": 3
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-tr2109ita-military-green-w893.html",
+  "title": "PANTALONE CARGO UOMO LYLE & SCOTT MILITARY GREEN-W893",
+  "description_text": "Pantalone Uomo Lyle &amp; Scott\r\nIl pantalone Lyle &amp; Scott in stile cargo unisce praticità e design moderno. Dotato di chiusura con zip e bottone, presenta tasconi laterali e due tasche posteriori per una funzionalità ottimale. Il logo ricamato sul capo aggiunge un tocco caratteristico, perfetto per un look casual e contemporaneo.\r\nAbbinalo ad un paio di sneakers e ad una felpa con cappuccio per uno stile unico e sportivo adatto a qualsiasi contesto.",
+  "price": 70.0,
+  "currency": "EUR",
+  "brand": "LYLE & SCOTT",
+  "brand_slug": "lyle-scott",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "military",
+    "green"
+  ],
+  "style_tags": {
+    "casual": 1.5,
+    "sportivo": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-tr2109ita-military-green-w893",
+  "image_count": 1
+}

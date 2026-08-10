@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-con-pinces-proj3ct-shark-bordeaux.html",
+  "title": "PANTALONE CON PINCES SHARK BORDEAUX",
+  "description_text": "Pantalone chino uomo con pinces in cotone stretch dall'intenso color rosso bordeaux. Indossa in ufficio con la camicia bianca modello Delroy Nuvolari o completa il tuo stile streetwear Proj3ct con la felpa girocollo Soho Navy.",
+  "price": 31.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastene",
+  "sku": null,
+  "color_hints": [
+    "bordeaux"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "streetwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-con-pinces-proj3ct-shark-bordeaux",
+  "image_count": 3
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/pantalaccio-selected-wc-16068902-navy-blue-navy-blue.html",
+  "title": "PANTALACCIO UOMO SELECTED WC 16068902 NAVY BLUE",
+  "description_text": "",
+  "price": 32.0,
+  "currency": "EUR",
+  "brand": "SELECTED",
+  "brand_slug": "selected",
+  "fit": null,
+  "composition": "50% Lana Riciclata, 45% Poliestere riciclato, 5% Altre fibre",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "blue",
+    "navy",
+    "blue"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "prodotti-ecologici/pantalaccio-selected-wc-16068902-navy-blue-navy-blue",
+  "image_count": 5
+}

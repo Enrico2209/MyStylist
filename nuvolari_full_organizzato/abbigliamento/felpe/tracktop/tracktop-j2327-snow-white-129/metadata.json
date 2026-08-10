@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/tracktop-j2327-snow-white-129.html",
+  "title": "TRACKTOP UOMO FRED PERRY SNOW WHITE",
+  "description_text": "Track Jacket Fred Perry Heritage Colour Block\r\nL'Anima del Capo\r\nQuesta track jacket reinterpreta un pilastro della tradizione sportiva Fred Perry attraverso un audace motivo colour block dal gusto nostalgico. È un omaggio massimalista alla cultura giovanile britannica di fine anni '90, un punto d'incontro perfetto tra l'estetica degli stadi e le influenze subculturali che hanno segnato un'epoca.\r\nVersatilità e Stile\r\nDall'allenamento ai club più esclusivi, questa giacca è progettata per accompagnarti con naturalezza. La sua vestibilità quasi sartoriale esalta la figura, rendendola un pezzo chiave dello streetwear contemporaneo che celebra la resistenza e il fascino senza tempo dell'abbigliamento sportivo vintage.",
+  "price": 90.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": "regular",
+  "composition": "56% Poliestere Riciclato / 44% Cotone",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.2,
+    "streetwear": 0.8,
+    "sportivo": 1.3,
+    "outdoor_tecnico": 0.5,
+    "vintage_prep": 1.2,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/felpe/tracktop/tracktop-j2327-snow-white-129",
+  "image_count": 3
+}

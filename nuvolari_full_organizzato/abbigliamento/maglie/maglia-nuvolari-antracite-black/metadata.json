@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-antracite-black.html",
+  "title": "MAGLIA UOMO NUVOLARI FOURTY  ANTRACITE/BLACK",
+  "description_text": "Il maglione da uomo Nuvolari Fourty grigio scuro è un maglione in misto lana con girocollo, bordi e girovita elasticizzati e toppe in contrasto sui gomiti \r\nIl modello indossa la taglia L",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "40%lana riciclata 30%cotone 10%poliammide 17%acrilico 3%altre fibre",
+  "sku": "WF FOURTY",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 1.2,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-nuvolari-antracite-black",
+  "image_count": 2
+}

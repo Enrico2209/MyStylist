@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-wg-apr-cornelius-nero.html",
+  "title": "GIACCA UOMO NUVOLARI CORNELIUS NERO",
+  "description_text": "Le giacche da uomo variano da modelli casual a quelli più formali, offrendo una vasta gamma di stili per diverse occasioni. Dal classico blazer alle giacche invernali, sono un elemento chiave per completare il look maschile.",
+  "price": 77.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.2
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-wg-apr-cornelius-nero",
+  "image_count": 1
+}

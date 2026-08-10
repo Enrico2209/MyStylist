@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-ewf-gore-bordeaux-bordeaux.html",
+  "title": "MAGLIA BORDEAUX-BORDEAUX",
+  "description_text": "",
+  "price": 36.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "35% lana merino, 30% poliammide, 25% viscosa, 10% cashmere",
+  "sku": null,
+  "color_hints": [
+    "bordeaux",
+    "bordeaux"
+  ],
+  "style_tags": {
+    "elegante": 1.5,
+    "casual": 0.8,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/collo-alto/maglia-ewf-gore-bordeaux-bordeaux",
+  "image_count": 1
+}

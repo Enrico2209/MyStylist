@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-md-nathan-med-denim-med-denim.html",
+  "title": "JEANS UOMO BAECKER MD NATHAN MED DENIM",
+  "description_text": "I Jeans Uomo Baecker MD Nathan in variante Med Denim sono la sintesi perfetta tra l'estetica del denim classico e la silhouette moderna di un pantalone sartoriale. Caratterizzati da un lavaggio medio equilibrato, questi jeans si distinguono per un design pulito che li rende adatti anche a contesti più formali rispetto al tipico denim a cinque tasche.\r\nPerché sceglierli\r\nA differenza dei jeans tradizionali, il modello MD Nathan adotta una costruzione ispirata ai pantaloni chino. Le tasche anteriori a filo (tasche \"America\") e l'assenza di rivetti metallici a vista conferiscono al capo un aspetto più ordinato e sofisticato, permettendoti di godere della resistenza del denim senza rinunciare a un'eleganza sobria.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "sportivo": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-md-nathan-med-denim-med-denim",
+  "image_count": 3
+}

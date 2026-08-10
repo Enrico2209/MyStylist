@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/cappotto-selected-wd-16074177-black-black.html",
+  "title": "CAPPOTTO UOMO SELECTED 16074177 BLACK",
+  "description_text": "Cappotto da Uomo",
+  "price": 68.0,
+  "currency": "EUR",
+  "brand": "SELECTED",
+  "brand_slug": "selected",
+  "fit": null,
+  "composition": "esterno 90% Nylon, 10% Elastan; Fodera: 100% Poliestere; Imbottitura: 100% Poliestere",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "streetwear": 0.5,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 1.0
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/cappotti/cappotto-selected-wd-16074177-black-black",
+  "image_count": 2
+}

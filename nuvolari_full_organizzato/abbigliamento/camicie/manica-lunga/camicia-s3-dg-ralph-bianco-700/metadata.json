@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-s3-dg-ralph-bianco-700.html",
+  "title": "CAMICIA UOMO NUVOLARI S3 DG RALPH BIANCO",
+  "description_text": "Camicia da Uomo Nuvolari S3 DG RALPH\r\nUn capo versatile ed elegante, la camicia a manica lunga di Nuvolari è un classico senza tempo che non può mancare nel tuo guardaroba. Perfetta per ogni occasione, unisce comfort e stile in un design essenziale.\r\nRealizzata con materiali leggeri e traspiranti, questa camicia offre una sensazione di morbidezza e freschezza sulla pelle. Il cotone, una fibra naturale e traspirante, garantisce un comfort eccezionale che dura tutto il giorno, rendendola ideale da indossare in qualsiasi stagione.\r\nCon la sua vestibilità e il suo tessuto di alta qualità, è un capo facile da abbinare. Si presta perfettamente sia a un look formale, sotto una giacca o una maglia, sia a un outfit più casual, indossata da sola su un paio di jeans.",
+  "price": 59.9,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "60% cotone, 40% poliestere",
+  "sku": null,
+  "color_hints": [
+    "bianco"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "sportivo": 1.3,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-dg-ralph-bianco-700",
+  "image_count": 4
+}

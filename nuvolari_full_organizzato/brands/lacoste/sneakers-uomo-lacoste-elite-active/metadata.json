@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-uomo-lacoste-elite-active.html",
+  "title": "SNEAKERS UOMO LACOSTE ELITE ACTIVE GRY/DKGRY",
+  "description_text": "Elite Active LACOSTE\r\nLa Scarpa Elite Active di Lacoste è la sneaker ideale per l'uso quotidiano, unendo lo stile elegante e minimalista di Lacoste a un design ispirato alle scarpe da running rétro. È progettata per offrire leggerezza e reattività, garantendo un comfort che dura tutto il giorno.",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.8,
+    "sportivo": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/lacoste/sneakers-uomo-lacoste-elite-active",
+  "image_count": 4
+}

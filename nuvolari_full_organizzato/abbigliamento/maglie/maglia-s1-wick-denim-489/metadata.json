@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-s1-wick-denim-489.html",
+  "title": "MAGLIA UOMO NUVOLARI DENIM",
+  "description_text": "Esplora lo stile della maglia Nuvolari, un capo versatile e raffinato adatto a ogni occasione\r\nRealizzata con una pregiata miscela di cotone e acrilico al 50%, questa maglia offre un mix perfetto di comfort e durabilità. Il colore denim aggiunge un tocco di modernità e stile casual alla tua collezione di maglie. Con il suo design classico e la sua vestibilità confortevole, questa maglia è perfetta per il lavoro, il tempo libero o le occasioni più informali. Indossala da sola o sotto una giacca per un look impeccabile in ogni situazione.",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-s1-wick-denim-489",
+  "image_count": 4
+}

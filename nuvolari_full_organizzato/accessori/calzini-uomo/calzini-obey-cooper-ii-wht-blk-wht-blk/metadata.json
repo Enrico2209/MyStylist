@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/calzini-obey-cooper-ii-wht-blk-wht-blk.html",
+  "title": "CALZINI OBEY COOPER BIANCO/NERO",
+  "description_text": "Calzini Unisex di Obey Cooper, colore bianco e nero.",
+  "price": 16.0,
+  "currency": "EUR",
+  "brand": "OBEY",
+  "brand_slug": "obey",
+  "fit": null,
+  "composition": "85% cotone, 13% nylon, 2% spandex",
+  "sku": "COOPER II SOCKS WHT/BLK-WHT/BLK",
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.5,
+    "streetwear": 0.9,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "accessori/calzini-uomo/calzini-obey-cooper-ii-wht-blk-wht-blk",
+  "image_count": 2
+}

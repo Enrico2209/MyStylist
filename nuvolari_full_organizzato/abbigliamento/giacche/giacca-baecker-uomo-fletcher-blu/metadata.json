@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-baecker-uomo-fletcher-blu.html",
+  "title": "GIACCA UOMO BAECKER FLETCHER BLU",
+  "description_text": "Le giacche da uomo variano da modelli casual a quelli più formali, offrendo una vasta gamma di stili per diverse occasioni. Dal classico blazer alle giacche invernali, sono un elemento chiave per completare il look maschile.",
+  "price": 84.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-baecker-uomo-fletcher-blu",
+  "image_count": 1
+}

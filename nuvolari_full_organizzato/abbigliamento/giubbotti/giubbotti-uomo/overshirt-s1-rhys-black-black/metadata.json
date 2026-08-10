@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/overshirt-s1-rhys-black-black.html",
+  "title": "GIACCA A VENTO UOMO NUVOLARI BLACK",
+  "description_text": "Esplora la nostra resistente giacca a vento Black firmata Nuvolari, un essenziale per affrontare le giornate primaverili caratterizzate da pioggia e vento\r\nRealizzata con materiali di alta qualità, questa giacca offre protezione dagli agenti atmosferici senza compromettere lo stile. Il suo design elegante e funzionale la rende ideale per una varietà di occasioni, dall'uso quotidiano alle avventure all'aperto. Grazie alla sua resistenza al vento e all'acqua, puoi affrontare con fiducia anche le giornate più avverse, rimanendo asciutto e al riparo dal freddo. Che tu stia passeggiando in città o esplorando la natura, la giacca a vento Nuvolari sarà il tuo alleato fidato contro le intemperie primaverili.",
+  "price": 44.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.5,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/overshirt-s1-rhys-black-black",
+  "image_count": 4
+}

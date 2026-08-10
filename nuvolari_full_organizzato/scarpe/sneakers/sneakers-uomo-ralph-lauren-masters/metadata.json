@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-uomo-ralph-lauren-masters.html",
+  "title": "SNEAKERS UOMO RALPH LAUREN MASTERS CRT MILK/DECK/WHT",
+  "description_text": "Le Sneakers Ralph Lauren Masters CRT sono l'interpretazione definitiva della classica scarpa da tennis da parte di Polo Ralph Lauren. Caratterizzate da un'estetica \"court\" (da campo) degli anni '70 e '80, queste sneakers fondono un design atletico vintage con la raffinatezza moderna, rendendole un elemento essenziale per chi cerca una calzatura versatile che superi le tendenze del momento.Il punto di forza delle Masters CRT risiede nel loro equilibrio proporzionale. A differenza delle sneakers moderne più ingombranti, questo modello mantiene un profilo basso e pulito, ideale per essere abbinato a pantaloni dal taglio sartoriale o denim di qualità. La costruzione robusta e l'uso di pelle di prima scelta assicurano che la scarpa mantenga la sua forma e acquisti fascino con il tempo, offrendo un comfort duraturo grazie al supporto plantare integrato.",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": "RALPH LAUREN",
+  "brand_slug": "ralph-lauren",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.8,
+    "vintage_prep": 1.2,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-uomo-ralph-lauren-masters",
+  "image_count": 4
+}

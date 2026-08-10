@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-blu.html",
+  "title": "CAMICIA FANTASIA EXCLUSIVE X NVLR NIX BLU",
+  "description_text": "Camicia blu da uomo a maniche lunghe con micro stampa geometrica all over a contrasto di colore bianco che va a creare un particolare effetto ottico. Camicia slim fit in cotone di massima qualità, realizzata in collaborazione da Camiceria Bellini x Nuvolari, per uno stile contemporaneo, moderno e raffinato.",
+  "price": 31.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 1.1,
+    "casual": 0.5,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "stampato",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-blu",
+  "image_count": 4
+}

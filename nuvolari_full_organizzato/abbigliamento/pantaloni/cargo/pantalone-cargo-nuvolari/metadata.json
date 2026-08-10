@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-cargo-nuvolari.html",
+  "title": "PANTALONE CARGO NUVOLARI TERENCE NERO",
+  "description_text": "Cargo Uomo Nuvolari Spirito Urbano, Attitudine Outdoor\r\nIl cargo firmato Nuvolari è molto più di un semplice pantalone: è un manifesto di personalità. Ideale per chi vive la città con passo deciso, ma non rinuncia al richiamo dell’avventura.\r\nCon le sue tasche laterali funzionali e l’appeal utility reinterpretato in chiave moderna, questo capo si adatta perfettamente agli outfit di ogni giorno, unendo praticità e carattere.\r\nRealizzato in tessuti resistenti ma morbidi al tatto, garantisce comfort assoluto e libertà nei movimenti. Taglio moderno, fit regolare o slim a seconda del mood, dettagli distintivi e colorazioni neutre o militari lo rendono versatile e facilmente abbinabile a felpe, t-shirt o overshirt.\r\nChe tu stia affrontando la frenesia urbana o godendoti il weekend fuori porta, il cargo Nuvolari è il compagno perfetto per un look maschile, deciso e mai banale.",
+  "price": 88.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "63% cotone, 31% nylon, 6% elstane",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 2.0,
+    "streetwear": 1.3,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-cargo-nuvolari",
+  "image_count": 3
+}

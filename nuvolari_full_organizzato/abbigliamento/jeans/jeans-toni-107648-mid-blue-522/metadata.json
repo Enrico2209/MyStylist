@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-toni-107648-mid-blue-522.html",
+  "title": "JEANS TONI MID BLUE",
+  "description_text": "Jeans tapered Young Poet Society.",
+  "price": 80.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "tapered",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-toni-107648-mid-blue-522",
+  "image_count": 4
+}

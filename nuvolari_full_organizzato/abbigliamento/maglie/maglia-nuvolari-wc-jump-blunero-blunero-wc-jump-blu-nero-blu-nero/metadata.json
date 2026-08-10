@@ -1,0 +1,30 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-wc-jump-blunero-blunero-wc-jump-blu-nero-blu-nero.html",
+  "title": "MAGLIA UOMO NUVOLARI WC JUMP BLU/NERO",
+  "description_text": "Maglia Uomo Nuvolari Blu",
+  "price": 69.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "45%C cotone 30% poliestere 25% acrilico",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "nero",
+    "blu",
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-nuvolari-wc-jump-blunero-blunero-wc-jump-blu-nero-blu-nero",
+  "image_count": 3
+}

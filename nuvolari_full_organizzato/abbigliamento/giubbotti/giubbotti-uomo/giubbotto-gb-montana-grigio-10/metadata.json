@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-gb-montana-grigio-10.html",
+  "title": "GIUBBOTTO UOMO BLACK RAGS GB MONTANA GRIGIO",
+  "description_text": "Il Giubbotto Uomo BLACK RAGS GB MONTANA è il capospalla ideale per la mezza stagione, unendo un'estetica urban essenziale a un comfort eccezionale, grazie alla sua composizione innovativa. Il design è pulito e versatile, perfetto per l'uso quotidiano.\r\nMateriali e Performance:\r\n\r\n\r\nComposizione Funzionale: La miscela di Poliestere (80%) e Viscosa (15%) conferisce al tessuto una mano morbida e una buona resistenza all'usura. Il poliestere assicura durata e mantiene la forma del capo, mentre la viscosa aggiunge un tocco di morbidezza al tatto.\r\n\r\n\r\nComfort Stretch: La percentuale di 5% Elastane (Lyrca o Spandex) garantisce un'ottima elasticità e libertà di movimento, rendendo il giubbotto comodo anche quando indossato sopra strati più pesanti.\r\n\r\n\r\nDesign Essentials: La giacca presenta una silhouette moderna (spesso stile bomber o blouson corto), con chiusura con zip, tasche laterali e dettagli minimali, in linea con l'estetica casual-chic di BLACK RAGS.\r\n\r\n\r\nIdeale da abbinare a jeans, chino o maglie in layering.",
+  "price": 69.9,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "80% poliestere, 15% viscosa, 5% elastane",
+  "sku": null,
+  "color_hints": [
+    "grigio"
+  ],
+  "style_tags": {
+    "elegante": 1.3,
+    "casual": 1.6,
+    "streetwear": 0.8,
+    "sportivo": 1.8,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-montana-grigio-10",
+  "image_count": 1
+}

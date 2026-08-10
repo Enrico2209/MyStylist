@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-u2000858-lime-dlime-fblk-858.html",
+  "title": "SNEAKERS UOMO NEW BALANCE U2000858 LIME/DLIME/FBLK",
+  "description_text": "Le New Balance U2000858 sono il simbolo della rinascita del design \"tech-retro\". Questo modello, originariamente lanciato come scarpa da running performance di fascia alta, è diventato un'icona lifestyle grazie alla sua estetica complessa, fatta di sovrapposizioni di materiali e una suola tecnologica che garantisce un comfort superiore.Il punto di forza delle 2002R risiede nel sistema di ammortizzazione N-ergy unito alla tecnologia ABZORB. Questa combinazione offre un ritorno di energia e un assorbimento degli urti eccezionale, rendendole ideali per chi passa molte ore in piedi. Il design, pur essendo tecnico, mantiene un'eleganza sobria che si sposa perfettamente con capi sartoriali o casual, elevando istantaneamente il livello di qualsiasi outfit urbano.",
+  "price": 100.0,
+  "currency": "EUR",
+  "brand": "NEW BALANCE",
+  "brand_slug": "new-balance",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 1.2,
+    "sportivo": 1.2,
+    "vintage_prep": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/new-balance/sneakers-u2000858-lime-dlime-fblk-858",
+  "image_count": 4
+}

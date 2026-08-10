@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-s2-2-0-graig-antracite-atx.html",
+  "title": "MAGLIA UOMO NUVOLARI GRAIG ANTRACITE",
+  "description_text": "La maglia Nuvolari, realizzata con 100% cotone, unisce comfort e resistenza per uno stile senza tempo. Morbida al tatto e perfetta per la stagione primaverile, offre una vestibilità versatile che si adatta a look casual e raffinati. Indossala con un pantalone chino per un outfit elegante o abbinala a un paio di sneakers per un tocco più sportivo. Un capo essenziale per ogni guardaroba maschile",
+  "price": 33.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "sportivo": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-s2-2-0-graig-antracite-atx",
+  "image_count": 1
+}

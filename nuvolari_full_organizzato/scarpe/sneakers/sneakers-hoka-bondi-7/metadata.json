@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-hoka-bondi-7.html",
+  "title": "SNEAKERS UOMO HOKA BONDI 7",
+  "description_text": "Le Sneakers Hoka Bondi 7 rappresentano l'apice dell'ammortizzazione nel mondo del running e del lifestyle contemporaneo. Conosciute per la loro suola ultra-voluminosa e il comfort senza paragoni, le Bondi 7 sono progettate per ridurre l'impatto su ogni superficie, rendendole la scelta ideale sia per i runner che cercano protezione nelle lunghe distanze, sia per chi trascorre molte ore in piedi in contesti urbani.Il punto di forza delle Bondi 7 risiede nella loro intersuola in schiuma EVA stampata a compressione, che offre la massima ammortizzazione della gamma Hoka. Grazie alla tecnologia Meta-Rocker, la scarpa favorisce una rullata fluida e naturale, riducendo l'affaticamento muscolare. La tomaia in mesh ingegnerizzato, unita al nuovo collare in memory foam, garantisce una traspirabilità eccellente e una calzata che si adatta perfettamente alla forma della caviglia.",
+  "price": 85.0,
+  "currency": "EUR",
+  "brand": "HOKA",
+  "brand_slug": "hoka",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "streetwear": 0.8,
+    "sportivo": 1.2
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "stampato",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-hoka-bondi-7",
+  "image_count": 5
+}

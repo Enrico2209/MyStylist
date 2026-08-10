@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-donna-lee.html",
+  "title": "CAMICIA DONNA LEE RESORT SHIRT SEA BLUE",
+  "description_text": "La Camicia Lee Resort Shirt Sea Blue è l'essenza dello stile rilassato e vacanziero, progettata per chi cerca un capo leggero capace di evocare immediatamente atmosfere mediterranee. Caratterizzata da un taglio ampio e una mano fluida, questa camicia si allontana dal rigore formale per abbracciare un’estetica \"effortless\" che funziona perfettamente sia come pezzo centrale di un outfit, sia come copricostume raffinato.Il punto di forza della Resort Shirt risiede nel suo tessuto leggero e traspirante. La colorazione \"Sea Blue\" è una tonalità di azzurro vibrante ma naturale, studiata per riflettere la luce estiva e abbinarsi armoniosamente ai toni del bianco e del denim chiaro. Il taglio boxy (squadrato) e le maniche ampie assicurano una ventilazione costante, rendendola il capo ideale per affrontare le temperature più alte senza rinunciare a un tocco di stile sartoriale.",
+  "price": 32.5,
+  "currency": "EUR",
+  "brand": "LEE",
+  "brand_slug": "lee",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.8,
+    "sportivo": 0.8
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-donna-lee",
+  "image_count": 3
+}

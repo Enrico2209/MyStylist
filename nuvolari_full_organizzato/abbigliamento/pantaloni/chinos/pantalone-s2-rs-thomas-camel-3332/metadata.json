@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s2-rs-thomas-camel-3332.html",
+  "title": "PANTALONE CHINO NUVOLARI ARM THOMAS CAMEL",
+  "description_text": "Il pantalone chino Nuvolari è un'icona di stile e versatilità, perfetto per ogni occasione. Realizzato in cotone di alta qualità, offre una vestibilità confortevole e un look raffinato, ideale sia per outfit casual che per abbinamenti più eleganti. Completa il tuo look con una maglia per un tocco smart-casual o con una sneaker per un appeal più rilassato. Un capo essenziale per il guardaroba maschile!",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "71% cotone, 26% nylon, 3% elastane",
+  "sku": null,
+  "color_hints": [
+    "camel"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 2.0,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-s2-rs-thomas-camel-3332",
+  "image_count": 1
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-branco-blu-blu.html",
+  "title": "JEANS UOMO RAYZ BRANCO BLU",
+  "description_text": "Jeans Rayz Branco: Il Massimo del Comfort in un Design Cargo\r\nJeans Uomo Rayz\r\nSperimenta la perfetta fusione tra libertà di movimento e stile utility. I Jeans Rayz Branco Blu sono progettati per l'uomo contemporaneo che rifiuta la rigidità del denim classico senza rinunciare alla sua estetica intramontabile. Grazie alla vita elasticizzata e ai dettagli cargo, questo modello diventa il nuovo standard per l'abbigliamento urban quotidiano.\r\nDettagli Tecnici e Comfort Superiore\r\nDenim Soft-Touch: Realizzati con un denim selezionato per la sua morbidezza e resistenza, i Rayz Branco offrono un look autentico ma con una piacevolezza al tatto che ricorda i capi athleisure.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-branco-blu-blu",
+  "image_count": 3
+}

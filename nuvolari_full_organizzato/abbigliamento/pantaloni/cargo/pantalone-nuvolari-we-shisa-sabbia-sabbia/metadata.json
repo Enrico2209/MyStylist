@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-nuvolari-we-shisa-sabbia-sabbia.html",
+  "title": "PANTALONE SHISA SABBIA",
+  "description_text": "Pantalone Utility da Uomo",
+  "price": 39.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "sabbia",
+    "sabbia"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.5,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-nuvolari-we-shisa-sabbia-sabbia",
+  "image_count": 6
+}

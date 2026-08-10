@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/donnajeans-w2-venere-denim.html",
+  "title": "JEANS DONNA PROJ3CT DENIM MEDIO",
+  "description_text": "Jeans da Donna Proj3ct - Gamba Larga a Vita Alta\r\nEcco un capo essenziale per il tuo guardaroba, perfetto per chi cerca un look comodo e di tendenza. Questi jeans da donna di Proj3ct hanno una silhouette a gamba larga che si adatta a ogni forma, offrendo una vestibilità a vita alta che slancia la figura.\r\nIl classico denim blu medio con lavaggio leggermente consumato dona al capo un aspetto versatile, ideale per abbinamenti sia casual che più ricercati. La composizione del tessuto è pensata per il massimo comfort e durata: la miscela di cotone, poliestere e viscosa garantisce morbidezza e resistenza, mentre l'elastane dona la giusta elasticità per una vestibilità comoda che dura tutto il giorno.\r\nGrazie al loro taglio pulito, questi jeans sono un must-have da indossare con crop top, camicie o maglioni, diventando la base perfetta per ogni outfit.",
+  "price": 23.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "60% cotone, 31% poliestere, 8% viscosa, 1% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 2.1,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/donnajeans-w2-venere-denim",
+  "image_count": 1
+}

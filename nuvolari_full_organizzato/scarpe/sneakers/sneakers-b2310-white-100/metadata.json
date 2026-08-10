@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-b2310-white-100.html",
+  "title": "SNEAKERS UOMO FRED PERRY B2310 WHITE",
+  "description_text": "Le Sneakers Uomo Fred Perry B2310 sono un tributo alla storia tennistica del brand, reinterpretate con un gusto contemporaneo che le rende un pilastro dello stile urban-minimalista. Queste calzature si distinguono per il loro profilo pulito e la costruzione solida, ideali per chi cerca una scarpa versatile che unisca l'eredità sportiva britannica a una raffinatezza quotidiana.\r\nFred Perry B2310 L'Evoluzione della Court Shoe\r\nPerché sceglierle\r\nIl punto di forza della serie B2310 risiede nella sua estetica essenziale. Realizzate solitamente in pelle premium o canvas testurizzato, queste sneakers offrono una resistenza superiore e una capacità unica di adattarsi al piede con il passare del tempo. La suola in gomma vulcanizzata richiama i modelli d'archivio usati sui campi da tennis, garantendo grip e un comfort ammortizzato ideale per lunghe giornate in movimento.",
+  "price": 69.5,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "streetwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-b2310-white-100",
+  "image_count": 4
+}

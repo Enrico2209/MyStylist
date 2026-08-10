@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-bb650rwf-white-rwf.html",
+  "title": "SNEAKERS UOMO NEW BALANCE WHITE",
+  "description_text": "Le scarpe da uomo sono più di semplici accessori: sono una dichiarazione di stile e funzionalità. Disponibili in una varietà di stili come sneakers, scarpe eleganti, stivali o mocassini, queste calzature sono realizzate con materiali di alta qualità come pelle, tessuti tecnici o materiali sintetici resistenti. Offrono comfort, supporto e aderenza, adattandosi a diverse attività e occasioni. Sia che tu cerchi un tocco casual o un'eleganza sofisticata, le scarpe da uomo completano il tuo look e riflettono la tua personalità.",
+  "price": 80.0,
+  "currency": "EUR",
+  "brand": "NEW BALANCE",
+  "brand_slug": "new-balance",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "casual": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/new-balance/sneakers-bb650rwf-white-rwf",
+  "image_count": 4
+}

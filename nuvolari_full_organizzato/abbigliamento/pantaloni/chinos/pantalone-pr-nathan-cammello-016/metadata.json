@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-pr-nathan-cammello-016.html",
+  "title": "PANTALONE CHINO UOMO BAECKER NATHAN CAMMELLO",
+  "description_text": "Il pantalone chino da uomo Baecker è un must-have del guardaroba maschile, perfetto per un look casual-elegante. Realizzato con tessuti di qualità e una vestibilità comoda, è ideale sia per l’ufficio che per il tempo libero. Il design essenziale e raffinato lo rende facile da abbinare con una camicia per un outfit più formale o con una t-shirt per un look rilassato. Completa il tuo stile con sneakers o mocassini per un tocco di classe in ogni occasione.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "53% cotone, 38% nylon, 9% elastane",
+  "sku": null,
+  "color_hints": [
+    "cammello"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-pr-nathan-cammello-016",
+  "image_count": 1
+}

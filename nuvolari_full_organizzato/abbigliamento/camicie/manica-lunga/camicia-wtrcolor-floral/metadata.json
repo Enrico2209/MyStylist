@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-wtrcolor-floral.html",
+  "title": "CAMICIA UOMO GUESS JEANS FLORAL",
+  "description_text": "La camicia da Uomo di Guess Jeans è una camicia a manica lunga, realizzata in cotone.Questa camicia blu, a fantasia floreale ha una vestibilità regular.Il modello è alto 1.87 cm e indossa la taglia L.",
+  "price": 69.5,
+  "currency": "EUR",
+  "brand": "GUESS JEANS",
+  "brand_slug": "guess-jeans",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": "M3GH24 W7N50 WTRCOLOR FLORAL-P7HL",
+  "color_hints": null,
+  "style_tags": {
+    "casual": 1.2,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-wtrcolor-floral",
+  "image_count": 4
+}

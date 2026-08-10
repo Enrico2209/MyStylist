@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-minimal-wd-u2230-nero.html",
+  "title": "PANTALONE CON TASCONI U2230 NERO",
+  "description_text": "Pantaloni con tasche da Uomo",
+  "price": 55.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": "75% cotone 20%poliestere",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-minimal-wd-u2230-nero",
+  "image_count": 2
+}

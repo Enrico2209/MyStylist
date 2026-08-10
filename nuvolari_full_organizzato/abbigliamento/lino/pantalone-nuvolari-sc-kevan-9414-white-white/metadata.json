@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-nuvolari-sc-kevan-9414-white-white.html",
+  "title": "BERMUDA KEVAN NUVOLARI WHITE",
+  "description_text": "",
+  "price": 23.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": "100% lino",
+  "sku": null,
+  "color_hints": [
+    "white",
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 0.9
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/lino/pantalone-nuvolari-sc-kevan-9414-white-white",
+  "image_count": 4
+}

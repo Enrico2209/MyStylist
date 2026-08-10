@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s2-nayt-sand-sand.html",
+  "title": "PANTALONE UOMO PROJ3CT NAYT SAND",
+  "description_text": "Pantalone Uomo Proj3ct – Comfort urbano con stile contemporaneo\r\nI pantaloni uomo Proj3ct rappresentano l’incontro tra funzionalità e carattere streetwear. Realizzati in tessuti resistenti ma confortevoli, si distinguono per il taglio moderno e dettagli curati che li rendono perfetti sia per un look casual che per uno più ricercato. Tasche pratiche, finiture precise e vestibilità pensata per il movimento li rendono un capo essenziale del guardaroba maschile.\r\nOutfit consigliato:\r\nAbbinali a una T-shirt basic o a una felpa con cappuccio per uno stile urbano rilassato. Completa il look con un paio di sneakers e una giacca leggera per affrontare la giornata con carattere.",
+  "price": 34.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "pensata",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "sand",
+    "sand"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-s2-nayt-sand-sand",
+  "image_count": 1
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-m4613-ecru-560.html",
+  "title": "T-SHIRT UOMO FRED PERRY M4613 ECRU",
+  "description_text": "La t-shirt uomo Fred Perry è un pilastro del guardaroba casual, pensata per chi cerca un capo che unisca l'eredità sportiva britannica a un design minimalista e senza tempo. È la scelta perfetta per chi non vuole rinunciare allo stile neanche nei momenti di relax assoluto.\r\nFred Perry T-shirt L’icona del Minimalismo\r\nPerché sceglierla\r\nFred Perry è sinonimo di una qualità che si sente al tatto. Le t-shirt del brand si distinguono per un cotone spesso e resistente, capace di mantenere la forma originale lavaggio dopo lavaggio. Il dettaglio della Corona d'Alloro ricamata sul petto è un segno distintivo che trasforma una semplice maglia in un capo iconico e immediatamente riconoscibile.\r\nConsigli di Outfit\r\nSmart-Casual: Abbina la t-shirt a un pantalone chino scuro e un paio di sneakers per un look da ufficio informale o un aperitivo serale.\r\nUrban Layering: Indossala sotto una camicia aperta in tessuto tecnico o un bomber leggero per un contrasto tra il gusto classico e uno stile contemporaneo.",
+  "price": 72.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "ecru"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 2.0,
+    "streetwear": 0.8,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/t-shirt-m4613-ecru-560",
+  "image_count": 3
+}

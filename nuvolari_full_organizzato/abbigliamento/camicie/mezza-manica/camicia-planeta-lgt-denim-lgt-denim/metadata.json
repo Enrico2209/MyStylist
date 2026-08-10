@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-planeta-lgt-denim-lgt-denim.html",
+  "title": "CAMICIA UOMO RAYZ PLANETA LGT DENIM",
+  "description_text": "La camicia uomo Rayz è un capo essenziale per il guardaroba contemporaneo, pensato per chi cerca uno stile casual ma curato nei dettagli. Realizzata in morbido cotone, garantisce comfort e traspirabilità, mentre il taglio regolare la rende versatile da indossare sia aperta sopra una t-shirt che abbottonata per un look più composto. Le linee pulite e i colori neutri la rendono facile da abbinare in ogni stagione.\r\nPerfetta con un pantalone chino o dei jeans slim, può essere completata con delle sneakers per un outfit casual o con scarpe stringate per un tocco più elegante.\r\nVuoi abbinarla a uno specifico look da giorno o da sera?",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-planeta-lgt-denim-lgt-denim",
+  "image_count": 1
+}

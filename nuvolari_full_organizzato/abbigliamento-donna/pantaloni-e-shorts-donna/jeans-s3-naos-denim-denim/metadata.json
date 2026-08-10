@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-s3-naos-denim-denim.html",
+  "title": "JEANS DONNA PROJ3CT S3 NAOS DENIM",
+  "description_text": "I Jeans Donna Proj3Ct S3 Naos Denim rappresentano l'evoluzione contemporanea del denim, pensati per chi cerca un capo dal taglio distintivo che si allontani dalle linee classiche per abbracciare un'estetica più audace e strutturata.\r\nPerché sceglierli\r\nQuesto modello si caratterizza per il suo iconico taglio \"barrel\" (a botte): la gamba è ampia e curva verso l'esterno per poi restringersi leggermente al fondo. Questo design, arricchito da cuciture strutturali orizzontali e verticali ben visibili, crea un gioco di volumi tridimensionale che definisce la silhouette con un carattere forte e urban.\r\nContrasto di Volumi: Per bilanciare l'ampiezza della gamba, abbina i jeans a un top o a una t-shirt dal taglio slim. Una maglia inserita all'interno della vita aiuterà a definire meglio la silhouette.",
+  "price": 25.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "99% cotone, 1% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "sportivo": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-s3-naos-denim-denim",
+  "image_count": 3
+}

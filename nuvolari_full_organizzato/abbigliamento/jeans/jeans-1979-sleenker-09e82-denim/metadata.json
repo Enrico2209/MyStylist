@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-1979-sleenker-09e82-denim.html",
+  "title": "JEANS UOMO DIESEL 1979 SLEENKER",
+  "description_text": "I jeans da uomo di Diesel 1979 Sleenker sono jeans dal carattere punk-rock.\r\nUn modello skinny, a vita bassa e gamba stretta fino alla caviglia.\r\nQuesto denim stretch ha un look vissuto con sfumature di colore blu chiaro.\r\nIl modello indossa la taglia 48.",
+  "price": 175.0,
+  "currency": "EUR",
+  "brand": "DIESEL",
+  "brand_slug": "diesel",
+  "fit": "skinny",
+  "composition": "99%Cotone 1%Elastan",
+  "sku": "1979 SLEENKER 09E82 DENIM-01",
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 0.9,
+    "streetwear": 0.7,
+    "sportivo": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-1979-sleenker-09e82-denim",
+  "image_count": 4
+}

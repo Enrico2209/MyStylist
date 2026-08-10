@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/cappello-uomo-lacoste-navy-blue.html",
+  "title": "CAPPELLO UOMO LACOSTE NAVY BLUE",
+  "description_text": "Cappello Uomo Lacoste. Cappello con visiera da baseball Navy Blue e logo Brand. Taglia unica, si adatta alla maggior parte delle misure personali, regolabile.\r\nCappello pratico e comodo Lacoste, capace di configurarsi come un classico intramontabile.\r\nSe anche tu sei amante del brand Lacoste, scopri qui gli altri capi di abbigliamento del marchio selezionati apposta per te da Nuvolari.",
+  "price": 60.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "navy",
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 1.6
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/lacoste/cappello-uomo-lacoste-navy-blue",
+  "image_count": 3
+}

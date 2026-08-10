@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-u-xl-gtx-02-1200644-nero-grigio-nro-grg.html",
+  "title": "SNEAKERS UOMO EXTR4 KAIZEN XL GTX 2.04 NERO/GRIGIO",
+  "description_text": "Urban Frontier: La Sneaker Athleisure che Definisce lo Streetwear Evoluto\r\nPreparati a ridefinire i tuoi confini urbani. Questa sneaker athleisure a taglio basso non è solo una scarpa, ma un manifesto di stile per chi vive la città con attitudine outdoor. Progettata per chi non scende a compromessi, fonde una silhouette futuristica con prestazioni tecniche estreme, spingendoti oltre ogni limite, passo dopo passo.\r\nInvisible Protection, Absolute Performance\r\nIl segreto della sua versatilità risiede nella tecnologia GORE-TEX® Invisible Fit. Questa membrana d'avanguardia è integrata direttamente nella tomaia, offrendo una barriera totale contro acqua e vento senza alterare la leggerezza o il fit della scarpa. Il risultato è una traspirabilità eccezionale e una protezione costante contro lo stress dinamico della metropoli.",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": "EXTR4",
+  "brand_slug": "extr4",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero",
+    "grigio"
+  ],
+  "style_tags": {
+    "streetwear": 0.8,
+    "sportivo": 0.8,
+    "outdoor_tecnico": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-u-xl-gtx-02-1200644-nero-grigio-nro-grg",
+  "image_count": 3
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/felpa-green.html",
+  "title": "FELPA 1370391 GREEN",
+  "description_text": "Felpa da Uomo",
+  "price": 20.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "80% cotone/20% poliestere",
+  "sku": null,
+  "color_hints": [
+    "green"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/felpe/girocollo/felpa-green",
+  "image_count": 3
+}

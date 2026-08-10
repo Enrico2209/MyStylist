@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-ca-hamlet-nero-19.html",
+  "title": "CAMICIA UOMO BLACK RAGS HAMLET NERO",
+  "description_text": "La camicia uomo Black Rags realizzata in 80% viscosa e 20% poliammide rappresenta un'alternativa sofisticata e fluida alle classiche proposte tecniche del brand. Questa particolare miscela di fibre è studiata per offrire un indosso estremamente piacevole, unendo la naturalezza della viscosa alla resistenza della poliammide.\r\nPerché sceglierla\r\nIl punto di forza di questo capo è la sua caduta impeccabile. La prevalenza della viscosa (spesso definita \"seta artificiale\") conferisce alla camicia una lucentezza discreta e una mano incredibilmente morbida e fresca sulla pelle. La poliammide (20%) agisce come rinforzo strutturale, migliorando la resistenza all'usura e aiutando il tessuto a mantenere la forma originale senza cedere eccessivamente.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "80% viscosa, 20% poliammide",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.3,
+    "casual": 0.8
+  },
+  "formality_score": 3,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-hamlet-nero-19",
+  "image_count": 2
+}

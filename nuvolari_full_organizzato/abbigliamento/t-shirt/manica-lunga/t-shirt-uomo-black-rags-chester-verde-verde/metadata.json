@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-uomo-black-rags-chester-verde-verde.html",
+  "title": "T-SHIRT UOMO BLACK RAGS CHESTER LONG SLEEVE VERDE",
+  "description_text": "T-Shirt Uomo Black Rags Chester Long Sleeve Verde\r\nLa t-shirt Black Rags a maniche lunghe con colletto a bottoncini combina uno stile casual con dettagli eleganti. Realizzata in tessuto leggero, è perfetta per un look rilassato ma curato. Il design con bottoncini aggiunge un tocco distintivo, rendendola versatile per diverse occasioni.\r\nAbbinala ad un paio di jeans e alle sneakers presenti nella collezione Nuvolari, perfetti per rendere il tuo stile elegante e moderno per ogni situazione.",
+  "price": 23.0,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "verde",
+    "verde"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/t-shirt/manica-lunga/t-shirt-uomo-black-rags-chester-verde-verde",
+  "image_count": 4
+}

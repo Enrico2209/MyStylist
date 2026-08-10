@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/blazer-armin-nero-n008.html",
+  "title": "BLAZER UOMO BAECKER ARMIN NERO",
+  "description_text": "Blazer Baecker l'elite dell'eleganza\r\nQuesto modello si distingue per un design pulito e una struttura leggera, ideale per essere indossato come capospalla durante le mezze stagioni o come elemento centrale di un look smart-casual stratificato.\r\nDettagli di Design\r\n\r\n\r\nSilhouette Moderna: Presenta un taglio dritto e leggermente destrutturato che offre una vestibilità confortevole senza rinunciare a una linea definita.\r\n\r\n\r\nChiusura Classica: Caratterizzato da una chiusura a due bottoni frontali che mantiene l'estetica intramontabile della giacca monopetto.\r\n\r\n\r\nTasche Applicate: Le ampie tasche a toppa sui fianchi e il taschino sul petto aggiungono un tocco di praticità e un’estetica ispirata al workwear raffinato.\r\n\r\n\r\nFiniture di Qualità: Il rever classico e i bottoni ai polsi rifiniscono il capo, rendendolo adatto anche a contesti lavorativi meno rigorosi.\r\n\r\n\r\nDettaglio Signature: Sulla parte superiore del rever è presente un piccolo pin o ricamo distintivo del brand, che ne certifica l'originalità e l'attenzione ai minimi dettagli.",
+  "price": 75.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "confortevole",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/completi/blazer-armin-nero-n008",
+  "image_count": 2
+}

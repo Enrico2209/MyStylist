@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-uomo-nuvolari-s1-noah-black.html",
+  "title": "GIUBBOTTO UOMO NUVOLARI NOAH BLACK",
+  "description_text": "Eleva il tuo stile primaverile con il Giubbotto da uomo Nuvolari Noah adatto alla Mezza Stagione. Con dettagli curati e un taglio che si adatta al tuo corpo, questo giubbotto da uomo offre un look raffinato senza rinunciare alla praticità. Versatile e chic, è la scelta ideale per un'eleganza senza sforzo in ogni occasione",
+  "price": 59.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% poliestere",
+  "sku": "S1 noah",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-nuvolari-s1-noah-black",
+  "image_count": 4
+}

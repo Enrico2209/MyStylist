@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-sergej-antracite-atx.html",
+  "title": "PANTALONE UOMO BAECKER SERGEJ ANTRACITE",
+  "description_text": "Il pantalone da uomo Baecker unisce stile e comfort in un capo versatile perfetto per ogni occasione. Realizzato con materiali di qualità, offre una vestibilità impeccabile e dettagli curati per un look sofisticato ma rilassato. Ideale per completare outfit casual o più eleganti, si abbina perfettamente a una camicia o a una t-shirt. \r\nCompleta il tuo stile con un paio di sneakers di tendenza o scarpe classiche per un tocco distintivo.",
+  "price": 79.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "69% poliestere, 29% viscosa, 2% elastane",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.3,
+    "casual": 1.6,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-sergej-antracite-atx",
+  "image_count": 1
+}

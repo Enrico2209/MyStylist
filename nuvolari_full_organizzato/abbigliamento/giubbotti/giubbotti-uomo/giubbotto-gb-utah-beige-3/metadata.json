@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-gb-utah-beige-3.html",
+  "title": "GIUBBOTTO UOMO BLACK RAGS UTAH BEIGE",
+  "description_text": "Il Giubbotto BLACK RAGS è il capospalla perfetto per un look casual moderno, ispirato al classico modello Coach Jacket ma aggiornato con un cappuccio e un tessuto di alta qualità.\r\nLa composizione di 80% Poliestere, 15% Viscosa e 5% Elastane garantisce una sensazione morbida e leggermente elasticizzata, offrendo un comfort superiore e una vestibilità che segue i movimenti senza restrizioni. Il tessuto ha una finitura opaca e strutturata, ideale per la mezza stagione.\r\nIl design è essenziale e funzionale:\r\n\r\n\r\nChiusura frontale con bottoni a pressione neri.\r\n\r\n\r\nCappuccio fisso per maggiore protezione.\r\n\r\n\r\nTasca laterale a filetto (due tasche a fessura) per le mani.\r\n\r\n\r\nPolsini e orlo elasticizzati che assicurano un fit aderente e protettivo dal vento.",
+  "price": 69.9,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "80% poliestere, 15% viscosa, 5% elastane",
+  "sku": null,
+  "color_hints": [
+    "beige"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 1.6,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "mezza_stagione",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-utah-beige-3",
+  "image_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-2019-d-strukt-09b94-white.html",
+  "title": "JEANS 2019 D-STRUKT 09B94 WHITE",
+  "description_text": "Jeans da Uomo",
+  "price": 122.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "slim",
+  "composition": "99% cotone, 1% elastane",
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-2019-d-strukt-09b94-white",
+  "image_count": 3
+}

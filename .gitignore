@@ -1,6 +1,8 @@
-# dati e artefatti generati dalla pipeline (foto, cache, output) — non codebase
+# dati e artefatti generati dalla pipeline (cache, output) — non codebase.
+# nuvolari_full_organizzato/ (foto + metadata correnti) e' INCLUSA e tracciata
+# via Git LFS, vedi .gitattributes — sono escluse invece nuvolari_full/ (dump
+# v2 superato, pre-refactor, ridondante) e le cartelle di test.
 nuvolari_full/
-nuvolari_full_organizzato/
 test_output/
 test_organizzato/
 *.parquet

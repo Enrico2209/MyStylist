@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-uomo-rayz-kb-jacare-rosso-rosso.html",
+  "title": "PANTALONE TUTA UOMO RAYZ KB JACARE ROSSO",
+  "description_text": "Pantalone Tuta Uomo Rayz Kb Jacare Rosso\r\nI pantaloni della tuta Rayz cargo uniscono comodità e stile con un design moderno e funzionale. Dotati di pratiche tasche cargo laterali, sono perfetti per chi cerca un look casual e rilassato. I lacci lunghi in vita aggiungono un tocco distintivo, mentre la vestibilità confortevole li rende ideali per il tempo libero o per le giornate più dinamiche.\r\nAbbinali ad un paio di sneakers e ad una felpa con cappuccio per uno stile unico e sportivo adatto a qualsiasi contesto.",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "rosso",
+    "rosso"
+  ],
+  "style_tags": {
+    "casual": 1.1,
+    "sportivo": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-rayz-kb-jacare-rosso-rosso",
+  "image_count": 1
+}

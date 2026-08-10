@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-nuvolari-deon-militare.html",
+  "title": "CAMICIA  UOMO NUVOLARI DEON MILITARE",
+  "description_text": "La camicia da uomo di Nuvolari Deon è una camicia estiva, a manica corta, realizzata interamente in lino.\r\nQuesta camicia con base verde militare ha una fantasia floreale.\r\nIl modello indossa la taglia L.",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "100% lino",
+  "sku": "SG Y97 DEON MILITARE-R01",
+  "color_hints": [
+    "militare"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.9,
+    "military": 0.8,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-nuvolari-deon-militare",
+  "image_count": 1
+}

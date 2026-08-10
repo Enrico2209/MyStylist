@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-uomo-nuvolari-s1-cl-thomas-militare-022.html",
+  "title": "PANTALONE UOMO NUVOLARI THOMAS MILITARE",
+  "description_text": "Pantalone Uomo Nuvolari Thomas Militare\r\nIl pantalone Nuvolari è un capo poliedrico, adatto per qualsiasi occasione. Con un design che si presta sia a look eleganti che sportivi, offre versatilità e stile in ogni situazione.\r\nAbbina questi bellissimi pantaloni ad una camicia oppure ad una t-shirt per ottenere il look perfetto!",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "52%LINO - 46%COTONE - 2%ELASTAN",
+  "sku": "S1 CL THOMAS MILITARE-022",
+  "color_hints": [
+    "militare"
+  ],
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 1.7,
+    "sportivo": 0.5,
+    "military": 0.8
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-s1-cl-thomas-militare-022",
+  "image_count": 4
+}

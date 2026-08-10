@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-nuvolari-wc-jump-grg-mnero-grg-mne-wc-jump-grg-m-nero-grg-m-ne.html",
+  "title": "MAGLIA UOMO NUVOLARI JUMP WC GRG M/NERO",
+  "description_text": "",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "45%C cotone 30% poliestere 25% acrilico",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-nuvolari-wc-jump-grg-mnero-grg-mne-wc-jump-grg-m-nero-grg-m-ne",
+  "image_count": 3
+}

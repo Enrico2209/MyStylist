@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-uomo-u1906lai-black-lai.html",
+  "title": "SNEAKERS UOMO NEW BALANCE U1906LAI BLACK",
+  "description_text": "New Balance 1906R L'Essenza del Tech-Wear\r\nLa 1906R è un omaggio all'estetica tecnica degli anni 2000, riproposta oggi come must-have per gli amanti del design stratificato e futuristico.\r\nAmmortizzazione Superiore: Dotata di intersuola ACTEVA LITE e ammortizzazione ABZORB SBS nel tallone per un comfort e una stabilità senza pari.\r\nSupporto N-ergy: La suola assicura un assorbimento degli urti d'eccellenza, ideale per le lunghe camminate urbane.\r\nDesign Traspirante: Tomaia in mesh tecnico con sovrapposizioni sintetiche che garantiscono struttura e ventilazione costante.\r\nVarianti: Disponibile nella versione Black-LAI per un look stealth o Silver-LAE per richiamare il classico stile running metallizzato.",
+  "price": 70.0,
+  "currency": "EUR",
+  "brand": "NEW BALANCE",
+  "brand_slug": "new-balance",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "streetwear": 1.2,
+    "sportivo": 1.2
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/new-balance/sneakers-uomo-u1906lai-black-lai",
+  "image_count": 4
+}

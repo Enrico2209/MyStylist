@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-nuvolari-nero.html",
+  "title": "PANTALONE UOMO NUVOLARI BRIAN NERO",
+  "description_text": "Pantalone da uomo Nuvolari nero. Questo comodo pantalone slim fit ha due tasche laterali anteriori, chiusura con zip e bottone e passante per la cinta\r\nl modello è alto 1.89 e indossa la taglia 48.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "70% cotone 30% poliestere",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 1.7,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-nero",
+  "image_count": 3
+}

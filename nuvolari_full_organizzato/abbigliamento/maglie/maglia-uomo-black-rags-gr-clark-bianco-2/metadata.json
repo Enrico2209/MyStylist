@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-uomo-black-rags-gr-clark-bianco-2.html",
+  "title": "MAGLIA UOMO BLACK RAGS GR CLARK BIANCO",
+  "description_text": "Maglia Uomo Black Rags Gr Clark Bianco\r\nLa maglia Black Rags presenta un design essenziale, ideale per un look casual e contemporaneo. Realizzata in tessuto morbido e confortevole, offre una vestibilità regolare e si adatta perfettamente a qualsiasi outfit quotidiano.\r\nAbbinala ad una camicia e ad un pantalone chino per uno stile elegante ed impeccabile adatto a qualsiasi occasione!",
+  "price": 24.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "bianco"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-uomo-black-rags-gr-clark-bianco-2",
+  "image_count": 1
+}

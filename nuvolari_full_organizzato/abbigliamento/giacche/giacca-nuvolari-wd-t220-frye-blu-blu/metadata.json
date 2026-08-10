@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-nuvolari-wd-t220-frye-blu-blu.html",
+  "title": "GIACCA UOMO NUVOLARI T220 FRYE BLU",
+  "description_text": "Giacca taschino da Uomo",
+  "price": 63.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": "80% poliestere, 13% viscosa, 7% elastane",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 0.9,
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giacche/giacca-nuvolari-wd-t220-frye-blu-blu",
+  "image_count": 4
+}

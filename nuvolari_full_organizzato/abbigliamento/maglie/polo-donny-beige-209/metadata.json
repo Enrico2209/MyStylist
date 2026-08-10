@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/polo-donny-beige-209.html",
+  "title": "POLO UOMO BAECKER DONNY BEIGE",
+  "description_text": "POLO UOMO BAECKER DONNY \r\nLa polo Baecker Donny nel colore Panna è la scelta ideale per un look smart-casual raffinato, che non teme le mezze stagioni. L'innovativa composizione del tessuto unisce la morbidezza e le proprietà termiche della Lana Merino con la resistenza e la stabilità delle fibre sintetiche.\r\nStile e Dettagli Essenziali\r\n\r\n\r\nVestibilità:  Fit Regolare, valorizzato dalla fluidità del filato.\r\n\r\n\r\nSensazione: Nonostante la prevalenza di fibre tecniche, la presenza di Viscosa, Acrilico e Lana Merino garantisce una mano incredibilmente morbida e un comfort simile alla maglieria.\r\n\r\n\r\nIndossa la Polo Baecker Donny: l'eleganza di una maglia in lana con il comfort e la praticità di un capo tecnico.",
+  "price": 65.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "53,5% poliestere, 20,7% nylon, 19,5% acrilico, 6,3% lana merino",
+  "sku": null,
+  "color_hints": [
+    "beige"
+  ],
+  "style_tags": {
+    "elegante": 1.3,
+    "casual": 1.1,
+    "streetwear": 0.5,
+    "sportivo": 0.5,
+    "outdoor_tecnico": 1.0,
+    "vintage_prep": 0.5
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/polo-donny-beige-209",
+  "image_count": 4
+}

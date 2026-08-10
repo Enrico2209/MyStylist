@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-boho-beige-209.html",
+  "title": "MAGLIA UOMO BLACK RAGS BOHO BEIGE",
+  "description_text": "Questa maglia Black Rags incarna un'estetica minimalista e sofisticata, perfetta per l'uomo che apprezza la semplicità elegante. Realizzata con una maglia a trama sottile, offre un look pulito e raffinato, ideale per essere indossata da sola o sotto una giacca elegante.\r\nIl design presenta un discreto collo simulato (Mock Neck) che aggiunge un tocco moderno e garantisce maggiore calore. La qualità del tessuto, un misto, assicura morbidezza al tatto e una vestibilità che si adatta con naturalezza.",
+  "price": 0.0,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "che",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "beige"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "minimal": 0.8,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/maglia-boho-beige-209",
+  "image_count": 1
+}

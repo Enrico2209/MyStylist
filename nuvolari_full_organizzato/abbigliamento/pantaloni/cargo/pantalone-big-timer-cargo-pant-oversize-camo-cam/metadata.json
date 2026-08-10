@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-big-timer-cargo-pant-oversize-camo-cam.html",
+  "title": "PANTALONE CARGO OBEY OVERSIZE CAMO",
+  "description_text": "Un pantalone da uomo è un capo d'abbigliamento fondamentale nel guardaroba maschile. Realizzato in tessuto resistente e confortevole, può essere di diversi stili come pantaloni chino, jeans, cargo, pantaloni eleganti o casual, pantalacci o tute. I pantaloni da uomo sono versatili e adatti a molteplici occasioni, dalla vita quotidiana al lavoro o agli eventi più formali, offrendo comodità e stile in ogni contesto.",
+  "price": 75.5,
+  "currency": "EUR",
+  "brand": "OBEY",
+  "brand_slug": "obey",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 1.2,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-big-timer-cargo-pant-oversize-camo-cam",
+  "image_count": 2
+}

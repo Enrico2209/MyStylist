@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-wg-og-bull-black-black.html",
+  "title": "JEANS UOMO PROJ3CT BULL BLACK",
+  "description_text": "I jeans da uomo sono un elemento essenziale del guardaroba maschile. Disponibili in vari tagli, lavaggi e vestibilità, offrono comfort e versatilità per look casual o più elaborati.",
+  "price": 39.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-wg-og-bull-black-black",
+  "image_count": 1
+}

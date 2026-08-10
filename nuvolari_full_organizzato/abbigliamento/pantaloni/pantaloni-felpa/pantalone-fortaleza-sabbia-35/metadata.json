@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-fortaleza-sabbia-35.html",
+  "title": "PANTALONE TUTA UOMO RAYZ FORTALEZA SABBIA",
+  "description_text": "Pantalone Tuta Uomo Rayz Fortaleza\r\nIl pantalone tuta Rayz combina comfort e stile moderno con il suo fondo largo e i lacci regolabili. Ideale per un look casual e rilassato, perfetto per il tempo libero.\r\nAbbinali ad un paio di sneakers e ad una felpa con cappuccio per uno stile unico e sportivo adatto a qualsiasi contesto.",
+  "price": 25.0,
+  "currency": "EUR",
+  "brand": "RAYZ",
+  "brand_slug": "rayz",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "sabbia"
+  ],
+  "style_tags": {
+    "casual": 1.6,
+    "sportivo": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/pantaloni-felpa/pantalone-fortaleza-sabbia-35",
+  "image_count": 3
+}

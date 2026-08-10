@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/gilet-s1-gian-nero-k500.html",
+  "title": "GILET UOMO NUVOLARI GIAN NERO",
+  "description_text": "Gilet Nuvolari Gian Nero\r\nIl gilet smanicato Nuvolari in colore nero è un capo elegante e versatile, perfetto per completare il tuo outfit formale. Con il suo design senza maniche e il girocollo classico, aggiunge un tocco di raffinatezza alla tua camicia. Realizzato con materiali di alta qualità e curato nei dettagli, questo gilet è ideale per aggiungere un tocco di stile e classe al tuo outfit.",
+  "price": 69.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 1.2
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/gilet/gilet-s1-gian-nero-k500",
+  "image_count": 4
+}

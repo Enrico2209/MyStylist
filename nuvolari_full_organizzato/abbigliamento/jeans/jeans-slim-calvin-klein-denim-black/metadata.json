@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-slim-calvin-klein-denim-black.html",
+  "title": "JEANS SLIM UOMO CALVIN KLEIN JEANS DENIM BLACK",
+  "description_text": "Il jeans da uomo firmato Calvin Klein Jeans è un pantalone dalla vestibilità slim, con cinque tasche. Ha passante per la cinta, chiusura con zip nascosta e bottone logato.\r\nIl pantalone è un denim dalla tonalità scura, con un lavaggio tendente al nero slavato.\r\nIl modello è alto 1.87 cm e indossa la taglia 48.\r\nIl pantalone con taglia 48 ha una lunghezza di 30cm.\r\nQuesto jeans è perfetto con questa t-shirt e questa felpa!",
+  "price": 70.0,
+  "currency": "EUR",
+  "brand": "CALVIN KLEIN JEANS",
+  "brand_slug": "calvin-klein-jeans",
+  "fit": "slim",
+  "composition": "99% cotone 1% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 0.9,
+    "sportivo": 0.5,
+    "minimal": 0.7
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/jeans/jeans-slim-calvin-klein-denim-black",
+  "image_count": 4
+}

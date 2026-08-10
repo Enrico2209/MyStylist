@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-s3-md-dylan-medium-denim-med-dnm.html",
+  "title": "JEANS UOMO NUVOLARI S3 MD DYLAN MEDIUM DENIM",
+  "description_text": "Jeans Uomo Nuvolari Dylan Med Denim\r\nI jeans uomo Nuvolari sono il perfetto equilibrio tra stile moderno e versatilità. Realizzati in denim di alta qualità, offrono un look contemporaneo e sono facili da abbinare a diversi outfit. Adatti per ogni occasione, questi jeans rappresentano un capo essenziale nel guardaroba maschile.\r\nAbbina questo jeans ad un paio di sneakers e ad una t-shirt consigliata appositamente per te da Nuvolari",
+  "price": 36.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "sportivo": 0.5,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-s3-md-dylan-medium-denim-med-dnm",
+  "image_count": 4
+}

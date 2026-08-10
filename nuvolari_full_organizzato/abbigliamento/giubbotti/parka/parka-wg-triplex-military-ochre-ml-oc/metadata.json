@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/parka-wg-triplex-military-ochre-ml-oc.html",
+  "title": "PARKA GIUBBOTTO UOMO TRIPLEX MILITARY",
+  "description_text": "Giubbotto da uomo un capo d'abbigliamento versatile e funzionale, progettato per offrire comfort e stile in varie condizioni atmosferiche. Realizzato con materiali di alta qualità come pelle, tessuti tecnici o cotone resistente, il giubbotto può presentare diverse caratteristiche come chiusure con zip o bottoni, tasche multiple e un design adatto a diverse occasioni, dal casual all'elegante. Disponibile in una varietà di stili come giubbotti bomber, giacche di pelle, parka o giubbotti sportivi, offre una combinazione perfetta di praticità e moda per completare il guardaroba maschile.",
+  "price": 124.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "guscio giacca esterna: 88% POLIESTERE 12% ELASTAN; guscio giacca interna: 100% NYLON",
+  "sku": null,
+  "color_hints": [
+    "military"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "streetwear": 0.5,
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 1.0
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/parka/parka-wg-triplex-military-ochre-ml-oc",
+  "image_count": 1
+}

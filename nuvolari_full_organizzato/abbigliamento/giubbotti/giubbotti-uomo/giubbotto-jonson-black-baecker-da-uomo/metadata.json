@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-jonson-black-baecker-da-uomo.html",
+  "title": "GIUBBOTTO UOMO BAECKER JONSON BLACK",
+  "description_text": "Con il nostro Giubbotto Baecker Primaverile, puoi aggiungere uno stile casuale raffinato al tuo look. Perfetto per le mezze stagioni, questo cappotto offre versatilità e comfort. Indossalo con jeans o pantaloni chino per un look informale ma sempre elegante.",
+  "price": 64.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "100% polyester",
+  "sku": "JONSON",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-jonson-black-baecker-da-uomo",
+  "image_count": 4
+}

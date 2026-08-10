@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/bomber-thelonius-black-31.html",
+  "title": "BOMBER UOMO BAECKER THELONIUS BLACK",
+  "description_text": "Leggerezza e stile si fondono nel nostro bomber Uomo Baecker Primaverile. Realizzato con tessuti che permettono la traspirazione, questo bomber è progettato per affrontare le giornate più miti con eleganza. La sua versatilità lo rende adatto a molteplici situazioni, dall'ufficio al weekend.",
+  "price": 44.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "80% polyester, 20% Nylon",
+  "sku": "THELONIUS BLACK-31",
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "streetwear": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/bomber/bomber-thelonius-black-31",
+  "image_count": 4
+}

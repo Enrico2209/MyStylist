@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/lee-camicia-workwear-shirt.html",
+  "title": "CAMICIA UOMO LEE WORKWEAR SHIRT BLUE",
+  "description_text": "LEE WORKWEAR SHIRT: L'ESSENZA DEL DESIGN UTILITY\r\nLa Lee Workwear Shirt in blu è un omaggio alla tradizione dell'abbigliamento da lavoro, reinterpretata con un taglio moderno e finiture di alta qualità. Questa camicia a maniche corte combina robustezza e stile, rendendola un capo versatile per il tempo libero o per un look urban curato.\r\nDesign Funzionale: Presenta due tasche ampie applicate sul petto con chiusura a bottone, ideali per riporre piccoli oggetti e per richiamare l'estetica utility originale.\r\nDettagli Heritage: Sopra la tasca sinistra è presente l'iconica etichetta logo Lee in giallo e nero, che sottolinea l'autenticità del brand.\r\nColletto Classico: Il colletto a punta è ben strutturato, conferendo alla camicia un aspetto ordinato anche in contesti casual",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "LEE",
+  "brand_slug": "lee",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 1.2,
+    "streetwear": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/lee-camicia-workwear-shirt",
+  "image_count": 3
+}

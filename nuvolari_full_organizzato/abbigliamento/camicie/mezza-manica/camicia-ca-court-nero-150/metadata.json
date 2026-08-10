@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-ca-court-nero-150.html",
+  "title": "CAMICIA UOMO BLACK RAGS COURT NERO",
+  "description_text": "La Camicia Uomo Black Rags realizzata in 97% poliestere e 3% elastane è un capo tecnico che reinterpreta un classico del guardaroba maschile in chiave estremamente funzionale e moderna. Progettata per chi cerca un'estetica curata senza i vincoli dei tessuti tradizionali, questa camicia offre prestazioni superiori in termini di vestibilità e manutenzione.\r\nPerché sceglierla\r\nIl vantaggio principale di questa composizione risiede nella tecnologia \"stretch\" del tessuto. Mentre il poliestere garantisce che la camicia sia praticamente \"no-iron\" (non necessita di stiratura) e mantenga un aspetto liscio per tutto il giorno, il 3% di elastane fornisce la flessibilità necessaria per un comfort totale, eliminando il senso di rigidità tipico delle camicie formali.",
+  "price": 25.0,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "97% POLIESTERE 3% ELASTANE",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "sportivo": 1.0,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-court-nero-150",
+  "image_count": 3
+}

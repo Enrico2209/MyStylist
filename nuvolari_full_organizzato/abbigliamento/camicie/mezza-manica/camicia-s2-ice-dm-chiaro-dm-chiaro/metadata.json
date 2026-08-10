@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-s2-ice-dm-chiaro-dm-chiaro.html",
+  "title": "CAMICIA UOMO PROJ3CT ICE DM CHIARO",
+  "description_text": "Camicia Uomo Proj3Ct ICE\r\nLa camicia a maniche corte del brand Proj3ct presenta una vivace fantasia tigre. Realizzata al 100% in cotone, offre una vestibilità regular e un comfort eccezionale. Il design include una chiusura con bottoni e un colletto reverse neck, perfetta per aggiungere un tocco di stile e originalità al tuo guardaroba estivo.\r\nAbbinala con un paio di occhiali da sole ed un cappello pensato appositamente per te da Nuvolari",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 0.8,
+    "boho_fantasia": 0.8
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-s2-ice-dm-chiaro-dm-chiaro",
+  "image_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-nuvolari-ralph-azzurro-azzurro.html",
+  "title": "CAMICIA UOMO NUVOLARI RALPH AZZURRO",
+  "description_text": "Le camicie da uomo sono un pilastro dell'abbigliamento maschile, disponibili in una gamma di tessuti e stili, dalle classiche camicie button-down alle eleganti camicie formali. Offrono versatilità e raffinatezza per molteplici occasioni.",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% COTONE",
+  "sku": null,
+  "color_hints": [
+    "azzurro",
+    "azzurro"
+  ],
+  "style_tags": {
+    "casual": 1.2
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-nuvolari-ralph-azzurro-azzurro",
+  "image_count": 1
+}

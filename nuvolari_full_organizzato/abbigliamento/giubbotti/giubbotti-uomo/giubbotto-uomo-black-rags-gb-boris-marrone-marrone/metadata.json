@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/giubbotto-uomo-black-rags-gb-boris-marrone-marrone.html",
+  "title": "GIUBBOTTO UOMO BLACK RAGS BORIS MARRONE",
+  "description_text": "Giubbotto Uomo Black Rags Boris Marrone\r\nIl giubbotto Black Rags con colletto è un capo che combina stile e funzionalità. Caratterizzato da un design moderno, è ideale per completare un look casual e sofisticato. La presenza del colletto aggiunge un tocco di eleganza, rendendolo perfetto per diverse occasioni.\r\nAbbinalo i ad una camicia oppure ad una maglia per ottenere il look elegante perfetto!",
+  "price": 48.5,
+  "currency": "EUR",
+  "brand": "BLACK RAGS",
+  "brand_slug": "black-rags",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "black",
+    "marrone",
+    "marrone"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-black-rags-gb-boris-marrone-marrone",
+  "image_count": 1
+}

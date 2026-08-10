@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/cappello-julien-bucket-hat-black-blk.html",
+  "title": "CAPPELLO UOMO OBEY JULIEN BUCKET BLACK",
+  "description_text": "Il cappello bucket da uomo Obey Julien in colore Black è l’accessorio perfetto per completare i tuoi outfit con un tocco streetwear autentico. Realizzato con materiali di qualità e impreziosito dall’iconico logo Obey, unisce stile e praticità. Perfetto per le giornate primaverili soleggiate o per aggiungere un dettaglio distintivo al tuo look urbano.",
+  "price": 35.0,
+  "currency": "EUR",
+  "brand": "OBEY",
+  "brand_slug": "obey",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "streetwear": 1.2
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-urban-style/cappello-julien-bucket-hat-black-blk",
+  "image_count": 1
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-w2-blk-nayt-blk-denim-blk-denim.html",
+  "title": "JEANS UOMO PROJ3CT NAYT BLACK DENIM",
+  "description_text": "Questi JEANS di PROJECT uniscono il look robusto e intramontabile del denim all'estremo comfort di un jogger con elastico in vita. Il colore e le tasche cargo laterali creano un capo versatile e di tendenza per un outfit streetwear sofisticato.\r\nConsiglio di Stile: L'abbinamento ideale è con la Felpa Full Zip Colmar in Verde o la Polo Baecker per un contrasto smart-casual.",
+  "price": 40.0,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-w2-blk-nayt-blk-denim-blk-denim",
+  "image_count": 1
+}

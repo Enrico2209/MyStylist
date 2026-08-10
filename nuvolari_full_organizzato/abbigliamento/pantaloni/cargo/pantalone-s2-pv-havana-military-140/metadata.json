@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-s2-pv-havana-military-140.html",
+  "title": "PANTALONE CARGO UOMO NUVOLARI HAVANA MILITARY",
+  "description_text": "Il pantalone cargo da uomo Nuvolari combina stile e comfort per un look contemporaneo e versatile. Realizzato con materiali di alta qualità, offre una vestibilità perfetta e dettagli curati, ideali per chi ama distinguersi con un tocco casual ma ricercato. Perfetto da abbinare con una felpa per un look streetwear o con una camicia per un outfit più sofisticato. Completa il tuo stile con sneakers di tendenza o scarpe per un look urbano e dinamico.",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "69% poliestere, 29% viscosa, 25 elastane",
+  "sku": null,
+  "color_hints": [
+    "military"
+  ],
+  "style_tags": {
+    "elegante": 0.9,
+    "casual": 2.0,
+    "streetwear": 0.8,
+    "sportivo": 1.0,
+    "workwear": 0.8,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-s2-pv-havana-military-140",
+  "image_count": 1
+}

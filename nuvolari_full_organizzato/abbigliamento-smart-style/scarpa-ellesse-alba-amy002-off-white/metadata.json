@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/scarpa-ellesse-alba-amy002-off-white.html",
+  "title": "SCARPA UOMO ELLESSE ALBA OFF WHITE",
+  "description_text": "La Sneaker Ellesse Alba nella colorazione Off White (Codice AMY002) rappresenta l'essenza dello stile \"court\" d'ispirazione vintage, ma con un tocco di eleganza contemporanea. Rispetto ai classici modelli in bianco ottico, la tonalità Off White (panna/crema) conferisce alla scarpa una finitura più calda e sofisticata, perfetta per chi cerca una sneaker versatile che si discosti dal design puramente sportivo per avvicinarsi a un'estetica più curata.Il punto di forza della Ellesse Alba risiede nel suo design pulito e minimalista. La tomaia, realizzata in materiale sintetico di alta qualità che imita la grana della pelle, offre un look premium e una grande resistenza all'usura. Il colore Off White è una scelta strategica: è più facile da abbinare rispetto al bianco puro e tende a nascondere meglio i piccoli segni dell'uso quotidiano, mantenendo un aspetto impeccabile più a lungo.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "ELLESSE",
+  "brand_slug": "ellesse",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "sportivo": 0.8,
+    "vintage_prep": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento-smart-style/scarpa-ellesse-alba-amy002-off-white",
+  "image_count": 4
+}

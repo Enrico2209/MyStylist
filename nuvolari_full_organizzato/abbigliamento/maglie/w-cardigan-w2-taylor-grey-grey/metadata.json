@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/w-cardigan-w2-taylor-grey-grey.html",
+  "title": "CARDIGAN DONNA PROJ3CT TAYLOR GREY",
+  "description_text": "Il Cardigan Taylor di PROJ3CT è il capo di layering essenziale per un comfort totale e un tocco di eleganza discreta. Realizzato in 100% Acrilico, offre una morbidezza eccezionale, calda e piacevole al tatto, perfetta per avvolgerti nelle giornate più fresche.\r\nLa linea versatile lo rende ideale per ogni occasione: indossalo sopra una t-shirt e jeans per un look casual del fine settimana, oppure abbinalo a un vestito elegante per aggiungere calore e raffinatezza al tuo outfit da ufficio o da sera.\r\nPerché 100% Acrilico?\r\nL'Acrilico è una fibra sintetica premium scelta per le sue proprietà che replicano la morbidezza e il calore della lana, ma con notevoli vantaggi:\r\n\r\n\r\nLeggerezza e Calore: Garantisce un ottimo isolamento termico senza appesantire.\r\n\r\n\r\nResistenza e Durata: Mantiene la forma e la vivacità del colore anche dopo numerosi lavaggi.\r\n\r\n\r\nFacilità di Cura: Asciuga rapidamente ed è resistente alle pieghe e alle tarme",
+  "price": 69.9,
+  "currency": "EUR",
+  "brand": "PROJ3CT",
+  "brand_slug": "proj3ct",
+  "fit": "regular",
+  "composition": "100% acrilico",
+  "sku": null,
+  "color_hints": [
+    "grey",
+    "grey"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.1,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/maglie/w-cardigan-w2-taylor-grey-grey",
+  "image_count": 3
+}

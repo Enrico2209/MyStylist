@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-we-leins-moro-101.html",
+  "title": "CAMICIA DA UOMO NUVOLARI LEINS MORO",
+  "description_text": "Camicia Nuvolari, realizzata in 100% cotone color marrone scuro. Una camicia dalla vestibilità slim e un caratteristico collo alla francese.",
+  "price": 27.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.9
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-we-leins-moro-101",
+  "image_count": 7
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-b6312-white-183.html",
+  "title": "SNEAKERS UOMO FRED PERRY B6312 WHITE",
+  "description_text": "Le Sneakers Uomo Fred Perry B6312 rappresentano l'evoluzione contemporanea delle calzature da tennis classiche, focalizzandosi su una silhouette più snella e un'estetica estremamente pulita. Questo modello è pensato per chi cerca una scarpa versatile, capace di passare con disinvoltura da un look casual da ufficio a un outfit per il tempo libero, mantenendo sempre quell'eleganza sportiva tipicamente britannica.\r\nFred Perry B6312 Minimalismo e Profilo Low-Top\r\nPerché sceglierle\r\nIl punto di forza delle B6312 risiede nel loro design a basso profilo e nella costruzione leggera. Realizzate solitamente in pelle morbida o materiale sintetico premium, queste sneakers offrono un comfort immediato grazie a una tomaia flessibile e una suola in gomma sottile ma resistente. A differenza di modelli più robusti, le B6312 slanciano il piede, rendendole ideali per essere indossate con pantaloni dal taglio slim o affusolato.",
+  "price": 65.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "white"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.2,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "scarpe/sneakers/sneakers-b6312-white-183",
+  "image_count": 3
+}

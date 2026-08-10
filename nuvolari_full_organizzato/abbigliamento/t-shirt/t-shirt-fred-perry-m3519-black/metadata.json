@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/t-shirt-fred-perry-m3519-black.html",
+  "title": "T-SHIRT GIROCOLLO UOMO FRED PERRY BLACK",
+  "description_text": "La t-shirt da uomo firmata Fred Perry è una maglietta nera a manica corta realizzata in morbido jersey di cotone.\r\nLa maglia a girocollo e tinta unita ha bordi e collo a coste, il logo del brand in contrasto di colore bianco davanti.\r\nSe anche tu sei amante del brand Fred Perry dai un'occhiata qui al resto dei suoi capi d'abbigliamento scelti per te da Nuvolari!\r\nIl modello indossa la taglia L",
+  "price": 55.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "black"
+  ],
+  "style_tags": {
+    "casual": 1.2
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/t-shirt/t-shirt-fred-perry-m3519-black",
+  "image_count": 3
+}

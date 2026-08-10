@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-kinney-woven-black-multi-bkm.html",
+  "title": "CAMICIA UOMO OBEY KINNEY BLACK MULTI",
+  "description_text": "La camicia da uomo Obey unisce il design classico a un’estetica contemporanea, perfetta per chi cerca un look casual ma curato nei dettagli. Realizzata in tessuto di alta qualità, garantisce comfort e vestibilità ottimale. Il taglio versatile la rende ideale sia per outfit formali che per combinazioni più rilassate.\r\nAbbinala a un paio di jeans per un tocco urbano o a un pantalone chino per un’eleganza senza sforzo. Completa il look con delle sneakers per un perfetto equilibrio tra stile e comodità.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "OBEY",
+  "brand_slug": "obey",
+  "fit": "ottimale",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "black",
+    "multi"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "streetwear": 1.2
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/mezza-manica/camicia-kinney-woven-black-multi-bkm",
+  "image_count": 3
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/v-neck-vest-taion-beige.html",
+  "title": "SMANICATO UOMO TAION SCOLLO V BEIGE",
+  "description_text": "Lo smanicato da uomo di Taion è un capo perfetto per la stagione primaverile ed estiva.\r\nQuesto gilet beige a tinta unita ha lo scollo a V, due tasche laterali con zip e una vestibilità regular.\r\nIl modello indossa la taglia L.",
+  "price": 52.5,
+  "currency": "EUR",
+  "brand": "TAION",
+  "brand_slug": "taion",
+  "fit": "regular",
+  "composition": "100% nylon",
+  "sku": "TAION-001 BEIGE-BEIGE",
+  "color_hints": [
+    "beige"
+  ],
+  "style_tags": {
+    "streetwear": 0.5,
+    "outdoor_tecnico": 0.5
+  },
+  "formality_score": 2,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/smanicato/v-neck-vest-taion-beige",
+  "image_count": 1
+}

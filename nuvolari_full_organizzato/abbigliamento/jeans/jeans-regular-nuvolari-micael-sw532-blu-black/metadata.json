@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-regular-nuvolari-micael-sw532-blu-black.html",
+  "title": "JEANS REGULAR MICAEL SW532 BLU/BLACK",
+  "description_text": "Jeans regular uomo dal lavaggio scuro in tessuto elasticizzato con 5 tasche, chiusura zip nacosta e bottone, salpa logata Nuvolari sul retro. Un modello semplice che si caratterizza per il lavaggio scolorito sui toni scuri del blu e del nero. Completa il tuo look con un paio di sneakers firmate.",
+  "price": 35.5,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": "regular",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "black"
+  ],
+  "style_tags": {
+    "casual": 0.8,
+    "sportivo": 0.5,
+    "vintage_prep": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-regular-nuvolari-micael-sw532-blu-black",
+  "image_count": 4
+}

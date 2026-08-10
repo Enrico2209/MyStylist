@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/polo-lacoste-slim-fit-green.html",
+  "title": "POLO UOMO LACOSTE SLIM FIT GREEN",
+  "description_text": "La polo da uomo firmata Lacoste è un capo di abbigliamento che, nonostante gli anni, non tramonta mai.\r\nQuesta polo verde, a manica corta, con orlo rifinito a costine e taglio classico ha una vestibilità slim e è realizzata interamente in cotone. È a tinta unita e ha il famoso coccodrillo Lacoste sul petto. La maglietta a manica corta ha colletto e chiusura con due bottoncini.\r\nSe sei amante del brand Lacoste dai un'occhiata su Nuvolari ai suoi capi di abbigliamento!\r\nIl modello è alto 1.88 cm e indossa la taglia L.",
+  "price": 88.0,
+  "currency": "EUR",
+  "brand": "LACOSTE",
+  "brand_slug": "lacoste",
+  "fit": "slim",
+  "composition": "100% cotone",
+  "sku": "PH4012 GREEN-132",
+  "color_hints": [
+    "green"
+  ],
+  "style_tags": {
+    "elegante": 0.7,
+    "casual": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "brands/lacoste/polo-lacoste-slim-fit-green",
+  "image_count": 4
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-47a-dizzy-nero-2.html",
+  "title": "CAMICIA UOMO BAECKER DIZZY NERO",
+  "description_text": "Camicia Uomo Baecker Eleganza funzionale, spirito urbano\r\nLinee pulite e carattere deciso: la camicia uomo Baecker è il capo ideale per chi ama un look raffinato ma versatile. Realizzata in tessuto leggero e traspirante, è perfetta per essere indossata da sola o sotto una giacca. Il design minimal, arricchito da dettagli essenziali, la rende adatta sia per l’ufficio che per il tempo libero.\r\nProposta outfit:\r\nAbbinala a un pantalone chino o a un jeans per un look casual ma curato, completando il tutto con una sneaker sobria per uno stile moderno e disinvolto.",
+  "price": 62.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "nero"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 1.6,
+    "streetwear": 0.8,
+    "sportivo": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-47a-dizzy-nero-2",
+  "image_count": 4
+}

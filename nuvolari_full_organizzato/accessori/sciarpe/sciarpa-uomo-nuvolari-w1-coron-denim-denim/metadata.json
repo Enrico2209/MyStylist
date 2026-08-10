@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/sciarpa-uomo-nuvolari-w1-coron-denim-denim.html",
+  "title": "SCIARPA NUVOLARI CORON DENIM",
+  "description_text": "Sciarpa Nuvolari Coron Denim\r\nLa sciarpa Nuvolari è l'accessorio ideale per aggiungere un tocco di stile ai tuoi look. Con il suo design semplice ma elegante, garantisce comfort e calore durante la stagione fredda, completando ogni outfit con classe.",
+  "price": 23.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.7
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "accessori/sciarpe/sciarpa-uomo-nuvolari-w1-coron-denim-denim",
+  "image_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-uomo-superdry-m7010994a-blue-bottle-92n.html",
+  "title": "PANTALONE UOMO SUPERDRY BLUE BOTTLE",
+  "description_text": "Pantalone Uomo Superdry Blue Bottle\r\nPantalone cargo Superdry con tasche multiple, realizzato in tessuto resistente. Caratterizzato da una vestibilità regolare e dettagli funzionali, come le tasche laterali e posteriori con patta. Ideale per un look casual e pratico.",
+  "price": 58.0,
+  "currency": "EUR",
+  "brand": "SUPERDRY",
+  "brand_slug": "superdry",
+  "fit": "regular",
+  "composition": "Vestibilità regular",
+  "sku": null,
+  "color_hints": [
+    "blue"
+  ],
+  "style_tags": {
+    "casual": 1.1,
+    "workwear": 0.8
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-superdry-m7010994a-blue-bottle-92n",
+  "image_count": 1
+}

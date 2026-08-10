@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-s3-med-simon-medium-denim-med-dnm.html",
+  "title": "JEANS UOMO NUVOLARI MED SIMON MEDIUM DENIM",
+  "description_text": "I Jeans Uomo Nuvolari nel modello Med Simon rappresentano il perfetto equilibrio tra il fascino del denim tradizionale e un'attitudine urbana contemporanea. Realizzati in 100% cotone, questi jeans offrono quella struttura solida e autentica che solo il denim \"puro\" sa dare, evolvendo e ammorbidendosi col tempo per adattarsi perfettamente a chi li indossa.\r\nL'Autenticità del Denim \r\nPerché sceglierli\r\nIl modello Simon si distingue per un lavaggio indaco medio (Med) arricchito da dettagli distressed (piccole rotture localizzate) che conferiscono al capo un aspetto vissuto e di carattere. La scelta del 100% cotone assicura una tela robusta che mantiene la forma originale, celebrando il ritorno alle origini del jeans senza compromessi tecnici.",
+  "price": 38.5,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "regular",
+  "composition": "100% cotone",
+  "sku": null,
+  "color_hints": [
+    "denim"
+  ],
+  "style_tags": {
+    "casual": 1.2,
+    "streetwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-s3-med-simon-medium-denim-med-dnm",
+  "image_count": 4
+}

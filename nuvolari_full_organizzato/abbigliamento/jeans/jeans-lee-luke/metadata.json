@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-lee-luke.html",
+  "title": "JEANS UOMO LEE LUKE LIGHT RAY",
+  "description_text": "LEE LUKE SHORTS: IL DENIM LEGGERO PER LA TUA ESTATE\r\nAffronta le giornate più calde con lo stile inconfondibile di Lee. Questi shorts, basati sul celebre taglio Luke, offrono una vestibilità moderna e slanciata. Il lavaggio Light Ray dona un aspetto fresco e luminoso, perfetto per i weekend al mare o i pomeriggi in città.\r\nFit Contemporaneo: Un taglio slim-tapered che si adatta perfettamente alla silhouette, terminando appena sopra il ginocchio per un look attuale.\r\nLavaggio Light Ray: Una splendida tonalità di blu chiaro con un leggero effetto \"vissuto\" che evoca le vibes delle vacanze estive.\r\nDettaglio Risvolto: Il fondo con risvolto cucito aggiunge un tocco di stile preppy e curato al tuo outfit casual.",
+  "price": 50.0,
+  "currency": "EUR",
+  "brand": "LEE",
+  "brand_slug": "lee",
+  "fit": "moderna",
+  "composition": null,
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "casual": 1.2,
+    "vintage_prep": 1.2
+  },
+  "formality_score": 2,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-lee-luke",
+  "image_count": 3
+}

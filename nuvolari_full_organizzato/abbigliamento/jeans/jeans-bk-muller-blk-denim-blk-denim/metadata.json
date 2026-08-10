@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-bk-muller-blk-denim-blk-denim.html",
+  "title": "JEANS UOMO BAECKER MULLER BLK DENIM",
+  "description_text": "Jeans Uomo Baecker – Versatilità senza tempo\r\nI jeans uomo Baecker rappresentano l’equilibrio perfetto tra comfort, qualità e stile. Realizzati in denim resistente ma morbido, offrono una vestibilità regolare pensata per accompagnarti nei movimenti quotidiani. Il lavaggio versatile li rende ideali sia per look casual che per outfit più curati.\r\nPerfetti con una camicia in lino per un tocco raffinato o con una T-shirt basic per un look rilassato. Completa l’outfit con un paio di sneakers per uno stile urbano sempre attuale.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "regolare",
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "denim",
+    "denim"
+  ],
+  "style_tags": {
+    "elegante": 0.8,
+    "casual": 0.8,
+    "streetwear": 0.8,
+    "workwear": 0.8,
+    "minimal": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-bk-muller-blk-denim-blk-denim",
+  "image_count": 1
+}

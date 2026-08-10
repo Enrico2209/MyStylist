@@ -1,0 +1,23 @@
+{
+  "url": "https://www.nuvolari.biz/bomber-at-fw22-012-orange-orange.html",
+  "title": "BOMBER ORANGE-ORANGE",
+  "description_text": "",
+  "price": 99.0,
+  "currency": "EUR",
+  "brand": null,
+  "brand_slug": null,
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "orange",
+    "orange"
+  ],
+  "style_tags": {},
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/giubbotti/bomber/bomber-at-fw22-012-orange-orange",
+  "image_count": 4
+}

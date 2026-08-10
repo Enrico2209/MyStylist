@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/camicia-sf-petapa-giallo-17.html",
+  "title": "CAMICIA UOMO NUVOLARI PETAPA GIALLO",
+  "description_text": "Camicia Uomo Nuvolari Petapa Giallo\r\nChiusura con bottoni nascosti, collo alla coreana, bottoni sui polsini.",
+  "price": 79.9,
+  "currency": "EUR",
+  "brand": "NUVOLARI",
+  "brand_slug": "nuvolari",
+  "fit": "slim",
+  "composition": "100 % lino",
+  "sku": null,
+  "color_hints": [
+    "giallo"
+  ],
+  "style_tags": {
+    "elegante": 1.2,
+    "casual": 0.9
+  },
+  "formality_score": 3,
+  "season": "estate",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/camicie/manica-lunga/camicia-sf-petapa-giallo-17",
+  "image_count": 2
+}

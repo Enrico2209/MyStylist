@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/giacca-1161-schuman-blu-blu.html",
+  "title": "GIACCA UOMO BAECKER SCHUMAN BLU",
+  "description_text": "Giacca Baecker Blu\r\nLa giacca Baecker è un'elegante aggiunta al guardaroba. Ideale per occasioni formali o per l'abbigliamento d'ufficio, questa giacca unisce stile e funzionalità in modo impeccabile.\r\nAbbinala ad un paio di pantaloni di chino e ad una camicia per un look elegante e raffinato in ogni situazione.",
+  "price": 84.5,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": null,
+  "composition": null,
+  "sku": null,
+  "color_hints": [
+    "blu",
+    "blu"
+  ],
+  "style_tags": {
+    "elegante": 0.8
+  },
+  "formality_score": 4,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/giacche/giacca-1161-schuman-blu-blu",
+  "image_count": 4
+}

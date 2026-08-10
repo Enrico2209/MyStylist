@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/pantalone-new-rolf-blue-navy.html",
+  "title": "PANTALONE UOMO ROY ROGER'S NEW ROLF BLU",
+  "description_text": "Il pantalone da uomo di Roy Roger’s New Rolf è un pantalone blu, dalla vestibilità slim.\r\nUn classico a tinta unita con 4 tasche, passante per la cinta, bottone laterale e chiusura con zip.\r\nIl modello indossa la taglia 48.",
+  "price": 64.5,
+  "currency": "EUR",
+  "brand": "ROY ROGER'S",
+  "brand_slug": "roy-roger-s",
+  "fit": "slim",
+  "composition": "97% cotone 3% elastan",
+  "sku": "RRU013C9250112 BLUE NAVY-048",
+  "color_hints": [
+    "blue",
+    "navy"
+  ],
+  "style_tags": {
+    "casual": 0.5,
+    "sportivo": 0.5
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/pantaloni/chinos/pantalone-new-rolf-blue-navy",
+  "image_count": 3
+}

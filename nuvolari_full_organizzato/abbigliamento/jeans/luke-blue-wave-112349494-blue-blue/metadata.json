@@ -1,0 +1,29 @@
+{
+  "url": "https://www.nuvolari.biz/luke-blue-wave-112349494-blue-blue.html",
+  "title": "JEANS UOMO LEE LUKE BLUE WAVE BLUE",
+  "description_text": "Esplora il comfort e lo stile senza tempo con il jeans da uomo Lee\r\nQuesto jeans offre una vestibilità aderente che si adatta al tuo corpo in modo confortevole. Con un design versatile e resistente, è perfetto per qualsiasi occasione, dall'abbigliamento quotidiano al casual chic. L'elastan aggiunge un tocco di elasticità al tessuto, consentendo una maggiore libertà di movimento. Combina questo jeans con una camicia e un paio di scarpe per un look informale ma alla moda, adatto a qualsiasi occasione. Con il jeans Lee slim fit, sarai sempre alla moda e confortevole.",
+  "price": 50.0,
+  "currency": "EUR",
+  "brand": "LEE",
+  "brand_slug": "lee",
+  "fit": "slim",
+  "composition": "Vestibilità slim fit",
+  "sku": null,
+  "color_hints": [
+    "blue",
+    "blue",
+    "blue"
+  ],
+  "style_tags": {
+    "elegante": 1.1,
+    "casual": 1.2,
+    "workwear": 0.8,
+    "minimal": 1.1
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/luke-blue-wave-112349494-blue-blue",
+  "image_count": 1
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nuvolari.biz/maglia-k9601-navy-aubergine-264.html",
+  "title": "MAGLIONE DA UOMO FRED PERRY NAVY/AUBERGINE",
+  "description_text": "Maglione girocollo da Uomo",
+  "price": 219.0,
+  "currency": "EUR",
+  "brand": "FRED PERRY",
+  "brand_slug": "fred-perry",
+  "fit": "regular",
+  "composition": "54% Lana 46% Cotone",
+  "sku": null,
+  "color_hints": [
+    "navy"
+  ],
+  "style_tags": {
+    "elegante": 0.5,
+    "casual": 1.2,
+    "vintage_prep": 0.9
+  },
+  "formality_score": 3,
+  "season": "inverno",
+  "pattern": "tinta_unita",
+  "needs_vision_review": true,
+  "relpath": "abbigliamento/maglie/maglia-k9601-navy-aubergine-264",
+  "image_count": 3
+}

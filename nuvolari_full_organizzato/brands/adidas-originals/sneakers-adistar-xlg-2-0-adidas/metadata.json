@@ -1,0 +1,24 @@
+{
+  "url": "https://www.nuvolari.biz/sneakers-adistar-xlg-2-0-adidas.html",
+  "title": "SNEAKERS UOMO ADIDAS ORIGINALS ADISTAR XLG 2.0 FWHT/BLK/ORG",
+  "description_text": "Le adidas Adistar XLG 2.0 reinterpretano un classico modello da running tecnico in chiave lifestyle, puntando su proporzioni esagerate e volumi dinamici. La sigla \"XLG\" indica proprio la natura oversize della scarpa, caratterizzata da un'intersuola imponente che definisce una silhouette moderna e di grande impatto visivo.\r\nPerfette per chi cerca una scarpa che non passi inosservata, combinano materiali premium come mesh traspirante e sovrapposizioni in materiale sintetico o pelle, garantendo una calzata comoda e uno stile \"retro-future\" ideale per la città.",
+  "price": 140.0,
+  "currency": "EUR",
+  "brand": "ADIDAS ORIGINALS",
+  "brand_slug": "adidas-originals",
+  "fit": "regular",
+  "composition": "Tomaia in tessuto",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "streetwear": 1.2,
+    "sportivo": 0.8,
+    "vintage_prep": 1.2
+  },
+  "formality_score": 3,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "brands/adidas-originals/sneakers-adistar-xlg-2-0-adidas",
+  "image_count": 4
+}

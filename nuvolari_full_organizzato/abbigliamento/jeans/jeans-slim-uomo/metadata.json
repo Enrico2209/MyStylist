@@ -1,0 +1,25 @@
+{
+  "url": "https://www.nuvolari.biz/jeans-slim-uomo.html",
+  "title": "JEANS UOMO BAECKER MULLER SLIM MED DENIM",
+  "description_text": "Baecker Slim: il jeans che segue ogni tuo passo\r\nCerchi un jeans versatile, comodo e con una marcia in più? Il modello Baecker Slim è quello giusto per te. Linee pulite, vestibilità slim che valorizza la silhouette senza costringere e una costruzione studiata per accompagnarti in ogni momento della giornata.\r\nPerfetto con una t-shirt e sneakers per un look casual e rilassato, ma anche con una camicia e un blazer per un tocco più ricercato: Baecker Slim si adatta al tuo stile con naturalezza.\r\nIl tessuto è morbido ma resistente, con un leggero effetto stretch che garantisce libertà di movimento e massimo comfort. I lavaggi? Dai toni più scuri, ideali per la sera, fino alle nuance più chiare e vissute, per un daily look fresco e disinvolto.\r\nCon Baecker Slim hai tutto ciò che serve per affrontare la giornata con grinta e stile. Un jeans dal taglio moderno, pensato per l’uomo che non vuole mai rinunciare al comfort, senza mai perdere di vista il carattere.",
+  "price": 45.0,
+  "currency": "EUR",
+  "brand": "BAECKER",
+  "brand_slug": "baecker",
+  "fit": "slim",
+  "composition": "98% cotone, 2% elastane",
+  "sku": null,
+  "color_hints": null,
+  "style_tags": {
+    "elegante": 1.1,
+    "casual": 1.3,
+    "sportivo": 0.5,
+    "workwear": 0.8
+  },
+  "formality_score": 2,
+  "season": "tutte",
+  "pattern": "tinta_unita",
+  "needs_vision_review": false,
+  "relpath": "abbigliamento/jeans/jeans-slim-uomo",
+  "image_count": 1
+}
