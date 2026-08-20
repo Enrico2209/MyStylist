@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-2-0-franklin-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Pantalone Uomo Baecker, realizzato in un blend di 88% nylon e 12% elastane, rappresenta la massima espressione del pantalone tecnico contemporaneo. È un capo progettato per chi non accetta compromessi tra l'estetica formale di un pantalone cittadino e le prestazioni di un capo sportivo ad alta tecnologia.\nPerché sceglierlo\nLa vera forza di questo modello risiede nella sua struttura 4-way stretch. L'alta percentuale di elastane (12%) permette al tessuto di seguire ogni movimento del corpo senza opporre resistenza, tornando istantaneamente alla forma originale. Il nylon, d'altra parte, conferisce al capo una robustezza superiore e una mano liscia, quasi setosa, che respinge naturalmente lo sporco e l'umidità.\nTessuto Tecnico Avanzato\n: Il nylon ad alta densità garantisce una durata eccezionale, resistendo ad abrasioni e strappi tipici della vita urbana frenetica.\nMassima Traspirabilità\n: Nonostante la sua robustezza, la fibra sintetica favorisce la rapida evaporazione del sudore, mantenendo le gambe fresche e asciutte.\nEffetto \"Wrinkle-Free\"\n: Grazie alla memoria di forma del poliammide, questo pantalone non si stropiccia mai, risultando perfetto per chi passa molte ore seduto o in viaggio.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n88% nylon 12% elastane\nVestibilità regular\nCodice articolo: 2.0 FRANKLIN NERO-NERO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "sportivo": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Pantalone chino dal taglio pulito e formale, ma realizzato in tessuto tecnico nylon stretch",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

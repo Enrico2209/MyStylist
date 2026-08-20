@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/cappotti/cappotto-ese-uptown-mi151-deep-blue-c037",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCappotto leggero da uomo firmato Museum per la stagione primaverile, waterproof, windproof e soft touch. Un giubbino elegante dalla vestibilità regular con abbottonatura centrale, due tasche aperte frontali, una tasca interna con zip e un taschino con bottone automatico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCappotto leggero uomo Museum modello Uptown - Deep Blue\nStrato esterno in microfibra\nChiusura con bottoni\nDue tasche aperte frontali\nTasca interna con zip\nTaschino con bottone automatico\nPatch Logo Museum termoapplicata sul braccio sinistro\nWaterproof, windproof e soft touch\nVestibilità Regular Fit\nComposizione: 100% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 4,
+    "formality_perche": "cappotto monopetto dal taglio classico e pulito, adatto a contesti formali e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

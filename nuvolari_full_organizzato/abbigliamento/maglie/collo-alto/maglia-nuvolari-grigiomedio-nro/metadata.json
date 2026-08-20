@@ -20,5 +20,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-nuvolari-grigiomedio-nro",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\nmaglione da uomo Nuvolari Milne grigio scuro\ncon collo alto è un maglione comodo e caldo. Ha una cucitura a righe con polsini e girovita elasticizzati\nIl modello indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione da uomo Nuvolari Milne grigio medio\nVestibilità regular\nComposizione: 70% lana 25% poliammide 5% altre fibre\nCodice articolo:WF MILNE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto in misto lana, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

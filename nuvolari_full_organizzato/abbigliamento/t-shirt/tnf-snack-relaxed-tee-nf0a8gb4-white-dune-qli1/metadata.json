@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/tnf-snack-relaxed-tee-nf0a8gb4-white-dune-qli1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nThe North Face Snack Relaxed: Il Comfort Incontra lo Street Style\nT-shirt Uomo The North Face Snack Relaxed Graphic\nRilassati senza mai rinunciare al carattere. La t-shirt TNF Snack Relaxed è il capo essenziale per chi vive la città e il tempo libero con un approccio \"easy\". Grazie alla sua vestibilità comoda e alla morbidezza del cotone puro, questa maglia ti offre la libertà di movimento di cui hai bisogno. Il design gioca su una grafica distintiva presente sia sul petto che sulla schiena, trasformando un pezzo basico in una dichiarazione di stile autentica e disinvolta.\nDettagli di Design e Comfort\n100% Cotone Naturale\n: La scelta del cotone puro assicura una traspirabilità eccellente e una sensazione di morbidezza impareggiabile sulla pelle, ideale per le giornate più lunghe.\nFit Relaxed con Spalle Scese\n: La linea ampia e le cuciture delle spalle leggermente ribassate donano una silhouette moderna, perfetta per un look street-casual mai costrittivo.\nStampa Eco-friendly\n: Le grafiche sono realizzate con inchiostri a base d'acqua, una scelta tecnica che garantisce una mano morbida al tatto, una maggiore durata dei colori e un minor impatto ambientale.\nGrafica Double-Face\n: Il dinamismo della stampa sia sul fronte che sul retro cattura l'attenzione da ogni angolazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n220 g/m², 100% cotone/maglia/jersey singolo\nVestibilità regular\nCodice articolo: NF0A8GB4 WHITE DUNE-QLI1",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con vestibilita relaxed e grafica, tetto di marchio sport/outdoor",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

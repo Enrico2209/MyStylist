@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calza-p004489-pasta-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa rivoluzione del quotidiano comincia dai dettagli più inaspettati. Nato in Svezia con l'obiettivo ambizioso di trasformare un accessorio essenziale e spesso trascurato in un'esplosione di gioia e design,\nHappy Socks\nha ridefinito le regole della calzetteria globale. Il brand unisce una qualità costruttiva di altissimo livello a una creatività geometrica senza freni, dimostrando che anche un paio di calzini può diventare il pezzo forte per esprimere la propria unicità e un'attitudine ironica, pop e cosmopolita.\nDesign, Pattern e Filosofia del Brand\nCreatività senza Confini e Pattern Iconici\n: Dai celebri pois giganti (Big Dot) ai motivi geometrici optical, fino a grafiche ispirate al cibo, agli animali e alla cultura pop. Ogni calzino Happy Socks è una tela in miniatura dove accostamenti cromatici audaci e illustrazioni divertenti rompono la monotonia dei toni grigi e neri tradizionali.\nCollaborazioni ad Alto Livello (Limited Editions)\n: Nel corso degli anni, il brand ha consolidato il suo status di icona streetwear attraverso capsule collection esclusive con artisti, musicisti e franchise leggendari (dai Beatles a Keith Haring, da Disney a collaborazioni con storici marchi della moda), creando veri e propri pezzi da collezione per gli appassionati.\nCotone Pettinato di Alta Qualità\n: Oltre all'estetica c'è una grande attenzione al comfort. I calzini sono realizzati principalmente in morbido cotone pettinato premium, un processo di lavorazione che seleziona solo le fibre più lunghe e resistenti, garantendo una texture liscia sulla pelle, traspirabilità e una durata eccellente lavaggio dopo lavaggio.\nRinforzi Strategici e Fit Perfetto\n: Progettati con punte e talloni rinforzati per prevenire l'usura nei punti di maggiore attrito. La percentuale di elastan integrata nel tessuto assicura che il calzino mantenga la sua posizione lungo il polpaccio o la caviglia senza stringere o cedere durante la giornata.\nNon nascondere i tuoi piedi, trasformali nel dettaglio che racconta chi sei. Sprigiona la tua energia e porta il colore in ogni passo con l'universo inconfondibile di Happy Socks.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "calzino in cotone con grafica pop e ironica, uso quotidiano informale",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

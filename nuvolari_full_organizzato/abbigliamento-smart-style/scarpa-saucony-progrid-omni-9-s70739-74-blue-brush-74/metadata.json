@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpa-saucony-progrid-omni-9-s70739-74-blue-brush-74",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Saucony ProGrid Omni 9 è un modello che fonde perfettamente l'estetica \"tech-runner\" degli anni 2000 con le prestazioni moderne, rendendola una delle sneakers più apprezzate per chi cerca stabilità e uno stile retrò sofisticato.\nSaucony ProGrid Omni 9 Innovazione e Stile Retrò\nPrincipali\nTecnologia ProGrid\n: Dotata del sistema di ammortizzazione ProGrid nell'intersuola, che assicura un assorbimento degli urti superiore e una transizione fluida dal tallone alla punta.\nSupporto e Stabilità\n: Progettata originariamente per il running ad alte prestazioni, offre una struttura rinforzata che garantisce stabilità al piede durante l'uso prolungato.\nMateriali Traspiranti\n: La tomaia combina un mesh a trama aperta con sovrapposizioni in materiale sintetico e metallizzato, offrendo freschezza e un look tecnico d'ispirazione millenial.\nDettagli Riflettenti\n: Molti modelli presentano inserti riflettenti che non solo migliorano la visibilità, ma accentuano l'estetica \"space-age\" della scarpa.\nSuola ad Alta Trazione\n: Realizzata in gomma di alta qualità con un design del battistrada che assicura un'aderenza ottimale su diverse superfici urbane.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers running retrò, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

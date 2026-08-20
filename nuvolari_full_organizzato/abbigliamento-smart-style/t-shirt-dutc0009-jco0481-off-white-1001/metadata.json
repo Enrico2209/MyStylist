@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-dutc0009-jco0481-off-white-1001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl gusto sartoriale italiano e l'attitudine contemporanea di Daniele Alessandrini si incontrano nella\nt-shirt da uomo Daniele Alessandrini nella colorazione off white\n. Un capo raffinato ma dal piglio urbano, dove la tonalità panna luminosa fa da sfondo alla stampa firmata che ne esalta il carattere.\nDesign, Tessuti e Caratteristiche Costruttive\nPuro Cotone di Qualità\n: Realizzata in cotone dalla mano morbida e piacevole, offre comfort e una vestibilità curata.\nNuance Off White\n: Un bianco panna caldo e versatile, elegante alternativa al bianco ottico e facile da abbinare.\nStampa Firmata\n: Grafica con logo Daniele Alessandrini che dona personalità e riconoscibilità al capo.\nGirocollo a Maniche Corte\n: Scollo a giro con costina e maniche corte dal taglio pulito.\nVestibilità Regular\n: Fit comodo e lineare, ideale per look curati e disinvolti.\nIdee di Stile: Costruisci il Tuo Look Smart Casual & Urban\nSmart Casual\n: Abbina la t-shirt a dei\npantaloni uomo\ndal taglio curato e delle\nsneakers uomo\nper un look elegante e rilassato.\nDenim Look\n: Indossala con un paio di\njeans uomo\nper un contrasto contemporaneo tra panna e denim.\nLayering & Capi Alternativi\n: Completa con un\ngiubbotto uomo\nleggero. Scopri anche le altre\nt-shirt uomo\ndella selezione.\nScegli l'eleganza informale firmata Daniele Alessandrini. La t-shirt off white con stampa logo è il capo giusto per un look curato dal tocco urbano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con logo frontale stampato, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

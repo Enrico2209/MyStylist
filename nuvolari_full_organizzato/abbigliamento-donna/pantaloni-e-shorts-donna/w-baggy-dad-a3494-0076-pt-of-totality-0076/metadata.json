@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/w-baggy-dad-a3494-0076-pt-of-totality-0076",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans da Donna Levi's: L'Originale, Reinventato\nI jeans da donna Levi's sono molto più di un capo d'abbigliamento: sono un'icona di stile, un simbolo di autenticità e una tela bianca per esprimere la tua personalità. Dalla metà del XIX secolo, Levi's ha plasmato la cultura del denim, e oggi continua a offrire una vasta gamma di modelli che uniscono la tradizione del jeans autentico alle tendenze più attuali.\nOgni paio di jeans Levi's è progettato per durare, evolvendosi con te nel tempo e diventando un pezzo unico del tuo stile.\nPerché Scegliere i Jeans Levi's\nAutenticità e Qualità:\nFondata sulla robustezza e sulla qualità, la tradizione del denim Levi's è garanzia di un capo destinato a durare. La cura nella scelta dei tessuti e nelle rifiniture è il cuore di ogni modello.\nVestibilità Perfetta per Ogni Fisicità:\nChe tu preferisca un taglio aderente, una gamba dritta o un modello ampio, Levi's ha creato una linea completa di vestibilità per valorizzare ogni silhouette. Dalla vita alta che modella alla vita bassa che allunga, c'è un paio di jeans Levi's per ogni donna.\nStile Senza Tempo:\nModelli come il leggendario\n501®\nsono un classico intramontabile, che si adatta a ogni epoca. Ma Levi's non si ferma qui: la collezione include anche tagli moderni e alla moda come i\nRibcage\no i\nBaggy Dad\n, per chi ama sperimentare.\nVersatilità Ineguagliabile:\nI jeans Levi's sono l'alleato perfetto per ogni occasione. Indossali con una T-shirt per un look casual, con una camicia per un'uscita serale, o con un blazer per un tocco più elegante. Si adattano a ogni stile, dal vintage al contemporaneo.\nI Modelli Iconici da Donna (e come abbinarli)\n501® Original:\nIl modello iconico per eccellenza. Vita media, gamba dritta e l'inconfondibile chiusura a bottoni. Perfetto per un look casual e autentico, si abbina bene con tutto, dalle sneakers agli stivali.\nRibcage:\nCon la loro vita ultra-alta, questi jeans sono pensati per allungare la figura e definire il punto vita. Disponibili in varianti slim, straight o wide leg, sono ideali per abbinamenti con crop top o bluse infilate all'interno per un tocco rétro.\n724™ High Rise Straight:\nL'equilibrio perfetto tra comfort e stile. Una vestibilità dritta e una vita alta che dona un look pulito e slanciato. Sono il passe-partout del guardaroba, facili da indossare con qualsiasi scarpa.\nBaggy Dad:\nIspirati ai modelli anni '90, questi jeans hanno una vestibilità ampia e rilassata. Sono l'ideale per chi cerca comfort senza rinunciare allo stile, perfetti con sneakers grosse e felpe per un look street.\nSerie Shaping:\nJeans come i\n311 Shaping Skinny\nsono progettati con un pannello che modella e sostiene, offrendo una vestibilità super-aderente che valorizza le curve.\nScegli i tuoi jeans, indossa la storia del denim e crea il tuo stile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: A3494-0076 PT OF TOTALITY-0076",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim con vestibilita baggy di ispirazione anni 90, abbassa la formalita a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

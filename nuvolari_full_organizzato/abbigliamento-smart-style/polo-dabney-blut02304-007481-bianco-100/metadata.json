@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-dabney-blut02304-007481-bianco-100",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Blauer BLUT02304 Dabney è una polo dal carattere forte, ideale per chi cerca un capo che unisca la tradizione del piqué a dettagli grafici più evidenti. Rispetto ai modelli più minimalisti, la Dabney gioca con il branding in modo più deciso, mantenendo l'alta qualità costruttiva tipica di Blauer.\nPerché sceglierla\nLa Dabney è la scelta perfetta per chi vuole una polo che \"si faccia notare\" senza risultare eccessiva. È il capo ideale per un contesto informale ma curato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: BLUT02304",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone con vestibilità regular, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

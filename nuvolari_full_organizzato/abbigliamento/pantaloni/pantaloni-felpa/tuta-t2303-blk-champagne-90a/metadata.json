@@ -22,5 +22,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-t2303-blk-champagne-90a",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'iconica eredità sportswear d'archivio e il fascino senza tempo delle subculture British si fondono nel\npantalone da tuta da uomo Fred Perry modello T2309\n. D'ispirazione tennis retro-sportiva, questo modello reinterpreta il classico track pant unendo linee pulite, dettagli sartoriali come le pieghe stirate frontali e l'inconfondibile piping laterale, per un look casual, dinamico e sofisticato.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Tricot Tecnico e Strutturato\n: Confezionato in una pregiata miscela di cotone e poliestere tricot, il pantalone garantisce una superficie liscia, un'eccellente resistenza alle pieghe e una vestibilità sempre definita ed elegante.\nDettaglio Piping e Profili a Contrasto\n: Lungo le cuciture esterne delle gambe corre un raffinato profilo/piping a contrasto, dettaglio che richiama le storiche tute da riscaldamento da tennis firmate dal brand.\nPieghe Frontali e Vita Regolabile\n: Caratterizzato da pieghe stirate centrali che donano una struttura sartoriale alla gamba, il pantalone offre la massima praticità grazie alla fascia elastica in vita dotata di coulisse regolabile con cordino interno.\nCorona d'Alloro Ricamata e Tasche Latirali\n: Sul lato sinistro spicca l'iconico ricamo ad alta definizione della Corona d'Alloro a contrasto, mentre le comode tasche a filetto sui fianchi si integrano con discrezione nel design del capo.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nTotal Heritage Tracksuit Look\n: Crea un outfit completo e di forte impatto visivo coordinando il pantalone a una felpa con zip d'ispirazione retro-tennis della linea Fred Perry. In alternativa, spezza il look abbinandolo a una maglia o a una basica in cotone scelta dalla selezione di\nt-shirt uomo\n. Completa l'estetica streetwear con il design pulito delle\nsneakers uomo\n.\nSmart Casual Layering\n: Per un outfit da tempo libero curato nei minimi dettagli, indossa il pantalone tricot insieme a un capospalla leggero o una giacca tecnica da scegliere tra le proposte di\ngiubbotti uomo\n.\nVersatile Wardrobe Alternative\n: Esplora nuove combinazioni alternando la morbidezza di questo track pant con la struttura dei modelli presenti nella sezione\njeans uomo\n, oppure con la freschezza estiva dei\nbermuda uomo\ne dei capi da mare della linea\ncostumi uomo\n.\nSperimenta la perfetta sintesi tra l'heritage tennistico d'archivio e lo stile metropolitano d'oltremanica. Scegli la qualità del tessuto tricot, il dettaglio delle pieghe sartoriali e l'eleganza senza tempo del pantalone Fred Perry T2309.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "pantalone della tuta in tricot con coulisse, sebbene presenti dettagli curati",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

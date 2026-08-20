@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/bro-ship-pantalone-slim-miami-7766-militare",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantalone slim uomo verde militare da uomo firmato\nBro-Ship\nrealizzato in cotone elasticizzato con due tasche a filo anteriori e due tasche a filetto posteriori.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone slim uomo Bro-Ship modello MIAMI 007766 - Militare\nDue tasche a filo anteriori\nDue tasche a posteriori a filetto\nVestibilità Slim\nComposizione: 97% cotone; 3% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Bro-Ship",
+      "categoria_url": "https://www.nuvolari.biz/brands/bro-ship"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim in cotone, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

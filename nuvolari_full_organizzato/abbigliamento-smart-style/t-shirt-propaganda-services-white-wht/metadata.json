@@ -26,5 +26,30 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-propaganda-services-white-wht",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica ribelle della cultura skate, l'attivismo grafico e la potente forza comunicativa dell'arte underground si fondono armoniosamente nella collezione di\nt-shirt uomo Obey\n. Fondato nel 2001 dal celebre artista e illustratore Shepard Fairey, il brand californiano ha trasformato la classica maglietta a maniche corte in un vero e proprio manifesto di espressione urbana, combinando un design d'impatto a tagli contemporanei pensati per chi ama distinguersi nel panorama dello streetwear globale.\nDesign, Silhouette e Varianti Iconiche\nLe Celebri T-Shirt Grafiche\n: Vero e proprio fulcro delle collezioni Obey. Le magliette presentano stampe artistiche audaci sul petto o sulla schiena, che spaziano dall'iconico volto stilizzato di \"Andre the Giant\" a slogan socioculturali provocatori e grafiche d'ispirazione pop-art, che celebrano le principali capitali internazionali dello streetwear.\nIl Fascino del Trattamento Tinto in Capo (Pigment Dyed)\n: Accanto alle varianti grafiche, la linea propone modelli minimalisti caratterizzati dallo speciale processo di tintura a pigmenti. Questo trattamento dona al tessuto un aspetto piacevolmente vissuto ed eccezionali sfumature rétro concentrate lungo le cuciture, esaltate solo da un micro logo stampato o ricamato sul petto.\nTaglio Relaxed e Vestibilità Street\n: La silhouette delle t-shirt si sviluppa prevalentemente su geometrie relaxed e oversize d'ispirazione skate anni '90. Caratterizzate da spalle leggermente scese, linee fluide che non costringono i movimenti e un robusto girocollo a coste spesse progettato per mantenere perfettamente la forma nel tempo.\nTessuto in Cotone Premium Heavyweight\n: Per garantire una caduta scultorea, tridimensionale e impeccabile sul corpo, Obey utilizza jersey di puro cotone ad alta densità (heavyweight). La consistenza del materiale premium assicura un'ottima traspirabilità, massimo comfort sulla pelle e una straordinaria resistenza all'usura quotidiana.\nIdee di Stile: Costruisci il Tuo Look Skate & Streetwear\nMetropolitan Skate Uniform\n: Esalta l'anima urban e i volumi generosi della t-shirt creando un gioco di consistenze solido e coerente. Abbina una t-shirt uomo Obey grafica o a pigmento alla robustezza di un jeans dal lavaggio vintage o a gamba dritta, completando il look con una sneaker da skate chunky e un cappello con visiera dal sapore rétro.\nUrban Industrial Chino Mix\n: Crea una combinazione pulita, geometrica e di grande personalità per le tue giornate in città. Infila parzialmente la t-shirt all'interno di un\npantalone uomo\nchino dal taglio rilassato o di un modello cargo provvisto di tasche laterali 3D, chiudendo l'outfit con una sneaker dal design retro-running.\nContemporary Summer Refresh\n: Per i pomeriggi di relax estivo o per un aperitivo informale al tramonto, sperimenta un perfetto layering leggero. Indossa la t-shirt sotto la freschezza lineare e ariosa di una delle freschissime\ncamicie uomo\na maniche corte stampate o a righe verticali lasciata completamente aperta sul davanti, coordinandola alla praticità di un bermuda in twill.\nSperimenta la perfetta sintesi tra la funzionalità dell'abbigliamento skate e la forza espressiva del design underground californiano. Scegli la consistenza del cotone heavyweight, l'impatto visivo delle stampe d'autore e l'attitudine inconfondibile delle t-shirt uomo firmate Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "streetwear": 0.6,
+      "casual": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica di un brand street puro, vestibilita skate",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

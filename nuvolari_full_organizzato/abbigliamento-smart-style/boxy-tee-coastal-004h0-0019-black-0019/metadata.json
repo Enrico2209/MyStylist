@@ -26,5 +26,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/boxy-tee-coastal-004h0-0019-black-0019",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, il minimalismo funzionale e l'attitudine urban si incontrano nella collezione di\nt-shirt uomo Levi's\n. Fondato nel 1853 e universalmente riconosciuto per aver inventato il blue jeans, il brand di San Francisco applica la sua secolare filosofia di resistenza, autenticità e pulizia delle linee anche alla maglietta quotidiana, trasformando un classico capo basico in un elemento essenziale dal forte carattere contemporaneo.\nDesign, Silhouette e Caratteristiche Principali\nCotone Premium e Comfort Quotidiano\n: Le t-shirt uomo Levi's sono realizzate principalmente in jersey di puro cotone di alta qualità, leggero, fresco e morbido sulla pelle. La selezione accurata dei filati garantisce un'eccellente traspirabilità, massimo comfort da mattina a sera e un'ottima stabilità strutturale del capo, che mantiene la forma lavaggio dopo lavaggio.\nLe Varianti Rétro e lo Stile Vintage\n: Accanto ai modelli con logo classico, la linea propone grafiche d'ispirazione rétro che celebrano le vecchie locandine pubblicitarie del brand o varianti con trattamenti tinti in capo (garment dyed) dall'aspetto piacevolmente vissuto, ideali per chi ama lo stile grunge e nostalgico degli anni '90.\nSilhouette Calibrate e Vestibilità Impeccabile\n: La gamma si sviluppa su diverse vestibilità per adattarsi a ogni stile: dal taglio\nregular fit\nclassico e pulito, progettato per seguire le linee del corpo in modo naturale, fino al taglio\nrelaxed/boxy fit\ncon spalle leggermente scese, perfetto per gli amanti dello streetwear più moderno.\nIdee di Stile: Costruisci il Tuo Look Denim & Casual Pop\nAuthentic Denim Heritage Uniform\n: Crea la combinazione più classica, iconica e intramontabile dello stile americano. Abbina la t-shirt uomo Levi's bianca o con logo Batwing a un jeans Levi's dal lavaggio medio (come i leggendari 501 a gamba dritta), completando l'outfit con una sneaker pulita in tela e una giacca di jeans o un camionista sopra.\nUrban Industrial Street Mix\n: Esalta l'attitudine rilassata dei modelli boxy inserendoli in un contesto urban dinamico. Accosta una t-shirt Levi's grafica alla silhouette strutturata di un\npantalone uomo\ncargo con tasche laterali 3D o a un pantalone chino dal fit morbido, chiudendo l'outfit con una sneaker dal design retro-running.\nContemporary Summer Layering\n: Per i weekend informali o un aperitivo al tramonto, gioca con le stratificazioni leggere e i contrasti geometrici. Indossa la t-shirt sotto la freschezza lineare e ariosa di una delle freschissime\ncamicie uomo\na maniche corte stampate o a righe verticali lasciata completamente aperta sul davanti, coordinandola alla praticità di un\nbermuda uomo\nin twill.\nSperimenta la perfetta sintesi tra la funzionalità dell'abbigliamento storico da lavoro e la forza espressiva del design casual globale. Scegli la consistenza dei materiali premium, l'equilibrio dei tagli essenziali e l'energia inconfondibile delle t-shirt uomo firmate Levi's.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con vestibilita boxy e piccolo logo sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

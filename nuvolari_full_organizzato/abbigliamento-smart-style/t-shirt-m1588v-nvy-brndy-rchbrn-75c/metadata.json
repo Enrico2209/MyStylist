@@ -22,5 +22,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m1588v-nvy-brndy-rchbrn-75c",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'iconico stile british incontra il comfort quotidiano nella\nT-shirt Uomo Fred Perry in Blu Navy\n, un capo essenziale in puro cotone impreziosito da bordi a contrasto in burgundy e rich brown e dall'inconfondibile alloro ricamato sul petto.\nDesign e Caratteristiche Principali\nPuro Cotone Jersey:\ntessuto morbido e traspirante, piacevole sulla pelle e perfetto per l'uso quotidiano in ogni stagione.\nIntramontabile Blu Navy:\nuna tonalità profonda ed elegante, ravvivata dai dettagli tipici twin tipping in burgundy e rich brown sul girocollo.\nAlloro Ricamato Signature:\nil celebre logo dell'alloro Fred Perry spicca ricamato sul petto, firma inconfondibile del brand britannico.\nGirocollo a Costine:\nscollo rifinito in maglia a costine elastica con dettaglio a contrasto che mantiene la forma nel tempo.\nTaglio Regular Fit:\nvestibilità comoda e pulita, ideale da indossare da sola o come strato base.\nIdee di Stile: Linka il Tuo Outfit\nMod Casual:\nabbina la t-shirt a un paio di\njeans uomo\nslim e sneakers per un look dal sapore british.\nSmart Layering:\nindossala sotto una\ncamicia uomo\naperta o una giacca leggera per un tocco preppy.\nSummer Chino:\ncompletala con dei\npantaloni uomo\nchino chiari per un outfit estivo raffinato.\nAggiungi un tocco di eleganza british al tuo guardaroba con la T-shirt Fred Perry M1588 in Blu Navy. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt classica in cotone con piccoli dettagli a contrasto, base casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

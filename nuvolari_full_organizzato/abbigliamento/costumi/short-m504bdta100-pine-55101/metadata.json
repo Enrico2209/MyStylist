@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-m504bdta100-pine-55101",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPerché scegliere i costumi Sundek?\nTessuto tecnico in nylon taffetà\n: asciugatura rapida, resistenza nel tempo\nTriple cuciture rinforzate\n: massima durabilità, ideali per il surf e le attività all’aperto\nDettagli iconici\n: banda arcobaleno sul retro, logo ricamato e patch jacquard riconoscibile\nVestibilità regolare\n: dotato di vita elasticizzata con coulisse per massimo comfort (\nProposta outfit spiaggia\nCompleta il costume con:\nUna\nt-shirt leggera in cotone\nper coprirsi durante le uscite dal mare\nUn\npareo o un asciugamano foulard\nper un tocco di stile\nUn\ncappellino da sole e occhiali con lenti polarizzate\nper proteggerti con eleganza\nI\ncostumi Sundek\nuniscono heritage californiano, materiali tecnici e stile distintivo: la scelta ideale per vivere l’estate con autenticità e stile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo:M504BDTA100 PINE-55101",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno con coulisse, livello base 1",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

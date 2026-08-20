@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/abbigliamento-ichidonna-ihlaveny-sho-20125865-light-blue-5260",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Ichi Donna Ihlaveny Sho Light Blue\ninfonde un'estetica fresca, estiva e d'ispirazione rétro nel guardaroba denim femminile, unendo il fascino intramontabile del jeans a dettagli grafici marini di grande tendenza. Caratterizzato da un lavaggio azzurro chiarissimo con un pronunciato effetto candeggiato stone-washed (\"Light Blue\"), questo pantaloncino corto si distingue per la sua silhouette strutturata ad alta vestibilità e per i suoi ricercati tocchi di colore a contrasto.\nDesign e Caratteristiche Principali\nTessuto Denim Rigido Acid Wash\n: Realizzato in un corpo di cotone denim compatto e resistente, sottoposto a un lavaggio schiarito minerale che genera una texture finemente marmorizzata ed evidenzia i dettagli vintage lungo i profili e le cuciture.\nDettaglio Ricamo \"Conchiglia\" Pop\n: Il taschino portamonete anteriore sinistro è impreziosito dall'iconico ricamo di una conchiglia stilizzata a rilievo in un vibrante color rosa fucsia lucido, che inserisce un giocoso richiamo alle atmosfere balneari.\nCostruzione Classica a Cinque Tasche\n: Presenta la tradizionale struttura dei jeans con tasche a semicerchio sul davanti rinforzate da rivetti metallici minimali e classiche tasche applicate sul retro per garantire massima funzionalità.\nCintura Regolare con Passanti e Accenti Fucsia\n: La vita alta e definita è provvista di passanti per la cintura; i due passanti frontali sono valorizzati da travette di cucitura di rinforzo color rosa fucsia, coordinati cromaticamente al ricamo della conchiglia.\nChiusura Tradizionale con Bottone e Zip\n: La patta centrale anteriore è strutturata con una cerniera metallica a scomparsa e rifinita superiormente da un bottone a chiodo metallico lucido logato.\nSilhouette Svasata Regular Fit\n: Il taglio scende dritto e si allarga leggermente verso il fondo gamba, offrendo volumi ariosi e confortevoli che non stringono sulla coscia e valorizzano i fianchi in modo anatomico.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda di jeans corto, capo tipicamente casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

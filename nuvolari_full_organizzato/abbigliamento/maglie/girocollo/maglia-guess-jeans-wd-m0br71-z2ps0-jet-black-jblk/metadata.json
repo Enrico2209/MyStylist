@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/girocollo/maglia-guess-jeans-wd-m0br71-z2ps0-jet-black-jblk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione girocollo da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Guess Jeans modello M0BR71 Z2PS0\nGirocollo\nBordi a costina\nPatch logo applicato sul fondo\nRegular fit\nComposizione: 53% acrilico, 47% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo regular fit, base smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

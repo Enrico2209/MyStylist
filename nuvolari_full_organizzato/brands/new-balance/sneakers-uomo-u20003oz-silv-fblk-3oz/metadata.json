@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-uomo-u20003oz-silv-fblk-3oz",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nNew Balance 2000 Versatilità Rétro\nQuesti modelli celebrano la linea heritage di New Balance, offrendo una silhouette solida che si adatta perfettamente a ogni outfit quotidiano.\nLook Multi-texture\n: Un mix di suede premium e mesh che offre profondità visiva e resistenza.\nStabilità Quotidiana\n: Intersuola progettata per supportare l'arco plantare, rendendola una scarpa affidabile per l'uso \"all-day\".\nColorway Iconiche\n: Dalla combinazione dinamica\nSilver/Black-3OZ\nalla sobria ed elegante\nGrey-420\n, perfetta per uno stile minimalista.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive retro-running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

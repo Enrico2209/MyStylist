@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-7269-4xp-firefly-363",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nShort Uomo Colmar Originals colore Wasabi: Comfort e Stile\nEsplora il perfetto connubio tra comfort e stile con gli Short Uomo Colmar Originals, disponibili nel vibrante colore Wasabi. Caratterizzati da una vestibilità regolare e una cintura elastica con coulisse di regolazione, questi short offrono un fit impeccabile e la massima libertà di movimento. Le tasche laterali aggiungono praticità e funzionalità, mentre il nastro tricolore all'interno consente di appendere il capo con facilità. Dotati di slip interno in rete per un comfort ottimale, questi short sono ideali per un'ampia gamma di attività. Completa il look con il logo Colmar applicato sulla gamba sinistra, simbolo di autenticità e qualità. Realizzati al 100% in poliestere, questi short sono un must-have per l'uomo moderno che non rinuncia a stile e praticità.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 100% Poliestere, \r\nFodera: 100% Poliestere\nVestibilità regular\nCodice articolo: 7269 4XP FIREFLY-363",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno con slip interno in rete",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-ewf-pitts-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione a girocollo da uomo Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo classico a treccia, registro smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

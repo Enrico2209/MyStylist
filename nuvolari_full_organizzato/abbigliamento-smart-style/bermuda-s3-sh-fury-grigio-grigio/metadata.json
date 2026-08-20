@@ -28,5 +28,19 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-fury-grigio-grigio",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo, stile utility e militare",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

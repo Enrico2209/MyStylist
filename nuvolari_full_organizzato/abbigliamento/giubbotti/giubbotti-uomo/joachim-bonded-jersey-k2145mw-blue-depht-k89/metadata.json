@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/joachim-bonded-jersey-k2145mw-blue-depht-k89",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Giacca K-Way Joachim è il capospalla definitivo per le mezze stagioni, progettato per chi esige una protezione tecnica superiore senza rinunciare a un’estetica urbana e strutturata. Questo modello non è un semplice antivento: è un guscio ingegnerizzato che combina tre strati di materiali d'avanguardia per offrire un microclima interno ideale, proteggendoti dalle intemperie con uno stile asciutto e moderno.\nPerformance a 3 Strati e Comfort Sartoriale\nPerché sceglierla\nIl punto di forza della Joachim risiede nella sua costruzione trilaminata. Il guscio esterno in poliestere è trattato con finitura WR (Water-Repellent) e vanta una resistenza fino a 10.000 mm di colonna d'acqua, rendendola impermeabile anche sotto piogge moderate e persistenti. Lo strato intermedio è una membrana isolante che blocca il vento ma permette una traspirabilità di 10.000 g/m²/24h, mentre l'interno è rivestito in morbido jersey, garantendo una sensazione di calore leggero e una mano setosa a contatto con la pelle o i vestiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giacca antivento tecnica, tetto di marchio sportivo/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

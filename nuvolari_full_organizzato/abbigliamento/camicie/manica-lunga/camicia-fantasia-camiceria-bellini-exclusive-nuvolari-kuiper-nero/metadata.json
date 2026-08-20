@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-kuiper-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia fantasia uomo nera con collo alla coreana dalla stampa geometrica all over in morbido cotone e dalla vestibilità slim fit. Un modello realizzato in esclusiva da Camiceria Bellini x Nuvolari che si distingue per la qualità della lavorazione e il taglio semplice, moderno e raffinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia fantasia uomo Bellini for Nuvolari modello Kuiper - Nero\nCollo alla coreana\nManiche lunghe\nTessuto fantasia all over geometrica\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% Cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia slim fit con collo alla coreana, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/proj3ct-pantalone-s3-vega-marrone",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Pantalone Donna Proj3ct Vega Marrone è un modello dal taglio contemporaneo che unisce la struttura del denim a una colorazione calda e sofisticata. Caratterizzato da una silhouette ampia e pulita, rappresenta un'alternativa moderna ai classici jeans blu, ideale per chi desidera un look urbano con un tocco di eleganza cromatica.\nPerché sceglierlo\nIl modello Vega si distingue per il suo fit Wide Leg (a gamba larga), progettato per offrire comfort e slanciare la figura. La tonalità marrone cioccolato è estremamente attuale e versatile, perfetta per creare outfit autunnali o per aggiungere profondità a un look estivo neutro. La costruzione solida del tessuto garantisce una caduta impeccabile, mantenendo una linea dritta e definita.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 VEGA MARRONE-MARRONE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans a gamba larga in cotone, taglio casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

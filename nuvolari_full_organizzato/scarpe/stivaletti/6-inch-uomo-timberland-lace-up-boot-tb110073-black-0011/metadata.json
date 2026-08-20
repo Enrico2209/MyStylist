@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stivaletti/6-inch-uomo-timberland-lace-up-boot-tb110073-black-0011",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStivaletto Uomo Timberland 6 Inch Lace Up Boot Black\nGli\nstivaletti\nTimberland Premium 6 Inch lace-up waterproof offrono massimo comfort e stile. La chiusura con laccio assicura una vestibilità perfetta, mentre il sottopiede imbottito in pelle e il fondo in gomma garantiscono un'ammortizzazione superiore e trazione ineguagliabile.\nAbbinale ad un paio di\njeans\ne ad una\nfelpa\npensata appositamente per elevare il tuo look quotidiano!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nTomaia: Premium 6 inch waterproof. Chiusura: con laccio. Sottopiede: imbottito in pelle. Fondo: gomma.\nCodice articolo: TB110073 BLACK-0011",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "stivaletti",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stivaletti.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "scarponcino da lavoro/outdoor iconico, abbinato a jeans e felpa per uso quotidiano e streetwear",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

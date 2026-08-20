@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-w1-vl-fight-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Nuvolari Fight Nero\nIl\npantalone\nNuvolari\nda uomo a coste offre uno stile raffinato e contemporaneo, ideale per un look casual ma curato. Caratterizzato da una lavorazione a coste, garantisce comfort e versatilità per ogni occasione.\nAbbina questi bellissimi pantaloni ad una\ncamicia\noppure ad una\nmaglia\nper ottenere il look elegante perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: W1 VL FIGHT NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino a coste, taglio classico e pulito adatto a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

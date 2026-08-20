@@ -21,5 +21,21 @@
   "pattern": "animalier",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/gaelleparis-calza-gaacw03151-grigio-gr00",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCalza Gaëlle Paris: Il Fascino Animalier in Versione Grey\nCalza Donna Gaëlle Paris Leopard Print Grey\nEsprimi la tua grinta fin nei minimi dettagli. La calza Gaëlle Paris reinterpreta l'intramontabile maculato in una raffinata scala di grigi, trasformando un accessorio funzionale in un vero e proprio statement di stile. Perfetta per chi non ha paura di osare, questa calza unisce il comfort di una spugna morbida a un'estetica urban-chic che non passa inosservata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "calzino in spugna con grafica animalier molto vistosa, uso intimo/sportivo/streetwear",
+    "season": "tutte",
+    "pattern": "animalier"
+  }
 }

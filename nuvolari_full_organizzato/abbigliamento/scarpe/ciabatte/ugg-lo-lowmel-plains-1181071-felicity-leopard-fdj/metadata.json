@@ -18,5 +18,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/ugg-lo-lowmel-plains-1181071-felicity-leopard-fdj",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUGG Lo Lowmel Plains: Il Lato \"Wild\" del Comfort Urbano\nLe\nLo Lowmel Plains\nsono l'accessorio definitivo per chi vuole cavalcare il trend leopardato con un'attitudine street. Questo modello combina volumi audaci e materiali di prima scelta per creare una sneaker che non passa inosservata, garantendo al contempo quella sensazione di morbidezza totale tipica del mondo UGG.\nPunti di Forza e Caratteristiche\nEstetica Oversize:\nLa\nlinguetta imbottita extralarge\nnon è solo un dettaglio di stile, ma offre un effetto ammortizzato che avvolge il collo del piede per un supporto superiore.\nTexture Premium:\nIl design della tomaia gioca sul contrasto tra il\nmorbido camoscio\ne il\npregiato cavallino\na stampa animalier, trasmettendo immediatamente una sensazione di qualità artigianale.\nPersonalizzazione Totale:\nGrazie al sistema a\ndoppia allacciatura\ncon lacci piatti bicolore, puoi decidere come allacciare le tue sneakers per adattarle al tuo stile unico ogni giorno.\nPasso Eco-Friendly:\nSia la suola interna che quella esterna sono realizzate in\nEVA derivata dalla canna da zucchero\n, una scelta sostenibile che assicura una leggerezza incredibile e un'ottima risposta elastica a ogni passo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nTaglie UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "sneaker con volumi oversize e lacci spessi, registro casual quotidiano e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "animalier"
+  }
 }

@@ -24,5 +24,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/timberland-stone-street-boat-tb0a2gvf-light-purple-ajg1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'iconica silhouette da barca si reinterpreta in una veste audace, contemporanea e femminile con il\nmocassino da donna Timberland Stone Street Boat nella delicata tonalità Light Purple\n. Questo modello unisce l'inconfondibile tradizione artigianale del brand outdoor a una moderna suola chunky con zeppa platform, offrendo un perfetto equilibrio tra attitudine urbana, comfort quotidiano e uno stile decisamente sofisticato.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Pregiata Pelle Scamosciata (Suede)\n: Confezionato in morbida pelle scamosciata di altissima qualità in una nuance lilla/viola chiaro dal gusto pastello, il mocassino garantisce una finitura vellutata, un'ottima resistenza e una calzata avvolgente.\nSuola Platform Chunky in Gomma Scanalata\n: Il punto di forza del design è l'imponente suola in gomma carrarmato a contrasto, studiata per regalare un'altezza extra e un impatto visivo deciso, assicurando al contempo massima aderenza, stabilità e ammortizzazione.\nSistema di Allacciatura Tradizionale a 360°\n: Dotato di laccio in pelle che scorre lungo gli occhielli metallici sul perimetro della calzatura, consente una regolazione personalizzata per una tenuta sempre impeccabile del piede.\nCuciture Artigianali e Dettagli d'Archivio\n: Rifinito con le classiche cuciture a vaschetta fatte a mano sul davanti, testimonianza dell'autentico savoir-faire Timberland.\nIdee di Stile: Costruisci il Tuo Look Urban & Contemporary\nCasual Streetwear Statement\n: Rendi la scarpa la vera protagonista dei tuoi outfit quotidiani. Abbinala a un paio di jeans dal taglio dritto, cropped o risvoltati sul fondo per valorizzare la suola platform. Completa il look con una t-shirt essenziale o una maglia e un capospalla leggero.\nSmart Casual & Transition Layering\n: Per un outfit da città fresco e contemporaneo, indossa le boat shoes con un pantalone chino o con un completo giacca-pantalone dal taglio morbido, creando un interessante contrasto tra l'eleganza della sartorialità e la grinta della suola chunky.\nSpring & Summer Preppy Style\n: Durante le giornate più calde o nei weekend fuori porta, accosta le tonalità pastel del mocassino a bermuda, gonne o abiti leggeri in cotone e lino, aggiungendo un tocco di personalità al classico stile marinaro.\nRivoluziona il tuo stile con una calzatura che unisce l'heritage d'ispirazione nautica all'energia della moda metropolitana. Scegli la morbidezza dello suede Light Purple, la grinta della suola Stone Street e la qualità senza tempo di Timberland.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Mocassino da barca in suede, ma con suola chunky platform che lo rende piu informale e contemporaneo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

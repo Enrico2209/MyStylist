@@ -21,5 +21,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/w-essential-tee-a7419-0013-white-rib-0013",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nUn basico intramontabile dal fit femminile: la\nt-shirt da donna Levi's Essential nella nuance Bianca a costine\n. Realizzata in morbido cotone a costine dalla vestibilita aderente, con girocollo pulito e piccolo dettaglio logo: un capo versatile e must-have, perfetto da indossare da solo o in layering in ogni stagione.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone a Costine:\ntessuto rib elasticizzato dalla mano morbida, che avvolge la silhouette con comfort.\nVestibilita Aderente:\ntaglio slim e femminile che valorizza la figura senza rinunciare alla comodita.\nGirocollo Pulito:\nscollo tondo a costine dalla linea essenziale e ordinata.\nDettaglio Logo Levi's:\nil piccolo tab firma aggiunge autenticita al capo.\nIdee di Stile: Costruisci il Tuo Look Everyday\nCasual Everyday:\nabbinala a un paio di\njeans donna\ne a delle\nsneakers donna\nper un look comodo e curato.\nLayering di Stile:\nperfetta sotto una\nfelpa donna\n, una camicia aperta o una giacca.\nPasse-partout:\nil bianco la rende un jolly facilissimo da abbinare in ogni occasione.\nAggiungi un basico must-have al tuo guardaroba. Scegli la morbidezza del cotone a costine, la vestibilita aderente e lo stile inconfondibile firmato Levi's.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "sneakers donna",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica in cotone, capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

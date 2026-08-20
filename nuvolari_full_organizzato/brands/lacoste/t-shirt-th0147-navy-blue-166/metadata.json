@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/t-shirt-th0147-navy-blue-166",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta t-shirt firmata Lacoste, marchio iconico nel mondo del tennis fin dal 1933, è progettata per offrire massima versatilità sia durante il gioco che nel tempo libero. La struttura in jersey assicura un'ampia libertà di movimento, mentre l'integrazione della tecnologia Ultra Dry garantisce una pelle sempre asciutta e una freschezza costante. Il design è arricchito da un motivo grafico sul retro che richiama le linee di un campo da tennis, donando al capo un ricercato fascino vintage.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\ncotone (65%),Polyestere (35%) / Collar:cotone (53%),Polyestere (47%)\nVestibilità regular\nCodice articolo: TH0147 NAVY BLUE-166",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt in jersey misto cotone/poliestere con tecnologia sportiva, adatta al tempo libero e all'attività fisica leggera",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

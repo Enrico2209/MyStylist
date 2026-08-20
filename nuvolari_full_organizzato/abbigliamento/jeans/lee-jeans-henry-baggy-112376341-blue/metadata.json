@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/lee-jeans-henry-baggy-112376341-blue",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI jeans\nLee Henry Baggy\nnella variante\nBlue\nsono la scelta definitiva per chi cerca un look rilassato d'ispirazione anni '90, senza rinunciare alla qualità costruttiva tipica del marchio.\nFit e Silhouette: Massimo Volume e Comfort\nTaglio Baggy:\nIl modello Henry si distingue per una vestibilità estremamente ampia su tutta la lunghezza della gamba, offrendo un volume generoso che sposa le ultime tendenze dello streetwear.\nVita Regolare:\nProgettati per appoggiarsi comodamente sui fianchi, assicurano una silhouette contemporanea e una libertà di movimento superiore rispetto ai tagli classici.\nFondo Ampio:\nLa gamba scende larga fino alla caviglia, ideale per essere abbinata a sneaker voluminose o scarpe skate.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "jeans con vestibilità baggy d'ispirazione anni '90 e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

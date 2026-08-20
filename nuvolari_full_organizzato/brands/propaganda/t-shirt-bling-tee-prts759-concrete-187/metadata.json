@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/propaganda/t-shirt-bling-tee-prts759-concrete-187",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nAuthentic Streetwear Culture\nPuro\nCotone 100%:\nRealizzate esclusivamente in cotone di alta qualità, queste t-shirt offrono una morbidezza eccezionale e una traspirabilità naturale, ideali per ogni stagione.\nComfort e Vestibilità\n: Caratterizzate da un taglio Regular Fit, assicurano massima libertà di movimento e una silhouette versatile adatta a ogni corporatura.\nDesign Iconico:\nOgni pezzo sfoggia grafiche audaci e stampe serigrafate resistenti ai lavaggi, rendendo ogni t-shirt un manifesto della cultura urban.\nDettagli\n: Rifinite con un girocollo a costine rinforzato che mantiene la forma nel tempo, unite all'immancabile etichetta logata che ne certifica l'originalità.\nLe t-shirt Propaganda non sono semplici capi d'abbigliamento, ma un simbolo di appartenenza alla scena creativa italiana. Si abbinano perfettamente a un paio di\nsneakers\nper un look che non passa inosservato ed ad un paio di pantaloni\ncargo\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: PRTS759 CONCRETE-187",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "T-shirt streetwear con grafica molto aggressiva e vistosa, abbinata a cargo e sneakers",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

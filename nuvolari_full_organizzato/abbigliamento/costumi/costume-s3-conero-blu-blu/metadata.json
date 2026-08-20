@@ -23,5 +23,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-s3-conero-blu-blu",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'estetica classica della Riviera incontra il dinamismo dello stile contemporaneo nel nuovo\nCostume Uomo Nuvolari Conero\n. Questo modello fa della pulizia geometrica e della vivacità cromatica i suoi punti di forza, offrendo una silhouette versatile e fresca, perfetta per chi cerca un look d'impatto e senza tempo per la stagione estiva.\nDesign e Caratteristiche Tecniche\nSfumatura Azzurro Royal\n: Il costume è declinato in una tonalità di azzurro intensa, brillante e satura, capace di catturare i riflessi dell'acqua e pensata per risaltare al massimo con l'abbronzatura.\nFascione Elastico con Coulisse\n: La vita è valorizzata da una spessa fascia elastica arricciata in una raffinata tonalità grigio chiaro melange a contrasto. È completata da una coulisse tubolare bianca regolabile con terminali metallici per un fit sempre stabile e personalizzato.\nDettaglio Patch Logo Iconico\n: Sulla parte inferiore della gamba sinistra è applicata la patch circolare ufficiale in tessuto con il logo\n\"NUVOLARI\"\n, un sigillo d'archivio discreto che aggiunge un autentico tocco sport-retro.\nTasche Pratiche e Funzionali\n: Dotato di due comode tasche a filo posizionate lungo le cuciture dei fianchi e di un taschino posteriore sul lato destro, rifinito con patta geometrica e chiusura con bottone a pressione per custodire i piccoli essentials.\nTaglio Regular con Spacchi Laterali\n: Sviluppato con una lunghezza media e piccoli spacchi laterali sul fondo gamba che alleggeriscono la struttura del capo, assicurando una libertà di movimento ottimale sia in acqua sia durante i giochi da spiaggia.\nConsigli di Stile Nuvolari\nRiviera Casual Combo\n: Crea un perfetto outfit da spiaggia o da bar sul bagnasciuga abbinando il costume Conero a una\nt-shirt\nin cotone fiammato bianco ottico o panna e a un paio di occhiali da sole tartarugati.\nAperitif Smart Layering\n: Trasforma il look per il tramonto sovrapponendo una\ncamicia\nleggera in lino a maniche lunghe (da portare rigorosamente risvoltate) nei toni del sabbia o del bianco, completando il tutto con un sandalo in pelle.\nRinfresca il tuo guardaroba estivo con l'energia cromatica e il comfort inconfondibile firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% poliestere\nVestibilità regular\nCodice articolo: S3 CONERO BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno da uomo",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

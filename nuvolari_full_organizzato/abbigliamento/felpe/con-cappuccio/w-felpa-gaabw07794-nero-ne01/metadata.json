@@ -25,5 +25,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/w-felpa-gaabw07794-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e logo stampato, capo tipicamente casual e streetwear",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

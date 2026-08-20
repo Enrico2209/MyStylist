@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-dupt0010-vi0046-nero-9000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza contemporanea e il gusto sartoriale Made in Italy si esprimono al massimo nel\npantalone chino da uomo Daniele Alessandrini nella raffinata tonalità Nero\n. Contraddistinto da un finish leggermente satinato/lucido, dettagli con pinces sul davanti e un taglio moderno, questo capo rappresenta la scelta ideale per l'uomo che desidera distinguersi con classe in occasioni formali, eventi serali o look da ufficio sofisticati.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Elegante con Finish Satinato\n: Realizzato in un tessuto di alta qualità dalla mano morbida e fluida, caratterizzato da un'elegante lucentezza superficiale che esalta la profondità del colore nero.\nDettaglio Pinces e Taglio Cropped/Tapered\n: La presenza delle pinces frontali dona un morbido volume sulla bacino, mentre la gamba che va a stringersi verso il fondo regala una silhouette slanciata e di tendenza.\nChiusura Pulita con Bottone in Tinta\n: Dotato di una cintura sartoriale essenziale con passanti e chiusura con bottone tono su tono per un look minimale e raffinato.\nVersatilità d'Uso\n: Il perfetto connubio tra la struttura di un pantalone elegante e la disinvoltura del chino sartoriale.\nIdee di Stile: Costruisci il Tuo Look Chic & Contemporary\nSmart Formal & Evening Look\n: Per una cena speciale o un evento serale, abbinaci una camicia bianca sartoriale e una giacca strutturata. Per smorzare la rigidità senza perdere eleganza, completa l'outfit con un paio di\nsneakers uomo\nessenziali in pelle total white o un mocassino coordinato.\nUrban Minimal Essential\n: Crea un look da città moderno e minimale abbinando il pantalone nero a una\nt-shirt uomo\nmonocromatica in cotone pettinato infilata all'interno del cinturino, così da mettere in risalto il dettaglio delle pinces.\nLayering di Mezza Stagione\n: Nelle serate più fresche, indossa il chino con una maglia finissima o completa l'outfit con un capospalla elegante selezionato tra i nostri\ngiubbotti uomo\n. Nei momenti di relax o per outfit più casual, scopri anche le nostre collezioni di\njeans uomo\ne\nbermuda uomo\n.\nScegli l'inconfondibile maestria stilistica firmata Daniele Alessandrini: la lucentezza discreta del nero, il valore del taglio sartoriale e la contemporaneità di una linea pensata per farti risaltare con discreta eleganza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "Chino sartoriale con pinces e finish satinato, ideale per contesti smart casual ed eventi serali.",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

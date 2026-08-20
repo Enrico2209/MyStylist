@@ -21,5 +21,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/lee-t-shirt-summer",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Lee Summer Tee Ecru\nesprime l'essenza della stagione calda attraverso un'estetica rétro d'ispirazione surf ed estiva. Questo capo unisce la storica solidità del brand a un design grafico fresco e rilassato, ideale per comporre outfit informali dal sapore nostalgico e vacanziero.\nDesign e Caratteristiche Principali\nGrafica Frontale Minimal\n: Il pannello anteriore, presenta sul lato cuore un piccolo logo del brand rivisitato con un font morbido e fluido ad effetto onda, stampato con una finitura volutamente invecchiata.\nMaxi Stampa Heritage Posteriore\n: Sul retro del capo,  campeggia una grande grafica circolare d'ispirazione vintage che raffigura un sole e un'onda stilizzati, incorniciati dalla scritta \"SUN, SEA AND LEE.\" con un effetto crackle e vissuto.\nTessuto in Jersey di Cotone Morbido\n: Realizzata in un jersey di cotone leggero ma consistente, sottoposto a un lavaggio preliminare che assicura una mano morbida sulla pelle, un'ottima traspirabilità e una resistenza strutturale prolungata nel tempo.\nGirocollo a Costine Robusto\n: Il taglio presenta una scollatura a girocollo classica rifinita da una bordatura elastica a costine sottili, progettata per mantenere la forma originaria anche dopo numerosi lavaggi.\nOrli Lineari e Dettagli Interni\n: Il fondo della maglia e i bordi delle maniche corte sono rifiniti con precise doppie cuciture parallele a profilo piatto. All'interno del collo è stampato il branding per evitare lo sfregamento delle etichette tradizionali.\nVestibilità Regular Fit Relaxed\n: Propone un taglio dritto e cascante che non costringe i movimenti, offrendo volumi bilanciati sia sulle spalle sia lungo il busto per garantire comfort e freschezza.\nProposta di Outfit\nResort Chill Combo\n: Indossala insieme a un\nbermuda\nin tessuto leggero e completa il look con un cappello; la maxi grafica posteriore aggiungerà dinamismo alla silhouette pulita del pantaloncino, creando un set estivo disinvolto.\nUrban Transition Layering\n: Portala come base sotto una\novershirt\naperta e abbinala a un\npantalone\ndal taglio tapered; il contrasto tra la morbidezza della t-shirt e la struttura del capospalla definirà un perfetto outfit da città per il tempo libero.\nStreetwear Summer Vibe\n: Abbinala a un\njeans\ndal lavaggio chiaro e risvoltato sul fondo, completando il tutto con un\ncappello\ncon visiera; un abbinamento essenziale che richiama la cultura skate e le atmosfere underground degli anni '90.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica a maniche corte, capo base per il tempo libero",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/completi/blazer-armin-blu-b008",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBlazer Baecker l'elite dell'eleganza\nQuesto modello si distingue per un design pulito e una struttura leggera, ideale per essere indossato come capospalla durante le mezze stagioni o come elemento centrale di un look smart-casual stratificato.\nDettagli di Design\nSilhouette Moderna:\nPresenta un taglio dritto e leggermente destrutturato che offre una vestibilità confortevole senza rinunciare a una linea definita.\nChiusura Classica:\nCaratterizzato da una chiusura a due bottoni frontali che mantiene l'estetica intramontabile della giacca monopetto.\nTasche Applicate:\nLe ampie tasche a toppa sui fianchi e il taschino sul petto aggiungono un tocco di praticità e un’estetica ispirata al workwear raffinato.\nFiniture di Qualità:\nIl rever classico e i bottoni ai polsi rifiniscono il capo, rendendolo adatto anche a contesti lavorativi meno rigorosi.\nDettaglio Signature:\nSulla parte superiore del rever è presente un piccolo pin o ricamo distintivo del brand, che ne certifica l'originalità e l'attenzione ai minimi dettagli.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.8
+    },
+    "formality": 4,
+    "formality_perche": "Blazer monopetto classico, ideale per contesti formali e smart-casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

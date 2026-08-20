@@ -21,5 +21,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-cappuccio-uomo-blauer-nastro-rosso",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\ngiubbotto a vento da uomo Blaue\nr è un capo\nd'abbigliamento\nche unisce un design all'avanguardia con una funzionalità superiore. Con il suo vibrante\ncolore nastro rosso\n, questo\ngiubbotto\nrappresenta un'opzione di stile distintiva per gli uomini moderni.\nDotato di\ntasche laterali con zip nera\ne di una\ntasca aggiuntiva sul pettorale sinistro\n, il\ngiubbotto\noffre un'ampia capacità di conservazione per i tuoi oggetti personali. La\nchiusura con zip a contrasto\naggiunge un tocco di modernità e praticità. Inoltre, la patch dello\nstemma del logo Blauer sul petto\ne sulla manica sinistra, all'altezza della spalla, conferisce un tocco di autenticità e raffinatezza, testimoniando la qualità del\nbrand Blauer\n.\nEsplora lo Stile Innovativo del Giubbotto a Vento da Uomo Blauer\nIl\ngiubbotto a vento Blauer\nè anche caratterizzato da un\ncappuccio anti-vento\n, che ti proteggerà dalle intemperie durante le giornate ventose. Grazie al suo design sofisticato e alle sue caratteristiche funzionali, questo\ngiubbotto\nè perfetto per l'uomo moderno che desidera uno stile impeccabile e una protezione ottimale.\nCombina il\ngiubbotto a vento Blauer\ncon\njeans\ne\nsneakers\nper un look dinamico. In alternativa, abbinalo a\npantaloni chino\ne\nmocassini\nper uno stile più raffinato. Scegli la versatilità e l'eleganza del\ngiubbotto a vento da uomo Blauer\ne affronta le giornate con stile e sicurezza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto con cappuccio da uomo Blauer nastro rosso\nVestibilità Regular\nComposizione: 100% Poliammide\nCodice Prodotto: ESG BLUC11116 006007",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "brand Blauer",
+      "categoria_url": "https://www.nuvolari.biz/brands/blauer"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "mocassini",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stringate.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento leggero in nylon, capo sportivo/casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

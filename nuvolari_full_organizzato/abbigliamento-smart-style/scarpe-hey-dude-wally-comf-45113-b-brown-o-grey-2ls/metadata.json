@@ -26,5 +26,46 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpe-hey-dude-wally-comf-45113-b-brown-o-grey-2ls",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe scarpe\nHeyDude Wally Comf B\n(Comfort Blends) elevano l'iconica e destrutturata silhouette \"moctoe\" del brand attraverso l'impiego di una speciale selezione di tessuti ingegnerizzati per offrire una morbidezza e una flessibilità di livello superiore. Progettate per un comfort assoluto e prolungato nel tempo, queste calzature slip-on fondono un'estetica sobria, versatile e dalle trame finemente lavorate con le storiche tecnologie ultraleggere del marchio, configurandosi come la scelta ideale per le dinamiche attività quotidiane o per i momenti di relax.\nDesign e Caratteristiche Principali\nTomaia in Tessuto Elasticizzato Comfort Blend\n: Il corpo della scarpa è realizzato in una speciale maglia o tela jacquard altamente flessibile, caratterizzata da una micro-tessitura mossa o mélange che si adatta come una calza all'anatomia del piede. La tomaia garantisce un'eccellente traspirabilità, eliminando qualsiasi punto di attrito rigido.\nSistema di Allacciatura Elastico Easy-On\n: Fedeli alla filosofia pratica del brand, integrano lacci elastici corti con nodi terminali che non richiedono di essere annodati. Permettono di calzare e sfilare la scarpa in modo istantaneo, mantenendo una tenuta stabile ma priva di costrizioni sul collo del piede.\nSuola Ultra-Lightweight in Schiuma EVA\n: La suola è stampata in una mescola espansa brevettata, incredibilmente leggera e ammortizzante. Riduce al minimo lo stress sulle articolazioni e accompagna fluidamente ogni torsione del piede durante la camminata.\nSoletta Ergonomica in Memory Foam Rimovibile\n: L'interno ospita un plantare anatomico rivestito in sughero naturale o tessuto traspirante. Lo strato in memory assicura un supporto personalizzato a ogni passo, contrasta l'umidità ed è facilmente estraibile per la pulizia periodica.\nCalzata Spaziosa Wide Fit\n: La conformazione dell'avampiede è appositamente studiata per lasciare alle dita lo spazio naturale per distendersi, amplificando quella sensazione di comfort assoluto simile al camminare a piedi scalzi.\nProposta di Outfit\nUrban Minimal Streetwear\n: Abbinale alla t-shirt nera con dettagli geometrici\nFred Perry M2397\ne a un pantalone cargo dal taglio asciutto; la texture mélange della scarpa dialogherà magnificamente con la struttura asimmetrica bicolore della t-shirt, creando un look casual, dinamico e metropolitano.\nSartoriale Disinvolto (Smart Casual)\n: Portale sotto il completo sartoriale estivo composto dal\npantalone chino\nIhfava Barrel e dalla sua\ngiacca oversize\ncoordinata Dove Melange, completando con la t-shirt bianca\nFred Perry M2474 Snow White\n; la morbidezza del tessuto Comfort Blend alleggerirà il rigore del grigio-tortora in un outfit urban-chic contemporaneo e ricercato.\nSeventies Coastal Vibe\n: Indossale in abbinamento alla camicia a maniche corte azzurro polvere\nIchi Ihestama Sh Bel Air Blu\n, lasciata aperta sopra una canotta panna pointelle e abbinata a un\nbermuda\nin misto lino color sabbia; un ensemble fresco, rilassato e perfetto per il tempo libero in città o per un aperitivo al tramonto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Fred Perry M2397",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giacca oversize",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "Fred Perry M2474 Snow White",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Ichi Ihestama Sh Bel Air Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Scarpa slip-on ultraleggera in tessuto, assimilabile a una calzatura da tempo libero o relax",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

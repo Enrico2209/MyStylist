@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-es3-pt-kasbah-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Black Rags Kasbah\nesprime la massima evoluzione del concetto di comfort estivo, fondendo la nobiltà dei tessuti naturali a una linea fluida, rilassata ed essenziale. Questo pantalone lounge si caratterizza per una texture materica molto ricca che si sposa alla perfezione con le atmosfere vacanziere e il tempo libero metropolitano.\nDesign e Caratteristiche Principali\nTessuto Fiammato di Alta Qualità\n: Realizzato in un filato leggero di lino o misto lino e cotone, contraddistinto dalla tipica trama fiammata a rilievo che dona tridimensionalità alla superficie e assicura una costante freschezza sulla pelle.\nCintura Elastica Lounge in Vita\n: La parte superiore è interamente strutturata con una spessa fascia elastica arricciata che si adatta in modo anatomico e confortevole ai fianchi, eliminando qualsiasi rigidità.\nCoulisse Cilindrica Tecnica a Contrasto\n: Un lungo cordoncino intrecciato di colore nero profondo fuoriesce dal centro della vita, arricchito da finalini gommati neri per personalizzare il fitting e spezzare la monocromia del capo con un netto accento grafico.\nTasche Laterali a Scomparsa\n: Integra sui fianchi comode tasche inserite con precisione sartoriale lungo le linee di cucitura principali, mantenendo pulita e sgombra la silhouette del pantalone.\nSilhouette Straight Rilassata\n: Il taglio scende dritto e fluido lungo la gamba con volumi morbidi ma equilibrati, che non stringono sulla coscia e assecondano la naturale caduta cascante del tessuto.\nOrlo Inferiore con Finitura Piatta\n: Il fondo gamba dritto presenta una cucitura lineare e pulita, ideale per far cadere il tessuto in modo morbido sopra le calzature o per essere risvoltato alla caviglia per un mood più informale.\nProposta di Outfit\nTotal Kasbah Linen Co-ord\n: Indossalo in combinazione con la sua\ncamicia\nKasbah a maniche lunghe coordinata lasciata sbottonata sopra una canotta chiara; le maniche arrotolate e la continuità cromatica del lino beige definiranno un perfetto look estivo d'ispirazione resort.\nUrban Utility Contrast\n: Abbinalo a una t-shirt basic bianca e stratifica sopra il\ngiubbotto\nleggero Wagga in cotone fiammato verde oliva scuro; la solidità militare del capospalla si sposerà magnificamente con la texture chiara e naturale del pantalone.\nContemporary Dark Minimal\n: Portalo insieme alla\ncamicia\na maniche corte Temara Grigio antracite aperta sopra una t-shirt chiara; il netto contrasto freddo tra la base scura superiore e la luminosità corda del pantalaccio richiama cromaticamente i dettagli neri della coulisse.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio lounge in lino con elastico in vita e coulisse sportiva",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

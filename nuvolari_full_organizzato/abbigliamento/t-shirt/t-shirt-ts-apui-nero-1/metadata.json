@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-ts-apui-nero-1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa T-Shirt Uomo Rayz Apui è un capo che incarna perfettamente l'estetica \"dark-street\" contemporanea. Caratterizzata da un lavaggio speciale che crea un effetto marmorizzato e materico, questa t-shirt non è un semplice capo basic, ma un elemento di design capace di dare profondità e carattere a qualsiasi outfit urbano.\nPerché sceglierla\nIl modello Apui si distingue per il suo trattamento di tintura unico, che conferisce al tessuto un aspetto vissuto e dinamico, simile alla pietra lavica o al fumo. È la scelta ideale per chi cerca un capo scuro ma ricco di sfumature, capace di rompere la monotonia del nero pieno grazie a un gioco di luci e ombre naturali. Il jersey di alta qualità garantisce una vestibilità confortevole e una resistenza strutturale nel tempo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: TS APUI NERO-1",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con vestibilità regular, ma l'effetto lavato/marmorizzato la mantiene nel casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

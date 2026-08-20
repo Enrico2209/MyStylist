@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-newbalance-u20101ah-cgrn-dlime-lgry-1ah",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe New Balance U20101AH sono l'emblema della \"Tech Aesthetic\" dei primi anni 2000, riportata ai giorni nostri con materiali premium e tecnologie all'avanguardia. Questo modello rende omaggio all'anno di fondazione del brand (1906) e si inserisce perfettamente nel trend delle \"running shoes\" tecniche utilizzate in contesti lifestyle e fashion.\nIl punto di forza delle 1906R risiede nella loro costruzione iper-dettagliata. A differenza di silhouette più minimali, questo modello offre un supporto meccanico visibile e percepibile. Grazie alla gabbia esterna sul tallone e al sistema di allacciatura integrato, la scarpa garantisce una stabilità eccezionale, mentre la suola ammortizzata permette di affrontare lunghe sessioni di camminata urbana senza alcun affaticamento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers running lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

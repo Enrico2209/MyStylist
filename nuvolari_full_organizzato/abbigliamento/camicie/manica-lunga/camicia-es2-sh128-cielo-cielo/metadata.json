@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-es2-sh128-cielo-cielo",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Squad 100% Cotone: Stile e Comfort in un Solo Capo\nLa camicia uomo Squad è il mix perfetto tra qualità e design. Realizzata in\n100% cotone\n, offre una vestibilità comoda e una sensazione di freschezza per tutto il giorno. Il suo stile versatile la rende ideale sia per un look casual che per abbinamenti più ricercati.\nCome abbinarla?\nIndossala con un paio di\npantaloni\nper un outfit casual-elegante o abbinala a delle\nsneakers\nper un tocco streetwear.\nScopri altre idee di stile tra i nostri\noutfit\ne trova la combinazione perfetta!\nPerché scegliere la camicia Squad?\n100% cotone\nper massimo comfort e traspirabilità\nDesign versatile adatto a ogni occasione\nPerfetta per look casual o più curati\nUn must-have per chi ama lo stile senza compromessi!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: ES2 SH128 CIELO-CIELO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a righe sottili, adatta a contesti smart casual e ufficio informale",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

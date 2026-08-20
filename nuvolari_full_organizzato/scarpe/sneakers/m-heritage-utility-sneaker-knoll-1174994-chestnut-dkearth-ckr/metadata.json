@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/m-heritage-utility-sneaker-knoll-1174994-chestnut-dkearth-ckr",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe UGG Heritage Utility Knoll sono una reinterpretazione moderna e robusta delle classiche sneakers lifestyle, progettate per unire il comfort leggendario di UGG a un'estetica funzionale d'ispirazione utility.\nCarattere e Comfort\nMateriali Premium\n: La tomaia combina pelle scamosciata di alta qualità e materiali tecnici resistenti, garantendo una calzata robusta e durevole nel tempo.\nComfort Inconfondibile\n: L'interno è studiato per offrire una sensazione di morbidezza tipica del brand, con una soletta ammortizzata che assicura comfort anche dopo diverse ore di utilizzo.\nDesign Utility\n: Si distingue per una silhouette strutturata con dettagli che richiamano il mondo dell'abbigliamento da lavoro, come le cuciture rinforzate e i lacci tecnici.\nEstetica Versatile\n: Il look bilancia sapientemente elementi sportivi e dettagli artigianali, rendendo la scarpa adatta sia a contesti casual che a outfit più ricercati.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nSuola ad Alta Trazione\n: Dotata di una suola in gomma dal battistrada sagomato, progettata per offrire un'aderenza superiore su diverse superfici, urbane e non.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.7,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker lifestyle d'ispirazione utility con suola spessa e tomaia scamosciata, adatta a un contesto casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

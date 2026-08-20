@@ -26,5 +26,39 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/gas-camicia-151459100077-white-azure-st06",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Gas White/Azure\nincarna perfettamente l'estetica preppy e fresca della stagione estiva, reinterpretando un grande classico del guardaroba maschile con una costruzione leggera e dinamica. Caratterizzata da un finissimo motivo a righe verticali bianche e azzurre, questa camicia a maniche lunghe unisce il rigore formale della camiceria tradizionale a un'attitudine rilassata, ideale per le calde giornate in città o per il tempo libero.\nDesign e Caratteristiche Principali\nPattern Seersucker o Micro-Riga Geometrica\n: Il tessuto presenta una fitta e sottile alternanza di micro-righe verticali bianche e azzurro cielo che, guardate a distanza, creano un piacevole effetto ottico pastello, luminoso e tipicamente estivo.\nTessuto Leggero di Cotone Traspirante\n: Confezionata in un filato di cotone morbido, sottile e fresco, studiato per favorire la massima ventilazione cutanea e assicurare il comfort termico anche quando le temperature si alzano.\nIconico Micro-Logo Ricamato sul Petto\n: Sul petto a sinistra spicca il classico logo a doppia freccia del brand, finemente ricamato in una tonalità di blu avio che riprende i toni delle righe, firmando il capo con sobria eleganza.\nColletto Tradizionale e Finiture Lineari\n: Presenta un colletto a punta flessibile dalle proporzioni armoniose e bilanciate. Il cannoncino frontale è pulito e lineare, completato da bottoni bianchi lucidi che si integrano perfettamente nel pattern geometrico.\nSilhouette Regular Fit Confortevole\n: Come chiaramente indicato dall'etichetta applicata all'interno del collo, il modello adotta un taglio \"Regular Fit\". La linea scende dritta ed fluida lungo il busto, offrendo una vestibilità comoda e disinvolta che non costringe i movimenti.\nFondo Sagomato Curvo\n: L'orlo inferiore è dolcemente stondato sui fianchi. Questa geometria consente di portarla sia inserita nei pantaloni per un look più formale, sia lasciata libera all'esterno per un'attitudine street ed informale.\nProposta di Outfit\nClassic Riviera Smart Look\n: Indossala abbottonata all'interno di un\npantalone\nchino color beige, panna o sabbia; l'accostamento tra le micro-righe azzurre e le tonalità neutre della terra strutturerà un outfit fresco, sofisticato e ordinato, perfetto per l'ufficio o per un evento estivo diurno.\nPreppy Urban Layering\n: Portala completamente aperta sopra una\nt-shirt\nminimalista chiara con stampe rosse o grafiche e abbinala a un\nbermuda\nin denim dal lavaggio indaco scuro; la sovrapposizione dei tessuti e l'azzurro della camicia alleggeriranno la robustezza del jeans in un mix casual perfetto per il weekend.\nCasual Double Denim Match\n: Abbinala a pantaloni scuri o cargo e, per le serate più fresche, indossa sopra un\ngiubbotto\ndi jeans dal lavaggio medio-scuro ad effetto vissuto; la rigidità strutturale del trucker jacket contrasterà magnificamente con la morbidezza e la luminosità pastello della camicia a righe.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.4,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Camicia regular fit a righe in cotone leggero, adatta a contesti smart casual e ufficio estivo.",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

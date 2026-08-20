@@ -18,5 +18,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-uomo-guess-originals-m4bg43-d4sb0-prntd-mending-gpme",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans Uomo Guess Originals Prntd Mending\nJeans\nGuess Originals da uomo, caratterizzati da un taglio moderno e versatile. Presentano una vita regolare e gamba dritta per una vestibilità confortevole, con dettagli di design che riflettono lo stile autentico del marchio.\nAbbinali ad un paio di\nsneakers\ne ad una\nt-shirt\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: M4BG43 D4SB0 PRNTD MENDING-GPME",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con strappi evidenti e lavaggio acido, abbassano la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

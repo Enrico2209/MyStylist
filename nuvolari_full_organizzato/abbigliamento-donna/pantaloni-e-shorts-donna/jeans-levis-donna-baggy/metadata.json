@@ -20,5 +20,22 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-levis-donna-baggy",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa wave rétro anni Novanta e la cultura skate si fondono nel pezzo estivo più desiderato della stagione. I Bermuda\nJeans Donna Levi's Baggy Dad Jort Med Indigo\nsdoganano il concetto di bermuda di jeans ordinario portando lo stile \"jorts\" direttamente nella tua selezione streetwear daily. Questo modello unisce un taglio rilassato ad ampio respiro a un lavaggio indaco intermedio che profuma di heritage e attitudine effortless.\nDesign e Caratteristiche Principali\nSilhouette Baggy Dad Cut\n: Il tratto distintivo di questo jort è il fit decisamente loose. La gamba si sviluppa con volumi ampi e comodi ispirati ai tagli d'archivio maschili, garantendo una caduta dritta e rilassata che si ferma appena sopra il ginocchio.\nLavaggio Medium Indigo Autentico\n: Confezionato in una tela di puro cotone robusta, il denim presenta una tonalità indaco media arricchita da delicate sfumature progressive sul davanti e lungo le cuciture, che conferiscono al capo una tridimensionalità dall'aspetto piacevolmente vissuto.\nVita Media e Fascione Confortevole\n: Progettato per appoggiarsi in modo naturale sui fianchi, offre una vestibilità morbida nel girovita, ideale per assecondare i movimenti quotidiani in totale libertà e assicurare il massimo del comfort anche nelle giornate più calde.\nDettagli Sartoriali e Orlo Pulito\n: A differenza delle varianti a vivo sfilacciate, il fondo della gamba è rifinito con un orlo dritto e ribattuto con impunture robuste a contrasto, preservando la pulizia delle linee e assicurando una lunghissima durata nel tempo.\nArchitettura Classica a 5 Tasche\n: Mantiene intatta l'identità leggendaria del brand con tasche anteriori rivettate, taschino portamonete, passanti spessi per la cintura e una solida chiusura frontale con patta metallica e bottone a chiodo lucido.\nIdee di Stile: Crea la Tua Wave\nThe Skater Heritage Uniform\n: Esalta l'anima di strada di questo bermuda abbinandolo a una t-shirt grafica oversize delle selezioni urban. Completa il look con calze bianche in spugna a vista e una sneaker bassa da skate.\nProportional Contrast Match\n: Bilancia i volumi loose del jort giocando con le proporzioni superiori. Indossalo insieme a un top super aderente a coste o a una maglia con scollo squadrato della collezione Essential Sqrd Tee infilata nel fascione, chiudendo il tutto con una sneaker chunky.\nOpen Shirt Layering\n: Crea un outfit multistrato perfetto per i pomeriggi in città abbinando il pantaloncino a una canotta basic e lasciando cadere sulle spalle una camicia a quadri oversize o una overshirt utility completamente aperta.\nRiscrivi le regole del tuo guardaroba estivo con l'attitudine d'archivio di Levi's e scendi in strada pronta a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.4,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda di jeans con vestibilita baggy e taglio skater, tipico capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

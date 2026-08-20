@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/ugg-donna-goldenstar-hi-cutout-slide-1175132",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Sandalo Donna UGG Goldenstar Hi Cutout Slide rappresenta l'equilibrio perfetto tra il design massimalista delle suole platform e la delicatezza di una calzatura estiva raffinata. Caratterizzato da una silhouette pulita con eleganti dettagli \"cut-out\" laterali, questo modello è pensato per offrire una camminata ammortizzata e uno stile contemporaneo, ideale per chi desidera guadagnare qualche centimetro in altezza senza rinunciare alla stabilità tipica del brand UGG.\nUGG Goldenstar Hi Cutout Design Elevato e Comfort Iconico\nPerché sceglierlo\nIl punto di forza del modello Goldenstar Hi risiede nella sua versatilità d'uso. La struttura a \"slide\" (ciabattina) permette di calzarlo istantaneamente, mentre la suola platform spessa ma incredibilmente leggera offre un supporto continuo per tutto il giorno. La finitura scamosciata e la tonalità naturale lo rendono un accessorio facile da abbinare, capace di passare con disinvoltura da un look casual da giorno a un outfit più ricercato per l'aperitivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "ciabattina slide aperta, calzatura estiva informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/polo-ph9851-green-132",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa Polo Lacoste Light rappresenta l'evoluzione tecnologica dell'icona del tennis. Pensata per chi non vuole rinunciare allo stile classico del Coccodrillo nemmeno nelle giornate più calde, questa versione ridefinisce il concetto di freschezza grazie a materiali all'avanguardia e una leggerezza strutturale senza precedenti.\nLeggerezza Innovativa e Stile Iconico\nPerché sceglierla\nIl punto di forza della\nPH9851\nrisiede nel suo rivoluzionario\ntessuto Piqué ultra-leggero da 165 g/m²\n. Questa grammatura ridotta permette una traspirabilità superiore rispetto al piqué tradizionale, offrendo una sensazione di quasi totale assenza di peso sulla pelle. È la scelta definitiva per chi cerca un capo che combini l'eleganza formale di Lacoste con una libertà di movimento e un comfort termico eccezionali.\nDettagli Tecnici e Design\nPiqué Ultra-Light (165 g/m²)\n: Un tessuto innovativo, estremamente morbido al tatto e progettato per asciugare rapidamente, mantenendo la pelle fresca e asciutta.\nDesign Senza Tempo\n: Nonostante l'innovazione del tessuto, mantiene intatti gli elementi storici: colletto a costine, abbottonatura classica e finiture sartoriali.\nMassima Traspirabilità\n: La struttura a nido d'ape del piqué leggero favorisce il passaggio dell'aria, rendendola ideale per i climi più umidi e caldi.\nCoccodrillo Ricamato\n: L'immancabile simbolo di autenticità applicato sul petto, garanzia di un'eleganza sportiva riconosciuta a livello mondiale.\nLibertà di Movimento\n: Un taglio studiato per assecondare ogni gesto, rendendola perfetta sia per il tempo libero che per contesti dinamici.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:PH9851 GREEN-132",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "sportivo": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

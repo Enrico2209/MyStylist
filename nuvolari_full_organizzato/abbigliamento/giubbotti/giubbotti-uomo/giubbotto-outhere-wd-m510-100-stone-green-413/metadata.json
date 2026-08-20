@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-outhere-wd-m510-100-stone-green-413",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nGiubbotto imbottito da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto Uomo Outhere modello M510 100\nCappuccio con coulisse elastica\nChiusura con cerniera\nDue grandi tasche verticali con zip interenamente divise\nLogo sulla manica\nBretelle interne\nTasca interna\nScritta interna sul fondo\nRegular fit\nComposizione: esterno 54% cotone, 46% nylon ; imbottitura 90% piuma, 10% penne",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "piumino imbottito sportivo/casual con bretelle interne e dettagli tecnici",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

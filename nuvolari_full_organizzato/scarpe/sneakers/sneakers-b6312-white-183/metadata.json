@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-b6312-white-183",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe Sneakers Uomo Fred Perry B6312 rappresentano l'evoluzione contemporanea delle calzature da tennis classiche, focalizzandosi su una silhouette più snella e un'estetica estremamente pulita. Questo modello è pensato per chi cerca una scarpa versatile, capace di passare con disinvoltura da un look casual da ufficio a un outfit per il tempo libero, mantenendo sempre quell'eleganza sportiva tipicamente britannica.\nFred Perry B6312 Minimalismo e Profilo Low-Top\nPerché sceglierle\nIl punto di forza delle B6312 risiede nel loro design a basso profilo e nella costruzione leggera. Realizzate solitamente in pelle morbida o materiale sintetico premium, queste sneakers offrono un comfort immediato grazie a una tomaia flessibile e una suola in gomma sottile ma resistente. A differenza di modelli più robusti, le B6312 slanciano il piede, rendendole ideali per essere indossate con pantaloni dal taglio slim o affusolato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche a basso profilo, ideali per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-pa-yaraka-kaki-kaki",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalone Chino Uomo J.B.Mittwoch Yaraka Kaki\nunisce la precisione sartoriale del classico taglio casual alla funzionalità rilassata tipica dei capi di ispirazione utility. Declinato in una versatile e luminosa sfumatura sabbia desaturata (\"Kaki\"), questo pantalone si distingue per la pulizia delle linee e per ricercati dettagli ornamentali che ne spezzano il rigore, rendendolo perfetto sia per il contesto urbano quotidiano sia per i look estivi più disinvolti.\nDesign e Caratteristiche Principali\nTessuto in Cotone Compatto Delavé\n: Realizzato in un filato di cotone resistente e strutturato di alta qualità, trattato con un lavaggio in capo che ne ammorbidisce la consistenza e dona un delicato effetto vintage lungo le cuciture.\nCintura Comfort Elasticizzata\n: Il punto vita è caratterizzato da una comoda fascia elastica arricciata sulla parte posteriore e sui fianchi che si adatta ergonomicamente alla silhouette, mantenendo sul fronte una patta tradizionale con cerniera e chiusura con bottone chiaro in tinta.\nPendaglio Etnico Decorativo Amovibile\n: Inserito su un passante anteriore tramite un anello metallico dritto, il pantalone è impreziosito da un cordoncino intrecciato blu e multicolor rifinito con nappe sfrangiate (tassel), che dona un originale tocco boho-chic al capo.\nTasche Anteriori a Toppa e Rivetti\n: Presenta profonde tasche frontali con cuciture squadrate a vista in stile workwear, arricchite sul lato destro da un piccolo taschino interno e da un rivetto metallico scuro di rinforzo sulla fustella.\nSilhouette Chino Slim-Tapered\n: Il taglio scende fluido sul bacino per poi stringersi in modo graduale lungo la gamba, delineando una linea asciutta, moderna e pulita che slancia la figura.\nOrlo Inferiore con Piega Stirata\n: Il fondo gamba dritto presenta una finitura piatta con una leggera marcatura della stiratura centrale, ideale da portare liscio o con un piccolo risvolto alla caviglia.\nProposta di Outfit\nTotal Safari Layering\n: Indossalo in coordinato con il suo\ngiubbotto\nYaraka Kaki leggero a quattro tasche, inserendo sotto una\nt-shirt\nbasic scura per creare un outfit a strati monocromatico sabbia di grande impatto e carattere.\nNautical Riviera Blend\n: Abbinalo a una\ncamicia\na maniche corte azzurra a righe verticali sottili e a una canotta chiara; le tonalità marine superiori richiameranno perfettamente le sfumature blu del pendaglio in vita, per un perfetto look estivo da tempo libero.\nVintage Geometric Contrast\n: Portalo insieme a una\ncamicia\na maniche corte dal pattern geometrico a zig-zag nei toni caldi dell'arancio, marrone e ocra per esaltare l'attitudine rétro del pantalone attraverso una palette ispirata alla terra.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Taglio chino ma con vita elasticizzata, tasche a toppa stile utility e pendaglio etnico che ne abbassano la formalità a casual quotidiano.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,27 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/scarpa-vans-leafer-53-vn000vat-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'eleganza classica della calzatura formale e lo spirito ribelle della skate culture californiana si fondono nella\nscarpa Uomo Vans LX Loafer 53 Black\n. Questo esclusivo modello ibrido eleva il concetto di \"loafer\" tradizionale attraverso materiali premium e una suola carrarmato d'avanguardia, proponendosi come la scelta definitiva per chi desidera un look sofisticato, anticonformista e intriso di attitudine streetwear.\nDesign e Caratteristiche Principali\nPregiata Pelle Pieno Fiore Total Black\n: La scarpa è interamente realizzato in una tomaia di vera pelle nera premium dalla finitura semi-lucida ed elegante. Una scelta materica che dona struttura alla calzatura, assicurando morbidezza al piede e una resistenza eccezionale nel tempo.\nMascherina Classica con Dettaglio \"Penny\"\n: Il design sul collo del piede richiama l'intramontabile silhouette dei penny loafer, caratterizzato dalla classica mascherina sagomata con intaglio centrale. Le cuciture spesse a rilievo realizzate in tono rifiniscono la vaschetta con precisione artigianale.\nDettaglio Iconico \"Off The Wall\"\n: Sul profilo laterale esterno spicca la celebre etichetta tessuta Vans in total black, mentre sul tallone è posizionato l'inconfondibile \"red badge\" in gomma con il logo\n\"Vans Off The Wall\"\n. Un contrasto cromatico e d'archivio iper-riconoscibile che rompe le regole formali della scarpa.\nSuola Carrarmato Vulcanizzata Bold\n: Il vero e proprio focus strutturale è la robusta suola in gomma nera con intersuola vulcanizzata zigrinata e un battistrada carrarmato spessorato e geometrico. Questa combinazione offre un grip di derivazione skate eccezionale, un ottimo assorbimento degli impatti e un volume bold di tendenza.\nInterno Premium Comfort\n: La fodera interna e il sottopiede anatomico sono progettati per garantire una calzata comoda e morbida fin dal primo utilizzo, rendendo questo mocassino perfetto per essere indossato a lungo sia a piedi nudi che con calze ricche di contrasto.\nIdee di Stile: Crea la Tua Wave\nSkate Luxury Uniform\n: Esalta le proporzioni e l'anima ibrida di Vans abbinando il loafer LX a un pantalone ampio dal taglio sartoriale o a un jeans baggy dal lavaggio scuro (ottimo il modello Dickies 958 Baggy Tapered), completando il look con una t-shirt premium infilata dentro e una overshirt aperta.\nContemporary Preppy Mix\n: Gioca con lo stile collegiale e metropolitano indossando il mocassino insieme a un pantalone chino Baecker beige o kaki e a una\nt-shirt\na righe orizzontali yarn-dyed, come la Dickies East Liberty Stripe, lasciando in vista un calzino bianco di spugna per un perfetto tocco rétro.\nRiscrivi i codici dell'eleganza urbana unendo la tradizione sartoriale alla cultura street più autentica. Scegli il carattere audace del mocassino LX Loafer 53 firmato Vans.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nEU\nUS Uomo\n38.5\n6.5\n39\n7\n40\n7.5\n40.5\n8\n41\n8.5\n42\n9\n42.5\n9.5\n43\n10\n44\n10.5\n44.5\n11\n45\n11.5\n46\n12\n47\n13\n48\n14\n49\n15\n50\n16",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.4,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Mocassino ibrido con suola vulcanizzata da skate, tetto di marchio Vans",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

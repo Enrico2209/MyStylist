@@ -20,5 +20,26 @@
   "pattern": "quadri",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yellowstone-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia maniche lunghe con collo francese e fantastia a scacchi blu e rosso. Un modello slim fit in cotone realizzato in esclusiva da camcieria Bellini per Nuvolari. Scopri la qualità e lo stile Made in Italy di\nCamiceria Bellini\nsullo store Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia a quadri uomo Bellini for Nuvolari modello Yellowstone - Blu\nManiche lunghe\nFantasia check\nChiusura con bottoni\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camiceria Bellini",
+      "categoria_url": "https://www.nuvolari.biz/brands/camiceria-bellini"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Camicia slim fit a quadri, registro smart casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

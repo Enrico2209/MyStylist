@@ -26,5 +26,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-uomo-nuvolari-s3-oliver-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl Bomber Uomo Nuvolari in\nNylon tecnico idrorepellente leggerissimo\nè il capospalla essenziale per chi cerca un mix perfetto di leggerezza, protezione e stile urban. Questo modello si ispira alla classica silhouette del bomber, reinterpretata con materiali tecnici moderni per offrire un guscio versatile, ideale per le mezze stagioni e per la vita dinamica in città.\nLeggerezza e Protezione Tecnica\nPerché sceglierlo\nLa forza di questo bomber risiede nel suo tessuto in 100% nylon ad alta densità. Questo materiale non solo garantisce un'ottima resistenza al vento e una naturale idrorepellenza, ma conferisce al capo una lucentezza discreta e una mano liscia che lo rendono estremamente contemporaneo. È un giubbotto \"zero peso\" che offre una protezione efficace senza ingombrare.\nConsigli di Outfit\nStile Urban-Tecnico\nCombinalo con un jeans dal lavaggio medio e completa il look con una\nsneaker dal design tech\n(come i modelli running anni 2000). È l'outfit ideale per chi cerca protezione dagli agenti atmosferici e massima comodità negli spostamenti quotidiani in città, mantenendo un'estetica pulita e moderna.\nSmart-Casual Ricercato\nAbbina un\njeans\ned una\npolo in piqué\no una\ncamicia in cotone\n. Sopra, indossa un capospalla in tessuto materico (come l'effetto suede). Questo mix bilancia perfettamente l'eleganza di un pantalone ben tagliato con la grinta di una giacca di carattere, perfetto per l'ufficio o un aperitivo.\nLo stile Heritage & Relaxed\nScegli un\njeans dal lavaggio chiaro\n(stonewashed) e abbinalo a una\nt-shirt grafica\no una\nfelpa\nleggera\n. Chiudi l'outfit con una\nsneaker\ncolorata\nin suede. Questo look richiama il vintage degli anni '90 e '00, offrendo un'attitudine rilassata e luminosa, ottima per il tempo libero, i weekend fuori porta o i viaggi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% nylon\nVestibilità regular\ninterno stampa Camouflage\nCodice articolo: S3 OLIVER BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneaker",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bomber leggero in nylon tecnico, capospalla casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lips-vintage-black-vbl",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'estetica della controcultura, la propaganda visiva e le radici profonde nello skateboarding si fondono nelle collezioni di\nt-shirt uomo Obey\n. Fondato nel 2001 dal celebre artista e designer Shepard Fairey come estensione del suo percorso di street art, il brand ha trasformato la classica maglietta a maniche corte in una vera e propria tela metropolitana, diventando uno dei pilastri più iconici e riconoscibili dello streetwear globale.\nDesign, Grafiche e Caratteristiche Distintive\nGrafiche Iconiche e Messaggi di Impatto\n: Le t-shirt si distinguono per i loro artwork audaci. Dai classici loghi minimalisti sul petto fino alle maxi stampe posteriori ispirate alla street art, alla pop art, al punk rock e alle grafiche di propaganda politica. Il celebre volto dell'\n\"Obey Giant\"\n(André the Giant) e lo sbarramento del box logo rimangono simboli leggendari del brand.\nFit Rilassati e Silhouette Boxy\n: In linea con la tradizione urban e skate, le t-shirt uomo presentano vestibilità comode, leggermente oversize e squadrate (boxy fit). Questa geometria non solo offre la massima libertà di movimento sulla tavola da skate, ma garantisce quel look cascante e rilassato perfetto per lo stile quotidiano.\nCotone Premium Heavyweight\n: Gran parte della produzione si concentra su t-shirt realizzate in puro cotone di medio-alto spessore (heavyweight). Questo filato compatto e robusto è strutturato per mantenere perfettamente la forma lavaggio dopo lavaggio, donando consistenza visiva alla maglietta e garantendo una durata eccezionale nel tempo.\nColorazioni Ricercate e Lavaggi Vintage\n: Accanto alle tradizionali varianti in bianco ottico e nero profondo, Obey sperimenta costantemente con tinte pastello polverose, sfumature stagionali ed esclusivi trattamenti di lavaggio acido (acid wash) o pigmentato, che regalano un'allure \"vissuta\" e rétro d'archivio al capo.\nIdee di Stile Nuvolari: Costruisci il Tuo Look Urban\n90s Skate Uniform\n: Esalta l'anima core di Obey abbinando una t-shirt grafica a un pantalone chino resistente a gamba dritta o ai volumi rilassati dei jeans\nDickies\n(ottimi i modelli 957 Loose Tapered o 997 Loose Straight). Completa l'outfit con una\nsneaker\nbassa da skate e un calzino di spugna a vista.\nContemporary Street Layering\n: Crea un gioco dinamico di lunghezze e volumi per le giornate più fresche. Indossa una maglietta basica con micro-logo infilata dentro la cintura e sovrapponi una felpa spessa full-zip aperta (perfetta la Dickies Deshler Fz Hoodie) o una overshirt utility in canvas pesante a scacchi.\nSmart Casual Break\n: Spezza il rigore di un pantalone sartoriale o di un\nchino\nclassico. Indossa una\nt-shirt\nObey dai toni neutri sotto a un blazer oversize lasciato aperto, chiudendo il cerchio con un mocassino audace d'ispirazione street come il\nVans\nLX Loafer 53 Black.\nNon indossare una semplice maglietta, esibisci un pezzo di storia della street art internazionale. Scegli il carattere deciso, il comfort e lo stile senza compromessi delle t-shirt uomo firmate Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Dickies",
+      "categoria_url": "https://www.nuvolari.biz/brand/dickies.html"
+    },
+    {
+      "testo": "sneaker",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Vans",
+      "categoria_url": "https://www.nuvolari.biz/brand/vans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "T-shirt grafica oversize di un brand street puro, con maxi stampa posteriore",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/evolution-box-nse-tee-nf0a8b6k-steelbl-grifngr-g701",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nThe North Face NSE Box: L'Icona dell'Esplorazione Diventa Circolare\nT-shirt Uomo The North Face NSE Box\nSimbolo inconfondibile di avventura e stile urbano, la t-shirt NSE Box si rinnova per guardare al futuro dell'ambiente. Caratterizzata dal celebre logo squadrato e dal motto \"Never Stop Exploring™\", questa maglia combina il comfort intramontabile del jersey in misto cotone con un impegno concreto verso la sostenibilità. Entrando a far parte della linea Circular Design, la NSE Box non è solo la compagna ideale per i tuoi sentieri preferiti, ma un passo consapevole verso un design pensato per durare e rinascere.\nComfort Superiore e Design Consapevole\nIniziativa Circular Design\n: Questo capo è stato progettato seguendo i principi dell'economia circolare, riducendo gli sprechi e facilitando il riciclo a fine vita.\nTessuto in Jersey di Misto Cotone\n: La morbidezza della fibra naturale si unisce alla praticità del misto cotone, offrendo una sensazione di estrema piacevolezza sulla pelle durante ogni attività.\nDettagli Iconici\n: Presenta il leggendario logo \"NSE\" racchiuso nel box grafico, un richiamo diretto all'eredità outdoor del brand.\nVersatilità quotidiana\n: Perfetta come base layer per le tue escursioni o come elemento centrale di un look casual metropolitano.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n165 g/m², 60% cotone, 40% poliestere riciclato/in maglia/jersey singolo\nVestibilità regular\nCodice articolo: NF0A8B6K STEELBL/GRIFNGR-G701",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di marchio outdoor, tetto massimo di formalita per il brand",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

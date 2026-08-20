@@ -22,5 +22,19 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda-es3-d26337-d305-salute-c742",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda chino con dettagli utility e costruzione robusta, tipico capo casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

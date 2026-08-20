@@ -20,5 +20,21 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-donna-levis-baggy-dad-barrel",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI volumi d'ispirazione rétro incontrano la wave streetwear più radicale, dando vita a un fit destrutturato e di assoluta tendenza. I\nJeans Donna Levi's Baggy Dad Barrel Light Indigo\nfondono il comfort rilassato del taglio \"Dad\" a una silhouette a botte (barrel) audace e marcatamente urban. Questo modello incarna perfettamente l'estetica Y2K e skater, grazie a una gamba bombata che esalta il movimento e a un lavaggio chiarissimo perfetto per la stagione calda.\nDesign e Caratteristiche Principali\nSilhouette Barrel Architettonica\n: Il tratto distintivo del pantalone è il taglio asimmetrico e incurvato della gamba. I pannelli laterali si allargano progressivamente all'altezza delle cosce e delle ginocchia per poi richiudersi leggermente alla caviglia, definendo una linea a botte dal forte impatto visivo.\nCuciture di Struttura al Ginocchio\n: Per enfatizzare e sostenere la bombatura della silhouette senza appesantire la tela, sono state inserite delle pinces o cuciture orizzontali strategiche a metà gamba che bloccano il volume e garantiscono una caduta tridimensionale pazzesca.\nLavaggio Light Indigo Acidato\n: La tela di puro cotone è sottoposta a un intenso trattamento di schiaritura dall'effetto marmorizzato e rétro, caratterizzato da sfumature indaco chiarissime intrecciate a venature bianche dall'estetica squisitamente d'archivio.\nVita Media e Taglio Baggy Rilassato\n: Il fit si poggia morbido sui fianchi offrendo una vestibilità comoda, loose ed estremamente flessibile nel girovita, studiata appositamente per garantire libertà di movimento e un'attitudine effortless.\nCostruzione Classica a 5 Tasche\n: Struttura fedele al DNA del brand con tasche anteriori rivettate, taschino portamonete, passanti spessi lungo il fascione e l'immancabile chiusura frontale con patta metallica a contrasto.\nIdee di Stile: Crea la Tua Wave\nThe Fitted Contrast Uniform\n: Sfrutta i volumi importanti di questo pantalone creando un contrasto di proporzioni perfetto. Abbinalo a una t-shirt aderente come la collezione Essential Sqrd Tee o a una canotta a coste sottili inserita nel fascione, chiudendo il look con una sneaker chunky.\n90s Skater Vibe\n: Eleva l'anima street del denim combinandolo con una t-shirt grafica oversize delle selezioni urban e una overshirt utility o una camicia a quadri lasciata completamente aperta a mo' di giacca leggera.\nUrban Cropped Layering\n: Per un outfit da giorno dinamico e ricercato, indossa il jeans insieme a un top corto o a una felpa cropped, aggiungendo una giacca denim scura o un blazer oversize per spezzare le geometrie del look.\nAbbandona i tagli ordinari e sperimenta nuove geometrie. Scegli l'attitudine bold di Levi's e scendi in strada a dettare le regole dello street style.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Jeans dal taglio baggy/barrel molto destrutturato e lavaggio acido, abbassato a 2 per la vestibilità oversize e l'estetica skater",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

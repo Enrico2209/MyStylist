@@ -23,5 +23,47 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpe-heydude-harbor-lo-classic-45139-n-blazer-b-tan-4zq",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe scarpe\nHeyDude Harbor Lo Classic\nridefiniscono i canoni della classica calzatura da barca, fondendo un'estetica preppy e coastal con l'inconfondibile tecnologia ultraleggera e flessibile del brand. Pensate per chi non vuole scendere a compromessi tra eleganza informale e comfort assoluto, queste scarpe si distinguono per la silhouette pulita e i materiali freschi, ponendosi come un punto fermo del guardaroba estivo sia per la città che per i weekend al mare.\nDesign e Caratteristiche Principali\nTomaia in Canvas Leggero d'Ispirazione Nautica\n: Il design riprende le linee pulite del classico mocassino da barca, reinterpretato con una tela di cotone premium altamente traspirante e morbida. Le cuciture spesse in rilievo sulla punta (\"moc-toe\") e i dettagli strutturali celebrano la tradizione marittima con un tocco contemporaneo.\nSistema di Allacciatura Regolabile a Due Occhielli\n: A differenza dei modelli slip-on puri, presentano un'allacciatura frontale minimale con lacci leggeri che consentono di regolare a piacimento la tenuta sul collo del piede, mantenendo comunque una calzata rapida e confortevole.\nSuola Ultra-Lightweight in Schiuma EVA\n: La suola è stampata in una speciale ed esclusiva mescola espansa, flessibile e incredibilmente leggera. È progettata per ammortizzare gli impatti e assecondare la naturale camminata, azzerando la sensazione di affaticamento anche dopo un utilizzo prolungato.\nSoletta Ergonomica in Memory Foam Rimovibile\n: L'interno è equipaggiato con un plantare anatomico ammortizzato rivestito in sughero naturale o tessuto tecnico traspirante, che favorisce il ricircolo dell'aria, previene i fastidi da sfregamento a piede nudo ed è facilmente estraibile per la pulizia.\nCalzata Comoda e Avvolgente\n: Pur mantenendo un profilo visivo leggermente più asciutto rispetto alla classica linea Wally, la Harbor Lo garantisce lo spazio ottimale per l'avampiede, eliminando le compressioni e regalando una totale libertà di movimento.\nProposta di Outfit\nCoastal Preppy Heritage\n: Abbinale alla polo a righe multicolore azzurre e bianche\nFred Perry Ihmira Blue Multi\ne a un\nbermuda\nin misto lino color sabbia; lo spirito nautico della scarpa si sposerà magnificamente con l'estetica tennis vintage della polo, creando un perfetto look Riviera-chic.\nSmart Summer Suit\n: Portale sotto il completo sartoriale estivo composto dal\npantalone chino\nIhfava Barrel e dalla sua\ngiacca oversize\ncoordinata Dove Melange, completando con la t-shirt bianca minimalista\nFred Perry M2474 Snow White\n; la linea pulita di queste calzature alleggerirà la formalità del grigio-tortora con uno stile urban-casual sofisticato e d'avanguardia.\nRelaxed Summer Office\n: Indossale in abbinamento alla camicia a righe verticali bianche e azzurre\nIchi Studio Blue\n, portata aperta sopra una t-shirt bianca in jersey e abbinata a un pantalone chino khaki asciutto; un ensemble fresco, sobrio e impeccabile per le giornate calde in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Fred Perry Ihmira Blue Multi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giacca oversize",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "Fred Perry M2474 Snow White",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Ichi Studio Blue",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Scarpa da barca in tela leggera, a metà tra il casual quotidiano e lo smart casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

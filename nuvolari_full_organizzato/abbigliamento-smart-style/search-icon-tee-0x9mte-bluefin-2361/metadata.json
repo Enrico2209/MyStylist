@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/search-icon-tee-0x9mte-bluefin-2361",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura surf internazionale, l'innovazione tecnologica applicata ai materiali acquatici e il design solare australiano si incontrano nelle collezioni di\nt-shirt uomo Rip Curl\n. Fondato nel 1969 a Torquay, nella leggendaria Bells Beach, il brand \"The Ultimate Surfing Company\" ha ridisegnato il concetto di casualwear maschile, creando magliette che fondono l'amore per l'oceano a un'estetica fresca, dinamica e dallo spiccato sapore lifestyle.\nDesign, Grafiche e Caratteristiche Principali\nLe Iconiche Stampe \"The Search\" e Logo Heritage\n: Il focus visivo delle t-shirt celebra costantemente il DNA del brand e la filosofia del viaggio alla ricerca dell'onda perfetta. Le grafiche spaziano dai classici loghi circolari ed etichette rétro d'ispirazione anni '70 a spettacolari illustrazioni botaniche, tramonti californiani e macro scritte ad alta definizione sul petto o sulla schiena.\nFilati in Cotone Biologico Premium (Organic Cotton)\n: In sintonia con l'impegno eco-consapevole e il profondo rispetto per l'ambiente marino, Rip Curl utilizza ampiamente puro cotone biologico certificato. Questo tessuto garantisce un'eccellente traspirabilità, una mano morbida e vellutata sulla pelle e una lunga resistenza ai lavaggi e alla salsedine.\nVestibilità Comfort per Ogni Stile\n: Le collezioni si sviluppano su diverse geometrie per assecondare ogni esigenza: dal classico taglio regular, ideale per il tempo libero e le giornate attive sul bagnasciuga, fino alle moderne vestibilità relaxed e boxy d'ispirazione skate, con spalle leggermente scese e maniche più ampie.\nTessuti Tecnici a Protezione UV (Linee Surf)\n: Oltre ai modelli tradizionali in cotone, il brand propone t-shirt in misto poliestere idrofobico dotate di protezione solare certificata UPF 50+. Queste magliette tecniche sono progettate per essere indossate sia dentro che fuori dall'acqua, asciugandosi in tempi record e prevenendo gli sfregamenti della tavola.\nIdee di Stile: Costruisci il Tuo Look Beach & Surf\nAuthentic Surfer Uniform\n: Esalta l'anima radicale del brand combinando le sue icone. Abbina una t-shirt uomo Rip Curl con macro stampa vintage sulla schiena alla tecnicità idrorepellente della linea di\ncostumi uomo\nRip Curl Mirage o a un modello Deus Ex Machina, completando la protezione con un cappello trucker e occhiali da sole sportivi.\nMetropolitan Streetwear Transition\n: Per muoverti fluidamente dalla spiaggia ai tuoi impegni in città o a un aperitivo al tramonto, gioca sui contrasti strutturati dello streetwear d'élite. Scegli una t-shirt a tinta unita con logo minimale sul petto e accostala alla robustezza tridimensionale di un paio di\npantaloni uomo\ncargo scuri G-Star RAW o a un bermuda in felpa \"I Told Ya\".\nSmart Summer Contrast\n: Smorza l'impronta puramente sportiva della t-shirt unendo la freschezza del cotone alla nobiltà delle fibre naturali. Indossa una maglietta chiara Rip Curl sotto la precisione lineare e ariosa di una delle\ncamicie uomo\nSquad in puro lino fiammato, lasciandola completamente aperta per un perfetto look lounge-chic da spiaggia.\nVivi la stagione calda e il richiamo delle onde con il massimo del comfort e dello stile contemporaneo. Scegli l'efficienza dei materiali eco-consapevoli, la freschezza dei tessuti premium e l'inconfondibile energia solare delle t-shirt uomo firmate Rip Curl.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica di un brand surfwear, adatta al contesto quotidiano e da spiaggia",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

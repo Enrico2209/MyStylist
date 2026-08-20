@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-nuvolari-panna",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nMaglione uomo Nuvolari con collo alto e lavorazione intrecciata, tinta unita, colore panna, made in Italy\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione uomo Nuvolari con collo alto e lavorazione intrecciata, tinta unita, colore panna, made in Italy\nMade in Italy\nVestibilità Regular\nCodice Prodotto: WF DANIEL",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto classico, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

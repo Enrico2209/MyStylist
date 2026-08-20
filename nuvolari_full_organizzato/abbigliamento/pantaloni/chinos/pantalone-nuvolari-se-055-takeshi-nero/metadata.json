@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-se-055-takeshi-nero",
-  "image_count": 9
+  "image_count": 9,
+  "descrizione_completa": "Descrizione\nPantalone chino da uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone chino Nuvolari modello 055 Takeshi - Nero\nChiusura con zip e bottone\nVita regolabile con fettucce laterali\nDue tasche frontali\nDue tasche posteriori con chiusura a bottone\nDettaglio pinces frontali\nPatch logo cucita sulla tasca posteriore\nSalpa logata sul retro vita\nVestibilità Carrot\nComposizione: 56% Cotone, 41% Tencel, 3% Elastane\nIl modello è alto 1.83 ed indossa una taglia 46",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con pinces e dettagli curati, ma in vestibilita carrot",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

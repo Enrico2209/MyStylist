@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m6gi33-k3310-brown-multi-f1ze",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSPIRITO LIBERO: T-SHIRT GUESS JEANS CON GRAFICA TIGRE\nAggiungi un tocco di audacia al tuo guardaroba con questa T-shirt Guess Jeans dal carattere deciso. Caratterizzata da un lavaggio effetto acid wash color fango, questa maglia unisce un’estetica vintage a una grafica contemporanea d'impatto.\nDesign d'Impatto:\nL'iconico triangolo Guess incornicia una suggestiva stampa a tema giungla con una tigre protagonista, sormontata dal logo in lettering bianco.\nEffetto Vissuto:\nLa particolare tintura del tessuto dona al capo sfumature uniche, ideali per un look street-style autentico.\nComfort Naturale:\nRealizzata in morbido cotone, assicura freschezza e una vestibilità impeccabile per tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica grande e lavaggio acid wash, tipico casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

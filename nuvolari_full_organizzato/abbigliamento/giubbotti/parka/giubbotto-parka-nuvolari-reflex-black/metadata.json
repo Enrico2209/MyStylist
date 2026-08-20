@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/parka/giubbotto-parka-nuvolari-reflex-black",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nGiubbotto parka in maglia nera da uomo con cappuccio e imbottitura in piuma d'anatra. Chiusura zip nascosta più bottoni, due tasche frontali e una tasca interna a zip. Un giubbotto caldo e soffice che però non ti appesantisce, grazie alla vestibilità slim fit. Un must have per i tuoi look invernali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto parka uomo Nuvolari modello Reflex - Black\nTessuto realizzato in maglia\nCappuccio\nChiusura con zip nascosta e bottoni\nDue tasche frontali\nTasca interna con zip\nBottoni sui polsini\nPolsino elasticizzato nascosto\nImbottitura in piuma d'anatra\nPlacca metallica logo Nuvolari sul braccio\nVestibilità Slim Fit\nComposizione: 100% poliestere\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Parka in maglia con imbottitura in piuma, vestibilità slim e bottoni classici che elevano il capo a smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

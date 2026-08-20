@@ -22,5 +22,26 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/24colours-cardigan-41365b-striped-032",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica indipendente, lo spirito democratico e l'amore per il colore si incontrano nelle collezioni firmate\n24colours\n. Nato nel cuore pulsante di Berlino, questo brand si è imposto nel panorama della moda contemporanea grazie a una filosofia unica: proporre un abbigliamento urban, fresco e di tendenza, rendendolo accessibile a tutti e mantenendo una forte attenzione alla sostenibilità sociale e ambientale.\nDesign e Caratteristiche Distintive\nIspirazione Streetwear Berlinese\n: Ogni capo racchiude l'anima eclettica, multiculturale e rilassata dei quartieri di Berlino. Le silhouette variano da tagli oversize d'ispirazione maschile a linee più accostate e femminili, perfette per creare look stratificati e dinamici dal sapore nord-europeo.\nEsplosione di Colori e Stampe Uniche\n: Come suggerisce il nome stesso, il brand mette la palette cromatica al centro del proprio universo. Accanto ai toni neutri e minimalisti, 24colours sperimenta costantemente con pattern geometrici rétro, stampe floreali astratte, grafiche psichedeliche e vivaci colorazioni pastello o vitaminiche.\nEdizioni Limitate e No-Waste\n: Per garantire l'esclusività e ridurre l'impatto ambientale legato alla sovrapproduzione, il brand produce i propri capi in quantità limitate. Una scelta consapevole che permette di rinnovare continuamente le collezioni senza generare stock in eccesso.\nTessuti Consapevoli\n: Gran parte della produzione integra materiali ecologici e sostenibili, come il cotone biologico, la viscosa tracciabile ed eco-responsabile (Lenzing Ecovero) e filati riciclati, offrendo capi morbidi, traspiranti e gentili sul pianeta.\nConsigli di Stile Nuvolari\nBerlin Urban Layering\n: Crea un perfetto contrasto metropolitano abbinando un pantalone ampio a gamba dritta o un denim loose di 24colours a un micro top minimalista. Completa l'outfit sovrapponendo una delle loro overshirt strutturate a quadri o un blazer oversize lasciato aperto, chiudendo il look con una sneaker bold o un mocassino platform.\nCasual Contrast Dress\n: Gioca con le texture e con le simmetrie accostando la fluidità di un abito stampato o di una gonna midi a coste del brand alla solidità di una giacca utility in canvas o di una felpa spessa full-zip, mixando femminilità e attitudine street.\nEsprimi la tua unicità attraverso lo stile libero e sostenibile della moda berlinese. Scegli la freschezza e l'identità eclettica di 24colours.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "24colours",
+      "categoria_url": "https://www.nuvolari.biz/brands/24colours"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Cardigan in maglia traforata colorata, stile casual quotidiano con accento street berlinese",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

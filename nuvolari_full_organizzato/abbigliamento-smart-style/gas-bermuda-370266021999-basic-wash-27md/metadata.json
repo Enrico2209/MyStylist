@@ -20,5 +20,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/gas-bermuda-370266021999-basic-wash-27md",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Gas Basic Wash\ninterpretano l'essenza del denim estivo in chiave dinamica e disinvolta, ponendosi come un'opzione fresca e di carattere per le giornate calde. Caratterizzati da un lavaggio indaco medio-scuro con un trattamento ad effetto pietra mirato (\"Basic Wash\"), questi pantaloncini in jeans esibiscono sfumature e sabbiature naturali localizzate sul bacino e sulle cosce, regalando un aspetto piacevolmente vissuto ed energico pur mantenendo un'architettura d'insieme ordinata e pulita.\nDesign e Caratteristiche Principali\nTela Denim di Cotone Flessibile\n: Confezionati in una robusta ma fresca tela denim di cotone arricchita da una leggera componente elastica. Questa composizione garantisce un'ottima resistenza all'uso quotidiano combinata con la morbidezza e la flessibilità necessarie per assicurare il massimo comfort nei movimenti.\nLavaggio Intenso con Chiaroscuri Localizzati\n: La base blu profonda è movimentata da baffature ed evidenti dissolvenze sul davanti, create per simulare le naturali pieghe da usura del tessuto. Le cuciture a contrasto color tabacco corrono lungo i profili, esaltando la struttura e il sapore heritage del modello.\nCostruzione Iconica a Cinque Tasche\n: Il bermuda rispetta la classica configurazione a 5 tasche, con due tasche posteriori sagomate e pulite, due tasche anteriori arrotondate e il caratteristico taschino porta-monete sul lato destro, quest'ultimo rifinito con l'applicazione della micro-etichetta in tessuto con il logo GAS a doppia freccia.\nChiusura Tradizionale e Fondo con Risvolto\n: La chiusura è affidata a una patta frontale con zip e a un bottone a chiodo personalizzato metallico con finitura ramata lucida. Il fondo gamba è caratterizzato da un risvolto fisso cucito che mostra la trama interna della tela denim, accentuando l'attitudine informale del capo.\nSilhouette Slim-Fit Moderna\n: Il taglio propone una linea asciutta e scattante che segue la coscia in modo armonioso, terminando poco sopra il ginocchio per definire una silhouette slanciata, pulita e decisamente contemporanea.\nProposta di Outfit\nUrban Street Graphic\n: Abbinalo alla\nt-shirt\navorio dotata di grafica posteriore motoristica rossa e nera; l'unione tra il sapore vintage della stampa e l'intensità del denim lavato strutturerà un outfit casual metropolitano grintoso, bilanciato e perfetto per il tempo libero.\nPreppy Summer Vibe\n: Indossalo insieme alla\npolo\npiqué verde menta brillante; la vivacità e la freschezza della tonalità pastello superiore contrasteranno alla perfezione con la profondità della base indaco del bermuda, dando vita a un look fresco, luminoso e curato per un aperitivo estivo.\nSmart Summer Casual\n: Portalo in abbinamento alla\ncamicia\na righe sottili bianche e azzurre a maniche lunghe, tenendo le maniche leggermente arrotolate sui ritmi dei polsi; la precisione geometrica della riga smorzerà la natura sportiva del jeans risvoltato, offrendo un insieme ideale per una passeggiata serale o una cena informale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim, capo tipicamente estivo e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

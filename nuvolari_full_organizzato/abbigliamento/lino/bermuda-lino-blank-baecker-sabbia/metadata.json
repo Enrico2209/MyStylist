@@ -23,5 +23,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/lino/bermuda-lino-blank-baecker-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa freschezza impareggiabile delle fibre naturali, il rigore del design minimale e l'attitudine sofisticata del guardaroba estivo si fondono nei\nbermuda uomo Baecker in lino\n. Pensati per chi non vuole rinunciare all'eleganza nemmeno durante le giornate più calde della stagione, questi pantaloncini corti celebrano la leggerezza sartoriale, offrendo un capo versatile che si muove fluidamente tra il relax del tempo libero e la precisione formale di un aperitivo al tramonto.\nDesign, Tessuto e Caratteristiche Distintive\nPuro Lino Premium ad Alta Traspirabilità\n: Interamente confezionati in pregiato filato di lino (o in un calibrato mix di lino e cotone), i bermuda assicurano una costante circolazione dell'aria e una piacevole sensazione di freschezza sulla pelle. La caratteristica texture fiammata del tessuto dona al capo quella tridimensionalità visiva e quell'eleganza \"disordinata\" tipica del quiet luxury estivo.\nSartorialità Short Chino e Linee Pulite\n: La silhouette si sviluppa sulle geometrie pulite del pantalone classico. Presenta tasche laterali a filo inserite con precisione lungo i fianchi e tasche posteriori a filetto, garantendo un'estetica essenziale, priva di eccessi volumetrici, che valorizza e slancia la figura maschile.\nCostruzione del Girovita Funzionale\n: L'architettura della cintura è progettata per il massimo del comfort. Molti modelli della linea combinano una chiusura formale sul davanti (provvista di zip di alta qualità e bottone strutturato) a inserti elastici laterali o interni, offrendo una vestibilità adattiva che asseconda perfettamente i movimenti del corpo senza costringere.\nPalette Cromatica Naturale e Neutra\n: La gamma si concentra su tonalità organiche e facili da abbinare: dal classico bianco ottico e sabbia beige, passando per il verde salvia e il kaki, fino alle varianti più profonde come il blu navy e il nero, ideali per i look serali.\nIdee di Stile: Costruisci il Tuo Look Riviera & Metropolitan Smart-Casual\nAuthentic Riviera Linen Uniform\n: Crea un outfit monocromatico e sofisticato, perfetto per un weekend al mare o un pranzo informale. Abbina il bermuda in lino Baecker alla freschezza ariosa di una delle nostre\ncamicie uomo\nin puro lino fiammato bianco o azzurro, arrotolando leggermente le maniche fino al gomito e completando il look con un mocassino morbido o una scarpa barca.\nUrban Casual Transit Look\n: Smorza il rigore sartoriale del pantaloncino inserendolo in un contesto urbano fresco e dinamico. Accosta il bermuda in nuance sabbia alla struttura solida di una delle\nt-shirt uomo\nK-Way o Levi's in cotone premium, chiudendo il cerchio con una sneaker low-top pulita in pelle bianca e un occhiale da sole rétro.\nContemporary Pop-Street Mix\n: Sperimenta un gioco di contrasti moderni unendo tessuti classici e attitudine streetwear. Combina il bermuda scuro (blu o nero) alla vestibilità relaxed e pesante di una t-shirt uomo Obey con trattamento di tintura a pigmenti, stratificando sopra con una camicia a maniche corte lasciata completamente aperta sul davanti per un'aria disinvolta e ricercata.\nSperimenta la perfetta sintesi tra il comfort termico dei materiali naturali e la forza espressiva del design essenziale. Scegli la leggerezza della texture in lino, la precisione dei tagli Baecker e l'eleganza intramontabile dei bermuda uomo ideali per l'estate.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: sh blank sabbia",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda chino in lino, unisce la formalita del taglio sartoriale alla natura informale del pantaloncino corto estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

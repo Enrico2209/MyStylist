@@ -25,5 +25,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-es3-cuba-226002-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa precisione geometrica della sartoria classica e la spinta innovativa dello streetwear d'autore si fondono nelle collezioni di\npantaloni chino uomo Squad\n(Squad2). Caposaldo intramontabile del guardaroba maschile, il chino viene reinterpretato dal brand attraverso trattamenti tessili d'avanguardia e silhouette aggiornate, trasformandosi nel perfetto passe-partout stagionale per chi esige un look ordinato, contemporaneo e ricco di attitudine urban.\nDesign, Finiture e Caratteristiche Distintive\nSilhouette Modern-Fit Calibrate\n: La proposta firmata Squad spazia dai tagli slim-fit strutturati, che seguono asciutti la linea della gamba fermandosi alla caviglia per un'estetica slanciata e pulita, fino a geometrie più morbide e rilassate d'ispirazione skate con tasche profonde, ideali per i look daily più informali.\nTrattamenti Vintage ed Effetto Delavé\n: Il vero e proprio marchio di fabbrica del brand risiede nei lavaggi industriali. I pantaloni chino sono sottoposti a tinture in capo d'autore e lavaggi enzimatici che ammorbidiscono le fibre e creano caratteristiche sfumature rétro in corrispondenza delle cuciture, dei passanti e dei profili delle tasche, donando un'affascinante tridimensionalità al capo.\nTessuti Premium in Cotone Stretch\n: Confezionati prevalentemente in un twill di cotone compatto ad alta densità, integrato con una calibrata percentuale di elastane. Questa combinazione assicura che il pantalone mantenga una caduta geometrica rigorosa e impeccabile per tutta la giornata, pur assecondando con assoluta flessibilità ogni movimento del corpo.\nDettagli Costruttivi e Hardware Ricercati\n: La pulizia dell'architettura chino è arricchita da finiture sartoriali: girovita rigido sagomato con passanti robusti, chiusura classica con patta a zip e bottone in contrasto, tasche anteriori ad accesso diagonale a filo e tradizionali tasche posteriori a filetto geometrico.\nIdee di Stile: Costruisci il Tuo Outfit Urban-Chic\nMetropolitan Smart Casual Uniform\n: Crea un perfetto look da giorno ordinato, fresco e impeccabile per l'ufficio, un viaggio o un pranzo di lavoro. Abbina il pantalone chino Squad in tonalità fango o corda alla precisione lineare di una\ncamicia uomo\ndello stesso brand con colletto alla coreana, completando il cerchio con un mocassino morbido scamosciato.\nPremium Streetwear Layering\n: Esalta l'anima underground inserendo il taglio classico del chino in un contesto street deciso. Accosta il pantalone alla struttura boxy oversize di una delle grafiche\nt-shirt uomo\nSquad o a una t-shirt Psycho Bunny con maxi logo ricamato sul petto, chiudendo l'outfit con una sneaker bassa rétro e un occhiale da sole bold.\nContemporary Preppy Break\n: Per le fresche serate estive o gli aperitivi nel weekend, gioca di contrasti unendo la pulizia del cotone a texture sportive d'élite. Coordina il chino a una pregiata\npolo uomo\nPsycho Bunny in cotone Pima con profili del colletto a contrasto, definendo l'outfit con un\ncappello uomo\ncon visiera ricurva.\nRidisegna le regole del tuo abbigliamento formale sperimentando un nuovo concetto di pantalone chino, dove la solidità del taglio sartoriale incontra l'energia della cultura metropolitana. Scegli la versatilità senza compromessi e il carattere unico delle collezioni firmate Squad.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino classico in cotone, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

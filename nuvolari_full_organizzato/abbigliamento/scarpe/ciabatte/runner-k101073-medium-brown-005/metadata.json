@@ -25,5 +25,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/runner-k101073-medium-brown-005",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEstetica retro-running e comfort artigianale si incontrano nelle\nsneakers da uomo Camper modello Runner Four nella nuance Marrone\n. Realizzate in pelle marrone dalla mano pregiata, con la caratteristica silhouette ispirata alle running vintage: un modello dallo stile ricercato e versatile, perfetto per look urbani e casual.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Pelle:\npelle marrone di qualita dalla mano morbida, resistente e dallo stile raffinato.\nSilhouette Retro Runner:\nlinea affusolata ispirata alle running anni 90, comoda e di tendenza.\nSuola in Gomma:\nsuola leggera e flessibile con buona ammortizzazione per il massimo comfort.\nComfort Camper:\ncostruzione curata e calzata avvolgente tipica della tradizione del brand.\nIdee di Stile: Costruisci il Tuo Look Casual & Retro\nCasual Everyday:\nabbinale a un paio di\njeans uomo\ne a una\nt-shirt uomo\nper un look comodo e curato.\nSmart Casual:\nperfette con pantaloni chino e una camicia per un outfit rilassato ma ordinato.\nTocco Retro:\nil marrone caldo aggiunge un tocco vintage e distintivo a ogni look.\nAggiungi un tocco retro e ricercato al tuo guardaroba. Scegli la qualita della pelle, il comfort della suola e lo stile inconfondibile firmato Camper Runner.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Scarpa da barca ibridata con suola sneaker, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

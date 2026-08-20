@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/redbox-small-carry-bag-nf0a8eg9-tnf-black-jk31",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo stile urbano e l'affidabilità di The North Face si condensano nella\nRedbox Small Carry Bag di The North Face nella colorazione TNF Black\n. Una tracolla compatta e minimale, perfetta per portare l'essenziale con discrezione, ideale per la città e il tempo libero.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Resistente\n: Realizzata in materiale robusto e facile da pulire, pensato per resistere all'uso quotidiano.\nNero Total Versatile\n: Una tinta unita scura che si abbina a qualsiasi outfit, dal casual allo sportivo.\nFormato Compatto\n: Dimensioni pratiche, ideali per smartphone, portafoglio, chiavi e piccoli oggetti.\nTracolla Regolabile\n: Cinghia regolabile per indossarla a spalla o a tracolla con il massimo comfort.\nLogo Redbox Iconico\n: L'inconfondibile riquadro logo The North Face sul davanti, firma di stile riconoscibile.\nIdee di Stile e Utilizzo\nEveryday Urbano\n: Portala a tracolla su un look casual per avere l'essenziale sempre con te, con discrezione.\nSport & Free Time\n: Compagna ideale per una passeggiata, un concerto o una giornata all'aria aperta.\nLook Total Black\n: Abbinala a\nt-shirt\ne\ngiubbotti\nscuri per un outfit urban coordinato e senza tempo.\nEssenziale, resistente e sempre attuale: la Redbox Small Carry Bag di The North Face in nero è l'accessorio perfetto per muoverti leggero in ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "borsello/tracolla di marchio sportivo e outdoor, tetto massimo di formalita pari a 1",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

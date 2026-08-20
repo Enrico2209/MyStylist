@@ -22,5 +22,31 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-ss-fz-recreio-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Rayz – Comfort urbano, stile deciso\nLa felpa uomo Rayz è la scelta perfetta per chi cerca un look streetwear autentico senza rinunciare alla comodità. Realizzata in morbido cotone con dettagli curati, presenta un fit regolare e una grafica distintiva che riflette l’anima urbana del brand. Il cappuccio regolabile e la tasca frontale a marsupio aggiungono funzionalità e versatilità.\nIndossala con un\npantalone\nper un outfit rilassato o abbinala a un paio di\njeans\nper uno stile più definito.\nScopri il tuo modo di vivere la città con Rayz.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: SS FZ RECREIO NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

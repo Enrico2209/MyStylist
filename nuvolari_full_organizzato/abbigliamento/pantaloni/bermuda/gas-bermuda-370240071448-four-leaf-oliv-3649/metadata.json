@@ -23,5 +23,35 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/gas-bermuda-370240071448-four-leaf-oliv-3649",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Gas Four Leaf Oliv\ninterpretano l'estetica utility in chiave contemporanea, offrendo un pantaloncino cargo versatile e dalla forte personalità urbana. Caratterizzati da una tonalità verde oliva desaturata e polverosa (\"Four Leaf Oliv\"), questi bermuda si distinguono per una struttura solida ma morbida, arricchita da tasconi laterali a basso profilo che uniscono funzionalità e pulizia delle linee, ideali per i look casual estivi e le avventure nel tempo libero.\nDesign e Caratteristiche Principali\nTessuto Gabardine di Cotone Leggero\n: Confezionati in un twill di cotone fresco e compatto, trattato in capo per ottenere una mano morbida e un aspetto leggermente vissuto lungo le cuciture. La trama garantisce un'eccellente resistenza e traspirabilità durante la stagione calda.\nTasconi Cargo Laterali Ergonomici\n: Equipaggiati con due grandi tasche applicate sulle cosce con patta di chiusura geometrica. Il design piatto dei tasconi evita spessori eccessivi sul profilo della gamba, mantenendo una silhouette asciutta e moderna.\nConfigurazione Multitasche e Dettagli Utility\n: Oltre ai tasconi laterali, il modello presenta due tasche frontali dal taglio obliquo d'ispirazione chino ed è rifinito con un piccolo rivetto metallico brunito sul lato destro per un richiamo autentico al mondo workwear.\nChiusura e Finiture Interne Curate\n: La chiusura in vita è affidata a una patta con zip e a un bottone a chiodo personalizzato con finitura ramata ed effetto vintage. L'interno della cintura è impreziosito da una fettuccia parasudore a righe bianche e blu, che assicura comfort e stabilità.\nTaglio Regular Fit Bilanciato\n: La vestibilità è regolare e dritta, con una lunghezza che si attesta appena sopra il ginocchio. Il fondo gamba è rifinito con impunture lineari che permettono anche di risvoltare l'orlo per un look ancora più disinvolto.\nProposta di Outfit\nUrban Biker Contrast\n: Abbinalo alla\nt-shirt\navorio con grafica posteriore motoristica rossa; il contrasto tra il tono caldo e vintage della maglietta e il verde oliva del bermuda cargo creerà un perfetto outfit street-casual di carattere.\nSummer Heritage Layering\n: Indossalo insieme alla\nt-shirt\nbianca con micro-logo e stendi sopra la\ngiacca di jeans\nstone wash lasciata aperta; la solidità della tela denim indaco si sposerà perfettamente con l'attitudine utility del bermuda, definendo un look a strati ideale per le serate estive in città.\nSmart Safari Casual\n: Portalo in abbinamento alla polo piqué bianca con sottili profili neri a contrasto; la pulizia e il minimalismo della polo smorzeranno l'impronta militare del pantaloncino cargo, dando vita a un insieme fresco, ordinato ed equilibrato, ottimo per un aperitivo informale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giacca di jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo con tasconi laterali, tipico capo casual/workwear estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

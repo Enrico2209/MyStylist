@@ -25,5 +25,21 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/vestiti-donna/hinnominate-abit0-hmabw02485-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sofisticata del nero incontra una struttura asimmetrica d'avanguardia, trasformando il concetto di abito estivo in uno statement di puro stile urban. L'\nAbito Donna Hinnominate Nero\nè concepito per chi cerca un pezzo versatile, audace e dal carattere iper-contemporaneo. Questo modello unisce il comfort tipico del jersey premium a geometrie sartoriali ricercate, perfette per ridefinire le linee del corpo con un'attitudine effortless.\nDesign e Caratteristiche Principali\nArchitettura Con Drappeggio Laterale (Ruched Structure)\n: Il vero focus stilistico del capo è la sofisticata arricciatura concentrata lungo il fianco sinistro. Questa lavorazione sartoriale crea un gioco di pieghe fluide che modella i volumi e spezza la rigidità della silhouette con un movimento asimmetrico pazzesco.\nDettaglio Logo Minimalist a Contrasto\n: Posizionato in modo strategico appena sopra il punto di drappeggio sul fianco, spicca il lettering bianco del brand\n\"HINNOMINATE\"\n. Stampato con un font pulito e geometrico, firma il capo aggiungendo un deciso accento grafico.\nScollo a Girocollo Pulito e Lineare\n: Progettato con un classico scollo a girocollo dal profilo sottile, che mantiene una linea pulita e minimalista sul davanti, bilanciando alla perfezione la complessità del drappeggio laterale.\nTaglio Smanicato Con Spalla Strutturata\n: Il design smanicato si sviluppa con un taglio dritto e leggermente esteso sulla spalla, definendo una linea pulita e geometrica che dona stabilità alla parte superiore e slancia la fisionomia delle braccia.\nTessuto Premium Soft Touch\n: Confezionato in un jersey di cotone elasticizzato compatto di altissima qualità. La morbidezza della tela assicura un comfort assoluto sulla pelle e sostiene in modo impeccabile la tridimensionalità delle arricciature laterali.\nIdee di Stile: Crea la Tua Wave\nUrban Night Contrast\n: Trasforma l'abito per una serata in città abbinandolo a un blazer oversize sartoriale scuro lasciato completamente aperto e a una sneaker bold o chunky per mantenere un perfetto equilibrio tra eleganza e cultura di strada.\n90s Casual Vibe\n: Per un outfit da giorno dinamico ed effortless, sovrapponi una camicia a quadri oversize o una giacca in denim dal lavaggio vintage chiarissimo lasciata aperta, completando il look con una sneaker bassa da skate.\nUtility Edgy Match\n: Sperimenta nuove geometrie combinando l'abito con un capospalla leggero d'ispirazione utility o un gilet multitasche, aggiungendo una borsa a tracolla tecnica per una wave marcatamente streetwear.\nAbbandona i tagli convenzionali e punta sul design evoluto. Scegli l'essenzialità geometrica di Hinnominate e scendi in strada a dettare le regole dello stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Abito corto smanicato in jersey di cotone con drappeggio, stile urban e streetwear contemporaneo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

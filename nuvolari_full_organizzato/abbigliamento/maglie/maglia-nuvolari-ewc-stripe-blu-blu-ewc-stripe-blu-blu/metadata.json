@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-ewc-stripe-blu-blu-ewc-stripe-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari STRIPE\nMaglia\na maniche lunghe firmata Nuvolari modello\nStripe\n, in leggero tessuto mix lana caratterizzato da strisce sulla parte superiore del capo. Presenta girocollo, polsini e fondo a costine in contrasto di colore. La maglia\nNuvolari\nè 50% lana 50% acrilico",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia in misto lana fine, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "righe"
+  }
 }

@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-u-xl-01-1202533-tortora-bosco-tor-bs",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nEXTR4 Kaizen XL 1.08: L'Evoluzione Continua dello Urban Style\nSneakers Uomo EXTR4 Kaizen XL 1.08 – Tech-White & Silver Edition\nIspirate alla filosofia giapponese del \"Kaizen\" — il miglioramento continuo — le sneakers EXTR4 XL 1.08 rappresentano la sintesi perfetta tra design futuristico e funzionalità estrema. Questa silhouette \"chunky\" non è solo una dichiarazione di stile, ma un concentrato di innovazione strutturale, progettata per chi vive la città come un terreno di esplorazione costante. Ogni linea e ogni materiale è stato ottimizzato per offrire una calzata dinamica e un'estetica che non accetta compromessi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneaker chunky di ispirazione urban e sportiva",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

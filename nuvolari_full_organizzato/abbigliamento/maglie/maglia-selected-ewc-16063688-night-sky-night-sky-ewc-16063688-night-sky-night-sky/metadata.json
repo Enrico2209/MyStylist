@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-selected-ewc-16063688-night-sky-night-sky-ewc-16063688-night-sky-night-sky",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Selected Homme 16063688\nLa\nmaglia\na maniche lunghe firmata Selected Homme, modello\n16063688\ncon motivo jacquard è un capo morbido e caldo da indossare con stile e perfetto per un outfit natalizio. Ottima vestibiità presenta collo, fondo e polsi a costine elastico. La maglia\nSelected Homme\nè 80% lana 20% Nylon",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione in lana jacquard, ideale per contesti smart casual quotidiani",
+    "season": "inverno",
+    "pattern": "stampato"
+  }
 }

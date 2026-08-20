@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-wc-steven-mora-mora-wc-steven-mora-mora",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari modello STEVEN\nTessuto misto cachemire\nGirocollo con doppio collo a contrasto\nToppe sui gomiti jacquard\nVestibilità slim ﬁt\nComposizione : 30% Lana - 30% Viscosa - 35% Poliammide - 5% Cachemire",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in misto lana e cachemire, vestibilita slim fit",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

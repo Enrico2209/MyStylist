@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-es3-ca-kasbah-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Kasbah\nrappresenta l'essenza dell'eleganza rilassata e senza tempo, ponendosi come un classico intramontabile per la stagione estiva. Questo modello a maniche lunghe combina la nobiltà delle fibre fresche a una costruzione sartoriale pulita, ideale per strutturare sia look formali disinvolti sia outfit casual a strati di grande ricercatezza.\nDesign e Caratteristiche Principali\nTessuto Fiammato ad Alta Traspirabilità\n: Realizzata in un filato leggero di lino o misto lino e cotone dalla caratteristica texture finemente fiammata, che dona movimento e tridimensionalità alla superficie migliorando il passaggio dell'aria sulla pelle.\nColletto Tradizionale Italiano\n: Presenta un colletto classico ben proporzionato e dalle punte nitide, studiato per mantenere un aspetto ordinato sia quando la camicia viene indossata completamente abbottonata, sia quando viene lasciata aperta sul collo.\nTasca Applicata sul Petto\n: Il lato sinistro del busto è valorizzato da un taschino a toppa squadrato e pulito, perfettamente allineato al motivo del tessuto, che inserisce un dettaglio funzionale dal gusto casual-smart.\nFustella Frontale con Bottoni Lucidi\n: La chiusura centrale lineare è scandita da piccoli bottoni chiari che riprendono la luminosità della base beige, integrandosi con sobria eleganza nel design del pannello anteriore.\nManiche Lunghe con Polsini Classici\n: La costruzione delle maniche termina con un tradizionale polsino dritto regolabile tramite bottone e spacco laterale, ideale da risvoltare con disinvoltura sull'avambraccio per un'aria più estiva e rilassata.\nOrlo Inferiore Sagomato e Arrotondato\n: Il fondo presenta un taglio curvo (stondato) sui fianchi, una linea anatomica che permette di indossare la camicia sia infilata elegantemente nei pantaloni sia lasciata morbida fuori.\nProposta di Outfit\nContemporary Safari Layering\n: Indossala aperta sopra una t-shirt basic chiara e abbinala al suo\ngiubbotto\nYaraka Kaki leggero a quattro tasche, completando il look con un pantalone chino coordinato per un raffinato outfit metropolitano tono su tono.\nMetropolitan Earth Contrast\n: Portala parzialmente sbottonata e abbinala al\nbermuda\ncargo J.B.Mittwoch Walgert Marrone testa di moro; la luminosità melange della camicia creerà un perfetto e bilanciato contrasto visivo con la solidità scura del fondo.\nSummer Lounge Contrast\n: Sfruttala in versione informale sovrapponendola a una canotta chiara in abbinamento al\nbermuda\nfluido nero Temara dotato di coulisse; l'incontro tra la texture naturale del lino beige e la base scura garantisce un look da aperitivo fresco, comodo e d'impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Camicia in lino/misto lino con taschino, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

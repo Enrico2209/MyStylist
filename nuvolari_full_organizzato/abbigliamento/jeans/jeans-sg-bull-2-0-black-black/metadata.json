@@ -19,5 +19,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-sg-bull-2-0-black-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\njeans da uomo Proj3ct nero\nè un pantalone di alta qualità che non passa mai di moda. Pantalone a cinque tasche, chiusura con zip a scomparsa e bottone logato più passante per la cinta. Questo\npantalone\nè perfetto con questo\nmaglione\n.\nSe anche tu sei un amante dello stile\nProj3ct\ndai\nun'occhiata qui\na tutti i suoi capi d'abbigliamento scelti per te da\nNuvolari\n!\nIl modello indossa la taglia 48.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nJeans uomo Proj3ct nero\nVestibilità regular\nComposizione:\nCodice articolo: SG BULL 2.0 BLACK-BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglione",
+      "categoria_url": "https://www.nuvolari.biz/felpa-tommy-jeans-chaser-green.html?size=12"
+    },
+    {
+      "testo": "un'occhiata qui",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "jeans nero a cinque tasche con vestibilita regular, classico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

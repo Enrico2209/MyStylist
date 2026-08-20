@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-urban-style/cappello-bk00cmz0842-black-0001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl cappello Palm Angels Bear Trucker, è un accessorio iconico che fonde l'estetica skate di Los Angeles con il lusso sartoriale italiano. Questo modello è caratterizzato dal celebre orsetto ricamato, simbolo giocoso e sovversivo del brand.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "cappellino trucker di marchio street puro",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

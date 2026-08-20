@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-s3-3-0-yankee-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nAttitudine urbana ed eleganza senza tempo si incontrano nel\ngiubbotto da uomo Nuvolari modello Yankee in pelle nera\n. Un bomber dalla linea pulita realizzato in morbida pelle, con chiusura zip, collo, polsini e fondo a costine: un capospalla versatile e di carattere, perfetto per le mezze stagioni e per un look grintoso e raffinato.\nDesign, Materiali e Caratteristiche Costruttive\nPelle di Qualita:\ntomaia in morbida pelle nera dalla mano pregiata, resistente e dallo stile intramontabile.\nSilhouette Bomber:\nlinea pulita e leggermente ampia con collo a costine per un look moderno e versatile.\nChiusura Zip:\nzip frontale robusta e tasche laterali funzionali per praticita quotidiana.\nRifiniture a Costine:\npolsini e fondo elasticizzati a costine per una vestibilita avvolgente e ordinata.\nIdee di Stile: Costruisci il Tuo Look Urban Chic\nCasual Everyday:\nabbinalo a un paio di\njeans uomo\ne a delle\nsneakers uomo\nper un look grintoso e disinvolto.\nSmart Layering:\nperfetto sopra una\nt-shirt uomo\no un maglione girocollo per un outfit curato.\nStatement di Stile:\nla pelle nera lo rende un capospalla iconico, facile da abbinare in ogni occasione.\nAggiungi un capospalla iconico al tuo guardaroba. Scegli la qualita della pelle, la linea bomber intramontabile e lo stile inconfondibile firmato Nuvolari Yankee.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bomber in pelle, capo casual quotidiano di carattere",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

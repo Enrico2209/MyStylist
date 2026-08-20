@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/girocollo/maglia-taglio-vivo-proj3ct-grafton-grigio-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia girocollo uomo con collo, polsini e fondo a taglio vivo e lavorazione a maglia. Non il classico maglione! Per i tuoi look invernali streetwear scopri anche la\nfelpa girocollo Soho\n, in ocra e/o nero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglia taglio vivo uomo Project modello Grafton - Grigio\nGirocollo\nMaglia lavorata\nCollo, polsi e fondo a taglio vivo\nEtichetta flag logata\nVestibilità Regular Fit\nComposizione: 40% Lana, 60% Acrilico",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa girocollo Soho",
+      "categoria_url": "https://www.nuvolari.biz/felpa-girocollo-proj3ct-soho-ocra.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "maglione con finiture a taglio vivo, registro casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

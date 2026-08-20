@@ -21,5 +21,38 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yosemite-bordeaux",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Yosemite di\nCamiceria Bellini\nè un'opzione di moda raffinata e di alta qualità. Con un design a\nquadri\nche aggiunge un tocco di personalità. Questa\ncamicia\npresenta una ricca tonalità di\nbordeaux\nche cattura l'attenzione. Il\ncollo classico\nconferisce un aspetto elegante e versatile, adatto a diverse occasioni. Realizzata in\nesclusiva per Nuvolari\n, questa\ncamicia\noffre un'elevata attenzione ai dettagli e una vestibilità impeccabile. Le\nmaniche lunghe\npermettono di adattarsi alle temperature più fresche.\nC\nompleta al meglio il tuo look\nPer completare il tuo look con la\nCamicia Uomo di Camiceria Bellini a Quadri Bordeaux\n, puoi considerare alcuni abbinamenti eleganti e di tendenza. Per un\noutfit\ncasual-chic, abbina la\ncamicia\na un paio di\npantaloni\nslim fit e\nscarpe in pelle\n. Se desideri un look più formale, opta per un paio di\npantaloni eleganti\ne una\ngiacca blazer\n. Per un tocco di classe, puoi abbinare la\ncamicia\na una\ncravatta\ncoordinata e completare il look con un\norologio\ndal design sofisticato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia A Quadri Bordeaux Camiceria Bellini\nVestibilità Slim Fit\nComposizione: 100% cotone\nCodice articolo: WC YOSEMITE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camiceria Bellini",
+      "categoria_url": "https://www.nuvolari.biz/brands/camiceria-bellini"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "scarpe in pelle",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stringate.html"
+    },
+    {
+      "testo": "giacca blazer",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "camicia a quadri in cotone, vestibilità slim fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

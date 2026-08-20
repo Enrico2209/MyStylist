@@ -25,5 +25,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-emerson-denim-salty-blue-stone-sbw",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica rilassata della West Coast e il fascino ruvido del denim d'archivio si fondono nei nuovi\nJeans Uomo Obey Salty Blue Stone\n. Questo modello reinterpreta il classico cinque tasche attraverso volumi comodi e un lavaggio texturizzato dal forte richiamo rétro, perfetto per chi cerca un jeans versatile, durevole e fortemente ancorato alla skate culture.\nDesign e Caratteristiche Principali\nLavaggio Blue Stone \"Salty\"\n: Il jeans si distingue per un lavaggio stone washed dall'effetto schiarito e \"salino\", ricco di sfumature naturali che esaltano la trama diagonale del tessuto. Un trattamento dall'attitudine piacevolmente vissuta, ideale per infondere una vibrazione nostalgica ai look quotidiani.\nTaglio Relaxed Straight Fit\n: Progettato con una linea comoda sui fianchi e sulle cosce che scende dritta lungo la gamba. Una silhouette fluida ispirata ai modelli d'archivio degli anni '90, studiata per offrire massima libertà di movimento sia sulla tavola da skate che in città.\nDettaglio Logo d'Archivio\n: Sul retro, applicata sopra la tasca destra, spicca l'iconica label rettangolare in tessuto con il lettering ufficiale\n\"OBEY\"\n, firma minimalista che certifica l'autenticità del design firmato Shepard Fairey.\nCostruzione Classica a 5 Tasche\n: Strutturato secondo la tradizione del denim solido, presenta profonde tasche americane sul davanti con taschino porta-monete e ampie tasche posteriori applicate. La chiusura è gestita da una patta con zip a scomparsa e bottone metallico logato in vita.\nTela Denim Heavyweight in Puro Cotone\n: Confezionato in un denim di 100% cotone ad alto spessore. Questo filato corposo garantisce una struttura solida che mantiene perfettamente la linea rilassata, assicurando un'altissima resistenza all'usura e ai lavaggi nel tempo.\nIdee di Stile: Crea la Tua Wave\n90s Skate Heritage Uniform\n: Esalta l'anima core del brand abbinando il jeans Salty Blue a una\nt-shirt\nboxy heavyweight con grafiche bold (come i modelli Dice o Leaf Camo) e a una sneaker bassa da skate dal profilo pulito.\nUrban Grunge Layering\n: Gioca con le sovrapposizioni e le texture materiche. Indossa il jeans con una t-shirt basic e sovrapponi la camicia Brushed Nickel lasciata completamente aperta, completando il look con un berretto in maglia (beanie).\nContemporary Casual Match\n: Per un outfit da giorno rilassato ma curato, abbina il pantalone a una camicia a maniche corte a fantasia geometrica, e a una sneaker minimal in tela bianca.\nFai spazio alla versatilità intramontabile della vera tela jeans. Scegli il carattere deciso e il fit relaxed firmato Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans relaxed fit di stampo skate/streetwear, abbassato dalla vestibilità comoda e dal lavaggio vissuto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

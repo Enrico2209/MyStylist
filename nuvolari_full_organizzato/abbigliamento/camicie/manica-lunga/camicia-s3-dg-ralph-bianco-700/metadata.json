@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-dg-ralph-bianco-700",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia da Uomo Nuvolari S3 DG RALPH\nUn capo versatile ed elegante, la camicia a manica lunga di Nuvolari è un classico senza tempo che non può mancare nel tuo guardaroba. Perfetta per ogni occasione, unisce comfort e stile in un design essenziale.\nRealizzata con materiali leggeri e traspiranti, questa camicia offre una sensazione di morbidezza e freschezza sulla pelle. Il cotone, una fibra naturale e traspirante, garantisce un comfort eccezionale che dura tutto il giorno, rendendola ideale da indossare in qualsiasi stagione.\nCon la sua vestibilità e il suo tessuto di alta qualità, è un capo facile da abbinare. Si presta perfettamente sia a un look formale, sotto una\ngiacca\no una\nmaglia\n, sia a un outfit più casual, indossata da sola su un paio di\njeans\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n60% cotone, 40% poliestere\nVestibilità regular\nCodice articolo: S3 DG RALPH BIANCO-700",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/giacche-in-pelle-uomo.html"
+    },
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia classica in misto cotone con vestibilita regular, adatta sia a contesti smart casual sia formali",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

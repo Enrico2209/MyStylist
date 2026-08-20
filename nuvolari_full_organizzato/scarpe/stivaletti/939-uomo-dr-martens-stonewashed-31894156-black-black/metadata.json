@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stivaletti/939-uomo-dr-martens-stonewashed-31894156-black-black",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nStivaletto Uomo Dr. Martens 939 Stonewashed Black\nGli stivaletti Dr. Martens 939 Stonewashed sono realizzati in pelle effetto stonewashed, che dona un aspetto vissuto e vintage. Questo modello a 6 occhielli presenta la classica suola Dr. Martens con cuscinetto d'aria,  bordi scanalati, offrendo un look robusto e distintivo, tipico del brand.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie UK\nPelle, pelle scamosciata. Tomaia e la suola sono termosaldate e cucite insieme\nCodice articolo: 31894156 BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Stivaletto stringato robusto in pelle scamosciata effetto vissuto, registro casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

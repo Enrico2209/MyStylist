@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-polo-gaabw09320-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPolo Gaëlle Paris: Sporty-Chic dal Taglio Contemporaneo\nPolo Donna Gaëlle Paris –Black Crop Edition\nRiscrivi le regole del casual con questa polo firmata Gaëlle Paris. Un mix perfetto tra eredità sportiva e tendenze street-style, caratterizzato da un taglio corto e dinamico. Il contrasto deciso tra il nero profondo e i dettagli bianchi lineari la rende un pezzo versatile, capace di passare con disinvoltura dal tempo libero a un aperitivo urban, mantenendo sempre un'estetica curata e di tendenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.5,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Polo dal taglio crop e stile street-casual, abbassata dal taglio corto",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/gaelle-paris-cappello-gaacw03195-beige-be00",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCappello Gaëlle Paris: Attitudine Street e Colori Pop\nCappello Donna Gaëlle Paris Baseball Cap Sand & Pink\nDai una marcia in più ai tuoi outfit quotidiani con questa versione solare del baseball cap firmato Gaëlle Paris. Caratterizzato da una tonalità sabbia calda e luminosa, questo accessorio si distingue per il vivace contrasto con il logo ricamato in rosa, offrendo un mix perfetto tra estetica urban e un tocco di femminilità audace. È il complemento ideale per chi vuole proteggersi dal sole senza rinunciare a un look di tendenza e ricco di personalità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball, accessorio tipicamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

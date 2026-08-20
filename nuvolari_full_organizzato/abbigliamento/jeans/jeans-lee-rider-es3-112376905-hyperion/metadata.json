@@ -18,5 +18,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-lee-rider-es3-112376905-hyperion",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE RIDER HYPERION: L’ICONICO SLIM FIT DAL CARATTERE DECISO\nI jeans Lee Rider non sono solo un capo, ma un pezzo di storia del denim. In questa versione Hyperion, il taglio slim originale si sposa con un lavaggio blu intenso e sfumature naturali, creando un look che bilancia perfettamente eredità storica e stile moderno.\nFit Leggendario: Un taglio slim dalla coscia alla caviglia che offre una silhouette slanciata senza rinunciare alla comodità.\nLavaggio Hyperion: Un blu medio-scuro con eleganti baffature e zone leggermente schiarite, perfetto per chi cerca un effetto autentico e \"vissuto\".\nDettagli Heritage: Completo di bottoni in metallo logati e la classica etichetta Lee, simbolo di qualità e resistenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a cinque tasche, base del guardaroba casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

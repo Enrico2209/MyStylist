@@ -24,5 +24,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/k-way-le-vrai-4-0-claude-k2123zw-brown-bistre-v04",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nK-Way Claude: L’Icona Packable in Nylon Riciclato\nGiacca Corta Unisex Claude Micro Ripstop 4.0\nSimbolo indiscusso di funzionalità e stile urban, la giacca corta Claude rappresenta l'evoluzione dell'icona K-Way. Oggi rinasce nell'innovativo tessuto micro ripstop 4.0, un materiale 100% riciclato che non accetta compromessi: ancora più robusto, altamente traspirante e totalmente impermeabile. Progettata per chi vive in movimento, la Claude è lo scudo perfetto contro vento e pioggia improvvisa, pronta a trasformarsi in una pratica pouch in pochi secondi.\nPerformance Tecniche e Design Funzionale\nProtezione Evoluta 10K/10K\n: Grazie a un valore di impermeabilità e traspirabilità di\n10.000 mm\n, questa giacca assicura pelle asciutta e comfort termico costante, supportata da cuciture termonastrate che bloccano ogni infiltrazione.\nTessuto Micro Ripstop 4.0\n: La particolare trama anti-strappo in nylon riciclato garantisce una resistenza superiore all'usura, mantenendo una leggerezza estrema.\nSistema Packable\n: Il vero punto di forza è la sua capacità di compattarsi all'interno di una delle due tasche laterali. Occupa un volume ridottissimo, rendendola l'alleata indispensabile da tenere sempre nello zaino o in borsa.\nVentilazione Strategica\n: Il taglio di aerazione sul retro permette una corretta fuoriuscita del calore corporeo, rendendo il capo ideale anche durante attività dinamiche.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% nylon riciclato\nVestibilità regular\nCodice articolo: K2123ZW",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "antivento tecnico packable, tetto di marchio sport/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

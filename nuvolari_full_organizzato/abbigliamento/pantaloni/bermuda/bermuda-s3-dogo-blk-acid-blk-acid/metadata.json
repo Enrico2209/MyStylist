@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-dogo-blk-acid-blk-acid",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Bermuda Uomo Proj3ct Dogo è un capo che punta tutto su una colorazione vibrante e una texture materica, ideale per chi desidera distinguersi nel panorama streetwear con un pezzo dal carattere forte e non convenzionale.\nConsigli di Outfit\nDesert Urban Look\n: Abbinalo al\nGiubbotto Baecker\ncolor sabbia. Il richiamo tra il marrone del bermuda e il beige della giacca crea un outfit tono su tono moderno e bilanciato, ideale per le giornate primaverili.\nDark Earth Combination\n: Indossalo con la\nMaglia Lux Black\n. Il nero della maglia esalterà le sfumature più scure del lavaggio acido, definendo un look \"dark-street\" molto sofisticato.\nFull Acid Style\n: Provalo con la\nT-Shirt Rayz Apui\nmarmorizzata. L'incontro tra due diversi trattamenti di lavaggio (marble e acid) creerà una silhouette ricca di texture, perfetta per chi ama i dettagli materici.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: S3 DOGO BLK ACID-BLK ACID",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in felpa di cotone con coulisse, lavaggio acido streetwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

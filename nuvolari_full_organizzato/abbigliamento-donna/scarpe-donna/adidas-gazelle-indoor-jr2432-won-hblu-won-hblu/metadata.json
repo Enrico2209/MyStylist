@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/adidas-gazelle-indoor-jr2432-won-hblu-won-hblu",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nLa Adidas Gazelle Indoor da donna è una delle silhouette più amate del panorama sneaker attuale, capace di fondere perfettamente l'estetica rétro degli anni '70 con le tendenze contemporanee del \"terrace style\" e del minimalismo urbano.\nNata originariamente per l'allenamento indoor, questa versione si distingue dalla Gazelle classica per alcuni dettagli strutturali e materici che ne esaltano il carattere premium.\nL'Icona Rétro dal DNA Moderno\nPerché sceglierla\nLa Gazelle Indoor è la scelta ideale per chi cerca una scarpa versatile, sottile e ricca di stile. A differenza della versione \"OG\", la Indoor presenta una suola in gomma semitrasparente che avvolge leggermente la tomaia, conferendo un look unico e una maggiore resistenza. La sua silhouette bassa la rende perfetta per essere abbinata a diversi tagli di pantaloni e gonne.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers lifestyle di marchio sportivo, perfette per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

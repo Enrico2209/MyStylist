@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/girocollo/maglia-girocollo-uomo-nuvolari-eddy-jeans",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia girocollo da uomo firmata Nuvolari in tessuto 100% lana merino dalla vestibilità regular. Maglione sottile dal tessuto super caldo che regala una sensazione gradevole sulla pelle.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nM\naglione girocollo uomo Nuvolari modello Eddy - Jeans\nLavorazione rasata\nFondo e polsini a costina\nVestibilità Regular Fit\nComposizione: 100% lana merino\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in lana merino fine, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

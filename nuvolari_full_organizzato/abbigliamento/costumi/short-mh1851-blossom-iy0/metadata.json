@@ -19,5 +19,20 @@
   "pattern": "stampato",
   "needs_vision_review": true,
   "relpath": "abbigliamento/costumi/short-mh1851-blossom-iy0",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesto costume da bagno firmato Lacoste fonde perfettamente una struttura funzionale con un’estetica di forte impatto. Il tessuto tecnico ultra-leggero, unito a una fodera interna in rete, assicura una rapida espulsione dell’umidità e una flessibilità ideale per ogni attività in acqua o sulla spiaggia. Il design è reso unico dalla stampa integrale del celebre coccodrillo, che conferisce un tocco distintivo e moderno. Inclusa nella confezione, troverai una pratica custodia da viaggio realizzata in materiali sostenibili.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: MH1851 BLOSSOM-IY0",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno con coulisse ed elastico in vita",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

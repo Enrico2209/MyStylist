@@ -27,5 +27,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-pl-wagga-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo J.B.Mittwoch Wagga Militare\nrappresenta la perfetta sintesi tra comfort contemporaneo e rigorosa estetica utility, ponendosi come il capo ideale per chi cerca massima libertà di movimento senza rinunciare a un design strutturato. Declinato in una profonda e desaturata tonalità verde oliva scuro (\"Militare\"), questo modello unisce la praticità della coulisse in vita a un tessuto dalla forte personalità materica, perfetto da abbinare nei look urbani o per il tempo libero.\nDesign e Caratteristiche Principali\nTessuto in Cotone Fiammato Vintage\n: Realizzato in un solido filato di cotone caratterizzato da una trama finemente fiammata e texturizzata, sottoposto a un lavaggio tinto in capo che crea affascinanti schiariture ed effetti piacevolmente vissuti lungo gli orli e le cuciture.\nCintura Elastica Ibrida in Vita\n: La parte superiore è strutturata con una spessa fascia elastica arricciata che garantisce la massima flessibilità sui fianchi, completata sul fronte da una chiusura tradizionale con patta, cerniera e fustella con bottone scuro centrale.\nCoulisse Regolabile Tono su Tono\n: Un cordoncino piatto intrecciato nella medesima tonalità verde oliva fuoriesce dal centro della vita, arricchito da finalini metallici scuri per personalizzare il fitting con un accento sportivo.\nTasche Ergonomiche Profonde\n: Integra sui fianchi capienti tasche verticali ad apertura obliqua inserite lungo le cuciture principali, a cui si aggiungono tasche posteriori applicate per completare l'impostazione utility.\nSilhouette Tapered Rilassata\n: Il taglio presenta volumi comodi sul bacino e sulle cosce per poi stringersi in modo graduale e anatomico verso il fondo, definendo una linea slanciata, moderna e pulita.\nOrlo Inferiore Lineare Adatto al Risvolto\n: Il fondo gamba è rifinito con una cucitura piatta e regolare, strutturata per cadere perfettamente sulla scarpa o per essere arrotolata con un risvolto informale.\nProposta di Outfit\nContemporary Utility Layering\n: Indossalo abbinato al\ngiubbotto\nleggero field coordinato in verde oliva scuro, spezzando il total look con una\nt-shirt\nbasic chiara per un perfetto outfit a strati monocromatico dall'anima metropolitana.\nSeventies Earth Tone Contrast\n: Portalo insieme a una\ncamicia\na maniche corte con colletto resort e motivo geometrico a zig-zag nei toni caldi dell'arancio, dell'ocra e del marrone; l'intensità del verde militare sul fondo valorizzerà le sfumature rétro superiori.\nRiviera Smart Casual\n: Abbinalo a una\ncamicia\na maniche corte a righe verticali bianche e rosa lasciata sbottonata, completando l'ensemble con sneakers in canvas per un look fresco, disinvolto e sofisticato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con coulisse ed elastico in vita, tessuto fiammato effetto vissuto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

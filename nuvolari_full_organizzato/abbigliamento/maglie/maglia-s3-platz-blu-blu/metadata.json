@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s3-platz-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza informale del guardaroba Nuvolari prende forma nella\nmaglia da uomo Nuvolari nella tonalità blu\n. Un capo versatile e raffinato, dove il blu profondo incontra un filato dalla mano piacevole, perfetto per look curati dal gusto contemporaneo.\nDesign, Tessuti e Caratteristiche Costruttive\nFilato di Qualità\n: Realizzata in filato dalla mano morbida e confortevole, ideale per un comfort che dura tutto il giorno.\nTonalità Blu\n: Un colore intenso e versatile, elegante e facilissimo da abbinare in ogni stagione.\nLinea Pulita\n: Design essenziale e curato, dalle finiture ordinate.\nVestibilità Regular\n: Fit comodo ed equilibrato, perfetto sia da solo sia in layering.\nIdee di Stile: Costruisci il Tuo Look Smart Casual\nSmart Casual\n: Abbinala a dei\npantaloni uomo\nchino e delle\nsneakers uomo\nper un look curato e rilassato.\nDenim Look\n: Indossala con un paio di\njeans uomo\nper un outfit contemporaneo e versatile.\nLayering\n: Perfetta sotto un\ngiubbotto uomo\nnelle mezze stagioni per un look ordinato.\nScegli l'intensità del blu e la versatilità firmata Nuvolari. La maglia è il capo che unisce comfort ed eleganza informale in ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo basica dal taglio pulito, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

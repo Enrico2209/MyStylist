@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-tr1802ita-black-001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza heritage scozzese incontra la versatilità del quotidiano nel\nPantalone Uomo Lyle & Scott TR1802 in Nero\n, un chino dal taglio pulito e senza tempo, realizzato in tessuto morbido e firmato dall'iconica aquila d'oro del brand.\nDesign e Caratteristiche Principali\nTessuto Cotone Elasticizzato:\nconfezionato in cotone dalla mano morbida con un tocco di elastan, garantisce comfort e libertà di movimento per tutta la giornata.\nIntramontabile Nero:\nuna tonalità piena ed elegante, la più versatile in assoluto, perfetta per look formali e casual.\nTaglio Chino:\nsilhouette pulita con tasche laterali alla francese e tasche posteriori profilate, dal design ordinato e curato.\nVestibilità Regular:\nlinea dritta che valorizza la figura senza costringere, perfetta da vestire in ogni occasione.\nDettagli Curati:\nchiusura con zip e bottone, passanti per cintura e finiture eseguite con cura artigianale.\nIdee di Stile: il Tuo Outfit\nSmart Casual:\nabbina il pantalone a una\ncamicia uomo\ne mocassini per un look raffinato ed elegante.\nWeekend Relax:\ncompletalo con una\npolo uomo\nin tinta unita e sneakers per uno stile disinvolto.\nLayering Preppy:\nindossalo con una\nfelpa uomo\ngirocollo per un outfit heritage dal fascino british.\nScegli l'eleganza versatile del Pantalone Lyle & Scott TR1802 in Nero: un capo essenziale del guardaroba maschile. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: tr1802ita",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone cargo con tasconi laterali, abbassa la formalità a livello casual quotidiano nonostante la descrizione parli di chino",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

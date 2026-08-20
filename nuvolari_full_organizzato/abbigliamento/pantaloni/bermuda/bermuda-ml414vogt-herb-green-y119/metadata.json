@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-ml414vogt-herb-green-y119",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sportiva scozzese incontra il comfort delle giornate estive nel\nBermuda Uomo Lyle & Scott ML414 in Verde Erba\n, un pantaloncino chino essenziale e versatile impreziosito da una fresca tonalità verde salvia e dall'iconica aquila d'oro ricamata.\nDesign e Caratteristiche Principali\nPregiato Cotone Twill:\nconfezionato in cotone dalla mano compatta e resistente, garantisce struttura e comfort per tutta la giornata.\nNuance Verde Erba:\nuna tonalità verde salvia naturale e luminosa, elegante e versatile, perfetta per i look estivi.\nAquila Ricamata Signature:\nl'inconfondibile logo dell'aquila dorata Lyle & Scott firma il capo, dettaglio di autenticità del brand.\nChiusura con Zip e Bottone:\nvita rifinita con passanti per cintura, chiusura sicura e pratica per un fit ordinato.\nTasche Funzionali e Regular Fit:\ntasche laterali e posteriori con una silhouette a gamba dritta comoda e senza costrizioni.\nIdee di Stile: Linka il Tuo Outfit\nResort Smart-Casual:\nabbina il bermuda a una\npolo uomo\nin piquet e mocassini per un outfit da aperitivo curato ed elegante.\nSummer Everyday:\ncompleta con una\nt-shirt uomo\nessenziale e sneakers basse per un look quotidiano fresco e disinvolto.\nWeekend Relax:\ngioca sui toni naturali con una\ncamicia uomo\nin lino e un\ncappello uomo\ncon visiera per le giornate al sole.\nScegli la freschezza e il fascino heritage del Bermuda Lyle & Scott ML414 in Verde Erba: un capo estivo iconico e versatile. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: ML414VOGT",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in felpa di cotone con coulisse in vita, capo prettamente casual e sportivo per il tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

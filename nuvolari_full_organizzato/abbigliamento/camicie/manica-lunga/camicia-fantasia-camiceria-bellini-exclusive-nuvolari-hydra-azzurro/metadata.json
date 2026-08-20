@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-hydra-azzurro",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia fantasia uomo Hydra azzurra a maniche lunghe con colletto alla francese e abbottonatura centrale a contrasto. La particolare fantasia floreale è il punto di forza di questa camicia in puro cotone realizzata in esclusiva da Camiceria Bellini x Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia fantasia uomo Bellini for Nuvolari modello Hydra - Azzurro\nCollo alla francese\nManiche lunghe\nTessuto fantasia all over\nChiusura con bottoni a contrasto\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% Cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia slim fit in cotone con fantasia floreale all-over, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

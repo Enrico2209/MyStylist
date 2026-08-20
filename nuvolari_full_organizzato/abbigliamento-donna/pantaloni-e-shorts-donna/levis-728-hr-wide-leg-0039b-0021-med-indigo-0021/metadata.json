@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/levis-728-hr-wide-leg-0039b-0021-med-indigo-0021",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, l'evoluzione costante dei tagli femminili e la ricerca della perfetta vestibilità si fondono armoniosamente nella collezione di\njeans donna Levi's\n. Da sempre pioniere e punto di riferimento globale nel mondo del denim, il brand rilegge le silhouette rétro in chiave contemporanea. I denim firmati Levi's combinano la stabilità della tela iconica a volumi ampi dall'attitudine fortemente urban e moderna.\nDesign, Silhouette e Caratteristiche Principali\nIl Lavaggio Denim Chiaro con Sabbiature Vintage\n: Il pantalone si sviluppa su un'intensa base blu indaco arricchita da evidenti schiariture ad effetto sabbiato (whiskers e fading) sul fronte delle cosce e sulle ginocchia. Questo trattamento regala al capo una tridimensionalità unica e un sapore rétro vissuto di grande tendenza.\nSilhouette Wide Leg e Vita Alta\n: Il taglio si distingue per una linea scultorea a gamba molto ampia (wide leg) che si allarga progressivamente dal fianco fino al fondo. La struttura a vita alta slancia la figura e delinea il girovita, offrendo un perfetto equilibrio visivo tra comfort contemporaneo e richiami anni '70.\nArchitettura Classica a 5 Tasche\n: Fedele alla leggendaria tradizione del marchio, il jeans presenta la solida configurazione a cinque tasche con l'immancabile taschino portamonete sul davanti. La chiusura frontale è completata da passanti robusti per la cintura, una patta con zip e il classico bottone metallico con gambo logato.\nTela Premium Comfort Stretch\n: Realizzato con un mix di cotone premium a fibra lunga, il tessuto integra una calibrata percentuale di elasticità. Questa combinazione assicura una caduta pesante e scultorea tipica del denim autentico, senza però rinunciare alla morbidezza e alla totale libertà di movimento richiesta quotidianamente.\nSperimenta la perfetta sintesi tra l'autenticità del denim storico e la forza espressiva dei tagli ampi contemporanei. Scegli la tridimensionalità del lavaggio sfumato, il comfort della tela elasticizzata e l'attitudine inconfondibile dei jeans donna firmati Levi's.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans a gamba ampia, classico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

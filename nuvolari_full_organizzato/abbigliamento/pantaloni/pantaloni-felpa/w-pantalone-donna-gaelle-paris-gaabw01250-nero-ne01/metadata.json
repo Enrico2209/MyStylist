@@ -20,5 +20,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/w-pantalone-donna-gaelle-paris-gaabw01250-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone Donna Gaelle Paris 1250 Nero\nPantalone\ntuta donna Gaëlle Paris, con un design ampio e confortevole. Realizzati in tessuto morbido, presentano una vita elasticizzata con lacci regolabili per una vestibilità personalizzata. Perfetti per un look casual e alla moda, combinano stile e comfort in un capo versatile.\nAbbinali ad un paio di\nscarpe\ne ad una\nborsa\nscelta da\nNuvolari\nappositamente per te per elevare il tuo look.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: GAABW01250 NERO-NE01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    },
+    {
+      "testo": "borsa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/accessori-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con coulisse ed elastico in vita",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

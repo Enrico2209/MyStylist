@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/w-jeans-w2-plutone-dnm-medio-dnm-medio",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans da Donna Proj3ct \"Plutone\" Stile Unico\nDai un tocco di originalità al tuo look con i jeans da donna modello \"Plutone\" di Proj3ct. Questo capo unisce una vestibilità classica con un dettaglio di design che cattura l'attenzione, rendendolo un pezzo unico nel tuo guardaroba.\nIl modello presenta un comodo taglio a\nvita alta\ne una\ngamba ampia\n, perfetto per creare una silhouette moderna e slanciata. Il\nlavaggio denim medio\nconferisce al jeans un look versatile, mentre i\nlunghi cordini che scendono dal girovita\nsono il tratto distintivo che aggiunge movimento e un tocco audace.\nRealizzato con una miscela di\ncotone\n,\npoliestere\n,\nviscosa\ned\nelastane\n, il tessuto garantisce il massimo comfort e resistenza. La combinazione di fibre assicura una morbidezza eccezionale, una perfetta vestibilità e la giusta elasticità per una completa libertà di movimento.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n70% cotone, 25% poliestere, 3% viscosa, 2% elastane\nVestibilità regular\nCodice articolo: W2 PLUTONE DNM MEDIO-DNM MEDIO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans a gamba ampia con cordini decorativi, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

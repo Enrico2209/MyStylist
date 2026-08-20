@@ -26,5 +26,38 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/camicia-clan-sabbia-bianco-4",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa camicia Rayz con cappuccio è un capo d'avanguardia che fonde la struttura formale di una camicia con l'attitudine rilassata dello streetwear. Grazie alla sua ricercata composizione materica, offre un'esperienza di indosso superiore, ideale per chi cerca un look multistrato senza ingombri.\nPerché sceglierla\nIl vero punto di forza di questa camicia è il tessuto soft-touch: la prevalenza di poliestere assicura che il capo non si stropicci, la viscosa conferisce una lucentezza naturale e una morbidezza serica, mentre l'elastane permette una libertà di movimento totale. Il contrasto tra la trama a quadri nei toni del beige/marrone e il cappuccio bianco a contrasto la rende un pezzo unico nel suo genere.\nConsigli di Outfit\nLook Coordinato Urban: Indossa la camicia aperta sopra una\nt-shirt\nbasic in cotone e abbinala a un pantalone\ncargo\ndal taglio tecnico. Il contrasto tra il motivo a quadri della camicia e la tinta unita del pantalone crea un equilibrio visivo moderno e ricercato.\nStile Layering Moderno: Porta la camicia chiusa sotto un\nbomber\nleggero, avendo cura di lasciare il cappuccio all'esterno. Questo gioco di sovrapposizioni aggiunge profondità all'outfit e lo rende ideale per le giornate con temperature variabili.\nCombinazione Calzature: Per enfatizzare l'anima dinamica del set, completa l'abbinamento con un paio di\nsneakers\nd'ispirazione sportiva. Se preferisci un look più strutturato e robusto, opta per uno scarponcino in pelle o nabuk.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n50% poliestere, 45% viscosa, 5% elastane\nVestibilità regular\nCodice articolo:CLAN SABBIA/BIANCO-4",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "bomber",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con cappuccio integrato in stile streetwear, consigliata con cargo e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

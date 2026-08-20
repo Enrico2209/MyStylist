@@ -27,5 +27,22 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-isaac-woven-sky-multi-sky",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza rilassata dello stile preppy e la freschezza dei classici motivi estivi si fondono con l'attitudine skate nella nuova\nCamicia Uomo Obey Sky Multi\n. Questo modello a maniche lunghe reinterpreta la tradizionale camicia gessata da ufficio attraverso volumi morbidi e dettagli contemporanei, offrendo un capo iper-versatile, fresco e ricco di identità streetwear.\nDesign e Caratteristiche Principali\nPattern Rigato Sottile Sky Multi\n: La camicia è interamente valorizzata da una finissima trama a righe verticali nei toni dell'azzurro cielo e del bianco ottico. Una combinazione cromatica classica, luminosa e squisitamente stagionale che dona un'allure pulita e ordinata a qualsiasi outfit.\nSilhouette Casual a Maniche Lunghe\n: Strutturata con maniche lunghe complete di polsini rigati orizzontalmente e chiusura a bottone singolo, ideale per essere indossata con le maniche arrotolate per un look più disinvolto. Il taglio relaxed con spalle leggermente scese assicura la massima libertà di movimento in pieno stile skate.\nTasca Applicata sul Petto con Micro-Logo\n: Il lato sinistro del petto ospita una pratica tasca squadrata applicata, dove il motivo a righe verticali si allinea perfettamente al resto del corpo. Al centro della tasca spicca il ricamo tono su tono del logo \"OBEY\", un dettaglio discreto, minimalista e d'archivio.\nColletto Classico e Chiusura Lineare\n: Presenta un colletto a punta tradizionale ben proporzionato e un'allacciatura frontale pulita con sei bottoni bianchi a contrasto, che corrono centralmente lungo la paramontura.\nOrlo Leggermente Arrotondato (Curved Hem)\n: Il fondo della camicia si chiude con una delicata curvatura sui fianchi, una geometria studiata appositamente per permettere di indossare il capo sia infilato nei pantaloni per un effetto più ordinato, sia lasciato libero e cadente sopra i bermuda.\nTessuto in Cotone Leggero e Traspirante\n: Confezionata in un filato di puro cotone morbido, fresco e dalla mano piacevolmente naturale, selezionato da Obey per garantire comfort e traspirabilità ottimali anche durante le giornate estive più calde.\nIdee di Stile: Crea la Tua Wave\nContemporary Preppy Combo\n: Gioca con i volumi rilassati dello streetstyle contemporaneo. Indossa la camicia Sky Multi aperta sopra a una t-shirt uomo Obey basica bianca e abbinala al design con pinces del pantalone uomo Obey Mermaid in tonalità khaki, chiudendo il look con un mocassino bold come il Vans LX Loafer 53 Black.\nFresh Summer Skate Uniform\n: Crea un perfetto outfit da giorno fresco e bilanciato. Abbina la camicia a maniche lunghe (lasciando i polsini sbottonati e leggermente risvoltati) al taglio relaxed del bermuda uomo Obey Smokey Olive, completando il cerchio con una sneaker bassa da skate e calzini bianchi di spugna a vista.\nUrban Outdoor Mix\n: Esalta le sfumature azzurre della rigatura accostandola a un look utility deciso. Indossa la camicia interamente abbottonata insieme a un pantalone chino o a un denim loose dal lavaggio chiaro, definendo l'outfit con il cappello Obey Fence Camo per un contrasto grafico originale tra il rigato formale e il mimetico naturalistico.\nRinfresca il tuo guardaroba stagionale unendo la pulizia geometrica del rigato classico alla libertà del design metropolitano. Scegli la versatilità e lo stile inconfondibile della camicia Sky Multi firmata Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia dal taglio relaxed/skate di marchio streetwear, adatta a contesti informali quotidiani.",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

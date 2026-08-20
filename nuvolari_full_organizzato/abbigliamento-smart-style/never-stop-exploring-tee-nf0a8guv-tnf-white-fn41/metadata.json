@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/never-stop-exploring-tee-nf0a8guv-tnf-white-fn41",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nT-shirt Outdoor Essenziale: Comfort e Semplicità in un Capo\nT-shirt Uomo Essential\nTrova il perfetto equilibrio tra praticità e stile con questa t-shirt a maniche corte, progettata per seguirti in ogni tua avventura. Che si tratti di un'escursione all'aria aperta o di un momento di relax in città, questo capo garantisce una sensazione di benessere costante grazie alla sua struttura in misto cotone e poliestere, un connubio ideale per chi cerca morbidezza e resistenza nel tempo.\nDettagli che fanno la differenza\nBlend di Fibre Premium\n: La composizione in misto cotone e poliestere offre un comfort superiore, assicurando un capo traspirante, morbido al tatto e facile da gestire nella vita di tutti i giorni.\nDesign Versatile\n: Grazie alla sua linea pulita e sobria, questa t-shirt si adatta con naturalezza a ogni tipo di abbinamento, diventando l'alleato indispensabile per il tuo guardaroba casual.\nGrafica Eco-consapevole\n: La stampa frontale è realizzata con inchiostri a base d’acqua, una scelta attenta che garantisce un design durevole e una mano morbida, riducendo l'impatto ambientale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n165 g/m², 60% cotone, 40% poliestere/maglia/jersey singolo\nVestibilità regular\nCodice articolo: NF0A8GUV TNF WHITE-FN41",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di marchio outdoor, tetto massimo di formalita per il brand",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

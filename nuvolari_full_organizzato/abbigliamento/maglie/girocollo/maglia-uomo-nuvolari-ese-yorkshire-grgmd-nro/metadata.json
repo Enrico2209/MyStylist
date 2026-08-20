@@ -19,5 +19,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/girocollo/maglia-uomo-nuvolari-ese-yorkshire-grgmd-nro",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Yorkshire Grgmd/Nro\nMaglia\nUomo Nuvolari modello Yorkshire con girocollo e maniche lunghe, dotata di bordi elasticizzati a costina per una vestibilità aderente. Il patch logo è applicato sulla cucitura laterale. Realizzata in\n100% cotone\n, offre un fit slim ed è prodotta in Italia.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: ESE YORKSHIRE GRGMD/NRO-GRGMD/NRO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone, consigliata con camicia e chino per un look smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

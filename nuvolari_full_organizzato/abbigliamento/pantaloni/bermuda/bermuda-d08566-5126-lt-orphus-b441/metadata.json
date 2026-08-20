@@ -22,5 +22,18 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-d08566-5126-lt-orphus-b441",
-  "image_count": 1
+  "image_count": 1,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi e dettagli utility, tipico abbigliamento casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

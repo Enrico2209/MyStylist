@@ -23,5 +23,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-cairo-rosa-bco-rosa-bco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Cairo Rosa/Bco\nevoca immediatamente l'atmosfera spensierata e sofisticata delle vacanze estive lungo la costa, coniugando un look grafico d'impatto a una silhouette fresca e destrutturata. Definita da una luminosa alternanza di righe verticali rosa e bianche (\"Rosa/Bco\"), questa camicia a maniche corte si distingue per una texture finemente lavorata che dona profondità al tessuto, rendendola un pezzo statement irrinunciabile per la stagione calda.\nDesign e Caratteristiche Principali\nIconico Collo Camp (Rever Aperto)\n: Il colletto strutturato a pigiama o \"resort\" scivola in una scollatura a V naturale e rilassata senza l'ingombro del primo bottone, offrendo un richiamo intramontabile alla moda rétro degli anni '50 e '60.\nRigatura Verticale Bold a Contrasto\n: Il pattern a bande verticali rosa e bianche di medio spessore è progettato per slanciare visivamente la figura, conferendo al contempo un carattere dandy e contemporaneo all'intero outfit.\nTessuto Jacquard Micro-Strutturato\n: All'interno delle righe colorate si apprezza una finissima trama geometrica o a micro-rilievo inserita direttamente nella tessitura, che movimenta la superficie del capo evitando l'effetto piatto delle stampe tradizionali.\nManiche Corte dal Taglio Squadrato\n: La costruzione della manica è ampia e scesa, studiata per assecondare la fluidità del materiale e garantire una ventilazione ottimale durante le giornate più afose.\nChiusura Lineare con Bottoni Madreperlati\n: Il fronte è completato da piccoli bottoni lucidi coordinati che si mimetizzano con eleganza sulle righe bianche del pannello centrale, preservando l'armonia geometrica del design.\nOrlo Inferiore Dritto da Fuori-Pantalone\n: Il fondo squadrato e lineare permette di indossare la camicia aperta o sbottonata sopra t-shirt e canotte, cadendo perfettamente sui fianchi senza fare difetto.\nSuggerimenti di Stile\nLa camicia Cairo Rosa/Bco permette di sperimentare con accostamenti cromatici freschi e ricercati:\nRiviera Summer Dandy\n: Indossala abbottonata insieme ai\nBermuda Nuvolari\ne a un mocassino scamosciato chiaro per un outfit da aperitivo pomeridiano o cena in barca estremamente raffinato.\nContemporary Urban Contrast\n: Abbinala parzialmente aperta sopra una t-shirt bianca ai\nPantalacci Nuvolari\nin lino verde salvia desaturato; l'incontro tra la nota calda del rosa e la base fredda dell'oliva crea un contrasto cromatico di assoluta tendenza.\nRelaxed Seaside Layering\n: Sfruttala come capospalla leggero aperta sopra un underwear bianco, in combinazione con i\nPantalacci Nuvolari\ncolor fango/nocciola e completando il look con il\nbaseball cap\nper un'estetica street-holiday bilanciata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Bermuda Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "Pantalacci Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "Pantalacci Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "baseball cap",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.3,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo camp/resort, stile vacanziero e rilassato",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

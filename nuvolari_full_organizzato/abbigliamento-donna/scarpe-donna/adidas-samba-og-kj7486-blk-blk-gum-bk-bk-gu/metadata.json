@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/adidas-samba-og-kj7486-blk-blk-gum-bk-bk-gu",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUn'icona intramontabile in versione total black: le\nsneakers da donna Adidas Originals modello Samba OG nella nuance Nera\n. La celebre silhouette da calcio indoor si presenta in pelle nera con dettagli tono su tono e la classica suola gum, per un look pulito, versatile e sempre attuale.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Pelle:\npelle nera resistente e raffinata con inserti scamosciati sul puntale a T.\nDettagli Tono su Tono:\ntre strisce e mascherina in nero per un effetto elegante e minimal.\nSuola Gum Iconica:\nsuola in gomma color caramello dallo stile retro, flessibile e con ottima aderenza.\nSilhouette Samba OG:\nlinea bassa e affusolata, comoda e senza tempo, simbolo dello stile Adidas.\nIdee di Stile: Costruisci il Tuo Look Everyday\nCasual Everyday:\nabbinale a un paio di\njeans donna\ne a una\nfelpa donna\nper un look comodo e di tendenza.\nSporty Chic:\nperfette con una gonna, pantaloni sartoriali o una\nt-shirt donna\nessenziale.\nPasse-partout:\nil nero total le rende facilissime da abbinare in ogni occasione.\nAggiungi un classico intramontabile al tuo guardaroba. Scegli la qualita della pelle, l'iconica suola gum e lo stile inconfondibile firmato Adidas Originals Samba OG.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html?settore=Donna"
+    },
+    {
+      "testo": "t-shirt donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneakers iconiche, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

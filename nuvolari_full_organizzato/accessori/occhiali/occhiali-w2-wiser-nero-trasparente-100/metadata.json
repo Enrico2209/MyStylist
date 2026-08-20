@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/occhiali/occhiali-w2-wiser-nero-trasparente-100",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nOcchiali  Proj3ct – Stile distintivo, spirito urbano\nGli occhiali Proj3ct sono il dettaglio che definisce il look. Linee pulite, design contemporaneo e un’attitudine audace li rendono l’accessorio perfetto per completare ogni outfit con carattere.\nRealizzati con montature leggere ma resistenti, sono disponibili in versioni squadrate, tonde o a goccia, tutte con lenti protettive UV400. La palette cromatica richiama i toni naturali e urbani della collezione SS25, con accenti opachi, traslucidi o lucidi per esprimere al meglio la propria personalità.\nCaratteristiche principali:\nProtezione UV400\nMontature in acetato o policarbonato\nFit unisex\nDesign 100% Proj3ct\nCome abbinarli:\nPerfetti con una t-shirt minimal,\ncargo\nbermuda\ne\nsneakers chiare\n, per un look disinvolto e moderno da città o da viaggio.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sneakers chiare",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "accessorio occhiali da vista/riposo senza montatura, stile urbano e casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

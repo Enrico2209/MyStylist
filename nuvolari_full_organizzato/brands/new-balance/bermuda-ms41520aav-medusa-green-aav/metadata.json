@@ -22,5 +22,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/bermuda-ms41520aav-medusa-green-aav",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile comfort prototipale del brand di Boston e la ricerca di sfumature cromatiche magnetiche si fondono nel nuovo\nBermuda Uomo New Balance Medusa Green\n. Questo pantaloncino corto in felpa eleva il concetto di athleisure quotidiano attraverso una colorazione sofisticata, offrendo il perfetto compromesso per chi desidera unire praticità sportiva, freschezza e un'estetica urban rilassata ma curata nei minimi dettagli.\nDesign e Caratteristiche Principali\nEsclusiva Tonalità Medusa Green\n: Il bermuda si distingue per un'intensa e profonda colorazione verde petrolio/ottanio scuro denominata \"Medusa Green\". Una scelta cromatica di grande personalità e tendenza, capace di distaccarsi dai classici toni sportivi per donare un'allure ricercata e magnetica all'outfit.\nLogo \"NB\" Flying Heritage\n: Sulla parte inferiore della gamba sinistra risalta l'iconico logo \"NB Flying\" ricamato in filo bianco ottico a contrasto. Un dettaglio minimalista e pulito che firma il capo celebrando la storica eredità atletica di New Balance.\nGirovita Elastico Comfort con Coulisse Coordinata\n: Il focus funzionale è l'ampio fascione elastico piatto interamente arricciato in vita. Integra un cordino tubolare di regolazione esterno in tinta Medusa Green, con punte rifinite, progettato per offrire un fitting stabile e personalizzato privo di costrizioni.\nTaglio Regular Rilassato\n: Sviluppato con una geometria a gamba dritta dai volumi comodi che asseconda le linee del corpo e assicura una totale libertà di movimento. La lunghezza calibrata si ferma sopra il ginocchio per mantenere un'ottima freschezza strutturale.\nTasche Laterali a Scomparsa\n: Rifinito lungo i fianchi da pratiche tasche verticali inserite a filo in modo discreto e pulito, ideali per riporre rapidamente piccoli oggetti personali indispensabili durante la giornata.\nTessuto in Felpa Leggera Premium (French Terry)\n: Confezionato in un morbido filato misto cotone di altissima qualità. La texture interna non garzata garantisce un'eccellente traspirabilità e una piacevole sensazione di freschezza sulla pelle, preservando la forma e la brillantezza del colore lavaggio dopo lavaggio.\nIdee di Stile: Linka il Tuo Outfit\nAthleisure Premium Uniform\n: Esalta l'anima autentica del brand creando un perfetto total look d'ispirazione bostoniana. Abbina lo short Medusa Green a una\nt-shirt uomo\nNew Balance dal taglio boxy con grafica rétro o logo minimalista. Completa l'outfit con un calzino in spugna bianco a vista e una sneaker iconica della serie lifestyle.\nUrban Psychedelic Mix\n: Gioca di contrasti stilistici e valorizza la profondità del verde petrolio. Accosta il bermuda in felpa a una delle estrose ed eclettiche\nt-shirt uomo\na tema Mushroom (fungo), lasciando che l'artwork grafico crei un perfetto ponte visivo underground e di chiara ispirazione festival-wear.\nFresh Summer Transition\n: Per un aperitivo al tramonto o per le giornate di transizione, smorza la natura sportiva dello short. Indossalo insieme a una t-shirt basic bianca e sovrapponi la precisione geometrica di una\ncamicia uomo\na maniche lunghe a righe verticali sottili lasciata aperta, definendo il tutto con un\ncappello uomo\ncon visiera ricurva.\nPorta l'energia di un colore ricercato e il comfort imbattibile della felpa d'autore direttamente sulla strada. Scegli lo stile versatile e l'attitudine contemporanea dei bermuda Medusa Green firmati New Balance.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto in felpa sportiva, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

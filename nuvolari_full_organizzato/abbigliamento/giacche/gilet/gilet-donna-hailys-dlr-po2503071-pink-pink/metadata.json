@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/gilet/gilet-donna-hailys-dlr-po2503071-pink-pink",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGilet Donna Haylis\nIl gilet da donna Haylis è il capo perfetto per la mezza stagione o come strato aggiuntivo sotto un cappotto più pesante, combinando praticità e stile moderno.\nImbottitura:\nun capo invernale in poliestere, per un isolamento termico efficace e un'asciugatura rapida\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: DLR-PO2503071 PINK-PINK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "gilet in pile sherpa colorato, capo prettamente casual da tempo libero",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-gb-mourinho-deserto-4",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Chino Uomo Rayz – Eleganza disinvolta per ogni occasione\nIl pantalone chino Rayz è un must-have del guardaroba maschile contemporaneo. Realizzato in morbido cotone stretch, unisce comfort e stile in un capo versatile, perfetto per affrontare con naturalezza sia gli impegni quotidiani sia le occasioni più informali.\nCon il suo taglio slim ma comodo e dettagli curati come le tasche oblique e il fondo leggermente affusolato, il chino Rayz veste con carattere senza rinunciare alla praticità.\nDettagli prodotto:\nComposizione: cotone con elastan per una vestibilità flessibile\nChiusura con lacci\nTasche laterali e posteriori\nFit regolar\nPerfetto per:\nOutfit casual-chic\nUfficio con un tocco smart\nAbbinamenti estivi con t-shirt o polo\nProposta outfit:\nAbbinalo a una\ncamicia in lino\ne un paio di\nsneakers\nper un look estivo raffinato. Completa con una giacca leggera in cotone per la sera.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: GB MOURINHO DESERTO-4",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia in lino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/lino.html?tipologia=Camicie"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone con coulisse ed elastico in vita, vestibilità rilassata",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

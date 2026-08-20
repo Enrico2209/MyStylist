@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-itu226t008-nero-9000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ironia dissacrante, il minimalismo grafico d'impatto e il fascino magnetico legato alla cultura pop contemporanea definiscono l'universo delle\nt-shirt uomo \"I Told Ya\"\n. Diventata un vero e proprio tormentone stilistico globale e un manifesto dello streetwear d'élite, questa maglietta ha catturato l'attenzione delle icone della moda e del cinema internazionale, trasformandosi da semplice capo basic a un cult assoluto per chi ama comunicare con una forte attitudine anticonformista e intellettuale.\nDesign e Caratteristiche Distintive\nIl Potere del Lettering Minimale\n: Il focus assoluto della t-shirt risiede nella sua iconica stampa testuale frontale. Caratterizzata dalla scritta \"I TOLD YA\" (\"Te l'avevo detto\") posizionata geometricamente sul petto, la maglietta gioca con caratteri puliti e ad alta leggibilità, esprimendo un messaggio bold, ironico e sicuro di sé senza bisogno di ulteriori grafiche sovraccariche.\nTessuti in Cotone Premium Heavyweight\n: Per rispecchiare i canoni del design street contemporaneo, le t-shirt sono confezionate prevalentemente in puro jersey di cotone a spessore maggiorato. Questa struttura tessile compatta garantisce una mano morbida, un'altissima resistenza ai lavaggi e una stabilità strutturale che mantiene la maglietta impeccabile nel tempo.\nVestibilità Boxy ed Estetica Rétro\n: Sviluppata con un fitting relaxed o decisamente oversize d'ispirazione anni '90. Presenta spalle leggermente scese, maniche più ampie rispetto ai tagli tradizionali e un girocollo robusto a costine spesse che incornicia la silhouette in modo geometrico e rilassato.\nPalette Cromatica Essenziale\n: Coerentemente con il suo spirito minimal-chic, il modello iconico si esprime al meglio attraverso sfumature neutre classiche come il bianco ottico, il grigio melange o il nero profondo, lasciando che sia la forza intrinseca del testo a definire l'intero carattere del look.\nIdee di Stile: Costruisci il Tuo Outfit Pop-Street\nContemporary Pop Icon Uniform\n: Esalta il legame cinematografico e di tendenza di questa t-shirt ricreando un outfit fresco e di carattere. Abbina la maglietta \"I Told Ya\" alla morbidezza sartoriale e metropolitana di un\npantalone uomo\npantalaccio Lyle & Scott in velluto a coste o in cotone scuro, completando il cerchio con una sneaker bassa e un occhiale da sole lifestyle bold.\nPremium Minimalist Layering\n: Gioca con le sovrapposizioni tessili naturali per un aperitivo informale o per il tempo libero. Utilizza la t-shirt come base testuale sotto la freschezza di una delle\ncamicie uomo\nSquad in puro lino fiammato lasciata completamente aperta, coordinando il tutto a un bermuda in twill stretch.\nTactical Utility Urban Look\n: Inserisci l'ironia del lettering in un contesto street più deciso e strutturato. Accosta la maglietta alla forza geometrica dei\nbermuda uomo\ncargo Napapijri o Oakley con tasconi applicati, definendo l'outfit con un cappello con visiera e un calzino a coste spugnato Deus Ex Machina portato a vista.\nSperimenta la forza comunicativa di un design essenziale che unisce l'understatement grafico al fascino magnetico dei trend globali più celebrati. Scegli il carattere unico, il comfort dei materiali pesanti e l'attitudine inconfondibile delle t-shirt uomo \"I Told Ya\".\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con piccolo lettering, vestibilità boxy d'ispirazione street",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

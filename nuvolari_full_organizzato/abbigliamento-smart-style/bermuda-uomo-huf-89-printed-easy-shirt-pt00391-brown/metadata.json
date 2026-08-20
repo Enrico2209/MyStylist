@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-uomo-huf-89-printed-easy-shirt-pt00391-brown",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Bermuda HUF PT00391 Leopard è il capo definitivo per chi vuole rompere gli schemi dello streetwear convenzionale, portando l'estetica audace di San Francisco direttamente nel guardaroba estivo. Caratterizzato da un'iconica stampa all-over maculata, questo short non è solo un esercizio di stile, ma un concentrato di funzionalità pensato per chi vive la città (e lo skate park) con attitudine.\nIl punto di forza di questo bermuda risiede nel perfetto equilibrio tra audacia visiva e praticità. Realizzato in un tessuto leggero ma estremamente resistente, offre una vestibilità rilassata che garantisce totale libertà di movimento. La stampa leopardata, da sempre simbolo di ribellione e spirito punk, viene qui declinata in una chiave streetwear contemporanea che si sposa perfettamente con outfit minimalisti o stratificati.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto stile easy/skate con elastico in vita e stampa animalier audace",
+    "season": "estate",
+    "pattern": "animalier"
+  }
 }

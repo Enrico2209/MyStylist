@@ -20,5 +20,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-108337-black-reflective-285",
-  "image_count": 1
+  "image_count": 1,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio, tasca utility sulla manica e patch NASA",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

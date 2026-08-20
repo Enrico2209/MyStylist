@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-alla-coreana-nuvolari-beak-bianco",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia alla coreana da uomo bianca realizzata in un pregiato cotone 100% made in Italy che conferisce una linea elegante ed una traspirabilità unica a questo modello di camicia firmato Nuvolari, perfetta per una serata casual in abbinamento ad un\njeans alla moda\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia alla coreana uomo Nuvolari modello BEAK - Bianco\nCollo alla coreana\nTessuto armaturato micro disegno rombi\nPlacca metallica personalizzata cucita sul fondo\nVestibilità Slim Fit\nComposizione: 100% Cotone\nMade in italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans alla moda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia alla coreana slim fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

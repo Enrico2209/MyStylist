@@ -21,5 +21,30 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-sh-dennis-medium-dnm-med-dnm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autenticità del denim d'archivio incontra i volumi rilassati della cultura street nei nuovi\nBermuda Uomo Nuvolari Dennis Med Dnm\n. Questo modello unisce il fascino ruvido del jeans classico a una costruzione confortevole, proponendosi come l'essenziale definitivo per chi cerca un look estivo di carattere, durevole e fortemente ancorato allo stile urban.\nDesign e Caratteristiche Principali\nLavaggio Medium Denim (Med Dnm)\n: Il pantaloncino si distingue per una tonalità di blu indigo intermedia, arricchita da delicate sfumature e baffature naturali (whisker) sul davanti. Un trattamento dall'effetto vissuto che dona al capo un'attitudine vintage e autentica.\nCostruzione Classica a 5 Tasche\n: Riprende fedelmente l'architettura dei jeans tradizionali con due tasche sul retro impreziosite da ricami geometrici iconici, due tasche americane sul davanti e il classico taschino porta-monete (coin pocket) sul lato destro.\nChiusura e Dettagli Sartoriali\n: Progettato con una chiusura frontale solida dotata di patta con bottoni metallici logati e passanti robusti lungo la vita, ideali per accogliere cinture in pelle o in tessuto tecnico.\nOrlo con Risvolto a Contrasto\n: Il fondo gamba è rifinito con un risvolto cucito che mette in evidenza la trama interna più chiara del denim, aggiungendo un dettaglio geometrico che spezza la linearità della gamba.\nTaglio Regular Comfort in Puro Cotone\n: Sviluppato con una vestibilità regolare che si ferma appena sopra il ginocchio. Il tessuto in 100% cotone denim garantisce la massima resistenza all'usura e una struttura compatta che acquista morbidezza e fascino lavaggio dopo lavaggio.\nIdee di Stile: Crea la Tua Wave\n90s West Coast Uniform\n: Abbina il bermuda Dennis a una\nt-shirt\ngrafica oversize (bianca o panna) e a una camicia a quadri leggera lasciata completamente aperta, completando il look con una sneaker bold da skate.\nContemporary Smart Summer\n: Bilancia l'anima casual del denim accostando il pantaloncino a una\ncamicia\nin lino o in cotone popeline a maniche lunghe risvoltate. Chiudi l'outfit con un mocassino scamosciato o un sandalo minimalista in pelle per i tuoi aperitivi estivi.\nFai spazio alla versatilità intramontabile della tela blue jeans. Scegli il carattere deciso del bermuda Dennis firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim con lavaggio vissuto e dettagli street, tipico capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

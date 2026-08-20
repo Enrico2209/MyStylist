@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-w1-perk-nero-1562",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo PERK Nuvolari: Comfort e Stile per Ogni Giornata\nLa maglia uomo PERK Nuvolari è il capo ideale per affrontare la giornata con comfort e stile. Realizzata con materiali di alta qualità, offre una vestibilità impeccabile e un design versatile, perfetto per creare outfit casual e sofisticati.\nCrea il tuo outfit ideale!\nIndossala con una\ncamicia\nper un look curato e moderno, o abbinala a un paio di\npantaloni\nper uno stile classico ma di tendenza. Completa il tutto con delle\nsneakers\nper un tocco dinamico e contemporaneo.\nTrova ispirazione per i tuoi\noutfit\ne rinnova il tuo guardaroba con la maglia MURPHY!\nPerché scegliere la Maglia PERK Nuvolari?\nDesign versatile e moderno\nMateriali di qualità per il massimo comfort\nIdeale per ogni occasione, dal casual al più formale\nUn capo essenziale per chi ama coniugare eleganza e praticità nel proprio stile quotidiano!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: W1 PERK NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "lupetto/dolcevita in maglia fine, ideale per look smart casual o sotto giacca",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

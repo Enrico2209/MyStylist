@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/gilet/gilet-nuvolari-s1-gian-latte-k652",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGilet Nuvolari Gian Latte\nIl gilet smanicato\nNuvolari\nin colore bianco latte è un capo elegante e versatile, perfetto per completare il tuo outfit formale. Con il suo design senza maniche e il girocollo classico, aggiunge un tocco di raffinatezza alla tua\ncamicia\n. Realizzato con materiali di alta qualità e curato nei dettagli, questo gilet è ideale per aggiungere un tocco di stile e classe al tuo outfit.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "gilet in maglia classico, ideale per contesti smart casual sopra una camicia",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

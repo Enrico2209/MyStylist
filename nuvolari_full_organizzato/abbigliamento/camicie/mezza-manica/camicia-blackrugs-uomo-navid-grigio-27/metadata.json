@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-blackrugs-uomo-navid-grigio-27",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Blackrugs Navid Grigio Maniche Corte\nLa camicia a maniche corte del brand Blackrugs è un'elegante aggiunta al tuo guardaroba estivo. Con una tinta unita, presenta un moderno colletto reverse neck e una chiusura con bottoni. La vestibilità regular fit assicura comfort e stile. Perfetta per creare look casual e raffinati durante i giorni più caldi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n95% Poliestere 5% Elastane\nCodice articolo: NAVID GRIGIO-27",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "camicia a maniche corte con collo a rever, adatta a contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

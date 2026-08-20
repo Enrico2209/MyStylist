@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-rabat-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Black Rags Rabat Bianco\nrappresenta l'essenza del comfort e della freschezza estiva, ridefinendo il concetto di shorts casual attraverso una texture ricercata e una silhouette estremamente rilassata. Declinato in un bianco ottico luminoso (\"Bianco\"), questo capo fa della leggerezza il suo punto di forza, rivelandosi la scelta ideale per le giornate calde, il relax in spiaggia o un aperitivo informale al tramonto.\nDesign e Caratteristiche Principali\nTessuto in Cotone con Lavorazione Crepe / Seersucker\n: Realizzato in un filato leggerissimo dalla caratteristica superficie increspata e mossa tridimensionale, che riduce il contatto del tessuto con la pelle favorendo una costante circolazione dell'aria e limitando la necessità di stiratura.\nCintura Elastica in Vita ad Alto Comfort\n: La parte superiore è strutturata con una spessa fascia elastica interna arricciata, progettata per offrire un fitting flessibile e adattarsi perfettamente ai fianchi senza stringere.\nChiusura Regolabile con Coulisse Esterna\n: Un morbido cordoncino intrecciato in tonalità panna/naturale fuoriesce dal centro della vita, permettendo di personalizzare la chiusura e aggiungendo un dettaglio estetico in perfetto stile resort.\nTasche a Filo sui Fianchi\n: Integra profonde tasche laterali inserite perfettamente lungo le cuciture, che mantengono la linea del bermuda pulita, scivolata e priva di rigonfiamenti artificiali.\nSilhouette Ampia con Taglio Lounge\n: La gamba scende fluida con un fit rilassato e rilassante, offrendo un'estetica moderna e disinvolta che strizza l'occhio al beachwear più ricercato.\nOrlo Inferiore con Cucitura Invisibile\n: Il fondo gamba è rifinito in modo lineare e leggero per assecondare la naturale flessuosità e il movimento del tessuto crepe.\nProposta di Outfit\nLa pulizia cromatica del bermuda Rabat Bianco permette di creare eccezionali abbinamenti estivi basati sui contrasti o sul total white:\nExotic Summer Pattern\n: Indossalo insieme a una\ncamicia\na maniche corte con motivo geometrico a zig-zag nei toni caldi della terra e sandali in cuoio, lasciando che il bermuda bianco bilanci la ricchezza cromatica della parte superiore.\nRiviera Vintage Casual\n: Abbinalo a una\ncamicia\na maniche corte a righe verticali azzurre e bianche con dettagli floreali in trasparenza per un outfit fresco, etereo e di chiara ispirazione rétro balneare.\nUrban Holiday Layering\n: Portalo insieme a una t-shirt basic chiara e sovrapponi un'\novershirt\naperta nella tonalità sabbia, completando il look con sneakers in tela per un perfetto mix di toni neutri e rilassati.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "Bermuda lounge in cotone crepe con coulisse, stile resort e beachwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/hinnominate-canotta-hmabw02509-azzurro-bl66",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa freschezza dell'azzurro pastello incontra il fascino d'archivio dello stile henley, dando vita a un basic raffinato che eleva la proposta di abbigliamento quotidiano. La\nCanotta Donna Hinnominate Azzurro\ncombina un'attitudine loungewear di lusso a dettagli strutturali di chiara ispirazione urban. Questo modello a costine è stato concepito per chi cerca un fit avvolgente, fresco e ricco di carattere, perfetto per le calde giornate estive o come strato base per outfit multistrato dinamici.\nDesign e Caratteristiche Principali\nScollo tondo stile Henley con Bottoni\n: Il vero focus stilistico di questa canotta è la finta patta frontale dotata di tre bottoni tono su tono. Questo dettaglio riprende il classico design d'ispirazione rétro, aggiungendo tridimensionalità e un punto luce geometrico alla parte superiore del capo.\nTessuto a Micro-Costine Verticali (Ribbed Texture)\n: Realizzata con una fitta lavorazione a costine verticali sottili che assicura un'ottima elasticità naturale. La texture compatta modella delicatamente la silhouette e garantisce una perfetta memoria della forma.\nDettaglio Logo Frontale Minimalist\n: Sul lato inferiore sinistro spicca la stampa pulita del lettering ufficiale del brand\n\"HINNOMINATE\"\nin una tonalità bianca a contrasto, sigillo iconico che definisce l'anima streetwear del capo.\nTaglio Regolare e Linee Pulite\n: Sviluppata con una lunghezza classica che si adatta perfettamente sia sopra sia all'interno dei fascioni dei pantaloni, eliminando ogni volume superfluo grazie a una vestibilità asciutta e anatomica.\nSpalline e Giromanica Strutturati\n: Le spalline di media larghezza e i profili rifiniti del giromanica assicurano la massima stabilità e un comfort ottimale durante i movimenti in città.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Loungewear Uniform\n: Abbina la tonalità eterea dell'azzurro a un pantalone della tuta oversize a gamba dritta o a un jogger felpato nei toni del panna o del grigio melange firmato Hinnominate, per un outfit coordinato ideale per il tempo libero.\nRetro Denim Match\n: Crea un contrasto di proporzioni impeccabile indossando la canotta insieme a un\njeans\nbaggy o a un bermuda in denim loose (jorts) dal lavaggio chiaro vintage, completando il look con una sneaker bassa da skate.\nContemporary Smart Layers\n: Sperimenta uno stile urban ricercato inserendo la canotta sotto un blazer oversize destrutturato o una giacca utility leggera lasciata completamente aperta; il dettaglio henley con bottoni sul davanti spezzerà la formalità del capospalla con un accento pop immediato.\nRinfresca la tua collezione di basici con il design evoluto e texturizzato di Hinnominate e scendi in strada a dettare il tuo ritmo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "canotta basica stile loungewear/tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

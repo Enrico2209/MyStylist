@@ -23,5 +23,18 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-iuw001-nero-bco-nero-bco",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.9,
+      "casual": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno short, livello base di formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

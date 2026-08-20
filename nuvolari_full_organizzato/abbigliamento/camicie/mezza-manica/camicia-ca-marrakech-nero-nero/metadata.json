@@ -25,5 +25,43 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-marrakech-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica resort dal sapore esotico incontra il design metropolitano nella\ncamicia da uomo Black Rags modello Marrakech nella nuance Nero\n. Caratterizzata da una texture fiammata ed effetto lino e dal classico colletto aperto \"bowling\", questa camicia a maniche corte è l'alleato perfetto per affrontare le calde giornate estive e le serate informali con uno stile rilassato ma ricercato.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Fiammato Leggero e Traspirante\n: Confezionata in un tessuto dalla piacevole texture irregolare effetto lino/slub, offre massima freschezza, traspirabilità e una sensazione di estrema leggerezza sulla pelle.\nColletto Cuban / Bowling Collar\n: Il collo rever aperto senza bottone superiore regala un'allure vintage, disinvolta e tipicamente estiva.\nChiusura Frontale con Bottoni a Contrasto\n: Abbottonatura classica con bottoni perlati a contrasto che risaltano sulla trama scura del capo.\nVestibilità Relaxed e Orlo Dritto\n: Taglio comodo con maniche corte e fondo dritto, pensato per essere indossato sia all'interno che all'esterno dei pantaloni.\nIdee di Stile: Costruisci il Tuo Look Resort & Urban Summer\nSummer Resort & Aperitivo Look\n: Indossala aperta sopra una canotta o una t-shirt essenziale bianca, abbinandola a un paio di\nbermuda uomo\nin lino o cotone e a dei sandali in pelle o mocassini sfoderati.\nUrban Casual Vibe\n: Crea un outfit metropolitano grintoso accostandola a un paio di\njeans uomo\nleggeri e completando il tutto con la pulizia di un paio di\nsneakers uomo\nbasse.\nLayering & Capi Alternativi\n: Durante le serate estive più ventilate, sovrapponi la camicia a una\nt-shirt uomo\ngrafica per uno stile strutturato, oppure completa l'insieme con un giubbotto leggero dalla nostra selezione\ngiubbotti uomo\n.\nVivi l'estate con il perfetto equilibrio tra freschezza e personalità. Scegli la leggerezza del tessuto fiammato, la raffinatezza del colletto bowling e lo stile inconfondibile di Black Rags.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.3,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con colletto bowling, taglio relaxed ed effetto lino",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

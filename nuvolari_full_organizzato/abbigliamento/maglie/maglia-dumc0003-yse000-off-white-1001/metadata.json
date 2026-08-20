@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-dumc0003-yse000-off-white-1001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Daniele Alessandrini: L'Essenzialità del Cotone Premium\nRiscopri il piacere dei tessuti naturali con questa maglia a maniche corte firmata Daniele Alessandrini. Realizzata interamente in\n100% cotone\n, questa t-shirt in maglia rappresenta il perfetto equilibrio tra la freschezza di un capo estivo e la struttura di un capo di maglieria pregiata. Un pezzo essenziale, pensato per l'uomo che predilige un’eleganza discreta e tattile.\nDesign Tattile e Comfort Naturale\nPuro Cotone 100%\n: La scelta di una fibra naturale di alta qualità garantisce una traspirabilità ottimale e una morbidezza superiore sulla pelle. La lavorazione a maglia fine dona al capo una texture ricca e una caduta impeccabile, superiore a quella di una classica t-shirt in jersey.\nTexture Geometrica Ton-sur-Ton\n: Il fronte della maglia è caratterizzato da una sofisticata lavorazione jacquard con pattern a rombi. Questo dettaglio \"ton-sur-ton\" aggiunge profondità visiva e un tocco di tridimensionalità al total black, elevando il capo da semplice maglia di base a elemento distintivo del look.\nDettagli Sartoriali\n: Girocollo, bordi delle maniche e fondo del corpo sono rifiniti a costine elasticizzate, assicurando che la maglia mantenga la sua forma nel tempo e offrendo un fit confortevole e ordinato.\nVersatilità Minimalista\n: Il colore bianco e il design pulito rendono questa maglia un jolly del guardaroba, capace di adattarsi a look formali sotto un blazer o a outfit urban più rilassati.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: DUMC0003-YSE000 OFF WHITE-1001",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "t-shirt in maglia fine di cotone con lavorazione jacquard, piu formale di una classica t-shirt in jersey",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

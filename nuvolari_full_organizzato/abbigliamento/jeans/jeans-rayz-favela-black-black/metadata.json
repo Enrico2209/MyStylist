@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-rayz-favela-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl jeans nero di Rayz è l'epitome dello stile moderno e streetwear\nRealizzato al\n100% in cotone\n, questo jeans offre una sensazione di comfort e resistenza, garantendo allo stesso tempo un aspetto alla moda e contemporaneo. I dettagli di design includono strappi strategici che aggiungono un tocco di grinta e personalità al jeans, enfatizzando il suo stile urbano e audace. Questo jeans è progettato per coloro che cercano di fare una dichiarazione di moda audace e distinta, catturando l'essenza dell'estetica streetwear. Indossalo con una t-shirt stampata e un paio di sneaker alla moda per un look completo e di tendenza. Con il jeans nero di Rayz, sarai pronto a distinguerti dalla folla e a esprimere la tua individualità attraverso il tuo stile unico e audace.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: FAVELA BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "Jeans con strappi estremi, lavaggio tie-dye e forte estetica streetwear",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

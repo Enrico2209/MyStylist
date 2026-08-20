@@ -25,5 +25,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassini-sun68-z36112-nero-11",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'inconfondibile attitudine casual del design italiano, la fusione audace tra l'estetica classica e il comfort sportivo si incontrano nei\nmocassini uomo Sun68 modello Z36112 Nero\n. Il brand, celebre per la sua capacità di capovolgere gli schemi dell'abbigliamento daily attraverso dettagli inattesi, reinterpreta la storica scarpa da barca (boat shoe) innestandola su una suola di chiara ispirazione running. Il risultato è una calzatura ibrida, grintosa ed eccezionalmente comoda, pensata per chi desidera distinguersi nella quotidianità urbana.\nDesign, Dettagli e Caratteristiche Costruttive\nLa Grinta della Tomaia in Pelle Total Black\n: La struttura superiore è interamente realizzata in morbida pelle liscia nera di alta qualità dalla finitura leggermente satinata. La scelta del nero monocromatico dona alla calzatura un'eleganza rigorosa e contemporanea, perfetta per superare la stagionalità.\nL'Iconica Costruzione da Barca\n: Il modello conserva la caratteristica infilatura perimetrale in pelle nera che corre lungo il colletto della scarpa attraverso occhielli metallici lucidi, completata da un'allacciatura frontale classica a due fori con lacci coordinati.\nL'Innovativa Suola Ibrida Running-Style\n: Elemento di rottura stilistica rispetto ai modelli tradizionali è la solida suola flat sagomata che richiama le storiche calzature da corsa. L'intersuola è strutturata su un blocco bicolore: uno strato superiore grigio chiaro a contrasto e una spessa base in EVA nera, completata da un battistrada tassellato che massimizza il grip urbano.\nLa Tradizionale Cucitura Moc-Toe\n: La parte anteriore della vaschetta è definita da una robusta e precisa cucitura a rilievo eseguita tono su tono, che assicura stabilità strutturale alla punta mantenendo la flessibilità necessaria per assecondare la camminata.\nIl Dettaglio Heritage Sun68\n: A spezzare il rigore cromatico interviene un piccolo e iconico passante posteriore (pull tab) sul tallone in tessuto rosso scuro, firma discreta che agevola la calzata e testimonia la cura dei dettagli tipica del brand.\nIdee di Stile: Costruisci il Tuo Look Urban Hybrid & Smart-Casual\nMetropolitan Smart-Casual Uniform\n: Sfrutta la versatilità del nero e il taglio pulito della scarpa per creare una combinazione geometrica impeccabile. Abbina i mocassini Sun68 alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, completando sul davanti con la ricercatezza tricot di una delle nostre maglie polo uomo Nuvolari o di una polo nera firmata Gaëlle Paris.\nUrban Contemporary Denim Mix\n: Esalta l'anima ibrida e sportiva della calzatura inserendola in un contesto streetwear rilassato e di grande carattere. Accosta le scarpe alla silhouette generosa e dritta dei jeans uomo Levi's 568 Loose Straight in un lavaggio vintage o medio, lasciando che la gamba si appoggi morbida sulla struttura della suola, e indossa sopra una\nt-shirt uomo\ngrafica.\nSophisticated Dark Riviera Transition\n: Rompi le regole del classico stile da barca giocando con i contrasti cromatici e la leggerezza dei tessuti estivi. Combina la pulizia dei mocassini neri alla freschezza traspirante di un pantalone uomo o bermuda uomo Baecker in lino nelle sfumature del sabbia, del beige o del bianco ottico, abbinando sulla parte superiore una camicia in lino fiammato coordinata.\nSperimenta la perfetta sintesi tra la storicità di una silhouette nata per il mare e la spinta tecnologica delle suole running metropolitane. Scegli la morbidezza della pelle premium, il carattere del design ibrido e il comfort d'avanguardia dei mocassini uomo firmati Sun68.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "sportivo": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Scarpa da barca ibrida con suola running sportiva, abbassa la formalità del mocassino classico",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

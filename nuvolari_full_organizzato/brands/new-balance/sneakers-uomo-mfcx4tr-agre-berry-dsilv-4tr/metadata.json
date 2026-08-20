@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-uomo-mfcx4tr-agre-berry-dsilv-4tr",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe New Balance FuelCell Rebel v4 rappresentano l'evoluzione tecnologica per chi cerca una scarpa da corsa ultra-leggera, scattante e dal design futuristico. Questa versione, caratterizzata dalla colorazione Agate/Berry/Deep Silver, unisce performance d'élite a un'estetica audace.\nNew Balance MFCX4TR Velocità e Leggerezza Estrema\nCaratteristiche Principali\nIntersuola FuelCell\n: Composta da una nuova miscela di schiuma PEBA/EVA che offre un ritorno di energia esplosivo e una reattività superiore rispetto alle versioni precedenti.\nPeso Piuma\n: Progettata per essere una delle scarpe più leggere sul mercato, ideale per sessioni di allenamento veloce, ripetute o gare su strada.\nTomaia FantomFit\n: Realizzata in mesh tecnico ultra-sottile con sovrapposizioni senza cuciture, garantisce un supporto strutturale incredibile senza aggiungere peso inutile.\nGeometria Longitudinale\n: La suola presenta una base leggermente più ampia per migliorare la stabilità durante le transizioni rapide dal tallone alla punta.\nEstetica Tech-Chic\n: La combinazione cromatica\nAgre/Berry/Dsilv\nrende questa sneaker perfetta anche per look urban audaci e amanti del trend tech-wear.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.8,
+      "casual": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

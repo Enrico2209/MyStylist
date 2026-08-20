@@ -26,5 +26,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-sh-essaouira-beige-bco-beige-bco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Black Rags Essaouira Beige\ncompletano l'omonima linea d'ispirazione resort-wear, offrendo una proposta estiva dal carattere fluido, rilassato e fortemente grafico. Sviluppati su una calda e naturale palette beige sabbia, questi pantaloncini corti sfruttano il classico motivo a righe verticali per donare dinamismo visivo ed eleganza informale ai look da giorno e da vacanza.\nDesign e Caratteristiche Principali\nTessuto Leggero in 100% Poliestere Fiammato\n: Confezionati in un filato tecnico purissimo e ultraleggero, lavorato per imitare la texture fresca, mossa e naturale del lino. Questa composizione garantisce un'eccellente resistenza alle pieghe, tempi di asciugatura rapidissimi e una caduta fluida che non aderisce alla pelle, massimizzando il comfort termico.\nPattern a Righe Verticali Heritage\n: La superficie è interamente decorata da una fitta alternanza di righe gessate verticali bianche di spessore variabile su fondo beige, un disegno intramontabile che slancia geometricamente la figura e dona un tocco rétro ricercato.\nCintura Elasticizzata Comfort con Coulisse\n: Il girovita integra un morbido inserto elastico arricciato progettato per adattarsi in modo flessibile ed ergonomico ai fianchi. La regolazione è completata da un cordoncino tubolare bianco a contrasto che fuoriesce sul davanti, definendo l'attitudine easy del capo.\nTasche Laterali Verticali a Filo\n: Sul davanti sono presenti due tasche inserite con discrezione lungo la linea dei fianchi, una soluzione tecnica che mantiene il bacino piatto e preserva la pulizia geometrica del pattern a righe.\nTaglio Regular Fit e Gamba Dritta\n: Propone una vestibilità regolare e ariosa, con una linea che scende dritta lungo la coscia senza costrizioni e si arresta appena sopra il ginocchio, bilanciando perfettamente libertà di movimento e proporzioni attuali.\nProposta di Outfit\nTotal Pattern Resort Set\n: Abbinalo alla\ncamicia c\noordinata nella stessa identica variante beige, da portare\nUrban Minimal Contrast\n: Indossalo insieme a una\nt-shirt in jersey\nnero profondo dal taglio regolare; la solidità scura superiore smorzerà la natura balneare delle righe beige e bianche, definendo un perfetto outfit casual metropolitano per i pomeriggi d'estate.\nQuiet Luxury Knitwear Match\n: Portalo in abbinamento a una\npolo in maglia rasata\ncon scollo a V senza bottoni nei toni del crema o del beige chiaro; il dialogo raffinato tra la morbidezza del filato superiore e la trama fiammata del bermuda rigato darà vita a un outfit casual-chic ideale per un pranzo all'aperto o un aperitivo al tramonto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: SH ESSAOUIRA BEIGE/BCO-BEIGE/BCO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia c",
+      "categoria_url": "https://www.nuvolari.biz/camicia-ca-essaouira-beige-bco-beige-bco.html"
+    },
+    {
+      "testo": "t-shirt in jersey",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo in maglia rasata",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "bermuda estivo stile resort con coulisse in vita, abbassato da elastico e coulisse",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

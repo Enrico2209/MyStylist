@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/serafini-uomo-weekend-offender-sweater-kwaw2413-black-ivory-blk-ivry",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Weekend Offender Serafini Sweater Black/Ivory\nLa\nmaglia\nWeekend Offender girocollo è realizzata in morbido cotone e presenta una vestibilità comoda. Il design semplice è arricchito dalla scritta distintiva del brand sul petto, per un tocco di carattere in più. Ideale per un look casual ma ricercato.\nAbbinala ad un\ngiubbotto\ne ad un paio di\nscarpe\nscelte per te e per il tuo look invernale!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n90% cotone, 10% nylon\nCodice articolo: KWAW2413 BLACK/IVORY-BLK/IVRY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Maglia in maglia di cotone con grande grafica jacquard del brand sul petto, stile casual/streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

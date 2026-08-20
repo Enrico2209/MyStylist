@@ -20,5 +20,22 @@
   "pattern": "stampato",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/miki-kim-cherry-shirt-i036558-multicolor-08-67",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Miki Kim Cherry è un capo di abbigliamento dal forte impatto visivo ed espressivo, realizzato in leggero Crepe di puro cotone da 150g/m². Questo tessuto si distingue per una stampa all-over (AOP) multicolore unica e di grande effetto, che conferisce alla camicia una personalità artistica e vibrante.\nQuesta camicia è pensata per chi desidera un capo che non passi inosservato, capace di unire l'originalità di una grafica complessa alla qualità di un tessuto naturale. Il particolare finissaggio in Crepe dona alla superficie una texture leggermente mossa e piacevole al tatto, perfetta per mantenere freschezza e stile anche nelle giornate più calde.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I036558 MULTICOLOR-08.67",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.5,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con grafica all-over molto vistosa e collo bowling, adatta a contesti informali o estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

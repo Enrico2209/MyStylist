@@ -19,5 +19,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-m3600p-sohoe-snwht-99a",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nC'è una polo che incarna oltre settant'anni di stile e la esprime in una tonalità dal carattere deciso. La\npolo Fred Perry M3600 in blu elettrico\nè l'iconica twin tipped in piquet, con la doppia riga bianca a contrasto su colletto e polsini che ne esalta la vivacità.\nDesign, Tessuti e Caratteristiche Costruttive\nPiquet di cotone Fred Perry:\nil tessuto originale dalla mano corposa e strutturata.\nTipping a contrasto:\nla doppia riga sui bordi di colletto e polsini firma inconfondibilmente il capo.\nColletto a costine con bottoni:\nabbottonatura a due bottoni tono su tono.\nLogo alloro ricamato:\nl'iconica corona d'alloro impreziosisce il petto.\nVestibilità regular:\nsilhouette classica e senza tempo.\nIdee di Stile: Costruisci il Tuo Look con Fred Perry\nLook Mod:\nabbina la polo a dei\npantaloni\nslim e mocassini per un mood british autentico.\nLook Casual:\nindossala con dei\njeans\ne sneakers per un outfit quotidiano curato.\nLook Estivo:\ncompletala con dei\nbermuda\nper le giornate più calde.\nAggiungi un'icona intramontabile al tuo guardaroba con la polo Fred Perry M3600: acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: M3600P",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piquet di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

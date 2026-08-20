@@ -21,5 +21,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-cult-rru085d7213114-bora-bora-dnm-c099",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCasual senza tempo e qualita artigianale si incontrano nel\nbermuda da uomo Roy Roger's modello Cult in denim dal lavaggio chiaro\n. Uno short a cinque tasche in cotone denim, con lavaggio azzurro delavato dalle leggere sfumature vissute e patch logo firmato: un capo intramontabile e versatile, perfetto per i look estivi di tutti i giorni.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone Denim:\ntessuto resistente e strutturato dalla mano autentica, tipico della tradizione Roy Roger's.\nLavaggio Chiaro Delavato:\nnuance azzurra con leggere sfumature e whiskering per un effetto vissuto e naturale.\nModello 5 Tasche:\nclassica costruzione a cinque tasche con chiusura a bottone e zip.\nPatch Logo:\netichetta firma Roy Roger's sul retro come dettaglio di autenticita.\nIdee di Stile: Costruisci il Tuo Look Estivo Casual\nSummer Everyday:\nabbinalo a una\nt-shirt uomo\nessenziale e a delle\nsneakers uomo\nper un look fresco e comodo.\nSmart Casual:\nperfetto con una\ncamicia uomo\nin lino aperta per un outfit estivo curato.\nRelax Total Denim:\nil lavaggio chiaro lo rende facile da abbinare e sempre attuale.\nAggiungi un classico dell'estate al tuo guardaroba. Scegli l'autenticita del denim, il lavaggio chiaro vissuto e lo stile inconfondibile firmato Roy Roger's Cult.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda di jeans a cinque tasche, classico capo estivo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

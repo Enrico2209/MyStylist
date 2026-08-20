@@ -21,5 +21,20 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/w-top-sw1806-black-bk",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nL'energia travolgente delle spiagge tropicali, l'audacia del design contemporaneo e una sensualità graffiante si incontrano nelle collezioni di\ncostumi donna F**K\n. Diventato un vero e proprio punto di riferimento per il beachwear d'avanguardia, il brand italiano stravolge i canoni della moda mare tradizionale attraverso l'uso di stampe grafiche esclusive, texture tridimensionali e tagli anatomici studiati per valorizzare ed esaltare la silhouette femminile con grinta e spiccata personalità.\nDesign, Pattern e Caratteristiche Distintive\nGrafiche Bold e Pattern Esclusivi\n: Le collezioni F**K sono un'esplosione visiva irriverente. Il brand spazia con disinvoltura da audaci motivi animalier (maculati, zebrati, pitonati) rielaborati con tonalità fluo, a maxi stampe tropicali psichedeliche, motivi camouflage rivisitati, fino a romantici micro-pattern geometrici o sofisticati inserti lurex e metallizzati per brillare sotto la luce del sole.\nArchitetture e Volumi per Ogni Silhouette\n: La proposta beachwear è strutturata per offrire la massima versatilità di fitting. Le combinazioni includono i classici bikini a triangolo scorrevole (con o senza imbottitura removibile), top a fascia strutturati con ferretto, eleganti modelli monospalla e audaci costumi interi con scollature profonde, oblò cut-out e intrecci strategici sui fianchi.\nSlip Componibili e di Tendenza\n: Gli slip sono pensati per adattarsi a ogni preferenza di stile e comfort: dai modelli minimali con laccetti regolabili a brasiliana e perizoma, fino a slip a vita alta d'ispirazione rétro anni '90 o varianti con arricciature studiate per regalare un perfetto effetto push-up naturale.\nTessuti Tecnici Premium e Dettagli Hardware\n: Confezionati in microfibra elastica ad altissima tenuta, i costumi assicurano una rapida asciugatura e un'eccellente resistenza al cloro, alla salsedine e ai raggi UV. Molti modelli sono impreziositi da dettagli hardware ricercati come anelli in resina, perline di legno, passanti metallici dorati o scritte logo in strass.\nNon passare inosservata sulla spiaggia. Rivoluziona il tuo guardaroba beachwear sperimentando il mix perfetto di comfort elastico, stampe magnetiche e dettagli couture. Scegli la sensualità decisa e il carattere unico dei costumi donna firmati F**K.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "bikini da donna, livello base di formalità per abbigliamento mare",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

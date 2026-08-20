@@ -22,5 +22,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-itu226f002-grg-melange-9002",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ironia minimale del lettering d'impatto, il comfort avvolgente dello stile athleisure e il fascino magnetico legato alla cultura pop cinematografica si fondono nella nuova\nFelpa Uomo I Told Ya Grigio Melange\n. Questo modello con cappuccio traspone il celebre tormentone grafico globale su un capospalla iconico, trasformandosi nel manifesto definitivo dello streetwear contemporaneo per chi ama comunicare con una forte attitudine anticonformista e intellettuale.\nDesign, Dettagli e Caratteristiche Principali\nL'Iconico Macro Lettering \"I TOLD YA\"\n: Il focus visivo e concettuale assoluto della felpa risiede nella pulizia della stampa testuale frontale. Caratterizzata dalla scritta nera \"I TOLD YA\" (\"Te l'avevo detto\") disposta geometricamente su tre righe al centro del petto, la felpa esprime un messaggio bold, ironico e sicuro di sé con un minimalismo grafico di grande impatto.\nTessuto in Felpa Premium Grigio Melange\n: Confezionata in un morbido jersey di cotone heavyweight a spessore maggiorato, caratterizzato dalla classica e intramontabile texture grigio melange. Questa struttura tessile compatta assicura un'eccellente stabilità strutturale che resiste ai lavaggi, garantendo una mano calda, piacevole e altamente confortevole sulla pelle.\nCappuccio Strutturato con Coulisse Regolabile\n: Il design è arricchito da un ampio cappuccio foderato e anatomico, regolabile tramite un cordoncino tubolare in tinta grigia, rifinito all'estremità con eleganti puntali metallici cilindrici che sottolineano la cura del brand per i dettagli hardware.\nTasca a Marsupio e Dettagli d'Archivio\n: La parte inferiore frontale integra una classica e capiente tasca a marsupio (kangaroo pocket) con finiture robuste. Spicca inoltre una mini etichetta bianca logata cucita sul bordo elastico sinistro, che riprende fedelmente l'autenticità e la firma minimale del brand.\nVestibilità Boxy con Bordi a Costine\n: Sviluppata con un fitting relaxed contemporaneo d'ispirazione rétro anni '90, la felpa presenta spalle leggermente scese ed è rifinita da ampie fasce elastiche a costine sui polsini e sul fondo per assicurare una caduta geometrica ordinata e ad alta stabilità termica.\nIdee di Stile: Costruisci il Tuo Look Pop-Street\nTotal Pop Culture Uniform\n: Esalta il legame di tendenza e l'anima ironica della felpa creando un outfit street coordinato e bilanciato nei volumi. Abbina il modello con cappuccio alla struttura rilassata di un\nbermuda uomo\n\"I Told Ya\" in felpa coordinata o in cotone compatto nero, completando il look con una sneaker bassa e un occhiale da sole lifestyle specchiato.\nMetropolitan Lounge Layering\n: Gioca sui contrasti materici e cromatici per il tempo libero o i weekend di viaggio. Accosta la felpa grigio melange alla morbidezza tattile di un\npantalone uomo\npantalaccio Lyle & Scott in velluto a coste sottili antracite o nero delavé, lasciando fuoriuscire il colletto di una t-shirt bianca basica per un tocco urban-chic ordinato.\nContemporary Utility Casual Mix\n: Inserisci la pulizia del lettering grigio in un contesto underground più deciso e strutturato. Combina la felpa con la forza geometrica di un pantalone chino Lyle & Scott in nuance Military Green, completando la stratificazione superiore sotto la robustezza di una giacca Harrington aperta o di un capospalla utility scuro.\nSperimenta la perfetta sintesi tra l'understatement grafico di un cult globale e il massimo comfort termico quotidiano. Scegli la versatilità espressiva, la consistenza dei materiali premium e l'attitudine inconfondibile della felpa uomo con cappuccio firmata \"I Told Ya\".\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica bold, tipico capo streetwear e casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

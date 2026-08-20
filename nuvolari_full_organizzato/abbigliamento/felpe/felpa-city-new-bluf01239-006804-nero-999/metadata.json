@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-city-new-bluf01239-006804-nero-999",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Blauer BLUF01239 City è una felpa girocollo che incarna l'essenza dello stile \"urban functional\". Come suggerisce il nome, è progettata per chi vive la città con dinamismo, offrendo un equilibrio perfetto tra il calore di una felpa tradizionale e la pulizia estetica di un capo contemporaneo.\nPerché sceglierla\nLa felpa City è un vero e proprio \"investimento\" per il guardaroba: è sufficientemente discreta da essere indossata sopra una polo Blauer Agassiz, ma ha abbastanza carattere per reggere il look da sola.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n88% cotone, 12%poliestere\nVestibilità regular\nCodice articolo: BLUF01239",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa con zip e collo alto, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

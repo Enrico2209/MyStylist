@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/overshirt-m2428-black-102",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Overshirt Uomo Fred Perry M2428 è un capo ibrido di altissima versatilità, che fonde la struttura di una giacca leggera con l'estetica pulita di una camicia classica. Questo modello \"Shirt Jacket\" è progettato per il moderno guardaroba a strati, offrendo una soluzione ideale per le stagioni intermedie grazie a un design funzionale ispirato all'abbigliamento da lavoro britannico, filtrato attraverso il gusto raffinato di Fred Perry.\nFred Perry M2428 L'Essenza del Layering Contemporaneo\nPerché sceglierla\nIl punto di forza della overshirt M2428 risiede nel suo tessuto robusto ma flessibile, solitamente un twill di cotone pesante o un misto tecnico che garantisce protezione e resistenza. È il capo perfetto per chi cerca un'alternativa meno formale al blazer e più strutturata rispetto a un cardigan, capace di elevare istantaneamente un outfit semplice composto da t-shirt e jeans.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "overshirt strutturata stile camicia/giacca, alternativa casual-chic al blazer",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

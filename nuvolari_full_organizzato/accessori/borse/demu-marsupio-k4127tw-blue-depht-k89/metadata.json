@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/demu-marsupio-k4127tw-blue-depht-k89",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Beauty Case K-Way Dèmu è l'accessorio indispensabile per chi ricerca un'organizzazione impeccabile durante i viaggi o nelle sessioni di sport. Progettato con lo spirito funzionale che contraddistingue il brand, questo astuccio combina una leggerezza estrema a una robustezza strutturale nata per resistere a ogni spostamento, mantenendo i propri effetti personali sempre protetti e ordinati.\nPerché sceglierlo\nIl punto di forza del modello\nDèmu\nrisiede nel suo\ntessuto Ripstop ad alte prestazioni\n. Grazie alle proprietà impermeabili, idrorepellenti e antivento, i tuoi prodotti per la cura personale o i dispositivi elettronici restano al sicuro da infiltrazioni d'acqua o umidità. Lo scomparto principale è estremamente capiente, mentre il sistema di tasche interne multifunzionali permette di suddividere gli spazi in modo razionale, evitando che gli oggetti si spostino durante il trasporto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "beauty case/necessaire sportivo, tetto di marchio outdoor",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

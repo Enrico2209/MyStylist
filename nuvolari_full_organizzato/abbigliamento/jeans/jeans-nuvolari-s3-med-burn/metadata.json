@@ -20,5 +20,37 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-nuvolari-s3-med-burn",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Nuvolari nel modello Burn incarnano l'estetica del denim autentico e vissuto, senza rinunciare a un taglio contemporaneo. Caratterizzati da un lavaggio scuro con trattamenti mirati per un effetto \"invecchiato\" naturale, questi jeans sono progettati per chi cerca un capo di carattere, capace di raccontare una storia fin dal primo utilizzo.\nIDEALE PER CHI E' STANCO DELLE COSE ATTILLATE E VUOLE STARE COMODO\nGamba Dritta e Libertà Totale\nPerché sceglierli\nIl modello Burn punta tutto sulla personalità del lavaggio. La base indaco scura è arricchita da leggere sfumature orizzontali e zone di schiaritura strategiche, che creano un contrasto cromatico ricco e profondo. Questo trattamento conferisce al jeans un aspetto robusto e \"massiccio\", ideale per elevare un outfit casual con un tocco di grinta e sofisticazione.\nConsigli di Outfit\nUrban Vintage Look\n: Abbinali a una\nt-shirt\nbianca e a una\ngiacca\nin pelle scamosciata per un outfit che celebra perfettamente l'estetica rétro e grintosa del\njeans\n.\nSmart Casual\n: Indossali con una\ncamicia\ne un maglione leggero. Il contrasto tra il denim vissuto e la pulizia della parte superiore crea un equilibrio perfetto per un aperitivo in città.\nStreet Vibe\n: Portali con una\nfelpa\noversize e un paio di\nsneakers\nper un look d'ispirazione urban, comodo e di grande tendenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\ntessuto elasticizzato\nfit straight leggermente capri (lunghezza alla caviglia)\nCodice articolo:S3 MED BURN MED DENIM-MED DENIM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a gamba dritta con lavaggio effetto vissuto, perfetto per il casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-es2-kb-calcutta-grigio-mel-grg-mel",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nh3>\nPantalone Uomo Black Rags\nIl pantalone uomo Black Rags unisce stile urbano e comfort quotidiano, perfetto per chi ama un look casual ma curato. Realizzato in tessuto resistente e confortevole, è ideale per affrontare con grinta le sfide della giornata.\nCaratteristiche:\nTaglio slim o regular per una vestibilità versatile.\nTessuto robusto e traspirante, ideale per ogni stagione.\nDettagli distintivi come tasche multiple e cuciture rinforzate.\nDisponibile in tonalità classiche e moderne.\nProposta Outfit:\nAbbina i pantaloni Black Rags a una\nt-shirt basic\nper un look casual, oppure opta per una\ncamicia in denim\nper uno stile più raffinato e contemporaneo. Completa il tutto con\nsneakers bianche\nper un tocco streetwear.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: ES2 KB CALCUTTA GRIGIO MEL-GRG MEL",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con coulisse ed elastico in vita, stile prettamente casual e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

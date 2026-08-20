@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-deu-ex-machina-pill-trucker-d261mha332-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Cappello Deus Ex Machina è molto più di un semplice accessorio: è l'emblema di una cultura che celebra la libertà, l'avventura e l'artigianalità. Che si tratti di un classico trucker con rete traspirante, di un intramontabile berretto in lana o di un versatile baseball cap in cotone, ogni modello incarna lo spirito \"In Benzin Veritas\" che ha reso il brand australiano un punto di riferimento globale nel mondo del custom e del lifestyle.\nCappello Deus Ex Machina L'Icona del Lifestyle Custom\nPerché sceglierlo\nIl punto di forza di questo capo risiede nella sua capacità di unire un'estetica vintage a una costruzione estremamente robusta. Progettato per resistere ai viaggi on the road e all'uso quotidiano, il cappello Deus si distingue per la qualità dei tessuti e per le grafiche iconiche ricamate, capaci di aggiungere un tocco di carattere deciso a qualsiasi outfit, dal più tecnico al più rilassato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball stile trucker, accessorio prettamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

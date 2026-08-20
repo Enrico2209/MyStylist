@@ -26,5 +26,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-wagga-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo J.B.Mittwoch Wagga Militare\nincarna perfettamente lo stile field e l'estetica utility di matrice urbana, ponendosi come un capospalla leggero ideale per le mezze stagioni o per le serate estive più fresche. Declinato in una profonda, intensa e desaturata tonalità verde oliva scuro (\"Militare\"), questo modello unisce la funzionalità dei dettagli protettivi a un trattamento del tessuto che ne esalta la ricchezza materica e le sfumature vintage.\nDesign e Caratteristiche Principali\nTessuto Fiammato ad Alta Resistenza\n: Realizzato in un solido filato di cotone caratterizzato da una trama finemente fiammata e texturizzata, sottoposto a un lavaggio tinto in capo che crea affascinanti schiariture ed effetti vissuti in corrispondenza di orli e cuciture.\nConfigurazione Utility a Quattro Tasche\n: Il corpo frontale è dominato da quattro ampie tasche applicate a toppa con patta di chiusura e bottone a pressione scuro a contrasto: due tasche squadrate e capienti posizionate sui fianchi e due tasche strutturate sul petto, di cui quella sinistra divisa in scomparti tecnici.\nChiusura Centrale Coperta con Bottoni\n: Dotato di una solida abbottonatura frontale scandita da grandi bottoni scuri con logo in rilievo, parzialmente protetti da una fustella in tessuto che mantiene pulita e lineare la parte centrale del giubbotto.\nColletto Tradizionale a Camicia\n: Presenta un colletto dritto e ben strutturato dalle punte nitide, che conferisce un tono ordinato e rigoroso alla silhouette, perfetto anche per essere sollevato come protezione dal vento.\nCoulisse Interna di Regolazione in Vita\n: Una coulisse invisibile inserita all'altezza del punto vita permette di stringere il giubbotto internamente, consentendo di modularne i volumi e di passare da un taglio dritto a uno più sciancrato e aderente.\nManiche Lineari con Polsini Semplici\n: Le maniche scendono fluide e pulite, rifinite sul fondo da un orlo lineare piatto privo di costrizioni, assecondando la natura confortevole e d'ispirazione over del capospalla.\nProposta di Outfit\nUrban Utility Contrast\n: Indossalo aperto sopra una\ncamicia\na maniche corte bianca in cotone seersucker crepe e un\nbermuda\ncargo verde militare coordinato, definendo un look a strati dinamico, fresco e perfetto per un'esplorazione metropolitana.\nSeventies Earth Tone Mix\n: Abbinalo a una\ncamicia\ndal pattern geometrico a zig-zag nei toni caldi dell'arancio e del marrone e a un\npantalone\ncolor fango/nocciola con risvolto; il verde scuro del giubbotto farà risaltare le sfumature vintage superiori creando un ensemble eclettico e ricercato.\nChic Lounge Layering\n: Portalo sopra una\nt-shirt\nbasic chiara e abbinalo a un\npantalaccio\nfluido in lino verde salvia desaturato; la combinazione di diverse intensità di verde genera un raffinato e moderno outfit monocromatico tono su tono.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Giacca stile field/utility militare in cotone tinto in capo, assimilabile a un giubbotto leggero casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

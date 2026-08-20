@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-rabat-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Rabat Nero\nincarna un'estetica urban-chic d'avanguardia, dove il rigore formale della camicia a maniche lunghe si fonde con dettagli dal forte sapore post-industriale e contemporaneo. Sviluppata in una tonalità nero profondo, opaco e rigorosamente uniforme, questa camicia si impone come un capo di carattere per i look serali o metropolitani, perfetto per chi desidera un'immagine pulita, decisa e non convenzionale.\nDesign e Caratteristiche Principali\nTessuto in Cotone Strutturato e Confortevole\n: Confezionata in una tela di cotone premium a trama compatta, arricchita da una componente elastica. Questa struttura tessile assicura una mano liscia, un'ottima tenuta della piega e la flessibilità necessaria per garantire comfort e libertà di movimento per tutta la giornata.\nBottoni a Pressione Tecnici di Design\n: Il dettaglio stilistico principale risiede nella chiusura frontale, affidata a bottoni automatici (snap buttons) metallici silver di forma quadrata con angoli smussati. Questo hardware geometrico crea un forte punto di contrasto sul fondo nero, richiamando il design industriale e l'estetica techno-urban.\nColletto Francese e Pulizia Visiva\n: Dotata di un colletto d'ispirazione francese piccolo e scostato, rifinito da impunture millimetriche sui bordi, che mantiene una linea pulita e geometrica attorno al collo anche quando la camicia viene portata sbottonata.\nPolsini Sagomati Custom\n: Le maniche lunghe terminano con alti polsini lineari provvisti di una chiusura doppia con bottoni a pressione quadrati silver, coordinati a quelli della patta centrale, permettendo di regolare l'aderenza al polso con precisione.\nFondo Stondato e Taglio Slim Fit\n: Presenta un orlo inferiore leggermente sagomato e stondato sui fianchi, ideale per indossare il capo sia all'interno sia all'esterno dei pantaloni. La vestibilità asciutta segue in modo armonioso le linee del busto, definendo una silhouette slanciata e moderna.\nProposta di Outfit\nMetropolitan Monochrome Contrast\n: Indossala aperta sopra una t-shirt basic bianca e abbinala a un\npantalaccio slim fit\nnero; il gioco di layering aperto metterà in risalto i bottoni silver quadrati della camicia, creando un outfit \"black and white\" scattante, minimale e di grande tendenza urban.\nUrban Denim Sophistication\n: Portala con le maniche leggermente arrotolate insieme a un\njeans tapered chiaro\ncon risvolto stirato al fondo; il forte stacco cromatico tra la solidità della camicia nera e il lavaggio azzurro del denim darà vita a un look casual-chic contemporaneo e bilanciato, perfetto per il weekend.\nContemporary Tech Match\n: Abbinala a un\npantalaccio in misto lino\nblu navy; l'incontro sofisticato tra l'intensità del nero della camicia (illuminato dall'hardware metallico) e la profondità scura del tessuto fiammato del pantalone strutturerà un outfit serale ricercato, fresco e decisamente moderno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalaccio slim fit",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans tapered chiaro",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "pantalaccio in misto lino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con colletto cubano/camp collar, adatta a contesti casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

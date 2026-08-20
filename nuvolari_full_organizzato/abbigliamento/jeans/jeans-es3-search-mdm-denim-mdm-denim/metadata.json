@@ -24,5 +24,29 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-es3-search-mdm-denim-mdm-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nJeans Uomo Nuvolari Search Mdm Denim\nsono l'emblema del denim essenziale e senza tempo, progettati per offrire il perfetto equilibrio tra una silhouette contemporanea e il fascino autentico della tela vissuta. Caratterizzati da un lavaggio medio ricco di sfumature naturali, questi jeans si propongono come il pilastro fondamentale per la costruzione di outfit quotidiani versatili, capaci di spaziare dal tempo libero informale ai contesti smart-casual.\nDesign e Caratteristiche Principali\nPregiato Denim Medium Wash\n: Il tessuto si distingue per una tonalità indaco media (\"Mdm Denim\"), impreziosita da leggere sabbiature e baffature sfumate sul fronte coscia che conferiscono al capo un aspetto tridimensionale e un carattere autenticamente heritage.\nCostruzione Classica a 5 Tasche\n: Rispetta la più pura tradizione del jeanswear, integrando due tasche posteriori sagomate, due tasche frontali arrotondate e l'immancabile taschino porta-monete sul lato destro.\nTaglio Modern Fit Equilibrato\n: La vestibilità è studiata per seguire con precisione le linee della gamba senza stringere eccessivamente, mantenendo un profilo asciutto e pulito che slancia la figura garantendo al contempo un comfort eccellente per tutta la giornata.\nCintura Sagomata con Salpa Nuvolari\n: La parte posteriore della vita è rifinita dai passanti per cintura robusti e personalizzata dall'esclusiva salpa istituzionale, che firma con discrezione e prestigio la manifattura del brand.\nDettagli Hardware di Qualità\n: La chiusura frontale è affidata a un bottone metallico strutturato posizionato sulla riga della vita, abbinato a rivetti di rinforzo posizionati sui punti di maggiore sollecitazione delle tasche anteriori.\nCuciture a Contrasto Heritage\n: Il modello è impreziosito da impunture realizzate con filati robusti in tonalità ocra/tabacco, che delineano i contorni delle tasche e i profili laterali, enfatizzando la struttura autentica del jeans.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questo jeans Nuvolari Search nei tuoi look quotidiani:\nCasual Premium Urban\n: Abbinalo alla\ncamicia in maglia Nuvolari\n, lasciata aperta sopra una t-shirt bianca, e completa il tutto con sneakers minimali per un look da tempo libero raffinato e confortevole.\nSmart Business Rilassato\n: Indossalo insieme a una camicia bianca ben stirata e a un blazer sfoderato blu navy o grigio, rifinendo l'outfit con una cintura in pelle e stringate scamosciate per i contesti di lavoro informali.\nStreet Essential\n: Provalo in combinazione con una t-shirt grafica oversize firmata The North Face e un\nbaseball cap\nper un'estetica street e d'impatto, perfetta per il weekend in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia in maglia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "baseball cap",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a 5 tasche con lavaggio medio, capo base del guardaroba casual quotidiano.",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

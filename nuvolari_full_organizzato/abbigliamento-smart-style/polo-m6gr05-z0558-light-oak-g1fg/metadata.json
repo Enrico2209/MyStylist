@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-m6gr05-z0558-light-oak-g1fg",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nRAFFINATEZZA IN MAGLIA: LA POLO GUESS JEANS LIGHT OAK\nEleva il tuo concetto di casual con questa polo a maniche corte che fonde il fascino classico della maglieria vintage con un taglio moderno. La tonalità \"Light Oak\", un beige naturale e luminoso, la rende un capo estremamente sofisticato, perfetto per chi ama uno stile sobrio ma ricercato.\nLavorazione a Costine\n: La texture verticale a coste non solo aggiunge profondità visiva, ma garantisce una vestibilità flessibile che si adatta delicatamente alla silhouette.\nDettagli Sartoriali:\nCaratterizzata da un colletto classico e una chiusura a tre bottoni, presenta bordi e fondo elasticizzati a costine per un fit sempre ordinato.\nTexture Traspirante\n: La particolare lavorazione della maglia permette un'ottima circolazione dell'aria, rendendola ideale per le giornate calde in cui il comfort è fondamentale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia lavorata a costine, stile smart casual raffinato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

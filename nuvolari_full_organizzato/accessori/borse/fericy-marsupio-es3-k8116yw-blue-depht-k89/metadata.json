@@ -24,5 +24,21 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "accessori/borse/fericy-marsupio-es3-k8116yw-blue-depht-k89",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa massima funzionalità dell'accessorio outdoor, il celebre DNA tecnico del brand parigino e un'estetica urban cross-body si fondono nel\nmarsupio K-Way modello Fericy Blue Depth\n. Nato come alleato ideale per i viaggi, i festival e gli spostamenti quotidiani in città, questo accessorio compatto unisce una straordinaria resistenza a una palette cromatica sobria ed elegante, pensata per chi desidera muoversi a mani libere senza rinunciare a un tocco di riconoscibile stile athleisure.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Ripstop Nylon Idrorepellente\n: Interamente realizzato nel caratteristico nylon ripstop o poliestere tecnico K-Way, il marsupio garantisce un'eccellente robustezza contro strappi e abrasioni e una protezione impermeabile ottimale per gli effetti personali in caso di piogge improvvise.\nLa Sfumatura Blue Depth e l'Iconico Tape\n: Il corpo dell'accessorio si veste di una raffinata tonalità blu navy scuro (Blue Depth), profonda e versatile. A contrasto con la base scura, risalta la zip superiore profilata dal leggendario nastro multicolor K-Way (arancione, giallo e blu), firma visiva inconfondibile del brand.\nOrganizzazione degli Spazi a Doppia Zip\n: La struttura è studiata per ottimizzare la capienza in dimensioni ridotte. Dispone di uno scomparto principale superiore con chiusura lampo e tiretto logato metallico, a cui si aggiunge una tasca frontale sporgente e squadrata, anch'essa zippata e rifinita con il patch logo K-Way centrale, ideale per un accesso rapido a chiavi o smartphone.\nCintura Regolabile con Fibbia a Scatto\n: La robusta cinghia in nastro nero è dotata di fibbie di regolazione laterali e di una chiusura a scatto in plastica rigida ad alta resistenza, progettata per adattarsi perfettamente alla vita o per essere indossata comodamente a tracolla (cross-body).\nIdee di Stile: Costruisci il Tuo Look Urban Traveler & Street Active\nUtility Street Casual Uniform\n: Struttura un outfit perfetto per i weekend fuori porta o per esplorare la città. Indossa il marsupio trasversalmente sul petto sopra una t-shirt uomo Proj3ct con maxi grafiche posteriori e abbina il tutto alla silhouette rilassata dei jeans uomo Levi's 568 Loose Straight. Ai piedi, punta sulla tecnicità delle sneakers Asics GEL-NYC o New Balance.\nAthleisure Summer Transition\n: Crea un look coordinato ad alte prestazioni e dal forte richiamo nautico. Abbina il marsupio ai bermuda uomo K-Way Blue White con bande laterali a contrasto e a una polo classica bianca. Completa l'outfit con il comfort estivo dei mocassini uomo Sun68 o con la leggerezza delle calzature Heydude.\nOutdoor Rainproof Layering\n: Esalta l'anima puramente funzionale del brand combinando gli accessori. Indossa il marsupio Fericy in vita sopra un costume uomo K-Way Hazel in tinta unita Red Jasper o a quadri, e porta con te l'iconica giacca a vento packable Le Vrai per fronteggiare con stile qualsiasi cambio repentino di meteo durante le escursioni o i tragitti in scooter.\nSperimenta la perfetta sintesi tra l'ergonomia dei sistemi di trasporto urbani e l'irrinunciabile protezione dei materiali impermeabili barriera. Scegli la versatilità della nuance Blue Depth, l'iconicità del tape multicolor e la praticità assoluta del marsupio firmato K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "marsupio sportivo, tetto di marchio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

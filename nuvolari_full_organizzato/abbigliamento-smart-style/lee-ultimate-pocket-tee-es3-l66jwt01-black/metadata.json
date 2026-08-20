@@ -25,5 +25,45 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/lee-ultimate-pocket-tee-es3-l66jwt01-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura denim americana, la robustezza dei capi di matrice workwear e il minimalismo contemporaneo si fondono armoniosamente nella collezione di\nt-shirt uomo Lee\n. Fondato nel 1889 in Kansas, il brand pioniere dell'abbigliamento da lavoro ha ridefinito il concetto di casualwear maschile, creando magliette capaci di coniugare una straordinaria resistenza dei tessuti a linee essenziali, pulite e dallo spiccato sapore urban-lifestyle.\nDesign, Grafiche e Caratteristiche Principali\nLe Iconiche Stampe Heritage e il Logo Wobbly Lee\n: Il focus visivo delle t-shirt celebra costantemente la secolare storia del brand. Le grafiche spaziano dai classici loghi scritti in corsivo (Wobbly Lee) stampati sul petto a spettacolari grafiche rétro ispirate ai vecchi manifesti pubblicitari e alla cultura rodei/cowboy degli anni '50, '60 e '70.\nFilati in Cotone Premium ad Alta Densità (Heavyweight)\n: Fedele alla sua tradizione manifatturiera orientata alla massima solidità, Lee utilizza puro cotone di altissima qualità, proponendo anche varianti in cotone biologico certificato. La consistenza dei filati garantisce un'eccellente traspirabilità, una mano morbida sulla pelle e una lunghissima resistenza ai lavaggi e all'usura.\nVestibilità Calibrate per Ogni Silhouette\n: Le collezioni si sviluppano su diverse geometrie per adattarsi a ogni esigenza di stile: dal classico taglio regular fit, bilanciato e versatile, fino alle moderne vestibilità relaxed e loose fit d'ispirazione streetwear, con spalle scese e linee più ampie e boxy.\nPalette Cromatica e Dettagli di Finitura\n: Oltre ai tradizionali bianco ottico, nero e grigio melange, le t-shirt Lee esplorano tonalità calde e della terra come il fango, il verde militare, il ruggine e l'intramontabile blu indaco, abbinandosi perfettamente alle sfumature dei jeans. I colletti a costine rinforzate mantengono la forma originaria anche dopo un uso prolungato.\nIdee di Stile: Costruisci il Tuo Look Denim & Street\nAuthentic Denim Heritage Look\n: Esalta l'anima autentica e vintage del brand creando una combinazione classica ed intramontabile. Abbina una t-shirt uomo Lee con maxi logo grafico sul petto alla solidità di un jeans premium con lavaggio indaco scuro o a un\npantalone chino\nLyle & Scott\nin nuance sabbia, completando il cerchio con uno stivaletto in pelle o una\nsneaker\npulita.\nUrban Utility Uniform\n: Per le tue giornate in città o per il tempo libero, gioca sui contrasti strutturati inserendo la maglietta in un contesto utility di carattere. Scegli una t-shirt a tinta unita minimale e accostala alla robustezza tridimensionale di un\npantalone uomo\ncargo o a un\nbermuda\nin tessuto tecnico ibrido.\nContemporary Summer Refresh\n: Smorza la matrice puramente casual della t-shirt unendo la freschezza del cotone americano alla nobiltà delle fibre naturali. Indossa una t-shirt chiara Lee sotto la precisione lineare e ariosa di una delle freschissime\ncamicie uomo\nin lino bianco, lasciandola completamente aperta per un look fresco e disinvolto da aperitivo.\nSperimenta la perfetta sintesi tra il comfort quotidiano e la leggendaria storia del denim americano. Scegli la consistenza dei materiali premium, la stabilità strutturale dei tagli e l'attitudine inconfondibile delle t-shirt uomo firmate Lee.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Lyle & Scott",
+      "categoria_url": "https://www.nuvolari.biz/brands/lyle-scott"
+    },
+    {
+      "testo": "sneaker",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica in cotone con taschino, classico capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

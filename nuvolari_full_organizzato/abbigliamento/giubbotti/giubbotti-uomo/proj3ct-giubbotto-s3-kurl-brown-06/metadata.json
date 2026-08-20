@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/proj3ct-giubbotto-s3-kurl-brown-06",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Donna Proj3Ct S3 Kurl\nnella versione\nBrown\nè un'alternativa calda e sofisticata che unisce un'estetica naturale a un design urbano contemporaneo. Questa tonalità terrosa valorizza la texture morbida del capo, rendendolo un pezzo versatile per le mezze stagioni.\nDesign e Caratteristiche Principali\nScollo Rotondo Pulito\n: Il design senza colletto offre una linea moderna e minimale, ideale per essere stratificato con maglieria o sciarpe.\nChiusura con Zip Metallica\n: La cerniera frontale a tutta lunghezza permette di regolare la chiusura in base alle temperature, aggiungendo un dettaglio tecnico lucente.\nSilhouette Bomber-Style\n: Caratterizzato da un taglio corto e volumi morbidi, rifinito con un bordo elasticizzato sul fondo che ne definisce la forma.\nPolsini Elasticizzati\n: Le maniche terminano con una finitura arricciata che blocca il passaggio dell'aria e dona un tocco femminile alla struttura.\nTasche Verticali\n: Presenta due pratiche tasche a filo integrate nelle cuciture laterali, perfette per mantenere un look essenziale.\nColore Brown\n: Una tonalità di marrone profonda e naturale, facile da abbinare sia con i toni chiari che con quelli scuri del guardaroba.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questa versione:\nEarth Tone Look\n: Indossalo con dei\nchinos\ncolor sabbia e una\nt-shirt\npanna per un outfit armonioso basato sulle sfumature della terra.\nUrban Denim Contrast\n: Abbinalo ai Jeans Donna Proj3Ct Malaga per un contrasto tra il marrone del giubbotto e il blu scuro del denim, completando il tutto con delle\nsneakers\nin suede.\nCasual Street Layering\n: Portalo sopra una\npolo\nscura e dei\ncargo\nneri per un'estetica più decisa e metropolitana.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Giubbotto corto stile bomber con finiture elasticizzate, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

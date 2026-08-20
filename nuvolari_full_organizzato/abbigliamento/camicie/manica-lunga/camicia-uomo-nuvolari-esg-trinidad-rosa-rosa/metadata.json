@@ -23,5 +23,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-esg-trinidad-rosa-rosa",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Trinidad Rosa\nLa\ncamicia\nNuvolari\ncon collo alla coreana, realizzata in tessuto leggero ed estivo, è perfetta per le giornate calde. Il design moderno e minimalista del collo alla coreana aggiunge un tocco di eleganza, mentre il tessuto leggero garantisce comfort e freschezza. Ideale per un look raffinato e casual, questa camicia è un must-have per la stagione estiva.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: ESG TRINIDAD ROSA-ROSA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia con collo alla coreana in tessuto leggero estivo, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

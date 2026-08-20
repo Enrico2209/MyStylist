@@ -24,5 +24,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calza-inc002-bianco-bianco",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl tocco streetwear e riconoscibile di Icon arriva anche nei dettagli con le\ncalze da uomo Icon in bianco\n. Un accessorio essenziale ma di carattere, dove il bianco pulito incontra la firma logo del brand per completare ogni look con stile.\nDesign, Materiali e Caratteristiche Costruttive\nFilato Morbido e Traspirante\n: Realizzate in filato di cotone dalla mano piacevole, garantiscono comfort e freschezza tutto il giorno.\nBianco Versatile\n: Una tinta pulita che si abbina con facilità a sneakers e look sportivi o casual.\nLogo Icon\n: Dettaglio firma che rende riconoscibile anche l'accessorio più semplice.\nPolsino Elastico\n: Bordo a costina che assicura tenuta e comfort senza stringere.\nIdee di Stile e Utilizzo\nSporty Look\n: Indossale con delle\nsneakers\ne un outfit athleisure per un mood dinamico.\nCasual Everyday\n: Perfette per completare i look di tutti i giorni con un tocco di stile.\nComfort Quotidiano\n: Morbide e traspiranti, ideali dal mattino alla sera.\nCura ogni dettaglio del tuo look con la firma Icon. Le calze bianche sono l'accessorio comodo e riconoscibile che non passa inosservato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "calzino sportivo in spugna con logo visibile, adatto a contesti casual e sportivi",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

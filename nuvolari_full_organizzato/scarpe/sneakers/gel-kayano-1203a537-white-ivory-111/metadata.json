@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/gel-kayano-1203a537-white-ivory-111",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Asics GEL-KAYANO è l'ammiraglia della casa giapponese per quanto riguarda il running ad alte prestazioni, un modello che da oltre 30 anni rappresenta lo standard aureo per la stabilità e il comfort sulle lunghe distanze.\nOriginariamente concepita per i runner con tendenza alla iperpronazione, oggi la Kayano è diventata un oggetto di culto anche nello streetwear grazie alla sua estetica tecnica e complessa.\nAsics GEL-KAYANO Performance e Stabilità Premium\nPerché sceglierla\nSe cerchi una scarpa che protegga le articolazioni chilometro dopo chilometro, la Kayano è imbattibile. Grazie alla continua evoluzione tecnologica, offre una transizione fluida dal tallone alla punta, garantendo una stabilità che non risulta mai rigida ma, al contrario, estremamente ammortizzata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

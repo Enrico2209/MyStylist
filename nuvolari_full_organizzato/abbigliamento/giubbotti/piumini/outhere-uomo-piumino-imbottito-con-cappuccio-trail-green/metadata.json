@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/piumini/outhere-uomo-piumino-imbottito-con-cappuccio-trail-green",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPiumino Uomo Outhere Trail Green\nPiumino Outhere imbottito dotato di cappuccio fisso regolabile con mini visiera e maxi tasche frontali con chiusura zip termosaldata. Un piumino invernale caldo e avvolgente, con tante pratiche tasche e fondo più polsini regolabili con elastico. Vestibilità regular fit.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nEsterno: 100% nylon. Imbottitura: 90% piuma; 10% penne\nCodice articolo: WD M560 255 GREEN-040",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "piumino tecnico sportivo/casual per uso quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

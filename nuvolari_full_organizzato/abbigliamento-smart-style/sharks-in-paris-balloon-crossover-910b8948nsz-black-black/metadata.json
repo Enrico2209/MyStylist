@@ -22,5 +22,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/sharks-in-paris-balloon-crossover-910b8948nsz-black-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStile streetwear in formato compatto: la\npochette a tracolla Sprayground modello Sharks in Paris Balloon Crossover nella nuance Nera\n. Una borsa crossover dal design iconico con la celebre grafica balloon e la bocca da squalo firmata Sprayground: un accessorio pratico e d'impatto, perfetto per portare con te gli essenziali con un tocco urbano.\nDesign, Materiali e Caratteristiche Costruttive\nGrafica Sharks in Paris:\nla stampa balloon con la bocca da squalo dona carattere e riconoscibilita al modello.\nFormato Crossover Compatto:\ndimensioni pratiche per portare telefono, portafoglio e piccoli oggetti.\nTracolla Regolabile:\nda indossare a tracolla o a marsupio per il massimo comfort a mani libere.\nChiusura con Zip:\nscomparto principale con zip e taschini interni per organizzare gli essenziali.\nIdee di Stile: Un Accessorio Streetwear\nUrban Everyday:\nabbinala a una\nt-shirt uomo\ne a delle\nsneakers uomo\nper un look cittadino disinvolto.\nHands-Free Style:\npratica a tracolla per la citta, i concerti e i viaggi.\nStatement Piece:\nil nero con la grafica squalo la rende versatile e d'impatto allo stesso tempo.\nPorta con te un accessorio dal forte carattere. Scegli la praticita del formato crossover, l'iconica bocca da squalo e lo stile streetwear firmato Sprayground.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "pochette/borsello di marchio street puro con grafica aggressiva",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

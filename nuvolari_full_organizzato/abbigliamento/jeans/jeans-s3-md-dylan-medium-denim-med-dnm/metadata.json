@@ -22,5 +22,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-md-dylan-medium-denim-med-dnm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nJeans Uomo Nuvolari Dylan Med Denim\nI\njeans\nuomo\nNuvolari\nsono il perfetto equilibrio tra stile moderno e versatilità. Realizzati in denim di alta qualità, offrono un look contemporaneo e sono facili da abbinare a diversi outfit. Adatti per ogni occasione, questi jeans rappresentano un capo essenziale nel guardaroba maschile.\nAbbina questo jeans ad un paio di\nsneakers\ne ad una\nt-shirt\nconsigliata appositamente per te da\nNuvolari\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 MD DYLAN MEDIUM DENIM-MED DNM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans regular fit a lavaggio medio, consigliato con t-shirt e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

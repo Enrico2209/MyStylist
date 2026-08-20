@@ -25,5 +25,43 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sahara-lgt-denim-lgt-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'anima streetwear e l'estetica vintage si incontrano nei\nbermuda da uomo Proj3ct modello Sahara nella lavatura Light Denim\n. Caratterizzati da un lavaggio chiaro e brillante con delicate schiariture sul davanti, questi short in denim rappresentano un capo chiave per un guardaroba estivo rilassato, fresco e di tendenza.\nDesign, Tessuti e Caratteristiche Costruttive\nDenim In Cotone Resistente e Morbido\n: Realizzati in cotone denim di qualità, offrono una struttura piacevole al tatto, traspirabilità e un'ottima tenuta nel tempo.\nLavaggio Light Denim / Sahara Clear\n: Una sfumatura di azzurro chiaro luminosa e naturale con leggere schiariture centrali, ideale per dare un tocco retro-casual a ogni outfit.\nStruttura Classica a 5 Tasche\n: Design iconico dotato di due tasche americane sul davanti con mini coin pocket, rivetti metallici di rinforzo e tasche posteriori applicate.\nVestibilità Comfort e Gamba Diritta\n: Taglio rilassato che scivola bene sulla gamba fino al ginocchio, garantendo piena libertà nei movimenti e una silhouette urban e versatile.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Urban Summer\nStreetwear & Daily Look\n: Per un outfit metropolitano disinvolto, abbinali a una\nt-shirt uomo\noversize o a una maglia grafica e completa l'insieme con un paio di\nsneakers uomo\nd'ispirazione skate o chunky.\nSummer Vibe & Resort Mood\n: Perfetti per il tempo libero e le uscite estive, indossali con una camicia a maniche corte aperta sopra una canotta essenziale.\nLayering & Capi Alternativi\n: Nelle serate più ventilate, sovrapponi una felpa o un capospalla leggero dalla nostra selezione\ngiubbotti uomo\n. Per esplorare altre varianti di stagione, scopri anche la gamma di\nbermuda uomo\nin cotone o la collezione dei classici\njeans uomo\n.\nEsprimi il tuo stile urban con freschezza e personalità: scegli la vestibilità comoda, la lavatura chiare e il carattere inconfondibile dei bermuda Proj3ct Sahara Light Denim.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim, capo casual quotidiano estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

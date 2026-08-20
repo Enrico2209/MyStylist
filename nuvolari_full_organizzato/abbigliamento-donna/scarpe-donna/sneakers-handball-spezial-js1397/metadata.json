@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-handball-spezial-js1397",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Handball Spezial JS1397 rappresentano l'incontro perfetto tra l'estetica sportiva degli anni '70 e le tendenze contemporanee. Questa specifica variante cromatica, caratterizzata da una tomaia in morbido suede rosa pastello con strisce blu a contrasto, è diventata un vero oggetto del desiderio nel mondo dello streetwear femminile.\nNata originariamente per i campi da pallamano, la Spezial mantiene la sua silhouette snella e il suo fascino vintage, confermandosi come la scelta ideale per chi cerca una scarpa versatile, leggera e di grande carattere.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComponente\nDettaglio\nCaratteristica\nTomaia\nSuede di alta qualità\nFinitura vellutata e colori vibranti\nDettagli\n3 Strisce in pelle sintetica\nContrasto netto e stile iconico\nSuola\nGomma naturale (Gum Sole)\nGrip eccellente e look retrò autentico\nChiusura\nLacci piatti tono su tono\nEstetica pulita e regolazione precisa",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Sneakers lifestyle di marchio sportivo, tetto massimo di formalita pari a 2",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

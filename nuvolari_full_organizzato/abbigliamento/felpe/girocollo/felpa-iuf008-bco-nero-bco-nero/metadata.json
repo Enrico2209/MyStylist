@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-iuf008-bco-nero-bco-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa felpa uomo Icon realizzata in 87% cotone e 13% poliestere è un capo fondamentale del guardaroba sportivo e urban, progettato per offrire un equilibrio perfetto tra la morbidezza delle fibre naturali e la resistenza dei materiali tecnici. Questa miscela di tessuti è studiata per garantire un indosso confortevole e una lunga durata nel tempo, mantenendo la forma originale anche dopo numerosi utilizzi.\nLa prevalenza del cotone (87%) assicura un tocco soffice sulla pelle e un'ottima traspirabilità, rendendo la felpa ideale per un uso quotidiano prolungato. L'aggiunta del 13% di poliestere è strategica: serve a stabilizzare la maglia, riducendo il rischio di restringimento al lavaggio e aumentando la resistenza del capo alle pieghe e all'usura.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n87% cotone, 13% poliestere\nVestibilità regular\nCodice articolo: IUF008 BCO/NERO-BCO/NERO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "felpa con maxi logo frontale iconico, tipico dello streetwear quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

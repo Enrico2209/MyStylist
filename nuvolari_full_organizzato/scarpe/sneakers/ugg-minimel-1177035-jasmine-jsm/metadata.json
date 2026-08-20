@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/ugg-minimel-1177035-jasmine-jsm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUGG Minimel: L'Evoluzione Urban della Comodità\nSe cerchi una sneaker dal profilo basso che non scenda a compromessi tra stile e benessere, la\nMinimel\nè la risposta. Questo modello fonde l'anima streetwear con una struttura tecnologicamente avanzata, pensata per chi è sempre in movimento e desidera una calzatura leggera, sostenibile e di tendenza.\nPerché la amerai:\nComfort senza confini:\nGrazie alla suola innovativa in\nEVA derivata dalla canna da zucchero\n, ogni passo è ammortizzato e leggero, rendendola perfetta per essere indossata da mattina a sera senza affaticare il piede.\nStile su misura:\nIl particolare\nsistema a doppia allacciatura\ncon stringhe bicolore non è solo un dettaglio estetico, ma ti permette di giocare con infiniti stili di allacciatura per riflettere la tua personalità.\nMateriali Premium & Green:\nLa tomaia combina l'eleganza della pelle scamosciata alla resistenza del mesh in\npoliestere riciclato al 100%\n, offrendo una texture ricca e una traspirabilità eccellente.\nUn acquisto con valore sociale\nQuesto prodotto è frutto di una filiera responsabile. È realizzato in stabilimenti che aderiscono al progetto\nRISE (Reimagining Industry to Support Equality)\n, un’iniziativa che promuove l’empowerment femminile attraverso programmi di formazione e leadership per le donne nel settore manifatturiero.\nDettagli Tecnici (Art. 1177035)\nStruttura Esterna:\nMix di suede pregiato e mesh multistrato riciclato.\nInterni Intelligenti:\nSoletta da 6 mm in PU sagomato (realizzata al 50% con materiali bio-based) e fodera del tallone in microfibra anti-sfregamento.\nComponenti Eco-Friendly:\nTirante posteriore, linguetta e rivestimento soletta realizzati con fibre riciclate al 100%.\nDettagli Finali:\nDoppia marcatura con logo UGG® impresso a caldo sulla linguetta e sul lato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneaker bassa in suede e mesh, tipico casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

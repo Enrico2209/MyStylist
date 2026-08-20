@@ -23,5 +23,34 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/cappello-sobo-trail-fence-camo-fnc",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'ispirazione outdoor ed esplorativa incontra l'inconfondibile attitudine streetwear del brand di Shepard Fairey nel nuovo\nCappello Obey Fence Camo\n. Questo modello boonie/bucket hat si propone come l'accessorio di carattere definitivo per completare i tuoi outfit urbani, fondendo la massima protezione solare con un'estetica underground decisamente decisa e d'impatto.\nDesign e Caratteristiche Principali\nPattern Fence Camo d'Ispirazione Real-Tree\n: Il cappello è interamente rivestito da un sofisticato motivo mimetico \"Fence Camo\" giocato sulle tonalità della terra, del marrone bruciato, del fango e del fogliame secco. Una grafica camouflage iper-realistica e dal sapore vintage che si distacca dai classici mimetici militari per abbracciare un look più vicino alle texture della natura selvaggia.\nSilhouette Boonie Hat con Tesa Larga\n: Caratterizzato da una corona a cupola piatta e da una tesa circolare morbida e decisamente ampia, progettata appositamente per offrire un'ottima schermatura dai raggi solari durante la stagione estiva. La struttura cascante e rilassata dona al cappello una geometria mossa e destrutturata.\nDettaglio Passanti Utility (Branch Loops)\n: La base della corona è circondata dal classico nastro in tessuto interrotto, che crea una serie di asole orizzontali in pieno stile utility d'archivio, completato sul retro da un passante verticale in fettuccia nera a contrasto.\nCuciture di Rinforzo Concentriche\n: La tesa è interamente rifinita da fitte impunture circolari concentriche in filo coordinato, realizzate non solo come dettaglio estetico tipico dei copricapi da esplorazione, ma per regalare il giusto grado di rigidità alla falda.\nTessuto in Canvas di Cotone Leggero\n: Confezionato in una tela di cotone fresca, flessibile e traspirante. Questo materiale permette al cappello di essere facilmente ripiegato e riposto in tasca o nello zaino senza deformarsi, rendendolo il compagno ideale per i festival all'aperto, i viaggi o le giornate al mare.\nIdee di Stile: Crea la Tua Wave\nUrban Utility Uniform\n: Bilancia la forte personalità grafica del cappello abbinandolo a una\nt-shirt uomo\nObey dal design boxy minimale bianca o nera e a un paio di pantaloni robusti in tela come i Dickies 247 Loose Work Desert Sand. Chiudi il look con una\nsneaker\nbold.\nGorpcore Contrast Look\n: Gioca con lo stile escursionistico metropolitano indossando il boonie hat insieme a un gilet multitasche aperto sopra a un top basic, coordinando la parte inferiore con un pantalone relaxed cargo o un denim morbido dal lavaggio chiaro.\nFestival Layering Outfit\n: Crea un outfit perfetto da club o festival open-air accostando il cappello Fence Camo a una\ncamicia\na maniche corte over lasciata sbottonata, un bermuda cargo pesante e un mocassino ibrido con suola carrarmato come il Vans LX Loafer 53 Black.\nAggiungi un tassello streetwear dal forte sapore outdoor alla tua collezione di accessori. Scegli l'attitudine e la ricercatezza mimetica del cappello Fence Camo firmato Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneaker",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "streetwear": 0.7,
+      "casual": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "cappello da pescatore/boonie di un brand street puro, livello base di formalità",
+    "season": "tutte",
+    "pattern": "camouflage"
+  }
 }

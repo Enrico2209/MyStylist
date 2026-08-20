@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-ilija-107943-mid-grey-733",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "jeans con strappi evidenti e vestibilita ampia, abbassano la formalita a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

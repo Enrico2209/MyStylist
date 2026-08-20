@@ -21,5 +21,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-ml2502v-birch-y081",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl comfort avvolgente della maglieria sportiva e l'inconfondibile heritage scozzese si incontrano nella\nFelpa Uomo Lyle & Scott ML2502 in Beige Birch\n, un capo girocollo essenziale e versatile impreziosito da una calda tonalità betulla e dall'iconica aquila d'oro ricamata sul petto.\nDesign e Caratteristiche Principali\nMorbido Cotone Felpato:\nconfezionata in cotone dall'interno spazzolato e avvolgente, garantisce calore e comfort per tutta la giornata.\nNuance Beige Birch:\nuna delicata tonalità beige betulla, neutra e sofisticata, facilissima da abbinare a ogni look.\nAquila Ricamata Signature:\nl'inconfondibile logo dell'aquila dorata Lyle & Scott campeggia ricamato sul petto, firma di autenticità del brand.\nGirocollo a Costine:\nscollo, polsini e fondo rifiniti in maglia a costine elastica che mantiene la forma nel tempo.\nTaglio Regular Fit:\nsilhouette comoda e versatile, perfetta da indossare da sola o in layering.\nIdee di Stile: Linka il Tuo Outfit\nCasual Everyday:\nabbina la felpa a un paio di\njeans uomo\ne sneakers per un look quotidiano rilassato e luminoso.\nLayering Mood:\nindossala sopra una\ncamicia uomo\nlasciando il colletto in evidenza, per un tocco preppy dal fascino british.\nSporty Chic:\ncompletala con dei\npantaloni uomo\nin tinta terrosa e una giacca leggera per le mezze stagioni.\nScegli il comfort e il fascino heritage della Felpa Lyle & Scott ML2502 in Beige Birch: un capo iconico e avvolgente. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto in felpa sportiva con coulisse ed elastico in vita",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

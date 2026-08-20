@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/piumino-uomo-proj3ct-acid-green",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\n10:24:15Il\nPiumino da Uomo Proj3ct\nè la quintessenza dello stile e della funzionalità. Dotato di una\nchiusura zip\nper una vestibilità facile e veloce, questo piumino vanta\ndue tasche laterali\nper un tocco pratico e moderno. Il\ncolore acid green\nconferisce un'energia vivace, perfetta per distinguerti con un tocco audace in qualsiasi occasione. La\npatch con la tigre iconica\nsul braccio sinistro aggiunge un elemento distintivo che rimanda al\nbrand\n, conferendo al capo un'identità unica e di tendenza.\nA\nbbinamenti Versatili per un Look Completo\nPer completare il tuo look, abbina questo\npiumino\ncon\njeans\nslim fit e\nsneakers\nbianche per un outfit casual ma accattivante. Se cerchi uno stile più formale, indossalo su una\ncamicia\ne\npantaloni chino\n. Inoltre, è perfetto per essere accostato a sciarpe e guanti coordinati per affrontare l'inverno con stile. Grazie alla sua versatilità, il\nPiumino da Uomo\nProj3ct\ndiventa il capo ideale per esprimere il tuo stile distintivo in ogni situazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPiumino Uomo Proj3ct Acid Green\nVestibilità Regular\nComposizione: rivestimento esterni 100% nylon + imbottitura interna 100% poliestere\nCodice Prodotto: WG DALLAS",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Proj3ct",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "piumino sportivo/casual in colore acceso, adatto a contesti quotidiani e streetwear",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

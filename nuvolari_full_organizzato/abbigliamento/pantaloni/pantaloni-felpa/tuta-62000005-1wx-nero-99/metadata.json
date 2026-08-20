@@ -21,5 +21,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-62000005-1wx-nero-99",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nC'è un pantalone che unisce il comfort della felpa all'eleganza sobria del design italiano. Il\npantalone tuta Colmar in nero\nè un jogger versatile e raffinato, impreziosito dall'iconico patch logo sulla gamba.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone felpato di qualità:\ninterno morbido e avvolgente per il massimo comfort.\nVita elastica con coulisse:\ngirovita regolabile per una vestibilità su misura.\nFondo gamba elasticizzato:\npolsini a costine dal taglio jogger contemporaneo.\nTasche laterali:\npratiche e funzionali per l'uso quotidiano.\nPatch logo Colmar:\nl'iconico distintivo ovale firma il capo sulla gamba.\nIdee di Stile: Costruisci il Tuo Look con Colmar\nLook Total Comfort:\nabbina il pantalone alla felpa coordinata per un completo tuta rilassato.\nLook Casual:\ncompleta con una\nt-shirt\ne sneakers per un outfit quotidiano.\nLook Sporty:\nindossalo con una\nfelpa\ncon cappuccio e le tue scarpe preferite.\nAggiungi un capo comodo e versatile al tuo guardaroba con il pantalone tuta Colmar: acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in felpa con coulisse ed elastico, tetto di marchio sportivo",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

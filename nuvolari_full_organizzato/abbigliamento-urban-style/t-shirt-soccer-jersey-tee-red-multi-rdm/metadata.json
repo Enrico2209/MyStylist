@@ -22,5 +22,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-urban-style/t-shirt-soccer-jersey-tee-red-multi-rdm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nEsprimi il tuo stile con la t-shirt da uomo Obey, un'icona dello streetwear che unisce comfort e design contemporaneo. Realizzata in 100% cotone di alta qualità, offre una vestibilità versatile e una grafica distintiva che rappresenta l'anima ribelle del brand.\nPerfetta per look casual e urbani, puoi abbinarla a un paio di\njeans\nper un outfit quotidiano o a una\nbermuda\nper un tocco più rilassato. Completa il tuo stile con un paio di\nsneakers\nper un look autentico e dinamico.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "streetwear": 0.4,
+      "casual": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "Maglia da calcio (soccer jersey) di un brand streetwear, livello base di formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

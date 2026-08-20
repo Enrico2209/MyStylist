@@ -26,5 +26,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-bm-yaki-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Bomber Black Rags Yaki in colorazione nera è la sintesi perfetta tra minimalismo contemporaneo e comfort avanzato. Grazie alla sua particolare composizione materica, questo capo si allontana dal classico concetto di bomber sportivo per abbracciare un'estetica più sofisticata e fluida, ideale per l'uomo che cerca un capospalla versatile e dal fit impeccabile.\nPerché sceglierlo\nIl punto di forza di questo bomber risiede nel mix di tessuti: la viscosa dona una lucentezza discreta e una mano estremamente setosa, il poliestere garantisce resistenza e irrestringibilità, mentre l'elastane assicura quella flessibilità necessaria per seguire ogni movimento senza costrizioni. Il risultato è un capo leggero ma strutturato, capace di elevare anche l'outfit più semplice.\nConsigli di Outfit\nTotal Black Sophisticated\n: Indossalo sopra la\nt-shirt black\ne abbinalo ai\npantaloni Yaki\nneri per un look monocromatico di grande impatto.\nContrasto Urban\n: Provalo con una\nt-shirt\nbianca\nper far risaltare il design pulito del bomber.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n50% viscosa, 45% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: BM YAKI NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni Yaki",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-kb-yaki-nero-nero.html?___store=default"
+    },
+    {
+      "testo": "t-shirtbianca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?color=BIANCO"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bomber in tessuto felpato/viscosa con vestibilita regular, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

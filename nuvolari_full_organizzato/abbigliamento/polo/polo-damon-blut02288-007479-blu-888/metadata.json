@@ -25,5 +25,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-damon-blut02288-007479-blu-888",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL’inconfondibile heritage d'ispirazione militare americana, l'attenzione rigorosa ai dettagli costruttivi e un’eleganza casual senza tempo si fondono nella\npolo uomo Blauer modello Damon (BLUT02288) in colore Blu\n. Realizzata interamente in puro cotone di altissima qualità, questa polo è pensata per l’uomo dinamico che cerca un capo versatile, sofisticato e strutturato per elevare il proprio stile quotidiano, dal tempo libero in città fino alle serate estive più esclusive.\nDesign, Tessuti e Caratteristiche Costruttive\n100% Cotone di Qualità Premium\n: Interamente confezionata in pregiato filato di puro cotone, questa polo offre una straordinaria traspirabilità, un'eccellente resistenza ai lavaggi e una sensazione di morbidezza assoluta sulla pelle, garantendo una freschezza costante anche durante le giornate più calde.\nLa Nuance Blu Navy e i Profili a Contrasto\n: Il corpo del capo si sviluppa su un profondo ed elegante blu navy, arricchito da una finitura dal sapore rétro: un delicato profilo a contrasto in tonalità beige che rifinisce con estrema precisione il colletto e il bordo delle maniche corte.\nL'Iconico Scudetto Blauer\n: Sul petto, lato cuore, spicca l’immancabile scudetto Blauer applicato in versione tono su tono con dettagli beige, emblema di autenticità, carattere e di un legame indissolubile con l'estetica utility d’oltreoceano.\nColletto e Finiture di Pregio\n: Il colletto a camicia presenta un'elegante chiusura a tre bottoni ed è rifinito internamente da una mezzaluna di rinforzo in contrasto grigio melange, studiata per mantenere la forma ottimale nel tempo e prevenire le deformazioni da usura.\nVestibilità Regular Fit\n: Il taglio dritto ed equilibrato segue dolcemente le linee del corpo senza stringere, offrendo il massimo comfort nei movimenti e una silhouette sempre ordinata e impeccabile.\nIdee di Stile: Costruisci il Tuo Look Metropolitan & Smart Casual\nClassic Everyday Uniform\n: Costruisci un outfit raffinato e perfetto per l'ufficio o per un aperitivo informale. Abbina la polo blu a un denim dal lavaggio medio o scuro, scegliendo il fit più adatto a te nell'esclusiva selezione di\njeans uomo\n. Completa il look con la linea pulita e contemporanea delle proposte della sezione\nsneakers uomo\n.\nSummer Riviera Transition\n: Per una giornata in barca o un weekend fuori porta, gioca sui contrasti caldi e luminosi del sabbia e del blu. Indossa la polo insieme a un paio di pantaloni corti in cotone leggero o gabardina che trovi nella collezione di\nbermuda uomo\n. Se la giornata prevede un tuffo al mare, portala con te come perfetto capospalla da spiaggia sopra uno dei modelli ad asciugatura rapida della linea\ncostumi uomo\n.\nMid-Season Layering & Utility\n: Nelle giornate più fresche o ventilate, gioca con le stratificazioni per un look street dal carattere deciso. Indossa la polo sopra una delle proposte basiche in puro cotone della categoria\nt-shirt uomo\ne proteggiti con la tecnicità di un guscio antivento o di un giubbotto leggero scoprendo la vasta selezione di\ngiubbotti uomo\n.\nSperimenta la perfetta evoluzione della polo sportiva arricchita da dettagli sartoriali di prestigio. Scegli la traspirabilità e il comfort del puro cotone, l'eleganza sobria della tonalità blu navy con profili beige e l'inconfondibile firma protettiva di Blauer USA.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: BLUT02288 007479 BLU-888",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone, vestibilità regular, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

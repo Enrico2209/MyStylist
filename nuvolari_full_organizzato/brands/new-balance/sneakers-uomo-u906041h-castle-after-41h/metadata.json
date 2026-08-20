@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/new-balance/sneakers-uomo-u906041h-castle-after-41h",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nNew Balance 9060  Innovazione Sperimentale\nLa 9060 reinterpreta gli elementi familiari dei modelli classici 99X con un'estetica distorta e massimalista ispirata all'era Y2K.\nSilhouette Chunky\n: Caratterizzata da un'intersuola scolpita ed esagerata che attira l'attenzione al primo sguardo.\nDettagli Riflettenti\n: Inserti pensati per la visibilità che aggiungono un tocco hi-tech alla scarpa.\nComfort Evoluto\n: L'integrazione della tecnologia\nABZORB\ngarantisce che, nonostante il volume, la scarpa rimanga incredibilmente leggera e ammortizzata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive chunky, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-donna-lee-rider-barrel",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Jeans Lee Rider Barrel Blue rappresentano una reinterpretazione audace e contemporanea del fit d'archivio che ha fatto la storia del denim. Questo modello si allontana dalle silhouette tradizionali per abbracciare il trend \"Barrel\", caratterizzato da una gamba curva e voluminosa che si stringe leggermente alla caviglia, offrendo un'estetica architettonica e rilassata allo stesso tempo.\nIl punto di forza dei Rider Barrel risiede nella loro capacità di giocare con i volumi. La silhouette \"a botte\" non è solo una scelta di stile distintiva, ma offre un comfort eccezionale grazie alla libertà di movimento su cosce e ginocchia. La colorazione \"Blue\" intensa, tipica dell'heritage Lee, è ottenuta con tecniche di lavaggio che esaltano la grana del denim, rendendo ogni paio un pezzo unico capace di invecchiare con carattere.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con vestibilita barrel e inserti in pizzo laterali, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

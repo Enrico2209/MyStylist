@@ -20,5 +20,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-s3-lock-perla-g006",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-Shirt Uomo Nuvolari: Essenziale con Stile\nLa t-shirt uomo Nuvolari è il capo perfetto per chi ama un look casual ma curato. Realizzata con materiali di alta qualità, offre una vestibilità comoda e un design essenziale, ideale per ogni occasione. Perfetta da indossare da sola o sotto una giacca per un tocco più raffinato.\nCome abbinarla?\nIndossala con un paio di\npantaloni\nper un outfit versatile o abbinala a delle\nsneakers\nper un look dinamico e moderno.\nScopri altri abbinamenti e lasciati ispirare dai nostri\noutfit\n!\nPerché scegliere la t-shirt Nuvolari?\nDesign minimal e sempre attuale\nMateriali di qualità per un comfort duraturo\nPerfetta per ogni stagione e occasione\nUn must-have nel guardaroba di ogni uomo!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:S3 LOCK PERLA-G006",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con vestibilita regular, livello base casual",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

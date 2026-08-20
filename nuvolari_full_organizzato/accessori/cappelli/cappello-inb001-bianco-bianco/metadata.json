@@ -26,5 +26,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-inb001-bianco-bianco",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo stile bold e riconoscibile di Icon prende forma nel\ncappello da uomo Icon in bianco\n. Un berretto da baseball dal carattere streetwear, dove il bianco pulito fa risaltare la stampa logo \"Icon\" sul fronte, per un accessorio di tendenza che completa ogni look casual.\nDesign, Materiali e Caratteristiche Costruttive\nCotone Resistente\n: Realizzato in cotone dalla mano compatta, resistente e piacevole da indossare.\nBianco Luminoso\n: Una tonalità pulita e versatile che si abbina con facilità a qualsiasi outfit estivo.\nLogo Icon a Contrasto\n: Logo sul fronte, firma distintiva e riconoscibile del brand.\nVisiera Curva\n: Frontino preformato che protegge dal sole con un look sportivo e attuale.\nRegolazione Posteriore\n: Chiusura regolabile sul retro per adattare il cappello a ogni testa.\nIdee di Stile e Utilizzo\nStreetwear Look\n: Abbinalo a una\nt-shirt\ne delle\nsneakers\nper un outfit urbano e dinamico.\nCasual Estivo\n: Perfetto per completare i look da giorno e proteggerti dal sole con stile.\nSport & Free Time\n: Ideale per una passeggiata, lo sport o una giornata all'aria aperta.\nAggiungi un tocco streetwear al tuo look con la firma Icon. Il cappello bianco è l'accessorio giusto per completare con stile ogni outfit casual.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, accessorio tipicamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

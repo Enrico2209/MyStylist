@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-albans-blut02298-007440-pink-411",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nPolo Uomo Blauer Blut02298 Albans\nesprime appieno il carattere urban, tecnico e rigoroso che contraddistingue lo storico marchio di derivazione statunitense. Questo modello si presenta in un'intensa e sofisticata tonalità rosa, fondendo un'estetica di chiara ispirazione tactical ed heritage a finiture sartoriali pulite e contemporanee.\nDesign e Caratteristiche Principali\nIconico Patch Scudo in Tono\n: Il tratto distintivo principale, è il classico stemma a scudo Blauer applicato sul lato sinistro del petto. Per questo modello è stato scelto un design monocromatico con dettagli in rilievo che si fondono con il colore del tessuto, per un branding discreto, moderno e d'impatto.\nTessuto Premium ad Alta Resistenza\n: Confezionata in un filato di cotone di altissima qualità lavorato finemente, studiato per offrire una struttura compatta, un'eccellente stabilità della forma e una mano morbida, fresca e altamente traspirante sulla pelle.\nColletto Rigido e Patta Lineare\n: Presenta un colletto classico a camicia dalle linee geometriche e pulite, completato da una fessura frontale parziale a due bottoni scuri lucidi che riprendono rigorosamente la palette cromatica del capo.\nBordi Manica in Tinta\n: Le maniche corte terminano con un profilo a costine piatte che segue la linea del braccio senza costringerla, mantenendo un assetto ordinato e minimizzando gli spessori.\nSpacchi Laterali e Orlo Sagomato\n: Il fondo del busto è arricchito da piccoli spacchi laterali che agevolano la vestibilità sui fianchi e presentano un taglio leggermente asimmetrico (con pannello posteriore impercettibilmente più lungo), ideale per chi ama portare la polo fuori dai pantaloni.\nVestibilità Slim-Regular Fit\n: Propone una silhouette leggermente sciantrata che segue le linee del corpo in modo naturale, definendo un'estetica asciutta, dinamica e marcatamente maschile.\nProposta di Outfit\nTactical Urban Match\n: Abbinala a un\npantalone\ncargo beige o fango con tasconi laterali e completa il look con un cappello; un set di forte matrice utility e street, ideale per muoversi in città durante il tempo libero.\nContemporary Smart Casual\n: Portala all'interno di un\npantalone\nmodello chino nero o antracite dal taglio sartoriale, definendo il punto vita con una cintura scura; la pulizia del patch in tono valorizzerà l'eleganza minimale dell'outfit, rendendolo perfetto per contesti lavorativi informali o per una cena serale.\nSummer Denim Contrast\n: Indossala insieme a un\njeans\ndal lavaggio chiaro e dall'effetto vintage.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

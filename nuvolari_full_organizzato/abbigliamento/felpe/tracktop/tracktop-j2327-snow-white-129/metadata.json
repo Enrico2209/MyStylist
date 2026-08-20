@@ -26,5 +26,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-j2327-snow-white-129",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nTrack Jacket Fred Perry Heritage Colour Block\nL'Anima del Capo\nQuesta track jacket reinterpreta un pilastro della tradizione sportiva Fred Perry attraverso un audace motivo colour block dal gusto nostalgico. È un omaggio massimalista alla cultura giovanile britannica di fine anni '90, un punto d'incontro perfetto tra l'estetica degli stadi e le influenze subculturali che hanno segnato un'epoca.\nVersatilità e Stile\nDall'allenamento ai club più esclusivi, questa giacca è progettata per accompagnarti con naturalezza. La sua vestibilità quasi sartoriale esalta la figura, rendendola un pezzo chiave dello streetwear contemporaneo che celebra la resistenza e il fascino senza tempo dell'abbigliamento sportivo vintage.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n56% Poliestere Riciclato / 44% Cotone\nVestibilità regular",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "tracktop sportivo/casual, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

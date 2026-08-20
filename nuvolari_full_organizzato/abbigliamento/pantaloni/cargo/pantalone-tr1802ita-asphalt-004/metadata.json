@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-tr1802ita-asphalt-004",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sobria del heritage britannico incontra la praticità dello stile utility nel\npantalone cargo da uomo Lyle & Scott modello TR1802ITA\n. Progettato per offrire un perfetto equilibrio tra estetica pulita e funzionalità quotidiana, questo capo rappresenta un vero e proprio caposaldo del guardaroba casual e smart casual.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone Twill Strutturato e Confortevole\n: Realizzato in resistente cotone di alta qualità, assicura una vestibilità impeccabile, traspirabilità e massimo comfort per tutto l'arco della giornata.\nDesign Cargo Essenziale e Pulito\n: Caratterizzato da linee rigorose e proporzionate che rielaborano il classico modello militare in una chiave moderna e versatile.\nTasche Funzionali\n: Equipaggiato con tasche laterali a fessura, tasche posteriori con pattina e ampie tasche cargo con pattina sulle cosce per la massima capienza.\nIconica Aquila Dorata Lyle & Scott\n: Rifinito con l'inconfondibile logo \"Golden Eagle\" applicato a contrasto sulla tasca cargo sinistra, garanzia di autenticità e stile.\nIdee di Stile: Costruisci il Tuo Look Smart Casual & Urban\nSmart Casual & Daily Look\n: Perfetto per il tempo libero o contesti informali curati. Abbina il pantalone cargo a una camicia di cotone o a una polo essenziale, completando l'outfit con un paio di\nsneakers uomo\nminimal in pelle.\nUrban Minimal & Relaxed Mood\n: Per un approccio più disinvolto e contemporaneo, indossalo con una\nt-shirt uomo\nmonocromatica e una felpa girocollo.\nLayering & Modelli Alternativi\n: Durante le stagioni intermedie o la sera, completa l'insieme con un capospalla leggero selezionato dalla nostra linea\ngiubbotti uomo\n. Nelle giornate più calde o per varianti estive, esplora anche le collezioni di\nbermuda uomo\ne\njeans uomo\n.\nSperimenta la sintesi ideale tra praticità e stile British. Scegli la qualità del cotone, la funzionalità delle tasche cargo e la raffinatezza discreta firmata Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile utility e casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

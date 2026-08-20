@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-work-for-it-tee",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLEE WORK FOR IT TEE: PIÙ DI UNA SEMPLICE T-SHIRT BIANCA\nQuesta t-shirt unisce l'estetica pulita di Lee a un messaggio forte e d'ispirazione. Caratterizzata da un design minimal sul fronte e una grafica d'impatto sul retro, è il capo perfetto per chi affronta la giornata con determinazione e stile urban.\nDesign a Doppio Impatto\n: Il fronte presenta un piccolo logo Lee grigio sul petto per un look sobrio, mentre il retro rivela il vero carattere del capo con una grafica testuale audace.\nMessaggio Motivazionale\n: La stampa posteriore reinterpreta il classico proverbio trasformandolo in \"\nGood things come to those who work for it\"\n, con un tocco grafico rosso a contrasto che sottolinea l'invito all'azione.\nMassima Freschezza\n: Realizzata in morbido cotone bianco di alta qualità, garantisce traspirabilità e comfort durante tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con grafica sul retro, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

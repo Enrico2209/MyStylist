@@ -24,5 +24,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sahara-med-denim-med-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autenticità del denim vintage e lo spirito urbano contemporaneo si fondono nei\nbermuda da uomo Proj3ct modello Sahara nella lavatura Medium Denim\n. Caratterizzati da un lavaggio blu medio d'ispirazione anni '90 con baffature e schiariture sfumate, questi short rappresentano un grande classico del guardaroba casual, perfetti per creare outfit estivi grintosi e versatile.\nDesign, Tessuti e Caratteristiche Costruttive\nRobusto Denim in Cotone\n: Realizzati in cotone denim di alta qualità, offrono una struttura consistente, ottima resistenza all'uso e un comfort ideale per la stagione calda.\nLavaggio Medium Denim / Effect Vintage\n: Una tonalità blu medio versatile e senza tempo, arricchita da lavorazioni effetto usura e baffature sul davanti per un autentico carattere street.\nStruttura Classica a 5 Tasche\n: Design iconico dotato di tasche americane frontali con mini coin pocket, rivetti in metallo e tasche posteriori sagomate.\nVestibilità Comfort e Taglio Dritto\n: Fit morbido che segue la gamba in modo naturale fino al ginocchio, garantendo piena libertà di movimento per tutto il giorno.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Daily Casual\nUrban Streetwear Look\n: Abbina i bermuda medium denim a una\nt-shirt uomo\noversize con stampa grafica e completa l'outfit con un paio di\nsneakers uomo\nd'ispirazione skate.\nCasual & Resort Mood\n: Per un aperitivo o una passeggiata nel weekend, indossali con una camicia a maniche corte aperta o una polo coordinata per uno stile disinvolto e curato.\nLayering & Capi Alternativi\n: Nelle serate più fresche, completa l'insieme con una felpa o un giubbotto leggero dalla nostra selezione\ngiubbotti uomo\n. Esplora anche le altre opzioni di\nbermuda uomo\nper la stagione o scopri i modelli della linea\njeans uomo\n.\nSperimenta la versatilità del denim blu medio. Scegli il comfort del taglio dritto, le finiture vintage e il design metropolitano dei bermuda Proj3ct Sahara.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda di jeans, capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

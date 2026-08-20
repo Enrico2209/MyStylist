@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-wc-kraft-atxnero-atxnero-wc-kraft-atx-nero-atx-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Wc Kraft Atx/Nero\nMaglia Nuvolari modello Kraft da uomo, girocollo con lavorazione ricercata e vestibilità slim fit. Realizzata in lana e acrilico per un comfort e calore ottimali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% Lana 50% Acrilico\nCodice articolo: WC KRAFT ATX/NERO-ATX/NERO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in misto lana, lavorazione ricercata e vestibilita slim fit",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

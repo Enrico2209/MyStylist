@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-chino-cotone-nuvolari-wd013-takeshi-coccio",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "Descrizione\nPantalone chino cotone da uomo modello Takeshi firmato Nuvolari con doppie pinces frontali, inserti fibbie laterali, due tasche chinos frontali e due tasche a pattina posteriore. Nel retro vita troviamo l'etichetta logo Nuvolari in ecopelle. Un modello che aderisce perfettamente al corpo, ma elasticizzato per garantire messima libertà di movimento.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone chino cotone da uomo Nuvolari 013 TAKESHI - Coccio\nChiusura a scomparsa con zip e bottone quattro fori in vita logato\nTasca chinos\nDoppie pences frontali\nTasche posteriori con pattina\nFibbie laterali con inserti in tessuto\nEtichetta posteriore in ecopelle\nFodera tasche interno combinato con tessuto eﬀetto denim e cotone\nVestibilità Tapered Fit\nComposizione: 99% cotone, 1% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con doppie pinces e fibbie laterali, taglio smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

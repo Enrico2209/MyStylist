@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-diadora-prestige-plain-182812-grigio",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Sneakers Diadora Prestige Plain rappresentano l'incontro perfetto tra l'estetica sportiva d'archivio e l'artigianalità contemporanea. Parte della linea che celebra lo storico design Diadora, questo modello si distingue per una silhouette pulita e \"essenziale\", progettata per chi cerca una scarpa versatile, robusta e dal fascino senza tempo.\nIl punto di forza delle Prestige Plain risiede nella loro costruzione in pelle premium. A differenza delle varianti più grafiche del brand, la versione \"Plain\" punta tutto sulla qualità dei materiali e sulla continuità cromatica. La tomaia liscia e uniforme offre una calzata flessibile che si adatta alla forma del piede, mentre il design minimale le rende facili da abbinare sia con un denim tecnico che con un pantalone più formale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nUS\nITA\n7\n40\n8\n41\n8.5\n42\n9.5\n43\n10\n44\n11\n45\n12\n46",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers dal design pulito e minimale, adatte al casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

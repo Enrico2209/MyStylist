@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-uomo-project-w1-vs-dallas-camoutree-camoutree",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nSmanicato Uomo Proj3Ct Dallas Camoutree\nLo smanicato uomo Proj3ct è un capo versatile e funzionale, perfetto per aggiungere un tocco di stile al tuo guardaroba. Realizzato con materiali di alta qualità, offre comfort e protezione contro il freddo senza compromettere la libertà di movimento. Ideale per un look casual e dinamico, è adatto a diverse occasioni e facilmente abbinabile con altri capi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: W1 VS DALLAS CAMOUTREE-CAMOUTREE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "smanicato imbottito con grafica camouflage d'ispirazione streetwear",
+    "season": "inverno",
+    "pattern": "camouflage"
+  }
 }

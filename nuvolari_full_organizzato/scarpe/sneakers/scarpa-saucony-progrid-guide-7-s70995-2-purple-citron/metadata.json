@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/scarpa-saucony-progrid-guide-7-s70995-2-purple-citron",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Saucony ProGrid Guide 7 sono calzature nate per offrire il perfetto equilibrio tra ammortizzazione reattiva e supporto alla stabilità. Questo modello è storicamente apprezzato dai runner che necessitano di un controllo moderato della pronazione, senza però rinunciare alla flessibilità e alla leggerezza tipiche delle scarpe da allenamento quotidiano più veloci.\nIl punto di forza della Guide 7 risiede nella sua geometria bilanciata. Grazie a un drop di 8 mm (la differenza di altezza tra tallone e avampiede), questa scarpa favorisce una transizione più naturale e fluida rispetto ai modelli tradizionali, incoraggiando un appoggio più centrale. La tecnologia ProGrid nel tallone assicura un assorbimento degli urti superiore, rendendola ideale per macinare chilometri su asfalto o per lunghe giornate in piedi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.8,
+      "casual": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/polo-uomo-lacoste-slim-fit-white",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa\nPolo da Uomo White\nfirmata Lacoste, è un capo eccezionale che non passa mai di moda.\nPolo bianca, con maniche corte e stampa grafica frontale riportante il nome del\nBrand\n. E' un modello semplice e pratico, a tinta unita. Se sei alla ricerca dell'outfit ideale, abbina la Polo con questo\ncappello\n!\nSe anche tu sei un fan sfegatato del brand\nLacoste\n, dai uno sguardo qui agli altri\ncapi d'abbigliamento\ndel marchio, selezionati ad hoc per te da\nNuvolari\n.\nIl modello è alto 1.88 cm e indossa la taglia L.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPolo da Uomo Lacoste White\nVestibilità Slim\nComposizione: 100% cotone\nCodice articolo: PH4012 WHITE-001",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/cappello-uomo-lacoste-navy-blue.html?___store=default"
+    },
+    {
+      "testo": "capi d'abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/lacoste"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone piqué, vestibilità slim che alza leggermente il tono casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

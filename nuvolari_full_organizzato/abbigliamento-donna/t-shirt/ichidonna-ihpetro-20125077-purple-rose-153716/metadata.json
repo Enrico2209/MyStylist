@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/ichidonna-ihpetro-20125077-purple-rose-153716",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Ichi Donna Ihpetro Purple Rose\ninfonde un tocco romantico e sbarazzino nel guardaroba estivo, celebrando la freschezza della stagione attraverso grafiche botaniche rétro e una palette pastello delicata. Realizzata in una tenue e rilassante sfumatura lilla/glicine chiaro (\"Purple Rose\"), questa t-shirt a maniche corte si distingue per i suoi volumi urban e per i suoi dettagli grafici d'ispirazione floreale.\nDesign e Caratteristiche Principali\nGrafica Posteriore d'Ispirazione Botanica\n: Il retro del capo ospita una maxi-stampa artistica incentrata su motivi floreali stilizzati, dominata da caldi toni pesca, arancio e terracotta. La composizione è impreziosita da scritte fluide in corsivo che richiamano l'estetica dei mercati dei fiori e dei club d'arte estivi.\nFronte Pulito ed Essenziale\n: Il pannello anteriore mantiene un design minimale, lasciando piena centralità alla luminosità della tinta lilla pastello e ospitando sul petto sinistro un piccolo testo stampato coordinato con la grafica sul retro.\nTessuto in Puro Cotone Leggero\n: Confezionata in un filato di cotone morbido e fresco sulla pelle, progettato per assicurare un'eccellente traspirabilità e il massimo comfort durante le calde giornate della bella stagione.\nSilhouette Boxy Moderna\n: Il taglio presenta volumi ampi e leggermente squadrati di chiara ispirazione urban, studiati per far scivolare il tessuto in modo fluido sul busto senza segnare le linee del corpo.\nGirocollo Classico e Spalla Calata\n: Rifinita con uno scollo rotondo flessibile a costine sottili e maniche corte con linea di attaccatura leggermente ribassata, che accentua l'attitudine disinvolta e casual del modello.\nOrlo Inferiore Dritto Pulito\n: Il fondo lineare permette di portare la t-shirt morbida sui fianchi o di rimborsarla parzialmente sul davanti all'interno di shorts o pantaloni a vita alta per definire la silhouette.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt con vestibilità boxy e maxi stampa sul retro, tipico capo casual quotidiano",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

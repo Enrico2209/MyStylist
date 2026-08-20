@@ -20,5 +20,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-uomo-fred-perry-blood-gunmetal",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Tuta\nUomo Fred Perry in tessuto misto.\nPantalone da uomo in tessuto misto\ncon logo a contrasto\n. L'articolo presenta\ntasche laterali\ned\nelastico in vita\ncon coulisse.\n54% poliestere 46% cotone.\nIl modello è alto 1.87 e indossa la\ntaglia 48\n.\nSe anche tu sei amante del brand\nFred Perry\n, scopri qui gli altri\ncapi di abbigliamento\ndel marchio selezionati apposta per te da\nNuvolari\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\npantalone tuta da uomo Fred Perry blood/gunmetal\nVestibilità regular\nComposizione: 46% cotone 54% poliestere\nCodice articolo: T4507 OXBLOOD/GUNMETAL-R22",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi di abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/fred-perry"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "pantalone da tuta sportivo con elastico in vita e coulisse",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

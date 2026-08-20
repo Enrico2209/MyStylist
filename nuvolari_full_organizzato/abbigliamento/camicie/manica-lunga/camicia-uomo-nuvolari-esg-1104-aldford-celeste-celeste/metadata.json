@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-esg-1104-aldford-celeste-celeste",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Aldford Celeste\nLa\ncamicia\nNuvolari con collo alla coreana e sottili righe offre un design elegante e moderno. Realizzata con materiali di alta qualità, garantisce una vestibilità confortevole e raffinata. Perfetta per un look sofisticato e distintivo, questa camicia è ideale per chi cerca uno stile unico e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: ESG 1104 ALDFORD CELESTE-CELESTE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia con collo alla coreana, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-lee-mer-green",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Lee Mer Green\nè un classico berretto con visiera (baseball cap) dall'attitudine heritage e informale, che celebra la storica eredità del brand nel mondo del denim e del workwear. Caratterizzato da una finitura morbida dall'effetto piacevolmente vissuto e da una tonalità verde foresta, questo accessorio si adatta con naturalezza a qualsiasi outfit quotidiano o per il tempo libero.\nDesign e Caratteristiche Principali\nStruttura a 6 Pannelli Classica\n: La corona presenta una costruzione tradizionale a sei spicchi con cuciture di rinforzo tono su tono, che assicura una calzata morbida e un profilo pulito sulla testa.\nColorazione Verde Mer/Foresta\n: Una sfumatura di verde profonda, desaturata e incredibilmente versatile, ideale per aggiungere una nota cromatica ispirata alla natura ai look di stagione.\nIconico Logo Lee Ricamato\n: Il pannello frontale è personalizzato dal leggendario logo del brand ricamato centralmente in corsivo (script logo) con un filato bianco a contrasto, elemento che firma il capo con un fascino squisitamente rétro.\nVisiera Precurvata con Impunture\n: La visiera rigida curva garantisce un'eccellente protezione dai raggi solari e dagli elementi, rifinita da cuciture parallele che ne mantengono solida la struttura.\nOcchielli di Traspirazione Ricamati\n: Sulla sommità di ciascun pannello è presente un piccolo foro rifinito a filo che agevola il ricircolo dell'aria, mantenendo la testa fresca e asciutta anche nelle giornate più calde.\nTessuto in Twill di Cotone Lavato\n: Realizzato in cotone resistente ma morbido al tatto, caratterizzato da un leggero lavaggio che conferisce al berretto un aspetto vintage \"soft-touch\" fin dal primo utilizzo.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questo cappellino Lee dal sapore rétro:\nHeritage Denim Look\n: Abbinalo a una t-shirt bianca basic, a una giacca di jeans e a dei\njeans\nlavaggio medio per richiamare la storica attitudine workwear del marchio.\nUrban Utility Relax\n: Indossalo insieme a dei\npantaloni cargo\nbeige o khaki e a una camicia over sbottonata per un outfit da giorno confortevole e di tendenza.\nCasual Streetwear\n: Provalo in combinazione con una\nfelpa\ngirocollo grigio melange, degli shorts neri e sneakers retro-running per un perfetto stile da weekend metropolitano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

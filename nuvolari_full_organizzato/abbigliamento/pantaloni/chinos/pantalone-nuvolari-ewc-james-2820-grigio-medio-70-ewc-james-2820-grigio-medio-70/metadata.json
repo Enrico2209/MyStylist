@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-ewc-james-2820-grigio-medio-70-ewc-james-2820-grigio-medio-70",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari JAMES 2820\nPantalone\nlungo firmato Nuvolari modello\nJames 2820\n, slim fit quattro tasche in tessuto operato effetto mélange. Chiusura con zip e bottone in vita, due tasche a filo, due tasche posteriori a filetto a due profili chiuse da bottoni logati. Doppia etichetta\nNuvolari\ncucita su vita e tasca lato posteriore destro. Made in Italy 72% cotone 16% poliestere 9% viscosa 3% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit in tessuto operato, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

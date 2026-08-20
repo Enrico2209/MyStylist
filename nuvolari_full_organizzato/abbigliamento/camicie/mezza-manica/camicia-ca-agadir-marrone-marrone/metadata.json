@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-agadir-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Agadir Marrone\nreinterpreta il concetto di minimalismo estivo attraverso una palette cromatica calda e profonda, ideale per chi desidera distinguersi con sobria raffinatezza. Caratterizzato da un'intensa colorazione testa di moro (\"Marrone\"), questo capo unisce un fit straordinariamente confortevole a una caduta fluida e scivolata, affermandosi come una scelta di assoluta tendenza sia per il tempo libero che per le serate estive in città.\nDesign e Caratteristiche Principali\nTessuto Estivo Fluido e Traspirante\n: Realizzata in un filato leggero dalla mano morbida e cascante, appositamente selezionato per scivolare con leggerezza sulla pelle e assicurare freschezza costante anche durante le giornate più afose.\nIconico Collo Resort (Camp Collar)\n: Il colletto dal taglio cubano presenta un rever aperto a V privo del primo bottone, delineando una scollatura naturale e disinvolta che richiama il fascino rétro della moda vacanziera d'altri tempi.\nEstetica Essenziale Monochrome\n: Il corpo della camicia si presenta liscio, pulito e rigorosamente privo di taschini applicati sul petto o loghi visibili, focalizzando l'intera attenzione visiva sulla texture del materiale e sul colore pieno.\nDettaglio Bottoni Tartarugati / Contrast\n: La fustella frontale è scandita da bottoni lucidi sfumati nei toni caldi del marrone e dell'ambra, che si integrano armoniosamente alla base cromatica aggiungendo un piccolo punto di luce artigianale.\nManiche Corte dal Taglio Squadrato\n: La costruzione delle maniche corte è ampia e rilassata per favorire la massima libertà nei movimenti e assecondare i volumi morbidi della silhouette.\nOrlo Inferiore Dritto da Fuori-Pantalone\n: Il fondo squadrato e lineare permette di sfoggiare la camicia lasciata morbida sopra la cintura o completamente sbottonata, rendendola ottimale per i look a strati.\nProposta di Outfit\nEarth Tone Co-ord Style\n: Indossala abbottonata in coordinato con un\nbermuda\nmarrone scuro dotato di coulisse panna a contrasto, completando l'ensemble con sandali in cuoio per un sofisticato total look ispirato alle tonalità della terra.\nBright Summer Contrast\n: Portala completamente aperta sopra una canotta chiara e abbinala a un\npantalone\nin cotone crepe bianco ottico per creare un netto e luminoso contrasto cromatico, ideale per un cocktail al tramonto.\nUrban Safari Layering\n: Sfruttala come capospalla leggero abbinandola a una\nt-shirt\nbasic chiara e a un\npantalaccio\ncolor fango/nocciola con fondo arrotolato, definendo un outfit metropolitano comodo e dalle sfumature calde e coerenti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo resort, taglio rilassato da portare fuori dai pantaloni",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

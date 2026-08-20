@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-pp-terry-kaky-kaky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Nuvolari Terry\nrappresenta l'equilibrio ideale tra l'estetica formale del pantalone sartoriale e il comfort assoluto del loungewear moderno. Declinato in una calda e naturale sfumatura nocciola/fango, questo modello con coulisse si adatta con disinvoltura ai ritmi della vita quotidiana, offrendo freschezza e una vestibilità impeccabile durante tutta la stagione estiva.\nDesign e Caratteristiche Principali\nCintura Elastica con Coulisse Regolabile\n: Dotato di una morbida ed estensibile fascia elastica arricciata sulla riga della vita che garantisce massima libertà di movimento, arricchita da un lungo cordoncino piatto tono su tono con terminali metallici lucidi per personalizzare l'aderenza sui fianchi.\nChiusura Ibrida Funzionale\n: Nonostante la natura relaxed della coulisse, il modello preserva una struttura rigorosa integrando una patta frontale classica con cerniera e un bottone scuro centrale coordinato sulla fustella.\nTasche Americane con Rivetti\n: Le tasche anteriori ad apertura obliqua (all'italiana/americana) assecondano le linee dei fianchi mantenendo il fronte pulito e piatto, impreziosite da piccoli rivetti scuri posizionati come punto di rinforzo e stile.\nTaschino Orologio Sartoriale\n: Sul fronte destro, subito sotto la cintura, spicca un raffinato taschino inserito a filetto orizzontale, un elemento di chiara ispirazione classica che nobilita il design complessivo.\nFondo Gamba con Risvolto Cucito\n: L'orlo inferiore della gamba è valorizzato da un risvolto rigido e stirato che dona una caduta dritta e ordinata al tessuto, slanciando la silhouette.\nTessuto Leggero e Strutturato\n: Realizzato in un filato fresco, compatto e naturalmente traspirante, perfetto per mantenere il comfort termico anche nelle giornate più calde.\nSuggerimenti di Stile\nEcco 3 idee per interpretare al meglio il pantalaccio Terry nei tuoi look quotidiani:\nSummer Smart Business\n: Abbinalo alla\nCamicia Nuvolari Lioserio Blue\nlasciata aperta sui primi bottoni e a un paio di mocassini scamosciati per un outfit da ufficio o da viaggio d'affari fresco e rigoroso.\nUrban Mezza Stagione\n: Indossalo con una t-shirt basic chiara e il\nBomber Nuvolari Vitruvio\nscuro, completando il tutto con sneakers bianche minimali per un perfetto contrasto cromatico urban-chic.\nCasual Rilassato Premium\n: Coordinalo semplicemente con la\nMaglia Nuvolari Special Blu\na pelle e scarpe in tela, completando lo stile con un\nbaseball cap Lee nero\nper un outfit da tempo libero impeccabile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia Nuvolari Lioserio Blue",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Bomber Nuvolari Vitruvio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "Maglia Nuvolari Special Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "baseball cap Lee nero",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone con coulisse ed elastico in vita, stile ibrido rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

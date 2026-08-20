@@ -24,5 +24,30 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-airbrushed-rose-leaf-camo-cam",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'ispirazione naturalistica incontra l'estetica underground e l'attitudine street nella nuova\nT-Shirt Uomo Obey Leaf Camo\n. Questo modello celebra la forza espressiva del brand attraverso una reinterpretazione artistica del classico motivo mimetico, pensata per chi vuole inserire una nota bold, grafica e identitaria nel proprio guardaroba quotidiano.\nDesign e Caratteristiche Principali\nGrafica Central \"Leaf Camo\"\n: Il vero e proprio statement del capo è la maxi stampa artistica frontale. La composizione unisce la silhouette pulita di una foglia monstera a una texture interna che richiama il pattern camouflage militare, creando un contrasto visivo d'impatto.\nLettering Iconico Integrato\n: All'interno della grafica è inserito il celebre logo\n\"OBEY\"\ncon un carattere tipografico solido e lineare, che si fonde con gli elementi naturali per sancire l'autenticità del design firmato Shepard Fairey.\nSfondo Bianco Ottico Nitido\n: La base total white della t-shirt funge da tela perfetta per esaltare i dettagli grafici neri e i passaggi tonali del camouflage, garantendo la massima pulizia visiva e una versatilità assoluta negli abbinamenti.\nGirocollo a Costine e Fit Regolare\n: Progettata con uno scollo a girocollo classico e flessibile rifinito a costine e un taglio regular comfort che accarezza il corpo senza costrizioni, assicurando una caduta sempre impeccabile.\nJersey di Cotone Premium\n: Confezionata in un filato di puro cotone morbido, compatto e altamente traspirante, selezionato appositamente per offrire freschezza sulla pelle e un'eccellente resistenza ai lavaggi frequenti.\nIdee di Stile: Crea la Tua Wave\nUrban Utility Look\n: Esalta il richiamo mimetico della stampa abbinando la t-shirt a un\npantalone\ncargo strutturato nei toni del verde militare o del color cacao, completando l'outfit con una sneaker bold chunky.\nSkate Heritage Uniform\n: Per un perfetto mood californiano, indossa la maglia insieme a un bermuda in denim oversize dal lavaggio chiaro o a un\njeans\ndal taglio relaxed, chiudendo il cerchio con una sneaker bassa e un cappello con visiera.\nContemporary Layering\n: Sfrutta la pulizia della base bianca lasciando intravedere la grafica sotto una camicia over di flanella aperta o a una giacca utility destrutturata in denim scuro.\nRivendica la tua appartenenza alla cultura street. Scegli l'impatto visivo e lo stile senza compromessi della t-shirt Leaf Camo firmata Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "T-shirt grafica di un brand street puro con maxi stampa frontale",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

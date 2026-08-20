@@ -24,5 +24,42 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpe-heydude-wally-well-worn-45142-a-brown-multi-2jy",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe scarpe\nHeyDude Wally Well Worn\nnella colorazione\nBrown/Multi\nfondono il comfort destrutturato e ultraleggero del brand con un'estetica vissuta, calda e squisitamente rétro. Grazie a uno speciale trattamento di lavaggio della tela e all'accostamento con accenti terrosi e pannelli geometrici multicolor, questa calzatura si presenta ricca di texture e sfumature, ideale per aggiungere una nota rilassata e di tendenza ai look informali della bella stagione.\nDesign e Caratteristiche Principali\nTomaia in Canvas Effetto \"Well Worn\"\n: Realizzata in una robusta tela di cotone che ha subito un lavaggio enzimatico per ottenere un look piacevolmente sbiadito, morbido e vintage fin dal primo utilizzo. La base marrone bruciato è rifinita da cuciture spesse a contrasto lungo la tipica punta \"moctoe\".\nDettagli e Pannello Posteriore Brown/Multi\n: Il colletto della scarpa e la linguetta sul tallone integrano un inserto in tessuto intrecciato o mélange a contrasto che sfuma sui toni caldi del beige, del mattone e del marrone scuro, regalando un dinamico gioco materico e cromatico.\nSistema di Allacciatura Elastico Easy-On\n: Presentano i classici lacci elastici corti con nodi terminali che eliminano la necessità di allacciare la scarpa. Consentono una calzata immediata e avvolgente, assecondando il collo del piede senza costrizioni.\nSuola Ultra-Lightweight in Schiuma EVA\n: La suola flessibile brevettata è stampata in una speciale mescola espansa color panna o beige chiaro. Assicura un'ammortizzazione ottimale degli urti e una leggerezza tale da azzerare la fatica durante le camminate quotidiane.\nPlantare in Memory Foam Rimovibile\n: L'interno è equipaggiato con una soletta anatomica ammortizzata rivestita in sughero naturale o tessuto traspirante. Contrasta l'umidità, garantisce freschezza a contatto con il piede nudo ed è facilmente estraibile per la manutenzione.\nCalzata Ampia (Wide Fit)\n: La forma dell'avampiede è appositamente progettata per lasciare spazio libero alle dita, garantendo quella naturale sensazione di comfort e libertà tipica delle calzature Dude.\nProposta di Outfit\nWarm Rétro Casual\n: Abbinale alla polo a righe multicolore arancioni e marroni\nIchi Ihmira Red Multi\ne a un\nbermuda\nchino color beige o sabbia; i richiami caldi e terrosi della polo si collegheranno alla perfezione con il pannello Brown/Multi e la tela vissuta della scarpa, strutturando un look coerente e di grande personalità.\nCalifornian Bowling Vibe\n: Portale sotto la camicia a maniche corte\nIchi Ihestama Sh Bel Air Blu\n, indossata aperta sopra una t-shirt basic bianca; il contrasto tra l'azzurro polvere della camicia e i toni marroni bruciati delle calzature farà risaltare la maxi-stampa posteriore tramonto della camicia, creando un perfetto outfit urban-vacanziero.\nSmart Everyday Contrast\n: Indossale in abbinamento al\npantalone chino\nIhfava Barrel Dove Melange e alla t-shirt nera con dettagli color tabacco\nFred Perry M2397\n; il tessuto grigio-tortora del pantalone e la riga color \"corde\" della t-shirt dialogheranno magnificamente con la palette Brown/Multi delle calzature, per un look da giorno bilanciato e moderno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Ichi Ihmira Red Multi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "Ichi Ihestama Sh Bel Air Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "Fred Perry M2397",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Scarpa slip-on ultraleggera in tela lavata, assimilabile a un mocassino destrutturato estivo o a una ciabatta chiusa",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

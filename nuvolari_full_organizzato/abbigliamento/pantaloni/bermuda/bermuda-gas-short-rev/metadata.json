@@ -21,5 +21,50 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-gas-short-rev",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Gas Albert Short Rev Basic Medium D\nrappresenta una declinazione estiva essenziale del classico jeans a cinque tasche, coniugando l'estetica robusta del denim con una silhouette fresca e dinamica. Realizzato in un lavaggio blu medio-scuro (\"Medium D\") arricchito da leggere sabbiature frontali naturali, questo pantaloncino corto si impone come un passe-partout per il guardaroba informale della bella stagione, garantendo versatilità strutturale ed eccellente resistenza nel tempo.\nDesign e Caratteristiche Principali\nLavaggio Indigo Medium Dark con Sabbiature\n: La tela di jeans si presenta in un blu intenso con morbidi contrasti sfumati e baffature (\"whisker\") posizionate strategicamente vicino ai punti di flessione delle tasche frontali, donando al pantalone un aspetto vissuto naturale, profondo e tridimensionale.\nArchitettura Classica a Cinque Tasche\n: Riprende l'intramontabile configurazione del denim tradizionale, caratterizzata da due tasche curve frontali, un taschino portamonete sul lato destro impreziosito dall'iconico passante e dal micro-logo GAS applicato a contrasto, e due tasche applicate sul retro.\nFondo con Risvolto Cucito Personalizzabile\n: Il fondo gamba è rifinito con un risvolto risvoltato che mostra la trama rovesciata grigio-chiaro del denim. La cimosa interna laterale presenta una caratteristica fettuccia con profili rossi e blu, un dettaglio Heritage visibile a ogni passo.\nDettagli Tecnici e Chiusura\n: La chiusura in vita è affidata a un bottone a chiodo metallico con finitura lucida argentata e logo inciso, abbinato a passanti resistenti per l'inserimento della cintura e impunture color tabacco a contrasto che delineano i contorni strutturali del capo.\nSilhouette Slim-Regular Standard\n: Il taglio scende asciutto lungo la coscia senza stringere, fermandosi appena sopra il ginocchio per un'ottima libertà di movimento e una linea estetica sempre ordinata e proporzionata.\nProposta di Outfit\nRétro Urban Casual\n: Abbinalo alla\npolo\na righe multicolore calde\nIchi Ihmira Red Multi\n; l'intensità del denim medio-scuro farà risaltare le sfumature arancioni e marroni della maglia, strutturando un look vintage-street equilibrato ed energico.\nPreppy Riviera Style\n: Portalo insieme alla\npolo\na righe bianche, azzurre e lilla\nIchi Ihmira Blue Multi\n; il colletto azzurro a contrasto e le micro-righe geometriche si collegheranno magnificamente al lavaggio indaco del bermuda, per un outfit fresco e pulito da tempo libero.\nEssential Graphic Contrast\n: Indossalo con la\nt-shirt\nbianca\nFred Perry Original Sportswear\no con la versione logata posteriore\nFred Perry M2475 Snow White\n; la pulizia del bianco ottico e l'impatto delle scritte o del ricamo Laurel Wreath completeranno il bermuda in modo minimalista e moderno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "Ichi Ihmira Red Multi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "Ichi Ihmira Blue Multi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Fred Perry Original Sportswear",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Fred Perry M2475 Snow White",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in denim, classico capo casual estivo da giorno",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

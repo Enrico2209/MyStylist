@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-dodge-bluc11021-007111-militare-60h",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Blauer Dodge è un piumino leggero e iconico, perfetto per chi cerca la massima protezione con il minimo ingombro. Grazie alla sua imbottitura tecnologica e al design pulito, si conferma un punto di riferimento per l'abbigliamento urban e outdoor.\nBlauer Dodge Leggerezza e Performance\nImbottitura Sorona® Aura\n: Utilizza l'innovativa fibra sintetica Sorona® Aura, che garantisce un calore paragonabile alla piuma ma con una maggiore resistenza all'umidità e un'anima eco-sostenibile.\nTessuto in Nylon Lucido\n: La superficie esterna è realizzata in nylon trapuntato idrorepellente, caratterizzato da una lucentezza che ne esalta i colori e la resistenza.\nDesign Ergonomico\n: La struttura a onde o orizzontale (a seconda della stagione) è studiata per seguire i movimenti del corpo, mantenendo l'imbottitura perfettamente distribuita.\nDettagli Signature\n: Include l'iconico passante Blauer sul petto e la patch logata sulla manica sinistra, simboli di un'eredità tecnica senza pari.\nPraticità\n: Dotato di chiusura frontale con zip a doppio cursore e tasche laterali capienti per proteggere le mani o riporre piccoli oggetti.\nPerché sceglierlo\nIl modello Dodge è la scelta ideale per chi desidera un giubbotto versatile. È perfetto da sovrapporre a una\nfelpa Propaganda 100% cotone\nper un look streetwear, oppure può essere indossato con una\npolo Lacoste\nper un'occasione più casual-chic\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliammide\nVestibilità regular\nCodice articolo: BLUC11021 007111 MILITARE-60H",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento leggero in nylon, registro d'uso quotidiano e informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-con-pinces-proj3ct-shark-bordeaux",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone chino uomo con pinces in cotone stretch dall'intenso color rosso bordeaux. Indossa in ufficio con la\ncamicia bianca modello Delroy Nuvolari\no completa il tuo stile streetwear Proj3ct con la\nfelpa girocollo Soho Navy\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone con pinces uomo Project modello Shark - Bordeaux\nPantalone chino\nDue tasche laterali\nDue tasche filetto sul retro\nPassanti per cintura\nVestibilità Regular Fit\nComposizione: 98% cotone, 2% elastene",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia bianca modello Delroy Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/camicia-c-f-nuvolari-sc-delroy-bianco-bianco.html"
+    },
+    {
+      "testo": "felpa girocollo Soho Navy",
+      "categoria_url": "https://www.nuvolari.biz/felpa-girocollo-proj3ct-soho-navy.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con pinces, adatto a contesti smart casual e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

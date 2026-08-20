@@ -24,5 +24,31 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-alan-woven-sky-blue-sky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica rétro della cultura skate si fonde con la freschezza dello stile vacanziero nella nuova\nCamicia Uomo Obey Alan Woven Sky Blue\n. Questo modello a maniche corte reinterpreta il grande classico della camicia estiva attraverso pattern geometrici d'impatto e linee rilassate, perfetto per chi cerca un look espressivo, leggero e intriso di attitudine streetwear.\nDesign e Caratteristiche Principali\nFantasia Geometrica Rétro All-Over\n: Il focus visivo del capo è incentrato su un motivo jacquard/stampato geometrico astratto, caratterizzato da linee e rombi verticali che richiamano i pattern vintage degli anni '70 e '80 riletti in chiave urban contemporanea.\nPalette Cromatica Sky Blue\n: La base azzurro cielo è armoniosamente accostata a sfumature crema, beige e tocchi di blu scuro. Una combinazione di tonalità fredde e calde altamente versatile, ideale per illuminare gli outfit della stagione estiva.\nColletto da Resort (Camp Collar)\n: Progettata con il classico colletto aperto e disteso a \"V\" senza primo bottone, una finitura rilassata d'ispirazione bowling-shirt che massimizza la freschezza e dona un tocco decisamente chill.\nChiusura Frontale e Vestibilità Rilassata\n: Strutturata con un'abbottonatura centrale pulita e un taglio boxy leggermente oversize con fondo dritto, pensato per cadere fluido sul corpo e assicurare la massima libertà di movimento.\nTessuto Woven Leggero e Fluido\n: Confezionata in un filato di alta qualità fresco e morbido al tatto, selezionato appositamente per offrire un'eccellente traspirabilità e una caduta ariosa che non si appiccica alla pelle durante le giornate più calde.\nIdee di Stile: Crea la Tua Wave\nStreet Skate Uniform\n: Esalta l'anima californiana di Obey indossando la camicia Alan completamente aperta sopra una\nt-shirt\nbianca basic, abbinandola a un bermuda in denim dal lavaggio chiaro e a una sneaker bassa da skate.\nSummer Chill Match\n: Crea un perfetto outfit da aperitivo al tramonto coordinando la camicia con un\npantalone\npantalaccio in misto lino beige o panna, chiudendo il cerchio con un sandalo minimalista in pelle scura.\nRivoluziona il tuo guardaroba estivo con il mix perfetto di geometria e attitudine street. Scegli lo stile inconfondibile firmato Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con colletto camp, taglio boxy rilassato e marchio street (Obey)",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

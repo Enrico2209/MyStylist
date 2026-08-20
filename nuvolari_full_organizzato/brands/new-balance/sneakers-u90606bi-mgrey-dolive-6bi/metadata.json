@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-u90606bi-mgrey-dolive-6bi",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nNew Balance U9060: L'Evoluzione Scentrica del Design 99X\nSneakers Uomo New Balance U90606BI\nLe New Balance U9060 non sono semplici calzature, ma un'espressione di design massimalista che reinventa gli elementi iconici della classica serie 99X. Caratterizzate da una silhouette audace e da una suola scultorea, queste sneakers fondono l'estetica tecnologica dell'era Y2K con materiali premium. La palette \"Moonbeam\" con accenti oliva offre una neutralità sofisticata, rendendole il pezzo centrale di ogni outfit urban contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

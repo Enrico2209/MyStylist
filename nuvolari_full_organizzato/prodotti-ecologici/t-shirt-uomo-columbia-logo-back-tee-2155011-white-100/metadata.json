@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "prodotti-ecologici/t-shirt-uomo-columbia-logo-back-tee-2155011-white-100",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMORBIDEZZA ORGANICA, LOOK CONTEMPORANEO\nRiscopri il piacere di indossare materiali naturali. Questa t-shirt trasforma il concetto di \"casual\" grazie all'uso di cotone biologico di alta qualità, garantendo una delicatezza estrema sulla pelle e una durata superiore.\nBenessere Naturale\n: La scelta del cotone biologico assicura un comfort termico e una morbidezza che solo le fibre naturali sanno offrire.\nDesign Urbano\n: La stampa CSC™ aggiunge quel tocco di personalità necessario per rinfrescare il tuo guardaroba stagionale.\nPensata per la Città:\nChe sia per un caffè in centro o una passeggiata al parco, è la scelta ideale per chi ama vivere l'ambiente urbano con stile\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone biologico\nVestibilità regular\nCodice articolo: 2155011 WHITE-100",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di cotone, marchio outdoor/sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

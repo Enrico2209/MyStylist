@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassino-sebago-docksides-portland-7000h00-total-black-924",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Sebago Docksides Portland Total Black rappresentano la versione più grintosa e urbana della classica scarpa da barca. Mentre i modelli tradizionali giocano con i contrasti cromatici, la variante Total Black trasforma l'icona nautica in una calzatura estremamente sofisticata e \"notturna\", capace di mimetizzarsi perfettamente tra l'asfalto cittadino e il ponte di uno yacht.\nIl punto di forza della versione Total Black risiede nella sua estetica monocromatica. La pelle, i lacci in cuoio e persino la suola in gomma sono coordinati nella stessa tonalità di nero profondo. Questo annulla la percezione puramente sportiva della scarpa da barca, rendendola un'alternativa moderna al mocassino classico o alla sneaker nera, ideale per chi cerca un look minimale ma ricco di storia artigianale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca in pelle total black, a meta tra casual quotidiano e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

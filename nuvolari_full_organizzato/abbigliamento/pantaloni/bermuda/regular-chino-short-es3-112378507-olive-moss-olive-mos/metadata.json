@@ -27,5 +27,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/regular-chino-short-es3-112378507-olive-moss-olive-mos",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura denim americana, la robustezza dei capi di matrice workwear e il comfort del casualwear contemporaneo si fondono armoniosamente nella collezione di\nbermuda uomo Lee\n. Fondato nel 1889 in Kansas, il brand pioniere dell'abbigliamento da lavoro ha ridefinito il guardaroba maschile, traducendo la leggendaria resistenza dei suoi jeans in pantaloncini corti estivi capaci di coniugare una solidità strutturale impeccabile a linee versatili e dallo spiccato sapore urban-lifestyle.\nDesign, Costruzione e Caratteristiche Principali\nIl Classico 5 Tasche e l'Eredità Denim\n: Vero e proprio pilastro delle collezioni estive, il bermuda in jeans Lee riprende fedelmente l'architettura dei celebri pantaloni lunghi del brand. Presenta l'inconfondibile design a cinque tasche, le classiche cuciture a \"S\" (Lazy S) sulle tasche posteriori a forma di vanga e l'iconica patch in pelle logata applicata sul girovita, siglando l'autenticità dell'heritage americano.\nInfluenze Workwear e Dettagli Utility\n: Oltre ai modelli tradizionali, la linea esplora silhouette d'ispirazione utility e carpenter. Pantaloncini arricchiti da tasche laterali porta-attrezzi, passanti rinforzati e impunture a contrasto che celebrano le radici industriali del marchio, offrendo al contempo una funzionalità estrema per la vita cittadina.\nTessuti Premium e Cotone Sostenibile\n: Fedele alla sua tradizione manifatturiera orientata alla massima solidità, Lee utilizza denim di altissima qualità e robusti twill di cotone, integrando spesso fibre elasticizzate (stretch) per garantire una totale libertà di movimento. Gran parte della produzione impiega cotone biologico e filati riciclati per un minore impatto ambientale.\nLavaggi Autentici e Palette Cromatica\n: Le colorazioni raccontano la storia del jeanseria mondiale: dal blu indaco grezzo e scuro (raw) ai lavaggi vintage delavé, fino agli scolorimenti estremi tipici del bleached denim. Le varianti in twill esplorano invece l'estetica casual con tonalità della terra come il sabbia, il verde militare, il fango e il classico blu navy.\nIdee di Stile: Costruisci il Tuo Look Denim & Street\nAuthentic Denim Heritage Look\n: Esalta l'anima autentica e vintage del brand creando una combinazione classica ed intramontabile. Abbina un bermuda in jeans Lee con lavaggio medio alla solidità di una\nt-shirt uomo\nLee con maxi logo grafico o heritage sul petto, completando il cerchio con una sneaker in tela o in morbida pelle bianca.\nUrban Utility Uniform\n: Per le tue giornate in città o per il tempo libero, gioca sui contrasti strutturati inserendo il capo in un contesto di grande carattere. Scegli un bermuda Lee modello cargo o carpenter in tonalità verde oliva e accostalo alla precisione costruttiva di una polo uomo G-Star RAW scura, chiudendo l'outfit con una scarpa tecnica ad alto spessore.\nContemporary Summer Refresh\n: Smorza la matrice puramente casual o workwear del pantaloncino unendo la freschezza del cotone americano alla nobiltà delle fibre naturali. Indossa un bermuda in twill sabbia sotto la precisione lineare e ariosa di una delle freschissime\ncamicie uomo\nin lino fiammato bianco, lasciandola leggermente sbottonata per un look disinvolto da aperitivo.\nSperimenta la perfetta sintesi tra il comfort quotidiano estivo e la leggendaria storia del denim americano. Scegli la consistenza dei materiali premium, la stabilità strutturale dei tagli e l'attitudine inconfondibile dei bermuda uomo firmati Lee.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda chino in cotone, capo estivo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-es3-polline-kak-caf-khaki-caffe",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo Nuvolari Polline Kak/Caf\nrappresenta il capospalla ideale per affrontare la transizione stagionale con stile, dinamismo e la massima versatilità. Contraddistinto da un'intelligente anima double-face che accosta una raffinata tonalità kaki a un caldo color caffè, questo giubbotto con cappuccio unisce tessuti tecnici protettivi a una linea urban e contemporanea, perfetta per l'uomo che ama ottimizzare il proprio guardaroba.\nDesign e Caratteristiche Principali\nCappuccio Fisso Avvolgente\n: Dotato di un ampio e confortevole cappuccio integrato che offre un'ottima protezione da vento e piogge improvvise, mantenendo intatta la sua linea pulita.\nChiusura Centrale con Zip Termosaldata\n: La parte frontale è percorsa da una robusta cerniera a contrasto scuro dotata di cursore singolo, che assicura una chiusura fluida e una maggiore resistenza agli agenti atmosferici.\nTasche Laterali con Cerniera\n: Integra due tasche scaldamani inserite nei fianchi, dotate di una chiusura a zip sottile e minimalista, ideali per custodire gli oggetti personali in totale sicurezza.\nBordi Elastici in Maglia\n: Il fondo del giubbotto e i polsini sono rifiniti con una morbida fascia elastica costinata in tinta, che stabilizza il capo sui fianchi e impedisce gli spifferi d'aria, sigillando il calore corporeo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento con cappuccio e bordi elastici, stile urban casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

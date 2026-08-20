@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k1309-dk-airforce-738",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nMaglia in cotone Uomo Fred Perry in Piqué (K1309): L'Icona Casual\nIl maglione girocollo\nFred Perry K1309\nincarna l'essenza dello stile sportivo e casual del brand. Realizzato con lo stesso tessuto piqué di alta qualità delle iconiche polo, questo capo offre un mix perfetto di comfort e stile, ideale per completare il tuo look quotidiano con un tocco di eleganza senza tempo.\nTessuto in Piqué di Cotone:\nLa trama distintiva in piqué, morbida e traspirante, offre un comfort eccezionale e una sensazione piacevole sulla pelle. È un tessuto robusto ma leggero, perfetto per le mezze stagioni.\nVestibilità Regular:\nLa vestibilità regolare (regular fit) è pensata per offrire il massimo comfort, seguendo la silhouette del corpo senza stringere.\nDettagli Iconici:\nIl maglione presenta un classico\ngirocollo relaxed\ne rifiniture a coste su polsini e orlo, che garantiscono una vestibilità stabile e curata.\nLogo con Corona d'Alloro:\nSul petto, non può mancare l'iconico\nlogo con la corona d'alloro ricamato\n, simbolo di autenticità e qualità del marchio Fred Perry.\nVersatilità e Stile\nIl maglione Fred Perry K1309 è un capo versatile che si abbina facilmente a ogni outfit. Indossalo sopra una camicia per un look smart-casual, oppure abbinalo a dei jeans o chino per un look più rilassato e street. La sua estetica pulita e sportiva lo rende un'ottima scelta per ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: K1309 DK AIRFORCE-738",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone piqué, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

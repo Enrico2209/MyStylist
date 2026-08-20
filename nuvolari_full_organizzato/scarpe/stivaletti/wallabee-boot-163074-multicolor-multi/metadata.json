@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "scarpe/stivaletti/wallabee-boot-163074-multicolor-multi",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStivaletto Stringato da Uomo\r\nScala Taglie US\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nStivaletto Uomo Clarks modello Wallabee Boot - Multicolor\nSilhouette strutturata\nLinee pulite e semplici\nSuola in crêpe\nMateriale superiore: Pelle scamosciata\nMateriale rivestimento: Nabuk\nScala Taglie US",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Polacchino scamosciato iconico, si colloca perfettamente nello smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

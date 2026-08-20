@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-chino-nuvolari-030-james-nero",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "Descrizione\nPantalone chino uomo a vita media dalla vestibilità slim, per un look contemporaneo e raffinato alla moda senza rinunciare al comfort, grazie al tessuto in cotone elasticizzato. Modello James firmato Nuvolari disponibile anche in\nsalvia\n,\ntopo\ne\nblu\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone chino uomo Nuvolari modello SE 030 James - Nero\nVita media\nChiusura con lampo e bottone logato\nDue tasche frontali\nDue tasche posteriori chiusura con bottone\nEtichetta logo applicata sulla tasca posteriore\nPatch logo applicata sulla vita posteriormente\nVestibilità Slim Fit\nComposizione: 97% Cotone, 3% Elastane\nMade in Italy\nIl modello è alto 1.83 e indossa la taglia 46",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "salvia",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-nuvolari-se-030-james-salvia-salvia.html"
+    },
+    {
+      "testo": "topo",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-nuvolari-se-030-james-topo-topo.html"
+    },
+    {
+      "testo": "blu",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-nuvolari-se-030-james-blu-blu.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit in cotone, perfetto per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

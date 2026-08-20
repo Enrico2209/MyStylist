@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-chino-proj3ct-hornet-siena",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantalone chino cavallo basso da uomo con 4 tasche, orlo sfilacciato e dalla vestibilità regular fit. Pantalone in cotone stretch per un look street moderno, dinamico e confortevole. Completa l'outfit con la\nfelpa girocollo Soho navy\ndi Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone chino uomo Proj3ct modello Hornet - Siena\nPantalone chino cavallo basso\nChiusura con zip\nQuattro tasche\nFondo sfilacciato\nVestibilità regular fit\nComposizione: 97% cotone, 3% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa girocollo Soho navy",
+      "categoria_url": "https://www.nuvolari.biz/felpa-girocollo-proj3ct-soho-navy.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Chino con cavallo basso e fondo sfilacciato, consigliato con felpa",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/w-jeans-kd8811-earst-stoc-earst-sto",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo stile street iconico incontra l'attitudine sportiva nei\nJeans Donna Adidas Originals KD8811 in Denim\n, un capo dal taglio moderno realizzato in tessuto denim e firmato dall'inconfondibile logo trifoglio Adidas Originals.\nDesign e Caratteristiche Principali\nDenim di Qualità:\ntessuto resistente e strutturato dalla mano compatta, un classico intramontabile del guardaroba urbano.\nNuance Denim Blu:\nuna versatile tonalità blu denim dal lavaggio moderno, facile da abbinare a ogni look.\nLogo Trifoglio Signature:\nl'inconfondibile trefoil Adidas Originals firma il capo, simbolo di autenticità del brand.\nIconiche Tre Strisce:\nle tre bande a contrasto lungo le gambe donano un tocco sportivo e riconoscibile.\nVestibilità Moderna:\nsilhouette attuale e comoda, perfetta per un look dinamico dal mood athleisure.\nIdee di Stile: Linka il Tuo Outfit\nStreet Casual:\nabbina i jeans a una\nt-shirt donna\ne sneakers per un look urbano dinamico.\nSporty Chic:\ncompletali con un\ngiubbotto donna\ndenim per un total look street.\nLayering Athleisure:\nindossali con una\nfelpa donna\nper uno stile comodo e attuale.\nAggiungi un tocco street iconico al tuo guardaroba con i Jeans Adidas Originals KD8811 in Denim. Acquistali ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    },
+    {
+      "testo": "giubbotto donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.3,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "Pantalone stile tuta con coulisse, elastico in vita e bande laterali, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "animalier"
+  }
 }

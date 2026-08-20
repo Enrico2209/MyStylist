@@ -20,5 +20,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-propaganda-ribs-snake-prfe787-nero-01",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Propaganda Hood Ribs Snake Nero\nFelpa\nPropaganda con cappuccio, realizzata in\ncotone 100%\nMade in Italy. Presenta una stampa serigrafica su fronte e retro, tasca a marsupio e coulisse al collo. I dettagli includono polsini e vita a costine e una label personalizzata sul lato sinistro.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: PRFE787 NERO-01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica streetwear molto vistosa sul retro",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

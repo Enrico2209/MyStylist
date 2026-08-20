@@ -19,5 +19,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/w-fusbett-sandal-hc-bio502-cow-cow",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl fascino rustico del country chic si fonde con lo spirito contemporaneo dello stile urban in un sandalo audace e di grande personalità. Realizzato in cavallino con stampa animalier, questo modello a doppia fascia con fibbie in metallo è perfetto per chi ama distinguersi con grinta e stile. Ideale con outfit in total denim e dettagli western per un look da vera intenditrice, ma anche perfetto per spezzare abiti ampi, fantasiosi o monocromatici. Di sera, dona un twist inaspettato a completi formali dal taglio maschile.\nTomaia\n: 100% cavallino\nFodera\n: 100% PU\nSottopiede\n: 100% pelle scamosciata\nSuola\n: 100% EVA\nConsiglio taglia\n: se sei indecisa tra due numeri, scegli il più grande\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nTomaia\n: 100% cavallino\nFodera\n: 100% PU\nSottopiede\n: 100% pelle scamosciata\nSuola\n: 100% EVA\nConsiglio taglia\n: se sei indecisa tra due numeri, scegli il più grande",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.1,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "sandalo tipo fusbett/ciabatta, calzatura aperta estiva informale",
+    "season": "estate",
+    "pattern": "animalier"
+  }
 }

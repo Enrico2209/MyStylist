@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/hold-my-gaze-ts-i036582-white-02-67",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa T-Shirt Hold My Gaze è l'essenziale del guardaroba quotidiano che unisce comfort e carattere. Realizzata in morbido single jersey, questa maglietta offre una sensazione di estrema piacevolezza sulla pelle, rendendola ideale per un uso prolungato in ogni stagione.\nQuesta t-shirt si distingue per il suo equilibrio perfetto tra semplicità e dettaglio. Il tessuto leggero ma strutturato garantisce una traspirabilità ottimale, mentre la stampa sul petto aggiunge quel tocco di personalità necessario per elevare un look basic. È il capo versatile per eccellenza, capace di adattarsi con naturalezza sia sotto una giacca tecnica che indossato da solo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I036582 WHITE-02.67",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica artistica e vestibilità regular, tipico capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

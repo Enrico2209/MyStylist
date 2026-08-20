@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-es3-vivid-cactus-374",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Pantalone Chino Uomo Nuvolari Vivid è un capo d'avanguardia che ridefinisce il concetto di comfort estivo. Grazie alla sua ricercata miscela di Lyocell (51%), Lino (27%) e Cotone (22%), questo modello offre una leggerezza e una freschezza ineguagliabili, unite a una caduta del tessuto fluida e sofisticata.\nL'Innovazione delle Fibre Naturali\nPerché sceglierlo\nIl modello Vivid è la scelta definitiva per chi non vuole rinunciare all'eleganza nemmeno nelle giornate più calde. La prevalenza di Lyocell (una fibra ecologica derivata dal legno) conferisce al pantalone una mano setosa e una grande capacità di gestione dell'umidità, mentre il Lino garantisce massima traspirabilità e la tipica texture fiammata. Il Cotone completa il mix donando struttura e resistenza al capo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n51% lyocell, 27% lino, 22% cotone\nVestibilità regular\nCodice articolo:ES3 VIVID CACTUS-374",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con pinces in misto lino e lyocell, taglio smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

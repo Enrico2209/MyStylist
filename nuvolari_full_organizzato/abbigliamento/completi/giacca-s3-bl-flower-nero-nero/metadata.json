@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/completi/giacca-s3-bl-flower-nero-nero",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nGiacca Uomo Nuvolari Flower\nè un capo sartoriale contemporaneo che unisce una costruzione strutturata a dettagli distintivi, ideale per occasioni formali o per elevare un look casual-business.\nCaratteristiche di Design e Taglio\nCostruzione Monopetto:\nLa giacca presenta una chiusura classica a\ndue bottoni\nscuri, che assicura una linea pulita e proporzionata.\nRever a Lancia:\nIl collo è rifinito con rever a lancia di ampiezza media, decorato sul lato sinistro dall'iconica\nspilla a forma di fiore\n, dettaglio firma che dà il nome al modello.\nConfigurazione Tasche:\nDispone di una tasca a filetto sul petto e due tasche laterali con patta, mantenendo un'estetica tradizionale e funzionale.\nDettagli sulle Maniche:\nI polsini sono rifiniti con quattro bottoni sovrapposti, un tocco di eleganza sartoriale tipico della maglieria e confezione Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "elegante": 0.9
+    },
+    "formality": 4,
+    "formality_perche": "giacca sartoriale monopetto elegante",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

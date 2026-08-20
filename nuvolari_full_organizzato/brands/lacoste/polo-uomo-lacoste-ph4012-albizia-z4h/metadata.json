@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/polo-uomo-lacoste-ph4012-albizia-z4h",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Polo Lacoste Slim Fit è l'erede contemporanea della leggenda nata nel 1933. Se la L.12.12 ha inventato lo sportswear moderno, la versione Slim Fit ne rielabora il mito per l'uomo di oggi, unendo una storia fatta di eccellenza artigianale a una silhouette affilata e impeccabile che esalta la figura con estrema precisione.\nLacoste PH4012 L'Icona Sartoriale in Piqué\nPerché sceglierla\nIl punto di forza della\nPH4012\nrisiede nel perfetto equilibrio tra\ntradizione e vestibilità\n. Caratterizzata da un taglio aderente che segue le linee del corpo senza costringerle, questa polo valorizza il busto e le spalle, offrendo un aspetto ordinato e sofisticato. Ogni capo è un concentrato di precisione tecnica: dalla scelta del filato alla cura maniacale per i dettagli, rappresenta lo standard aureo del guardaroba casual-luxury.\nDettagli Tecnici e Design\nPetit Piqué di Cotone\n: La classica trama a nido d'ape di Lacoste, celebre per la sua resistenza e per la capacità di mantenere la freschezza nel tempo.\nCostruzione di Alta Qualità\n: Ogni polo racchiude oltre\n12 miglia di filo\n, garantendo una struttura solida e una durata pluriennale.\nIl Coccodrillo Leggendario\n: L'iconico logo sul petto non è solo applicato, ma\nricamato con 2367 punti\n, segno inconfondibile di un'attenzione al dettaglio che non accetta compromessi.\nVestibilità Slim Fit\n: Maniche più corte e giromanica più stretto per un look moderno, pulito e sartoriale, ideale per essere indossata anche sotto un blazer.\nColletto e Bordi a Costine\n: Finiture elasticizzate che mantengono la forma originale lavaggio dopo lavaggio.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità SLIM\nCodice articolo:PH4012",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, vestibilità slim fit che alza leggermente il tono",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

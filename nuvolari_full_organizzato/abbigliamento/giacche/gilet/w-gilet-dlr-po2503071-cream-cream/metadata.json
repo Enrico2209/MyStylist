@@ -22,5 +22,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/gilet/w-gilet-dlr-po2503071-cream-cream",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGilet Donna Haylis\nIl gilet da donna Haylis è il capo perfetto per la mezza stagione o come strato aggiuntivo sotto un cappotto più pesante, combinando praticità e stile moderno.\nImbottitura:\nun capo invernale in poliestere, per un isolamento termico efficace e un'asciugatura rapida\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: DLR-PO2503071 CREAM-CREAM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "gilet in pile/orsetto con bottoni, capo casual da stratificazione quotidiana",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

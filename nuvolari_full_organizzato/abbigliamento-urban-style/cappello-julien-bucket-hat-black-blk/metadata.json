@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-urban-style/cappello-julien-bucket-hat-black-blk",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\ncappello bucket da uomo Obey Julien\nin colore\nBlack\nè l’accessorio perfetto per completare i tuoi outfit con un tocco streetwear autentico. Realizzato con materiali di qualità e impreziosito dall’iconico logo Obey, unisce stile e praticità. Perfetto per le giornate primaverili soleggiate o per aggiungere un dettaglio distintivo al tuo look urbano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "cappello bucket di marca streetwear, accessorio prettamente informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

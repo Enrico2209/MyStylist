@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/lumina-t-shirt-lc260359-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica contemporanea del fast-fashion italiano, la spiccata sensibilità verso i trend di stagione e il concetto di dinamismo metropolitano si incontrano nelle collezioni di\nt-shirt donna Lumina\n. Conosciuto per la sua capacità di catturare l'essenza dello stile urban ed \"effortless chic\", il brand propone magliette nate per adattarsi fluidamente ai ritmi intensi della giornata, coniugando freschezza visiva, comfort e una straordinaria versatilità di abbinamento.\nDesign, Silhouette e Caratteristiche Principali\nGeometrie Calibrate e Tagli di Tendenza\n: Le t-shirt firmate Lumina si sviluppano su diverse silhouette pensate per valorizzare ogni fisicità. Le collezioni spaziano dalle classiche vestibilità slim e aderenti, perfette come basi sottogiacca strutturate, fino alle più moderne linee boxy e ai tagli relaxed oversize d'ispirazione street con maniche ampie e spalle scese.\nFilati Freschi e Leggeri in Cotone e Viscosa\n: Per garantire morbidezza, traspirabilità e una caduta fluida sul corpo, il brand seleziona tessuti freschi come il puro cotone, il jersey leggero e morbidi blend di viscosa o modal. Questi materiali assicurano un comfort totale da mattina a sera e un'ottima resistenza all'uso quotidiano.\nDettagli di Carattere e Grafiche d'Impatto\n: L'anima creativa di Lumina emerge nella cura dei particolari. Accanto ai modelli minimali a tinta unita, spiccano t-shirt impreziosite da scritte ricamate in corsivo, macro stampe grafiche di ispirazione college o rétro, applicazioni di strass lucidi, profili con micropaillettes e colletti a coste finemente lavorati.\nTonalità di Stagione e Palette Versatili\n: La gamma cromatica accosta ai pilastri fondamentali del guardaroba (come il bianco ottico, il nero profondo, il nudo e il grigio melange) accenti di colore vibranti in linea con le ultime tendenze, offrendo un ventaglio di opzioni ideale per rinfrescare i look quotidiani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.7
+    },
+    "formality": 3,
+    "formality_perche": "Camicetta/top in pizzo con bottoni e peplo, molto piu formale di una t-shirt classica nonostante il titolo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

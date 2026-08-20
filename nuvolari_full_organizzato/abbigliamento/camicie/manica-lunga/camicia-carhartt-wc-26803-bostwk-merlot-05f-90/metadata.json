@@ -18,5 +18,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-carhartt-wc-26803-bostwk-merlot-05f-90",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Bostwick maniche lunche firmata Carhartt. Clicca\nqui\nper scoprire l'intera collezione selezionata per te da Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia Carhartt modello L/S BOSTWICK 26803\nCollo button-down\nUna tasca sul petto\nEtichetta a bandierina sul taschino\nComposizione: 100% flanella di twill di cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "qui",
+      "categoria_url": "https://www.nuvolari.biz/%20https:/www.nuvolari.biz/brands/carhartt-wip?product_list_limit=48"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia in flanella di cotone a quadri, stile workwear/streetwear di Carhartt",
+    "season": "inverno",
+    "pattern": "quadri"
+  }
 }

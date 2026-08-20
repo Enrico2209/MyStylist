@@ -24,5 +24,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/gas-bermuda-370247100082-baritone-blue-4706",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Gas Baritone Blue\nrappresentano un'interpretazione pulita, versatile e profondamente estiva dei classici shorts in tessuto, ideali per chi cerca un'alternativa raffinata ma informale al denim tradizionale. Tinti in una ricca e profonda tonalità blu notte (\"Baritone Blue\"), questi pantaloncini corti uniscono una struttura lineare d'ispirazione chino alla praticità dei dettagli contemporanei, posizionandosi come un vero pilastro stilistico per la bella stagione.\nDesign e Caratteristiche Principali\nTessuto in Gabardine di Cotone Elasticizzato\n: Confezionati in un twill di cotone leggero e fresco, arricchito da una componente elastica che garantisce comfort assoluto e massima libertà di movimento anche durante le calde giornate estive. Il trattamento in capo dona una mano morbida e stabilità ai lavaggi.\nArchitettura Essenziale in Stile Chino\n: Il design anteriore è caratterizzato da linee essenziali e rigorose, prive di pinces, che valorizzano la pulizia del pannello frontale. Presenta tasche laterali oblique a filo (slash pockets) d'impronta sartoriale, con un taschino portamonete nascosto inserito sul lato destro.\nChiusura e Dettagli Funzionali\n: La chiusura in vita è affidata a una patta con cerniera metallica e a un bottone a chiodo centrale scuro personalizzato con il logo del brand. Passanti robusti e proporzionati delineano la cintura per l'alloggio di accessori.\nFiniture Interne di Qualità\n: La parte interna della vita è foderata e rinforzata con una fettuccia parasudore strutturata a righe verticali bianche e blu, un dettaglio tecnico che assicura stabilità alla vestibilità e comfort sulla pelle.\nSilhouette Regular-Fit Bilanciata\n: Il taglio scende lineare e regolare lungo la coscia senza stringere, terminando con un fondo dritto ben rifinito che si posiziona appena sopra il ginocchio per una linea slanciata ed elegante.\nProposta di Outfit\nTotal Marine Smart Look\n: Abbinalo a una\npolo\npiqué bianca con profili blu a contrasto; il richiamo simmetrico tra il candore ottico della maglia e la profondità blu navy del bermuda strutturerà un outfit nautico estivo classico, nitido e ordinato.\nContemporary Preppy Layering\n: Portalo in abbinamento a una\nt-shirt\nbianca o avorio minimalista e sovrapponi una\ncamicia\na righe verticali azzurre lasciata completamente aperta; l'unione tra il cotone scuro e le sfumature pastello superiori conferirà al look dinamismo e una ricercata freschezza urbana.\nVibrant Energy Contrast\n: Indossalo insieme a una\npolo\npiqué verde menta brillante; la saturazione e la vivacità del verde romperanno la sobrietà del blu scuro, creando un contrasto estivo energico ed equilibrato, perfetto per un aperitivo o per il tempo libero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda stile chino in cotone leggero, capo estivo informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

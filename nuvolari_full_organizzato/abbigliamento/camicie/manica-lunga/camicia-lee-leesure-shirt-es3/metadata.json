@@ -18,5 +18,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-lee-leesure-shirt-es3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE LEESURE SHIRT MD STRIP: CARATTERE E STILE ICONICO\nQuesta camicia a maniche lunghe reinterpreta un grande classico del guardaroba maschile con un design a righe larghe dal forte impatto visivo. La combinazione cromatica tra il grigio antracite e il bianco ottico la rende un pezzo distintivo, capace di elevare istantaneamente qualsiasi outfit casual.\nDesign a Righe Verticali:\nLe ampie bande verticali slanciano la figura e donano un tocco di modernità audace al look quotidiano.\nDettagli Funzionali:\nDotata di un pratico taschino sul petto, rifinito con l'inconfondibile etichetta logo Lee nera e oro.\nCostruzione di Qualità\n: Caratterizzata da un colletto a punta classica e bottoni scuri a contrasto che richiamano le tonalità delle righe.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "camicia a maniche lunghe con colletto classico, ma in tessuto e fantasia casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

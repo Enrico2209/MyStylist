@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-uomo-fred-perry-t5507-lrlwrgreen-ngren-w49",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantalone Tuta Uomo Fred Perry Lrlwrgreen/Ngren\nCaratterizzati dal classico tessuto tricot sportivo, questi pantaloni offrono una vestibilità classica per un look senza tempo. Il girovita elasticizzato con coulisse consente una regolazione personalizzata per una vestibilità ottimale. La particolarità di questi pantaloni risiede nel track tape con la corona d'alloro a contrasto lungo l'esterno della gamba, che conferisce un tocco di eleganza e raffinatezza. I\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n54% Poliestere Riciclato / 46% Cotone\nCodice articolo: T5507 LRLWRGREEN/NGREN-W49",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in tricot con elastico in vita e alle caviglie",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

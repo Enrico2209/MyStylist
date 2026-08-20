@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-sun68-k35118",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa maglia da uomo SUN68 è il perfetto equilibrio tra comfort e stile casual. Realizzata in morbido cotone, offre una vestibilità comoda e versatile, ideale per ogni occasione. Il design essenziale è arricchito dal logo iconico sul petto, dettaglio distintivo del brand.\nPerfetta da abbinare a un paio di\njeans\nper un look rilassato o a pantaloni\nchino\nper un tocco più raffinato. Un capo immancabile nel guardaroba di chi ama lo stile casual con un tocco di eleganza.\nScopri la collezione e rinnova il tuo outfit con SUN68!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: K35118 NAVY BLUE-07",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone fine, adatta a contesti smart casual e abbinabile a chino",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

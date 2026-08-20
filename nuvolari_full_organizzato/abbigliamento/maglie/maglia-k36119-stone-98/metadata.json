@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k36119-stone-98",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa maglia uomo Sun68 in 100% cotone è la scelta perfetta per chi cerca un capo leggero, naturale e versatile, ideale per le stagioni intermedie o per chi preferisce la traspirabilità assoluta della fibra naturale rispetto ai misti lana.\nPuro Cotone Premium: Realizzata integralmente in fibra di cotone di alta qualità, che assicura una sensazione di freschezza sulla pelle e un'ottima gestione dell'umidità corporea.\nLavorazione a Maglia Fine: La tessitura sottile e compatta rende il capo adatto sia a un uso casual che a contesti più formali, mantenendo un profilo elegante e pulito.\nDettagli Iconici: Presenta l'immancabile logo con la croce e il delta ricamato sul petto, spesso in tonalità a contrasto per richiamare lo spirito del brand.\nAbbinala con:\nQuesta maglia è un vero jolly del guardaroba. Può essere indossata sopra una\nt-shirt\nper un look rilassato da weekend, oppure sopra una\ncamicia\nper un outfit da ufficio impeccabile ma non troppo rigido.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:K36119 STONE-98",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia a girocollo in cotone fine, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

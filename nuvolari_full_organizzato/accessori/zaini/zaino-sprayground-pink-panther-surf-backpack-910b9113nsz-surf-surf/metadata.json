@@ -25,5 +25,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-pink-panther-surf-backpack-910b9113nsz-surf-surf",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa simpatia iconica della Pantera Rosa incontra l'energia estiva e la cultura surf nello\nzaino Sprayground modello Pink Panther Surf Backpack\n. Caratterizzato da una vivace grafica a tema californiano con la Pantera Rosa in versione surfer e la celebre Shark Mouth reinterpretata con dettagli estivi, questo accessorio in edizione limitata porta un'ondata di freschezza e stile spensierato nel tuo guardaroba urban.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Confezionato in robusta ecopelle di prima qualità, resistente all'acqua, alle macchie e all'usura quotidiana per proteggere al meglio tutti i tuoi effetti personali.\nGrafica Esclusiva Pink Panther x Sprayground Surf\n: Un'originale stampa illustrata che unisce il leggendario personaggio rosa con elementi da spiaggia, tavole da surf e l'immancabile motivo a bocca di squalo sul lato.\nScomparti Organizzati e Funzionali\n: Dotato di uno scomparto interno imbottito per laptop fino a 15\", tasca superiore in velluto per occhiali da sole, tasche laterali a fessura e tasca di sicurezza con zip nascosta sullo schienale.\nComfort e Praticità di Trasporto\n: Schienale ergonomico con imbottitura in rete traspirante, spallacci regolabili imbottiti e fascia posteriore \"slide-through\" per agganciarlo comodamente al manico del trolley.\nIdee di Stile: Costruisci il Tuo Look Summer Streetwear & Casual\nSummer Streetwear & Beach Vibe\n: Fai risaltare la grafica vivace dello zaino accostandolo a una\nt-shirt uomo\nessenziale o grafica, a un paio di\nbermuda uomo\nin cotone o denim e a delle\nsneakers uomo\nleggere.\nUrban Active & Travel Mood\n: Perfetto compagno per i viaggi, l'università o il tempo libero quotidiano, indossalo con una felpa confortevole e dei\njeans uomo\ndal taglio rilassato.\nLayering per le Mezze Stagioni\n: Durante le serate estive più ventilate o nelle mezze stagioni, completa l'outfit sovrapponendo una giacca leggera dalla nostra selezione\ngiubbotti uomo\n.\nCavalca l'onda dello stile con un accessorio unico e ricco di personalità. Scegli la capienza, la praticità e il design estivo inconfondibile dello zaino Sprayground Pink Panther Surf.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro con grafica molto vistosa",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -22,5 +22,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/lino/camicia-es2-danbury-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Danbury\nLa\ncamicia\nNuvolari\nè un'opzione elegante e versatile con maniche lunghe. Perfetta per situazioni formali e casual, si distingue per il suo design raffinato adatto a ogni occasione.\nAbbina la camicia ad una\ngiacca\nper un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di\npantaloni chino\nche\nNuvolari\nha pensato per te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: ES2 DANBURY BIANCO-BIANCO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/brands/nuvolari"
+    },
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in lino, versatile tra smart casual ed estivo informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

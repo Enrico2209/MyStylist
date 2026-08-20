@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-collo-francese-camiceria-bellini-exclusive-nuvolari-mercury-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia collo francese da uomo a maniche lunghe firmata Camiceria Bellini in esclusiva per te sul Nuvolari online store. Una camicia in cotone armaturato dalla vestibilità slim fit, perfetta per i tuoi look casual chic sia da ufficio che da tempo libero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia collo francese Camiceria Bellini for Nuvolari modello Mercury - Blu\nManiche lunghe\nTessuto armaturato\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 4,
+    "formality_perche": "Camicia classica con collo francese in cotone armaturato, vestibilità slim fit adatta a contesti formali e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

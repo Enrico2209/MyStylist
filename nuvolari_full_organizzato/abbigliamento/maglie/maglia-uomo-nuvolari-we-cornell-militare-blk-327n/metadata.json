@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-we-cornell-militare-blk-327n",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nCardigan Uomo Nuvolari Cornell Militare/Blk\nCardigan uomo Nuvolari modello Cornell in colore Militare/Black, con chiusura centrale a bottoni, manica lunga, polsini e girovita a costina, toppe sui gomiti, vestibilità regular.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n70% Viscosa, 30% Nylon\nCodice articolo: WE CORNELL MILITARE/BLK-327N",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "cardigan classico con bottoni, vestibilita regular, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

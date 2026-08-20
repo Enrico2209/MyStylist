@@ -26,5 +26,21 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/ventoux-pique-polo-es3-k1125fw-beige-lt-634",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza raffinata dello stile preppy, la morbidezza delle fibre naturali d'alta qualità e i distintivi dettagli grafici d'ispirazione urban si fondono nella\npolo uomo K-Way modello Ventoux Pique Beige\n. Il celebre brand parigino reinterpreta un grande classico del guardaroba casual maschile attraverso un design d'impatto e pulito, ideale per chi ricerca un look estivo versatile, fresco e curato nei minimi particolari per il tempo libero in città o i weekend fuori porta.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Cotone Piquet Leggero\n: Il capo è interamente confezionato in jersey di puro cotone con lavorazione piquet, selezionato per offrire la massima traspirabilità e una costante sensazione di freschezza sulla pelle. La caratteristica trama a micro-rilievi favorisce la circolazione dell'aria, rendendo la polo ideale per le giornate più calde.\nLa Nuance Beige Sabbiato e i Contrasti Scusi\n: Il corpo della maglia si sviluppa su una tonalità beige chiaro, neutra, chic e facilissima da abbinare. A contrasto con la base chiara spicca il colletto a camicia declinato in una tonalità blu scuro/navy, un blocco di colore elegante ripreso anche dal sottile profilo che rifinisce il bordo delle maniche corte.\nDettagli di Branding Minimal K-Way\n: Sul petto, lato cuore, è applicato con discrezione il classico ed iconico logo K-Way in silicone bianco. Questa finitura minimalista si inserisce in modo equilibrato nel design pulito del modello, garantendo l'immediata riconoscibilità del brand.\nPatta Essenziale e Vestibilità Calibrata\n: Il colletto è completato da una patta frontale lineare con chiusura a due bottoni chiari a contrasto. Tagliata su una silhouette regular fit ben proporzionata, la polo scivola morbida lungo i fianchi offrendo un comfort ottimale e assecondando ogni movimento con assoluta disinvoltura.\nIdee di Stile: Costruisci il Tuo Look Yacht Club & Smart Casual\nRiviera Smart-Casual Transition\n: Struttura un outfit estivo sofisticato e rilassato, perfetto per un aperitivo al tramonto o una cena informale sul lungomare. Abbina la polo beige a un paio di bermuda uomo o pantaloni lunghi in lino leggero nelle tonalità del bianco ottico o del panna. Completa la combinazione ai piedi con i dettagli classici dei mocassini uomo Sun68 o con la leggerezza delle calzature Heydude.\nUrban Active Layering con Tocco Pop\n: Crea un interessante gioco di contrasti cromatici e stratificazioni ideato per i momenti di brezza serale in città. Indossa la polo sopra la fantasia a micro-quadretti del costume uomo K-Way Hazel Check Beach White-Blue e porta sulle spalle l'energia solare del tracktop uomo K-Way Jack Stretch Dot Red Jasper, unendo la pulizia dei toni neutri a un accento energico.\nMetropolitan Utility Uniform\n: Adotta un look streetwear solido, comodo e bilanciato, perfetto per i viaggi o gli spostamenti quotidiani. Accosta la polo piquet alla linea relaxed e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro. Indossa sul petto il marsupio K-Way Fericy Blue Depth cross-body e rifinisci il tutto con la suola scultorea di sneakers tecniche come le Asics GEL-NYC o New Balance.\nSperimenta la perfetta sintesi tra la traspirabilità della tradizione tessile sportiva e l'eleganza intramontabile dei contrasti cromatici a blocco. Scegli la delicatezza della tonalità beige, la cura delle finiture in costina e l'inconfondibile attitudine casual della polo uomo firmata K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Polo classica di marchio sportivo/outdoor, tetto di formalità limitato a 2",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

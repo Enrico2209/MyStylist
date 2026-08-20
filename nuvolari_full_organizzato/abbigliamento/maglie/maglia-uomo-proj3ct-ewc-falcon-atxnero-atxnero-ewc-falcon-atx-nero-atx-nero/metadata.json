@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-uomo-proj3ct-ewc-falcon-atxnero-atxnero-ewc-falcon-atx-nero-atx-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Proj3Ct Ewc Falcon Atx/Nero\nMaglia\ngirocollo Project da uomo, classica e confortevole, con bordi a costine e linea pulita, ideale per look quotidiani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica, ideale per look quotidiani e smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-hw2295-tennis-dep-58b",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage d'archivio e l'eleganza dello sportswear britannico si esprimono al meglio nella collezione di\ncappelli Fred Perry\n. Accessori essenziali per completare qualsiasi look casual o streetwear, i cappelli del brand uniscono un design essenziale e pulito a materiali di alta qualità, strutturati per offrire comfort, traspirabilità e una vestibilità impeccabile in ogni stagione.\nDesign, Materiali e Caratteristiche Costruttive\nMateriali di Qualità Premium\n: Realizzati nei tessuti simbolo della tradizione Fred Perry — dal classico piqué di cotone traspirante al resistente twill di cotone —, garantiscono un'ottima tenuta di forma e massima durevolezza.\nIconica Corona d'Alloro Ricamata\n: Il pannello frontale è impreziosito dal ricamo ad alta definizione della leggendaria Corona d'Alloro, marchio di fabbrica e simbolo inconfondibile di stile d'oltremare.\nStruttura Classica e Visiera Curva\n: Caratterizzati da una costruzione ben bilanciata a pannelli con occhielli di aerazione e una visiera pre-curvata dall'attitudine dinamica e retro-sportiva.\nVestibilità Regolabile\n: Dotati di cinturino posteriore regolabile con fibbia metallica personalizzata, assicurano una calzata su misura e il massimo comfort per tutta la giornata.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nCasual & Streetwear Uniform\n: Utilizza il cappello come elemento chiave per dare carattere a un outfit quotidiano. Abbinalo alla freschezza di una\nt-shirt uomo\ne alla versatilità di un paio di\njeans uomo\n, completando il look con il design dinamico delle ultime proposte di\nsneakers uomo\n.\nSmart Casual & Leisure Style\n: Per un weekend informale o il tempo libero nelle mezze stagioni, accosta l'accessorio alla praticità di un capospalla leggero della collezione\ngiubbotti uomo\n, oppure alla freschezza di un paio di\nbermuda uomo\n.\nSummer & Resort Mood\n: Perfetto per proteggersi dal sole nelle giornate estive o in spiaggia, portalo sempre con te coordinandolo con i capi della selezione\ncostumi uomo\n.\nAggiungi un dettaglio d'archivio inconfondibile ai tuoi outfit metropolitani. Scegli la qualità dei tessuti, la praticità della struttura regolabile e l'intramontabile fascino della Corona d'Alloro con i cappelli firmati Fred Perry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, accessorio tipicamente casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

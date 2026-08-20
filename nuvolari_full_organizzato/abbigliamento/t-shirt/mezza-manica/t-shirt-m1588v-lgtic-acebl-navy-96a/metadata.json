@@ -23,5 +23,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-m1588v-lgtic-acebl-navy-96a",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'autentico spirito dello sportswear d'oltremanica e l'estetica leggendaria legata alle subculture musicali e urbane si fondono nella collezione di\nt-shirt uomo Fred Perry\n. Da decenni pilastro indiscusso del guardaroba casual internazionale, ogni t-shirt del brand rappresenta la perfetta sintesi tra un design minimalista, la cura rigorosa dei dettagli tessili e quell'inconfondibile attitudine British, ideale per chi desidera un look versatile, contemporaneo e ricco di storia.\nDesign, Tessuti e Caratteristiche Costruttive\n100% Cotone Premium\n: Le t-shirt Fred Perry sono interamente realizzate in filati di puro cotone di altissima qualità, selezionati per offrire una straordinaria morbidezza al tatto, un'eccellente traspirabilità e una grande resistenza ai lavaggi e all'usura nel tempo.\nLa Leggendaria Corona d'Alloro\n: Ogni modello è firmato sul petto dall'iconico ricamo ad alta definizione della Corona d'Alloro, simbolo di eccellenza sportiva ed heritage culturale che rende ogni capo immediatamente riconoscibile.\nDettagli di Stile Iconici\n: Dai modelli più puliti e monocromatici alle versioni \"Ringer\" arricchite dal classico dettaglio con doppia riga (tessuto a contrasto sui bordi di collo e maniche), la linea offre finiture elasticizzate in costina che mantengono la forma impeccabile.\nVestibilità Regular e Taglio Contemporaneo\n: Progettate con una silhouette regular fit ben proporzionata, le t-shirt scivolano morbide lungo i fianchi assicurando un comfort ottimale e un'estetica sempre ordinata e slanciata.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nClassic Everyday Uniform\n: Crea un outfit quotidiano solido, pulito e dal fascino squisitamente rétro. Abbina la tua t-shirt Fred Perry preferita alla versatilità intramontabile di un denim dal lavaggio chiaro o medio, esplorando l'assortimento completo di\njeans uomo\n. Completa lo stile ai piedi con il design contemporaneo presente nella nostra selezione di\nsneakers uomo\n.\nSmart Casual Layering\n: Quando il clima si fa più fresco o per un aperitivo informale, gioca con le stratificazioni per un perfetto look street. Indossa la t-shirt come base leggera e strutturata sotto una overshirt aperta o un capospalla d'impatto, scegliendo il tuo modello ideale nella collezione di\ngiubbotti uomo\n.\nEasy-Going Summer Transition\n: Nelle giornate estive o durante i fine settimana di relax all'aperto, adotta uno stile fresco ma estremamente curato nei dettagli. Accosta la t-shirt alla freschezza dei modelli disponibili nell'ampia selezione di\nbermuda uomo\n, oppure portala con te sopra uno dei modelli resistenti ad asciugatura rapida della linea\ncostumi uomo\n.\nSperimenta la perfetta evoluzione della t-shirt casual firmata dal brand della Corona d'Alloro. Scegli la morbidezza del puro cotone, la cura dei dettagli d'archivio e l'inconfondibile attitudine di una collezione che ha scritto la storia dello stile metropolitano internazionale, disponibile nella nostra sezione dedicata alle\nt-shirt uomo\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE T-SHIRT FRED PERRY\n100% cotone\nVestibilità regular\nCodice articolo:M1588V ECRU/DRKCRML/BLK-79B",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica in cotone con bordo a contrasto, capo base casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

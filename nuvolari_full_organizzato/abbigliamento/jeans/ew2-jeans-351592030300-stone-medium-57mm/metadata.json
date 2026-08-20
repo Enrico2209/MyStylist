@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/ew2-jeans-351592030300-stone-medium-57mm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCapo iconico per eccellenza del brand italiano GAS Jeans, noto per la sua esperienza nel denim, le vestibilità perfette e l'attenzione al dettaglio.\r\nQuesti jeans Stone Medium di GAS sono il capo ideale per un look casual e autentico. Il trattamento di lavaggio a pietra li rende subito morbidi e conferisce un colore blu medio-chiaro con effetti sbiaditi, come se fossero stati indossati a lungo. Il lavaggio Stone Medium è uno dei più versatili. È ottenuto sottoponendo il denim al lavaggio con le pietre (pomice) per un periodo di tempo moderato. Il risultato è un colore blu classico con accenti sbiaditi che creano un look vissuto ma pulito e una mano morbida, ideale per l'uso quotidiano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a cinque tasche con lavaggio stone wash, capo base del guardaroba casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

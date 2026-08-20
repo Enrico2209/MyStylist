@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone da uomo Nuvolari nero.\nQuesto comodo pantalone slim fit ha due tasche laterali anteriori, chiusura con zip e bottone e passante per la cinta\nl modello è alto 1.89 e indossa la taglia 48.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone uomo Nuvolari Brian nero\nVestibilità  slim\nComposizione : 70% cotone 30% poliestere\nCodice articolo: WF 8254 BRIAN",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit in misto cotone, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

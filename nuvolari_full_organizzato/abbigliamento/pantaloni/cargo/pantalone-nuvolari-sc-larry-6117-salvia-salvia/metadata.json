@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-nuvolari-sc-larry-6117-salvia-salvia",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Nuvolari LARRY 6117\nPantalone\ncargo firmato Nuvolari modello\nLarry 6117\n, realizzato in tessuto armaturato tinto capo dalla vestibilità tapered. Chiusura con zip e bottone in vita, due tasconi laterali chiusi con doppio bottone a pressione e due tasche posteriori con pattina. Dettaglio fantasia nella fodera delle tasche. 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile workwear/casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-live-fast-prfe215-sword-sword",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nAggiungi un tocco di originalità al tuo stile con la Felpa con Cappuccio Propaganda.\nRealizzata al 100% in cotone sgarzato estivo Made in Italy, questa felpa offre un comfort senza paragoni, perfetto per affrontare le giornate più fresche con stile. La stampa serigrafica audace sul fronte e sul retro cattura l'attenzione con il suo design unico, mentre la tasca a marsupio aggiunge un tocco di praticità. Con la sua coulisse regolabile al collo e la costina ai polsi e in vita, questa felpa è la scelta perfetta per un look casual ma distintivo che non passa inosservato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: PRFE215 SWORD-SWORD",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica streetwear vistosa sul retro",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

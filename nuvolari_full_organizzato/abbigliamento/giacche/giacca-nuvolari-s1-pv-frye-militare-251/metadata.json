@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-nuvolari-s1-pv-frye-militare-251",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiacca Nuvolari Militare\nLa giacca Nuvolari, in verde militare, è una scelta elegante per cerimonie o ambienti formali. Con il suo design raffinato, questa giacca si adatta perfettamente a un look da ufficio o a occasioni speciali, aggiungendo un tocco di classe al tuo outfit.\nAbbina questa giacca  ad una\ncamicia\noppure ad una\nt-shirt\nper ottenere il look perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 70% poliestere 24% Viscosa 6% elastan\nCodice Prodotto: S1 PV FRYE MILITARE-251",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.7
+    },
+    "formality": 4,
+    "formality_perche": "Giacca monopetto destrutturata da completo, adatta a contesti formali e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

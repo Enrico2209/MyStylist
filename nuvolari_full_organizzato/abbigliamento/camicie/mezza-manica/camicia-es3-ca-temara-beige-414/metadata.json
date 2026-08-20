@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-es3-ca-temara-beige-414",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Temara Beige\nreinterpreta il concetto di eleganza rilassata attraverso una colorazione calda, luminosa e naturale, perfetta per valorizzare i look della stagione estiva. Contraddistinta da una pulitissima tonalità panna/off-white (\"Beige\"), questa camicia a maniche corte fonde un taglio resort essenziale a un tessuto dalla texture mossa e tridimensionale, ideale per chi cerca un capo fresco e sofisticato da indossare nelle calde giornate o durante gli aperitivi al tramonto.\nDesign e Caratteristiche Principali\nTessuto in Cotone Crepe Seersucker\n: Realizzato in un filato leggerissimo dalla caratteristica superficie finemente increspata e mossa (seersucker), che oltre a donare una texture tridimensionale evita che il tessuto aderisca completamente alla pelle, massimizzando la freschezza e la traspirabilità.\nIconico Collo Resort (Camp Collar)\n: Il colletto presenta il tradizionale taglio cubano con rever piatto aperto a V e privo del primo bottone superiore, elemento strutturale che definisce una scollatura naturale, casual e d'ispirazione vacanziera.\nEstetica Minimale e Pulita\n: In linea con il design della serie Temara, il fronte si presenta completamente liscio, privo di taschini applicati sul petto o di elementi logati visibili, concentrando l'attenzione visiva sulla purezza della trama materica.\nChiusura Lineare con Bottoni in Tinta\n: La fustella anteriore è scandita da piccoli bottoni bianchi lucidi che si integrano con discrezione sulla base chiara, preservando l'armonia monocromatica ed essenziale del capo.\nManiche Corte dal Taglio Squadrato\n: La costruzione delle maniche corte è caratterizzata da un fit ampio e dritto, studiato per favorire una caduta fluida e scivolata che asseconda i volumi disinvolti della camicia.\nOrlo Inferiore dritto da Fuori-Pantalone\n: Il fondo squadrato e perfettamente lineare è progettato per lasciare la camicia morbida sopra la cintura o per portarla completamente aperta a mo' di sopracamicia leggera.\nProposta di Outfit\nBright Riviera Contrast\n: Portala completamente aperta sopra una canotta chiara e abbinala al\nbermuda\nfluido blu notte con coulisse panna; il netto contrasto visivo tra la luminosità superiore del beige e la solidità marina del fondo crea un ensemble sofisticato e senza tempo.\nContemporary Safari Layering\n: Indossala parzialmente sbottonata sopra una t-shirt basica bianca e abbinala al\npantalaccio\ncargo in cotone fiammato verde oliva scuro, sovrapponendo il\ngiubbotto\nleggero Yaraka Kaki a quattro tasche per un perfetto e strutturato outfit a strati ispirato ai toni della terra.\nSummer Dark Contrast\n: Abbinala abbottonata a un\nbermuda\nregular marrone scuro con coulisse panna, giocando sul bilanciamento cromatico tra la tonalità sabbia della camicia e l'intensità cioccolato del fondo per un look estivo minimale e moderno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo resort in cotone seersucker, taglio rilassato da portare fuori dai pantaloni",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

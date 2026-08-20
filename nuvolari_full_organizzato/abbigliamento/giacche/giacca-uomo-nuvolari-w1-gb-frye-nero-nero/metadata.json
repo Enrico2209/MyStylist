@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-uomo-nuvolari-w1-gb-frye-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nGiacca Uomo Nuvolari Frye Nero\nLa\ngiacca\nda uomo Nuvolari, pensata per occasioni eleganti e cerimonie, offre uno stile raffinato e sofisticato. Caratterizzata da un taglio classico, si abbina perfettamente a completi formali, garantendo un look impeccabile e senza tempo. Realizzata con tessuti pregiati, è l'ideale per eventi speciali e occasioni formali.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nVedi pantalone coordinato per questa giacca\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% cotone, 50% POliestere\nCodice articolo: W1 GB FRYE NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Vedi pantalone coordinato per questa giacca",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-uomo-nuvolari-w1-manik-nero-nero.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.7
+    },
+    "formality": 4,
+    "formality_perche": "Blazer/giacca monopetto classica, adatta a contesti formali e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

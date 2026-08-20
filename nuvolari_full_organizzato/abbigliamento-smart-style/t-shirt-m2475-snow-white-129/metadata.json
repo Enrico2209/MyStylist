@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m2475-snow-white-129",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Fred Perry M2475 Snow White\nunisce il rigore del design d'archivio britannico a una decisa declinazione grafica dal sapore tipicamente urban. Sviluppata su una brillante base bianco candido (\"Snow White\"), questa t-shirt a maniche corte sfrutta il contrasto monocromatico per dare massima visibilità al branding, configurandosi come un pezzo statement ideale per i look casual contemporanei.\nDesign e Caratteristiche Principali\nMaxi-Stampa Posteriore Fred Perry Heritage\n: Il punto focale del modello si sviluppa sul retro, impreziosito da un'imponente grafica nera ad alta intensità. La composizione accosta l'iconica corona d'alloro al lettering di forte impatto visivo \"FRED PERRY\", completato in basso dalla dicitura storica \"ORIGINAL SINCE 1952\".\nFrontale Minimal con Logo Ricamato\n: In perfetto contrappunto con il retro grafico, il davanti mantiene un'eleganza essenziale e pulita. Sul petto, a sinistra, è applicato finemente il tradizionale ricamo a densità elevata della corona d'alloro in filo nero a contrasto.\nPregiato Tessuto in Jersey di Cotone\n: Confezionata interamente in filato di puro cotone premium, che si distingue per una mano liscia, morbida e piacevolmente fresca sulla pelle. La struttura del jersey garantisce una stabilità ottimale della forma e una tenuta del bianco brillante nel tempo.\nGirocollo Flessibile a Costine\n: Lo scollo rotondo classico presenta una bordatura in maglia a coste elasticizzata di medio spessore, accuratamente rifinita per assicurare un posizionamento sempre simmetrico e un comfort duraturo sul collo.\nSilhouette Relaxed Contemporanea\n: Il fit propone linee leggermente ammorbidite e spalle scivolate che strizzano l'occhio alla cultura streetwear, garantendo una vestibilità disinvolta e una totale libertà di movimento.\nProposta di Outfit\nUrban Bold Heritage\n: Abbinala a dei\npantaloni\ncargo neri dal fit rilassato e sneakers in pelle bianca e nera; la pulizia frontale esalterà gli accessori, mentre il retro racconterà lo spirito street del look non appena ti volterai.\nSummer Contrast Layering\n: Portala sopra un\nbermuda\nin felpa grigio melange per un'attitudine sportiva e rilassata nel tempo libero, lasciando che il contrasto cromatico tra il bianco candido e le stampe nere definisca l'outfit.\nSmart Casual Break\n: Indossala sotto una\ngiacca leggera\no una sovracamicia aperta in tonalità scura (navy o antracite); sul davanti emergerà la sola pulizia della corona d'alloro nera, svelando la ricca grafica posteriore solo una volta rimosso il capospalla.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giacca leggera",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt con vestibilita relaxed e maxi-stampa grafica sul retro",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

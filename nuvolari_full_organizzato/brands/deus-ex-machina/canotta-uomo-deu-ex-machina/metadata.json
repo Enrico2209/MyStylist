@@ -18,5 +18,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/deus-ex-machina/canotta-uomo-deu-ex-machina",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCanotta Deus Ex Machina White Summer Rebellion\nDesign Grafica a Contrasto:\nLa versione bianca fa risaltare i dettagli blu e rossi della stampa \"A Sign From The Path!\", mantenendo l'iconico messaggio \"Save Your Sole\" ben visibile sul fondo.\nTaglio Muscle Tee:\nIl design senza maniche con bordo a costine sottili sul girocollo offre una vestibilità rilassata, ideale per chi cerca massima libertà di movimento.\nDettaglio Artistico\n: L'illustrazione centrale, che mescola l'estetica punk degli anfibi a elementi floreali tropicali, crea un mix visivo unico che definisce l'identità eclettica del brand.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta con grafica vistosa, adatta a contesti informali, spiaggia o tempo libero",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/smeared-grunge-crossover-910b8969nsz-brown-brown",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSprayground Smeared Grunge, è la versione Crossbody / Clutch che riprende l'estetica ribelle e artistica della linea \"Smeared\". Questo accessorio è pensato per chi cerca la massima praticità urbana senza rinunciare all'impatto visivo tipico del brand, offrendo una soluzione versatile che può essere indossata a tracolla o portata a mano.\nSprayground Smeared Grunge Crossbody\nPerché sceglierla\nIl punto di forza di questa crossbody è il suo formato compatto unito a un design dirompente. La grafica rappresenta il pattern a scacchi parigino \"sporcato\" da pennellate grunge che attraversano diagonalmente la borsa, distorcendo l'iconica bocca di squalo (Shark Mouth). È l'accessorio perfetto per trasportare l'essenziale (smartphone, portafoglio, chiavi) mantenendo le mani libere e aggiungendo un tocco punk-rock al proprio outfit.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "borsa a tracolla di marchio street puro con grafica aggressiva",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

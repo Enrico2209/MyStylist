@@ -27,5 +27,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-w3-grace-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ispirazione legata alla street-art contemporanea, la forza visiva dell'immaginario neo-traditional e un'attitudine squisitamente urban si fondono nella\nt-shirt uomo Proj3ct modello Grace\n. Il brand si distingue nel panorama underground per la sua capacità di trasformare capi basici in vere e proprie tele espressive, offrendo una maglietta a maniche corte di forte personalità, ideale per chi desidera un look bold, grafico e profondamente identitario.\nDesign, Grafiche e Caratteristiche Costruttive\nIl Branding Frontale Minimal\n: La parte anteriore del capo sceglie una linea pulita per dare massimo risalto alla struttura e preparare l'impatto della grafica posteriore. Sul petto, lato cuore, è posizionato il logo lettering del brand accompagnato dal claim della collezione\n\"HEAVY IS GRACE\"\n, stampato con un font geometrico e compatto d'ispirazione street-art.\nLa Maxi Grafica Posteriore d'Impatto\n: Il vero e proprio fulcro espressivo si sviluppa sulla schiena. Il pannello posteriore accoglie una maxi illustrazione in stile illustrazione old-school/tattoo che raffigura un volto mistico e piangente incorniciato da un'aureola a raggiera e inserito all'interno di una struttura triangolare geometrica.\nClaim Slogan e Messaggio Concettuale\n: Sotto l'imponente grafica posteriore, la t-shirt completa il suo messaggio con i testi stampati in blocco\n\"HEAVY IS GRACE\"\ne il sottotitolo della linea\n\"PROJECT BLESSED BY THE LIGHT\"\n, elementi che richiamano il linguaggio visivo dei poster underground e delle grafiche rock/skate d'archivio.\nPuro Cotone Consistente e Scollo a Girocollo\n: Confezionata in morbido e resistente jersey di puro cotone, la maglietta assicura un'eccellente traspirabilità e una finitura corposa che mantiene la struttura nel tempo. Il classico scollo a girocollo è rifinito con una bordatura a costine flessibili progettata per prevenire la deformazione dopo l'uso quotidiano.\nVestibilità Comfort ed Estetica Urban\n: Il taglio del capo è sviluppato su una vestibilità regular/relaxed calibrata, studiata per scivolare morbida lungo i fianchi senza costringere, garantendo la massima libertà di movimento e adattandosi ai canoni estetici dello streetwear contemporaneo.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Graphic-Chic\nNineties Urban Denim Uniform\n: Esalta l'anima prettamente street e i volumi della t-shirt inserendola in un contesto casual rilassato d'ispirazione anni '90. Abbina il modello Proj3ct alla silhouette generosa, dritta e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio vintage o medio, lasciando che la gamba del denim cada morbida sulla suola scultorea di un paio di\nsneakers\ntecniche come le\nAsics\nGEL-NYC o\nNew Balance\n.\nMetropolitan Smart-Casual Transition\n: Crea un perfetto equilibrio tra estetica grafica e comfort estivo per i tuoi appuntamenti informali in città o per il tempo libero. Accosta la maglietta alla precisione lineare e alla nuance minerale dei bermuda uomo Nuvolari in cotone stretch, e completa l'outfit ai piedi con il carattere ibrido e grintoso dei mocassini uomo Sun68.\nSummer Riviera Contrast Look\n: Sperimenta un gioco di contrasti inedito spezzando il rigore della grafica urban attraverso la freschezza e la morbidezza dei tessuti naturali di stagione. Combina la t-shirt alla silhouette fluida e traspirante di un pantalone uomo o bermuda uomo Baecker in lino nelle sfumature del sabbia o del beige, e rifinisci il look ai piedi con la leggerezza assoluta dei mocassini uomo Heydude.\nSperimenta la perfetta sintesi tra l'irriverenza delle grafiche underground e il comfort strutturale dei tessuti naturali selezionati. Scegli la forza espressiva del claim \"Heavy is Grace\", la morbidezza del cotone premium e il carattere inconfondibile della t-shirt uomo firmata Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: W3 GRACE BLACK-BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "Asics",
+      "categoria_url": "https://www.nuvolari.biz/brands/asics"
+    },
+    {
+      "testo": "New Balance",
+      "categoria_url": "https://www.nuvolari.biz/brands/new-balance"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "streetwear": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica con maxi stampa posteriore di ispirazione street-art e skate",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

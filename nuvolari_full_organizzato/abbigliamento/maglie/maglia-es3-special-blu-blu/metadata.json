@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-es3-special-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nMaglia Uomo Nuvolari Special Blu\nincarna la perfetta sintesi tra l'essenzialità del design contemporaneo e la ricercatezza dei materiali, offrendo un capo dall'eleganza sobria e versatile. Declinata in una tonalità blu navy profonda, questa maglia girocollo leggera è stata progettata per essere un pilastro fondamentale del guardaroba maschile, ideale per la mezza stagione o per i freschi weekend estivi.\nDesign e Caratteristiche Principali\nPregiata Lavorazione Leggera\n: Realizzata con una trama fine e sottile che assicura una mano estremamente morbida, fluida e piacevole a contatto con la pelle, garantendo al contempo un'eccellente traspirabilità.\nScollo a Girocollo Minimal\n: Il collo presenta una finitura pulita e leggermente elasticizzata che incornicia il viso con ordine, prestandosi perfettamente sia a look minimalisti a pelle sia a sovrapposizioni strutturate.\nColorazione Blu Special\n: Un blu navy scuro, intenso e raffinato, una nuance passe-partout che si adatta con naturalezza a contrasti decisi o ad accostamenti tono su tono.\nBordi e Polsini a Costine Sottili\n: Il fondo del capo e i polsini sono rifiniti con una trama a coste sottili che modella la silhouette con discrezione, mantenendo la maglia stabile in vita senza stringere.\nTaglio Modern Fit Pulito\n: La vestibilità è studiata per seguire le linee del corpo in modo naturale, regalando una linea slanciata e asciutta ma preservando la totale libertà nei movimenti.\nSuggerimenti di Stile\nEcco 3 modalità per valorizzare questa maglia girocollo blu nei tuoi abbinamenti:\nSmart Business Everyday\n: Indossala sopra una camicia bianca ben stirata, lasciando fuoriuscire leggermente il colletto, in combinazione con dei\npantaloni chino\nbeige o grigi e mocassini scamosciati.\nContemporary Casual\n: Abbinala direttamente a pelle con i tuoi\njeans Nuvolari Search Mdm Denim\ne un paio di sneakers minimali bianche per un outfit da giorno rilassato, fresco e impeccabile.\nUrban Layering\n: Provala sotto a un blazer sfoderato o a una giacca leggera nei toni del tabacco o del verde oliva per un ricercato gioco di contrasti cromatici, perfetto per le uscite serali.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chino.html"
+    },
+    {
+      "testo": "jeans Nuvolari Search Mdm Denim",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica e pulita, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

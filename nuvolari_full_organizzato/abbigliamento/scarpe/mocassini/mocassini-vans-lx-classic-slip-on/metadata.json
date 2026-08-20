@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassini-vans-lx-classic-slip-on",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Vans LX Classic Slip-On rappresentano l’apice della linea \"Luxury\" del brand californiano. Non sono le classiche sneakers da skate che si trovano ovunque: la sigla LX identifica la divisione Vaul,t linea premium, dove i modelli storici vengono ricostruiti con materiali di alta qualità, forme più fedeli agli originali degli anni '70 e un'attenzione sartoriale ai dettagli.\nLusso dello Skateboarding\nPerché sceglierle\nIl punto di forza delle LX Classic Slip-On risiede nell'equilibrio tra estetica iconica e materiali nobili. Rispetto alla versione standard, questo mocassino sportivo utilizza una pelle o una tela a grammatura superiore e presenta un profilo della suola (foxing) più alto e lucido, privo della classica striscia a contrasto in alcuni modelli, per un look più \"pulito\" e formale. È la scarpa perfetta per chi desidera la praticità della Slip-On ma con una struttura più solida e raffinata.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nEU\nUS Uomo\n38.5\n6.5\n39\n7\n40\n7.5\n40.5\n8\n41\n8.5\n42\n9\n42.5\n9.5\n43\n10\n44\n10.5\n44.5\n11\n45\n11.5\n46\n12\n47\n13\n48\n14\n49\n15\n50\n16",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker slip-on con borchie, nonostante il titolo usi il termine generico mocassino",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

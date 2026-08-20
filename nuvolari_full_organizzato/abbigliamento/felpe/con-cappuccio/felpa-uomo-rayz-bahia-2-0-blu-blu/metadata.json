@@ -22,5 +22,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-rayz-bahia-2-0-blu-blu",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Rayz Bahia 2.0 Blu\nLa\nfelpa con cappuccio\nRayz  è un capo casual e confortevole, perfetto per un look rilassato. Realizzata in morbido tessuto, offre una vestibilità comoda e pratica, ideale per l'uso quotidiano. Il design essenziale è arricchito dal cappuccio regolabile, che aggiunge un tocco di stile e funzionalità.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: BAHIA 2.0 BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa con cappuccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

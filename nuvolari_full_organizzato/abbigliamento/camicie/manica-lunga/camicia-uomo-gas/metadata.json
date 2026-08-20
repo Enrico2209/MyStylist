@@ -18,5 +18,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-gas",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Gas N. Kin/S nella variante Azure/White/Black è l’accessorio perfetto per chi cerca un look moderno e dinamico, senza rinunciare all'eleganza sartoriale. Caratterizzata da un pattern a righe verticali sottili che allungano la figura, questa camicia è progettata per l'uomo contemporaneo che vive la città con attitudine e stile.\nIl punto di forza del modello N. Kin/S risiede nella sua costruzione in Popeline di Cotone leggero. Il tessuto è selezionato per offrire la massima traspirabilità e una mano liscia e setosa sulla pelle, ideale per affrontare le giornate più calde con freschezza. La combinazione cromatica \"Azure/White/Black\" (Azzurro, Bianco e Nero) crea un contrasto sofisticato che snellisce la figura e aggiunge una nota tecnica a un capo tradizionalmente formale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a righe in popeline, vestibilita slim, adatta a contesti smart casual e ufficio informale",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-lt-killah-lgt-denim-lgt-denim",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Proj3ct S3 LT Killah nella colorazione Lgt Denim (Light Denim) rappresentano la versione più luminosa e \"vissuta\" della linea S3. Realizzati in 100% cotone, questi jeans offrono una mano autentica e una struttura che richiama il denim d'altri tempi, reinterpretato con un design decisamente d'avanguardia.\nProj3ct S3 LT Killah Light Denim & Asymmetric Edge\nPerché sceglierli\nMentre la versione \"Med Denim\" punta sulla classicità dell'indaco, il Light Denim (LT) di questo modello esalta ogni dettaglio della costruzione asimmetrica. Il lavaggio chiaro, quasi marmorizzato, mette in risalto le cuciture e la particolare patta diagonale, rendendolo il capo perfetto per la stagione primaverile ed estiva o per chi vuole schiarire il proprio outfit urban.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:S3 LT KILLAH LGT DENIM-LGT DENIM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "jeans regular in denim chiaro con dettagli asimmetrici, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

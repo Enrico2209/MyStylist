@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalone-daniele-alessandrini-co0352-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone Daniele Alessandrini: L'Eleganza del Lino incontra il Design Moderno\nEleva il tuo guardaroba stagionale con il pantalone Daniele Alessandrini, un capo che incarna la perfetta sintesi tra la nobiltà delle fibre naturali e la resistenza dei materiali tecnici. Realizzato in una pregiata miscela di lino e poliestere (55% lino, 45% poliestere), questo pantalone è progettato per l'uomo che ricerca uno stile impeccabile, freschezza costante e una manutenzione semplificata.\nSartorialità e Performance Quotidiana\nTessuto Intelligent Blend\n: La freschezza ineguagliabile e la texture materica del lino si fondono con la praticità del poliestere. Questa sinergia garantisce un'eccellente traspirabilità e una naturale resistenza alle pieghe, permettendo al pantalone di mantenere una linea definita e pulita durante tutta la giornata, anche in viaggio.\nTaglio Tailored con Doppia Pinces\n: Il design si distingue per la presenza della doppia pinces frontale, un dettaglio sartoriale d'ispirazione classica che offre un volume confortevole sulla coscia e una silhouette che si restringe elegantemente verso il fondo.\nVersatilità Estetica\n: La tonalità naturale e la mano del tessuto rendono questo pantalone un pezzo estremamente trasversale. È perfetto per un evento formale estivo se abbinato a una giacca coordinata, ma si adatta con disinvoltura a look più rilassati ed esplorativi.\nDettagli Signature\n: Rifinito con chiusura a bottone a contrasto, passanti per cintura e tasche laterali a filo, questo capo è il risultato di una ricerca estetica che celebra il miglior design italiano.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n55% lino, 45% poliestere\nVestibilità regular\nCodice articolo:DUPT0003-CO0352 SABBIA-2010",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone sartoriale con doppie pinces in misto lino, ideale per contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

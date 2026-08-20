@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/giubbotti-donna/ichidonna-ihfava-oversize-20125677-dove-melange-1500001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nGiacca Ichi Donna Ihfava Oversize Dove Melange\nreinterpreta il capospalla sartoriale attraverso una lente fortemente contemporanea e urban, destrutturando le linee del classico blazer maschile per adattarle a un'estetica rilassata. Caratterizzata da una raffinata tonalità grigio-tortora chiaro (\"Dove Melange\"), questa giacca monopetto monopetto si distingue per i suoi volumi extra-large, ponendosi come il pezzo d'accento perfetto per completare power-suit moderni o per elevare look casual stratificati.\nDesign e Caratteristiche Principali\nSilhouette Oversize e Struttura Cascante\n: Il taglio si sviluppa con linee marcatamente ampie, squadrate e allungate d'ispirazione boyfriend. Le spalle sono leggermente scivolate ma mantengono una precisione geometrica che definisce la figura senza costringerla.\nTessuto Sartoriale Tecnico Melangiato\n: Realizzata in un filato leggero e fluido dalla finitura opaca, caratterizzato da una micro-tessitura melange che intreccia fibre chiare e scure. Questa particolare lavorazione garantisce un'ottima resistenza alle pieghe e una caduta impeccabile del capo.\nClassico Rever a Lancia Sottile\n: Lo scollo presenta un colletto a revers tradizionali ben proporzionati, che disegna una profonda linea a V sul davanti slanciando otticamente il busto e offrendo ampio spazio per valorizzare i top sottostanti.\nChiusura Monopetto a Due Bottoni\n: Il pannello frontale è rifinito da un'apertura lineare scandita da due soli bottoni scuri a contrasto, posizionati leggermente ribassati per assecondare la vestibilità rilassata e fluida della giacca.\nTasche Anteriori a Filetto con Patta\n: Costruita con due tasche sartoriali rettangolari disposte orizzontalmente sui fianchi, complete di patta di copertura che può essere inserita all'interno per un look ancora più minimale e geometrico.\nManiche Lunghe e Lineari\n: Le maniche scendono dritte seguendo i volumi del corpo, rifinite sui polsini da cuciture piatte e pulite che permettono di risvolsarle agevolmente sui gomiti per un'attitudine più disinvolta e casual.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "Blazer sartoriale ma con vestibilità oversize e taglio destrutturato contemporaneo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

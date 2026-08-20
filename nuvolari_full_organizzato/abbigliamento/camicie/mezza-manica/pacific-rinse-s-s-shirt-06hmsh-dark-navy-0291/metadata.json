@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/pacific-rinse-s-s-shirt-06hmsh-dark-navy-0291",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura surf internazionale, lo stile rilassato delle spiagge australiane e la costante ricerca di lavorazioni tessili d'effetto si incontrano nella nuova\nCamicia Uomo Rip Curl\n. Questo modello a manica corta incarna perfettamente l'estetica lifestyle del brand \"The Ultimate Surfing Company\", reinterpretando il classico abbigliamento da spiaggia attraverso un design grafico ipnotico e finiture di matrice artigianale.\nDesign, Trattamenti e Caratteristiche Principali\nEsclusivo Pattern Tie-Dye / Shibori a Cerchi\n: La particolarità estetica assoluta di questa camicia risiede nel suggestivo motivo grafico a cerchi sfumati. La combinazione tra la base blu navy profonda e le geometrie sbiadite azzurro polvere richiama le lavorazioni indaco artigianali della cultura surf rétro, donando al capo un aspetto unico, fluido e ricco di movimento.\nTessuto Leggero e Naturale a Taglio Rilassato\n: Confezionata con una fibra fresca e traspirante (ideale per la stagione calda), la camicia presenta una vestibilità relaxed (Classic Fit) con fondo lineare. La struttura tessile morbida garantisce una caduta impeccabile e un comfort totale sia in spiaggia che durante le serate estive in città.\nDettaglio Ricamo \"Rip Curl Surf Co\" sulla Tasca\n: Sul petto è applicata una classica tasca quadrata a filo, impreziosita da un ricamo tono su tono posizionato centralmente. La scritta \"RIP CURL SURF CO\" sigla l'autenticità del capo con un raffinato understatement, integrandosi armonicamente nel disegno a scoppio del tie-dye.\nHardware Naturale a Contrasto\n: La chiusura frontale è affidata a una linea di bottoni effetto legno o guscio di cocco dal sapore organico. Questo dettaglio cromatico spezza la dominante fredda del blu e dell'azzurro, sottolineando il legame profondo e naturale che unisce il brand all'oceano e alla vita all'aria aperta.\nIdee di Stile: Costruisci il Tuo Look Beach & Lounge\nRadical Surf Heritage Uniform\n: Esalta l'anima autentica e acquatica del brand per le tue giornate sul bagnasciuga. Indossa la camicia aperta sopra una t-shirt chiara o direttamente sulla pelle, abbinandola alla tecnicità leggera di uno dei\ncostumi uomo\nRip Curl della linea Mirage o a un volley short a tinta unita, completando con un occhiale da sole lifestyle. Per gli amanti dei viaggi esotici, questo outfit è perfetto anche per rilassarsi tra le palme del Siladen Resort & Spa.\nMetropolitan Lounge Transition\n: Per muoverti fluidamente dalla spiaggia a un aperitivo o a una cena informale, gioca sui contrasti materici e sulla pulizia delle linee. Accosta la camicia a maniche corte alla morbidezza naturale di un\npantalone uomo\nmodello pantalaccio in puro lino chiaro o a un chino scuro Lyle & Scott, chiudendo il look con una sneaker bassa in tela bianca o un mocassino destrutturato.\nContemporary Pop-Street Mix\n: Inserisci le sfumature indaco della camicia in un contesto urban di tendenza e carattere. Combina il capo (chiuso fino al penultimo bottone) alla struttura boxy di una delle\nt-shirt uomo\nminimali della linea \"I Told Ya\" portata come base, completando la parte inferiore con un bermuda nero in felpa e un calzino a coste spugnato Deus Ex Machina.\nVivi la stagione estiva senza rinunciare a un perfetto equilibrio tra comfort balneare e ricerca grafica d'autore. Scegli la freschezza dei filati naturali, il fascino senza tempo delle sfumature tie-dye e l'attitudine inconfondibile della camicia uomo firmata Rip Curl.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con motivo tie-dye e bottoni effetto legno, tipica del brand surf Rip Curl.",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

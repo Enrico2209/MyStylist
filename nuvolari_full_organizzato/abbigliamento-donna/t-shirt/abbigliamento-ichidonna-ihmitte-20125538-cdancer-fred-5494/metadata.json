@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihmitte-20125538-cdancer-fred-5494",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Ichi Donna Ihmitte Cdancer/Fred\ncelebra l'eleganza della semplicità combinandola con un romantico tocco poetico dal sapore parigino. Caratterizzata da una base bianco latte candida e luminosa (\"Cdancer/Fred\"), questa t-shirt a maniche corte si inserisce con disinvoltura nei look quotidiani, distinguendosi per un ricamo frontale minimalista ma di grande impatto visivo.\nDesign e Caratteristiche Principali\nRicamo Frontale \"Bonjour mon amour\"\n: Il pannello anteriore è impreziosito centralmente sul petto da una scritta ricamata in un vivace color rosso scarlatto. Il lettering unisce un carattere corsivo aggraziato per la parola \"Bonjour\" a un font minuscolo lineare per \"mon amour\", creando un contrasto grafico raffinato.\nTessuto in Cotone Premium Leggero\n: Confezionata in un filato di puro cotone dalla mano liscia, morbida e cascante, progettato per offrire un comfort eccezionale, un'alta traspirabilità e una piacevole sensazione di freschezza sulla pelle.\nSilhouette Boxy Rilassata\n: Il taglio presenta volumi ampi e moderni dal fit leggermente squadrato, studiato per scivolare con fluidità sul busto senza costringere, assecondando la tendenza dell'eleganza disinvolta.\nManica Corta con Spalla Dolcemente Scesa\n: La linea di cucitura della spalla è leggermente ribassata rispetto alla silhouette anatomica, prolungando la manica per un look contemporaneo e casual.\nGirocollo Sottile Flessibile\n: Lo scollo rotondo è rifinito con una sottile bordatura in maglia costina elastica che mantiene la forma nel tempo e rende il capo facile da indossare.\nFondo Lineare Pulito\n: L'orlo inferiore dritto permette di portare la maglia sia lasciata libera sopra i pantaloni sia rimborsata all'interno di gonne o shorts a vita alta per segnare il punto vita.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con ricamo minimalista, vestibilita boxy rilassata",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

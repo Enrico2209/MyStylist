@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-uomo-nuvolari-w1-tt-frye-blu-blu",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiacca Uomo Nuvolari Tt Frye Blu\nLa\ngiacca\nNuvolari da abito è un capo elegante, perfetto per occasioni formali. Presenta un design classico con una vestibilità confortevole e dettagli semplici, ideale per completare un look raffinato.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nVedi Pantalone coordinato a questa giacca\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n62% cotone, 35% nylon, 3% elastan. Lining: 100% poliestere\nCodice articolo: W1 TT FRYE BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Vedi Pantalone coordinato a questa giacca",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-uomo-nuvolari-w1-manik-blu-blu.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "elegante": 0.8,
+      "casual": 0.2
+    },
+    "formality": 4,
+    "formality_perche": "giacca da abito/blazer monopetto, adatta a contesti formali e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

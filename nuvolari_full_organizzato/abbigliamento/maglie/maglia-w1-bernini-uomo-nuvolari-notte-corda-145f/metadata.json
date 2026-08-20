@@ -18,5 +18,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-w1-bernini-uomo-nuvolari-notte-corda-145f",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Bernini Notte/Corda\nLa\nmaglia\ngirocollo\nNuvolari\na righe combina stile e praticità in un design moderno. Perfetta per un look casual ma curato, offre comfort e versatilità per affrontare la giornata con eleganza informale.\nAbbinala ad un\ngiubbotto\ne ad un paio di\nscarpe\nscelte per te e per il tuo look invernale!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n70% acrilico, 30% lana\nCodice articolo: W1 BERNINI NOTTE/CORDA-145F",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana, ideale per contesti smart casual quotidiani",
+    "season": "inverno",
+    "pattern": "righe"
+  }
 }

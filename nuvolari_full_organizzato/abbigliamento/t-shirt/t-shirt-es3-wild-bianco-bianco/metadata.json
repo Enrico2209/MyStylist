@@ -26,5 +26,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-es3-wild-bianco-bianco",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Nuvolari Wild Bianco\nevoca un'immediata atmosfera estiva, leggera e spensierata, ispirata alla cultura del surf e ai suggestivi paesaggi oceanici. Realizzata in cotone di ottima qualità, questa maglietta unisce la massima freschezza di una base bianca a una grafica vintage ricca di dettagli, affermandosi come un capo essenziale per i look casual della bella stagione.\nDesign e Caratteristiche Principali\nGrafica Centrale \"Wild Beach\"\n: Il fronte è decorato da una stampa artistica che ritrae una spiaggia tropicale arricchita da palme e una tavola da surf, evocando uno stile di vita libero e dinamico.\nDettagli Tipografici Rétro\n: Le scritte \"Surfers Island\", \"Surf Freestyle\" e \"Authentic Wave Rider\" rifiniscono il disegno principale con caratteri dal sapore vintage e dall'effetto leggermente vissuto.\nFondo Bianco Ottico\n: La base bianca e pulita esalta la nitidezza della stampa e la vivacità dei suoi colori sfumati, rendendo il capo estremamente luminoso e facilissimo da abbinare.\nVestibilità Regular Fit\n: Il taglio classico garantisce un fit confortevole e una naturale libertà di movimento, ideale per affrontare al meglio le calde giornate estive.\nGirocollo a Costine\n: La finitura del colletto è progettata per mantenere la struttura originale nel tempo, offrendo resistenza ai lavaggi e una stabilità ottimale.\nTessuto in Puro Cotone\n: La composizione tessile assicura una mano morbida sulla pelle e un'elevata traspirabilità, ideale per il comfort quotidiano.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questa t-shirt dal sapore californiano:\nBeachside Vibe\n: Indossala insieme a degli\nshorts\ncolorati in tessuto tecnico o felpa leggera per un look perfetto per il mare o un aperitivo in spiaggia.\nUrban Casual\n: Abbinala a dei\njeans\ndenim chiaro e a delle sneakers colorate per mantenere un'estetica rilassata, fresca e giovanile.\nSmart Summer Utility\n: Provala in combinazione con dei\npantaloni cargo\ncorti o lunghi nei toni del beige e una\novershirt\naperta in lino per le serate estive in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt grafica a tema surf, adatta a contesti casual e da spiaggia",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

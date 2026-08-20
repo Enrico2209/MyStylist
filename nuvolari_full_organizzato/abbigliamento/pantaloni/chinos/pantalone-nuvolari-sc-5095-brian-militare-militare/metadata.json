@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-sc-5095-brian-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Nuvolari 5095 BRIAN\nPantalone\nfirmato Nuvolari modello\n5095 Brian\n, slim fit cinque tasche in gabardina di cotone tinto capo, un classico intramontabile ed essenziale nell'universo maschile adatto per qualsiasi occasione. Chiusura con zip e bottone chiodo in vita con doppio passante lato destro, due tasche a filo con aggiunta di piccolo taschino. Due tasche posteriori a filetto a due profili chiuse da bottoni e tessuto in contrasto di colore nella fodera/ vita. Made in Italy 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino/cinque tasche in gabardina di cotone, taglio pulito smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

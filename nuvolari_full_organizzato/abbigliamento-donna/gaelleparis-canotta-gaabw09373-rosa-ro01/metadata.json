@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/gaelleparis-canotta-gaabw09373-rosa-ro01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCanotta Gaëlle Paris: Eleganza Asimmetrica e Dettagli Light-Rose\nCanotta Donna Gaëlle Paris Candy Pink Jewel\nRendi unico il tuo stile con un capo che gioca con le forme e la luce. Questa canotta Gaëlle Paris si distingue per il suo audace taglio asimmetrico e il dettaglio del nodo sulla spalla, trasformando un classico top estivo in un pezzo di design sofisticato. La tonalità rosa pastello, delicata e luminosa, è impreziosita dal mini logo in strass, rendendola perfetta per chi cerca un look glamour e ricercato senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.2,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Canotta con taglio asimmetrico e strass, leggermente piu elevata di una canotta base ma pur sempre un top estivo informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

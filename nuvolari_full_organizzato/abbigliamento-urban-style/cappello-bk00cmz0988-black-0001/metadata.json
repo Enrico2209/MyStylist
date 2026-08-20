@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-urban-style/cappello-bk00cmz0988-black-0001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCAPPELLO PALM ANGELS con variante cromatica più accesa e dinamica, ideale per dare luce a un outfit estivo.\nDesign Bicolor\n: Caratterizzato da un pannello frontale bianco ottico e una visiera rossa vibrante, con rete posteriore nera a contrasto.\nLogo Frontale\n: Il logo \"Palm Angels\" è applicato centralmente sulla corona in formato XL, con un effetto gommato o ricamato nero che segue una linea curva.\nStile Old-School\n: La combinazione di colori richiama l'abbigliamento sportivo vintage americano, reinterpretato in chiave luxury.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "cappellino trucker di marchio street puro, tetto massimo di formalita",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

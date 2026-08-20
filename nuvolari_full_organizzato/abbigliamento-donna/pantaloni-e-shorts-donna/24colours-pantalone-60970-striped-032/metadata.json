@@ -23,5 +23,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/24colours-pantalone-60970-striped-032",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica rilassata e lo stile fresco d'ispirazione estiva si incontrano nel\npantalone da donna 24Colours modello Striped\n. Caratterizzato da un motivo a righe verticali e da una vestibilità fluida, questo capo è pensato per offrire la massima leggerezza e un look trendy e disinvolto nelle giornate più calde.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Leggero e Traspirante\n: Confezionato in una trama morbida e fresca, garantisce un'ottima traspirabilità e una sensazione di estremo comfort sulla pelle per tutta la giornata.\nFantasia a Righe Verticali\n: Il pattern gessato/rigato slancia visivamente la silhouette, donando un tocco fresco, dinamico e contemporaneo all'intero outfit.\nCintura Elasticizzata con Coulisse\n: La vita elastica integrata con laccetti regolabili assicura una vestibilità personalizzata, pratica e confortevole.\nTaglio Ampio e Gamba Dritta (Wide-Leg)\n: Il fit morbido scivola delicatamente lungo la gamba, offrendo piena libertà di movimento e una linea moderna.\nIdee di Stile: Costruisci il Tuo Look Casual & Summer Vibe\nSummer Casual Look\n: Crea un outfit fresco e spensierato abbinando il pantalone a una t-shirt essenziale o a un top cropped, completando il tutto con sandali flat o sneakers leggere.\nRelaxed Beach & Resort Mood\n: Perfetto anche per il tempo libero e le vacanze, indossalo sopra un costume o con una camicia in lino lasciata sbottonata per un fascino effortless chic.\nLayering & Capi Alternativi\n: Durante le serate più ventilate, sovrapponi un cardigan leggero o una giacca di denim. Per esplorare altre proposte della collezione, scopri la gamma di pantaloni fluidi, shorts e la selezione denim per la stagione.\nSperimenta la perfetta combinazione tra freschezza, comodità e stile contemporaneo. Scegli la vestibilità fluida e il design disinvolto firmato 24Colours.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n70% cotone, 15% poliestere, 15% lino\nVestibilità regular\nCodice articolo: 60970 STRIPED-032",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone fluido con coulisse ed elastico in vita, stile pigiama/spiaggia molto rilassato",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

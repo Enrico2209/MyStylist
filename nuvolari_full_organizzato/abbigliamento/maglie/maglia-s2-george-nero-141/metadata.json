@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s2-george-nero-141",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari – Stile e Comfort Senza Tempo\nLa maglia da uomo firmata\nNuvolari\nè la scelta ideale per chi cerca uno stile raffinato e contemporaneo, senza rinunciare alla comodità. Realizzata con filati di alta qualità, questa maglia si distingue per il taglio essenziale e la cura dei dettagli, espressione dell’artigianalità italiana.\nCaratteristiche principali:\nTessuto\n: 50% cotone 50% acrilico\nVestibilità\n: Regular Fit – aderente ma confortevole, perfetta per ogni fisico\nPerché sceglierla:\nLa maglia Nuvolari è un capo essenziale del guardaroba maschile. Facile da abbinare con jeans o pantaloni chino, è perfetta per l’ufficio, il tempo libero o un’uscita serale. La qualità dei materiali e la linea pulita garantiscono durata, comfort e uno stile sempre attuale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n50% cotone, 50% acrilico\nVestibilità regular\nCodice articolo: S2 GEORGE NERO-141",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia fine di cotone e acrilico, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

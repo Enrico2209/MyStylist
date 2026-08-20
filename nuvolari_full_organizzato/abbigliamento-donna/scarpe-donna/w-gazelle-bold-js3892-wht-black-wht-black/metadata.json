@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/w-gazelle-bold-js3892-wht-black-wht-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nSneakers Donna adidas Gazelle\nUn’icona che non ha bisogno di presentazioni. Le\nsneakers donna adidas Gazelle\ntornano in tutta la loro essenzialità con uno stile retrò che conquista ogni generazione. La silhouette affusolata, ispirata al modello originale degli anni ’90, si veste di suede premium e dettagli in contrasto, come le iconiche 3 strisce e la linguetta in pelle sintetica.\nLa suola in gomma piatta garantisce comfort e aderenza, mentre la calzata è pensata per accompagnarti con naturalezza in ogni momento della giornata: dal tempo libero agli appuntamenti casual, con un twist sportivo e intramontabile.\nCaratteristiche principali:\nTomaia in suede morbida e resistente\nChiusura con lacci\nSuola in gomma tono su tono\nDettagli adidas a contrasto\nCalzata regolare\nAbbinale così:\nPerfette con un\njeans cropped\ne una\nt-shirt oversize\nper un look street-style, oppure con una\ngonna in denim\ne una\ncamicia cropped\nper un mix urbano e femminile.\nScopri la selezione completa di\nSneakers Donna\nper ispirarti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Sneakers Donna",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche da giorno, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

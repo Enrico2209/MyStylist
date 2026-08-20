@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/maglia-nuvolari-ewe-yorkshire-antracite",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione da uomo colore grigio Yorkshire\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Nuvolari modello Yorkshire Antracite\nVestibilità regular\nMade in Italy\nComposizione : 100% cotone\nEWE YORKSHIRE ANTRACITE-ANTRACITE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo semplice, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

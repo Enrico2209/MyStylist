@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/ugg-donna-goldenstar-hi-cutout-slide",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Ciabatte Donna UGG Goldenstar Hi Cutout Slide Chestnut rappresentano una fusione impeccabile tra il comfort iconico del brand californiano e un design contemporaneo ed elevato. Questo modello si distingue per la sua tonalità Chestnut, il classico color castagna che ha reso UGG un simbolo globale di stile naturale e rilassato.\nUGG Goldenstar Hi Cutout Il Sandalo Platform per l'Estate\nPerché sceglierle\nIl punto di forza delle Goldenstar Hi risiede nella loro capacità di offrire un'altezza extra grazie alla suola platform, mantenendo una leggerezza straordinaria che non affatica il piede anche dopo ore di utilizzo. Il design \"slide\" permette una calzata immediata, mentre la struttura avvolgente assicura che il piede rimanga in posizione, rendendole ideali per chi cerca una calzatura da giorno pratica ma con una forte personalità estetica.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta slide platform, calzatura estiva ultra-casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

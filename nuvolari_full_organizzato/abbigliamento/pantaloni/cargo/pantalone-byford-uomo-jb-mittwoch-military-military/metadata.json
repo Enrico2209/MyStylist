@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-byford-uomo-jb-mittwoch-military-military",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo J.B. Mittwoch Byford Military\nIl\npantalone\nuomo di J.B. Mittwoch con tasconi unisce stile e funzionalità. Realizzato con materiali di alta qualità, offre una vestibilità comoda e resistente. I tasconi laterali aggiungono un tocco pratico e moderno, rendendolo ideale per un look casual e versatile. Perfetto per chi cerca comfort senza rinunciare all'eleganza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: BYFORD MILITARY-MILITARY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile workwear/militare",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

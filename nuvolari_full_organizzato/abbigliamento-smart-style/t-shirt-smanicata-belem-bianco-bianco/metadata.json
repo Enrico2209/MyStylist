@@ -23,5 +23,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-smanicata-belem-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "canotta smanicata, capo base da spiaggia o intimo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,41 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-chris-es1-m2ya27-d4q42-carry-mid-2crm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl jeans del brand Guess Jeans è un capo di abbigliamento iconico e alla moda, perfetto per chi desidera uno stile contemporaneo e una vestibilità aderente\nCon i suoi dettagli distintivi e la sua vestibilità super skinny, questo\njeans\nè progettato per creare un look audace e trendy. Dotato di cinque tasche classiche, questo jeans offre ampio spazio per riporre piccoli oggetti essenziali. I passanti in vita consentono di indossare una cintura per un look più personalizzato e confortevole. La chiusura frontale con zip e bottone garantisce una vestibilità sicura e stabile. La presenza di una salpa logata sul retro e di uno stemma logo cucito sulla tasca posteriore aggiunge un tocco distintivo e di alta qualità a questo jeans Guess Jeans.\nLa vestibilità super skinny di questo jeans è pensata per aderire perfettamente al corpo, creando una silhouette slanciata e moderna. Questo taglio aderente valorizza le forme e conferisce un aspetto elegante e affusolato. Realizzato con materiali di alta qualità, questo jeans è resistente e durevole nel tempo, pur mantenendo un comfort ottimale. La sua vestibilità aderente lo rende perfetto per essere abbinato a una vasta gamma di capi, dal casual al più formale. Indossalo con una\nt-shirt\no una\ncamicia\nper un look casual da giorno o con una\ngiacca\ne un paio di\nscarpe\neleganti per un'occasione più formale. Grazie alla sua versatilità e al suo stile audace, questo jeans Guess Jeans sarà sicuramente un'aggiunta di classe al tuo guardaroba.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n99% cotone riciclato, 1% elastane\nCodice articolo: ES1 M2YA27 D4Q42 CARRY MID-2CRM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans cinque tasche lavaggio medio, capo base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

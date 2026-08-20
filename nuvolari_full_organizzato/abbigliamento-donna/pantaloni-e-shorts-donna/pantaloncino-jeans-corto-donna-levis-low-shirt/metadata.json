@@ -22,5 +22,22 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/pantaloncino-jeans-corto-donna-levis-low-shirt",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'attitudine rock si unisce al taglio estivo per eccellenza, dando vita a un capo iconico e ricco di carattere. Il\nPantaloncino Jeans Donna Levi's Low Short Favorable Black\nè la scelta definitiva per chi cerca un look fresco, audace e spiccatamente urban. Questo modello si distingue per la sua linea corta e decisa, valorizzata da un lavaggio nero slavato che evoca immediatamente un'estetica underground e festival-ready.\nDesign e Caratteristiche Principali\nFondo con Taglio a Vivo e Frange (Frayed Hem)\n: Il vero e proprio dettaglio di stile, è l'orlo inferiore non rifinito, caratterizzato da sfilacciature naturali e frange leggere che donano al capo un sapore autenticamente vintage, vissuto e ribelle.\nLavaggio Favorable Black e Baffature\n: La tela denim presenta una tonalità nera profonda ma arricchita da delicate sfumature grigie e baffature orizzontali sul davanti, che ne esaltano la tridimensionalità.\nTaglio Low Rise Contemporaneo\n: Progettato con una vita medio-bassa che si appoggia sui fianchi in modo naturale, definendo una silhouette sbarazzina di chiara ispirazione rétro e in linea con le ultime tendenze dello streetwear globale.\nArchitettura Classica a 5 Tasche\n: Rispetta pienamente il DNA d'archivio del brand con tasche anteriori ad arco, taschino portamonete sul lato destro e passanti robusti per la cintura posizionati lungo il fascione.\nDettagli Metallici e Rivetti a Contrasto\n: La chiusura frontale è affidata a una patta con zip e al classico bottone a chiodo in metallo brunito, coordinato ai rivetti posizionati sui punti di trazione delle tasche.\nIdee di Stile: Crea la Tua Wave\nThe Core Festival Outfit\n: Il match perfetto per i concerti e il tempo libero. Abbina questo shorts a una t-shirt grafica oversize della selezione Propaganda o Obey, calze spesse a vista e un anfibio o una sneaker chunky.\nMinimal Street Uniform\n: Indossalo insieme a una canotta a coste della collezione Levi's infilata nel fascione. Completa il tutto con una camicia a quadri lasciata completamente aperta a mo' di giacca leggera e un paio di occhiali da sole bold.\nUrban Night Contrast\n: Eleva il carattere di questo pantaloncino nero abbinandolo a un body aderente o a una t-shirt a coste sottili, sovrapponendo un blazer oversize scuro lasciato aperto per un mix impeccabile tra eleganza sartoriale e attitudine di strada.\nRivoluziona la tua selezione estiva con l'anima rock di Levi's e scendi in strada a dettare il ritmo della città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "pantaloncino corto in denim con orlo a vivo sfilacciato, capo tipicamente estivo e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

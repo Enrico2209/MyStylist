@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-rru90315cr05xxxx-aviator-c0658",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nMaglia Uomo Roy Roger's Aviator\nè un inno alla raffinatezza cromatica e alla qualità della maglieria italiana. Caratterizzata da una sfumatura di azzurro avio profonda e polverosa, questa maglia a girocollo è progettata per l'uomo che cerca un capo capace di trasmettere serenità ed eleganza senza tempo, garantendo al contempo una versatilità straordinaria in ogni stagione.\nRoy Roger's Aviator L'Essenza del Comfort in Azzurro Polvere\nPerché sceglierla\nIl punto di forza di questo modello è la sua tonalità \"Aviator\": un blu medio con sottotoni grigi che risulta estremamente facile da coordinare, offrendo un’alternativa luminosa al classico blu navy. Realizzata in un filato leggero e traspirante, la maglia Aviator offre una mano morbida e setosa, ideale per essere indossata a contatto con la pelle o sovrapposta a una camicia per un look più formale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica, ideale per contesti smart casual o quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

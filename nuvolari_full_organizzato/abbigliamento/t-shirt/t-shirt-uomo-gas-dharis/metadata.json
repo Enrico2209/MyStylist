@@ -24,5 +24,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-uomo-gas-dharis",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Gas Dharis M/C Speed Silver Birch\nreinterpreta lo spirito autentico e la tradizione motoristica del brand veneto attraverso una grafica vintage ad alto impatto. Sviluppata su una morbida tonalità crema/panna (\"Silver Birch\"), questa t-shirt a maniche corte unisce un'estetica rétro-biker a una costruzione pulita e contemporanea, perfetta per chi ricerca un capo di carattere per i propri look urban quotidiani.\nDesign e Caratteristiche Principali\nMaxi-Grafica Posteriore Biker Style\n: Il retro del capo è il vero protagonista, dominato da una stampa serigrafica rossa dall'effetto piacevolmente usurato e \"distressed\". La composizione ad arco recita la scritta \"DRIVEN BY SPEED\", incorniciata da due fulmini laterali, e completata dalle diciture storiche \"GAS MILANO 1984\", \"Authentic Denim Division\" e il claim \"gas your way\" posizionato sul fondo.\nFrontale Essenziale con Micro-Logo\n: In perfetto equilibrio con la ricchezza visiva posteriore, il pannello frontale sceglie un rigore minimalista. Sul petto a sinistra spicca la scritta stampata in rosso \"GAS.984\", un richiamo abbreviato ed elegante all'anno di nascita del marchio.\nTessuto Premium in Jersey di Cotone\n: Confezionata in un filato di puro cotone morbido, leggero e traspirante, ideale per garantire il massimo comfort anche durante le giornate estive più calde. La texture assicura un'ottima resistenza ai lavaggi, mantenendo intatta la morbidezza del tessuto.\nGirocollo e Finiture di Qualità\n: Lo scollo rotondo classico presenta una solida bordatura elastica che mantiene la forma nel tempo. Le maniche corte e il fondo dritto sono rifiniti con cuciture precise a binario, completate da un piccolissimo dettaglio ricamato in rosso sul bordo laterale inferiore destro.\nSilhouette Regular Fit Bilanciata\n: Il taglio scende lineare lungo il corpo offrendo una vestibilità comoda d'ispirazione street, che asseconda i movimenti senza risultare eccessivamente over.\nProposta di Outfit\nAuthentic Denim Custom Look\n: Indossala sotto il\ngiubbotto di jeans\nGas Tar Jacket Basic Sw Dark\ne abbinala a un denim nero dal fit asciutto; il contrasto tra il blu stone washed del giubbotto e la base crema della t-shirt farà risaltare i dettagli rossi, richiamando la pura eredità racing del brand.\nRétro Summer Vibe\n: Portala sopra un\nbermuda\nchino color beige o terracotta e completa l'outfit con le scarpe slip-on\nHey Dude Wally Well Worn Brown/Multi\n; le sfumature vintage lavate della scarpa si integreranno alla perfezione con l'effetto distressed della maxi-stampa posteriore, per un perfetto look da weekend.\nUrban Street Contrast\n: Abbinala a un paio di\npantaloni cargo\ncargo verde oliva o neri e sneakers bianche; una scelta disinvolta e di forte impronta street, dove la pulizia del pannello frontale lascia spazio all'impatto grafico posteriore.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto di jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "Gas Tar Jacket Basic Sw Dark",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche/giubbotti-di-jeans.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "Hey Dude Wally Well Worn Brown/Multi",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con grafica posteriore biker/vintage, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

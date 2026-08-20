@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-gonna-donna-24colours-70769a-grey-08",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGonna 24Colours Grey\nLa\ngonna\n24Colours è un capo versatile e di tendenza, ideale per chi cerca un equilibrio tra comfort e stile. Perfetta per il giorno o la sera, si abbina facilmente a diversi look, dando un tocco di eleganza casual senza rinunciare alla praticità.\nAbbinala ad un\ntop\ne ad un paio di\nsneakers\npensate per il tuo look.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n68% acrilico, 28% poliestere, 4% elastan\nCodice articolo: 70769A GREY-08",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "gonna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/gonne.html"
+    },
+    {
+      "testo": "top",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "gonna midi in maglia, adatta a contesti smart casual quotidiani",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

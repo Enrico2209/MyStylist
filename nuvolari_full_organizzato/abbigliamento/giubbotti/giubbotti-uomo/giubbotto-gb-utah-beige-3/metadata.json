@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-utah-beige-3",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto BLACK RAGS\nè il capospalla perfetto per un look casual moderno, ispirato al classico modello\nCoach Jacket\nma aggiornato con un cappuccio e un tessuto di alta qualità.\nLa composizione di\n80% Poliestere, 15% Viscosa e 5% Elastane\ngarantisce una sensazione morbida e\nleggermente elasticizzata\n, offrendo un comfort superiore e una vestibilità che segue i movimenti senza restrizioni. Il tessuto ha una finitura opaca e strutturata, ideale per la mezza stagione.\nIl design è essenziale e funzionale:\nChiusura frontale\ncon bottoni a pressione neri.\nCappuccio fisso\nper maggiore protezione.\nTasca laterale a filetto\n(due tasche a fessura) per le mani.\nPolsini e orlo elasticizzati\nche assicurano un fit aderente e protettivo dal vento.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n80% poliestere, 15% viscosa, 5% elastane\nVestibilità regular\nCodice articolo: GB UTAH BEIGE-3",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile coach jacket con cappuccio e polsini elastici, capo prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

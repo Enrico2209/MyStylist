@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-dk0a4xk6-khaki-khk1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEsplora l'equilibrio tra stile e sostenibilità con i pantaloni Dickies color Khaki\nRealizzati con materiali riciclati di origine sostenibile, questi pantaloni offrono una scelta ecologica per il tuo guardaroba. Con una vita alta e una vestibilità comoda per il massimo comfort, questi pantaloni presentano un taglio a cosce e gambe dritte, garantendo una silhouette classica e versatile. Dotati di tasche laterali e posteriori per una maggiore praticità, il tessuto antipiega assicura un aspetto sempre impeccabile. Con il loro regular fit, questi pantaloni sono perfetti per qualsiasi occasione, dall'ufficio al tempo libero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nComposizione: 65% poliestere, 35% cotone\nCodice articolo: DK0A4XK6",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone chino/workwear Dickies, taglio dritto e robusto, tipico del registro casual e skate/streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

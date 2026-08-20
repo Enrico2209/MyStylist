@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/lej-502-jeans-levis-wc-72775-saint-indigo-0004-wc-72775-saint-indigo-0004",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nJeans Uomo Levi's 502 Engineered\nLavaggio blu chiaro\nTaglio dritto\nVita bassa\nChiusura con cerniera e bottone logato\n5 tasche\nFit regolare con aderenza sul fondo\nComposizione: 97% cotone 3% elastane\nIl modello è alto 1,92 e indossa la taglia 31",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "jeans a taglio dritto e fit regolare, classico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

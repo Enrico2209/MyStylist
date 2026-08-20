@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-pp-terry-salvia-salvia",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Nuvolari Terry\nè la sintesi perfetta tra l'eleganza di un pantalone chino e la comodità assoluta di un jogger. Progettato per chi non vuole rinunciare allo stile nemmeno nei momenti di relax, questo capo si distingue per la sua eccezionale versatilità.\nComfort e Dinamicità\nComposizione Hybrid:\nRealizzato al\n97% in cotone\ne\n3% elastane\n, il tessuto offre una mano naturale e traspirante, potenziata da una leggera elasticità che asseconda ogni movimento senza deformare la silhouette.\nVita Elasticizzata:\nLa fascia elastica in vita garantisce una vestibilità adattabile a diverse corporature, eliminando le costrizioni dei pantaloni classici.\nRegolazione con Coulisse:\nLa presenza di una coulisse esterna permette di personalizzare la chiusura, aggiungendo un dettaglio estetico sportivo e moderno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo: S3 PP TERRY SALVIA-SALVIA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone chino ibrido con coulisse ed elastico in vita che lo rendono molto casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

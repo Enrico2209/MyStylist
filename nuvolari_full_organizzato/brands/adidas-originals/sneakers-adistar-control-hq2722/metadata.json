@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/sneakers-adistar-control-hq2722",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Adidas Originals Adistar Control sono un tuffo nostalgico nell'estetica tecnica degli anni 2000, un periodo in cui il design delle scarpe da running era dominato da strutture complesse e tecnologie a vista. Questa versione ripropone il fascino \"millennial\" unendo materiali moderni a una silhouette robusta, perfetta per chi ama il trend delle tech-runner dal carattere deciso.\nIl punto di forza delle Adistar Control HQ2722 risiede nel loro equilibrio tra supporto strutturale e ammortizzazione reattiva. Progettate originariamente per correggere la pronazione e offrire stabilità, oggi queste sneakers vengono celebrate per la loro estetica \"massimalista\". La combinazione di mesh traspirante e sovrapposizioni sintetiche non solo garantisce durabilità, ma crea un gioco di texture che riflette la luce in modo dinamico, rendendole un pezzo centrale di ogni outfit streetwear.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running con estetica tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-1809n-6wv-nero-99",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nQuesto smanicato Colmar Originals è il compagno ideale per chi cerca un layer protettivo estremamente leggero e dinamico, capace di adattarsi con stile ai cambiamenti meteorologici improvvisi. Realizzato in morbido softshell, questo gilet combina un'estetica sportiva a prestazioni tecniche di rilievo.\nPerché sceglierlo\nProgettato per chi vive la città o il tempo libero in movimento, questo gilet offre una barriera efficace contro acqua e vento grazie al suo tessuto\nidrorepellente e impermeabile\n. Essendo\nsenza imbottitura\n, garantisce il massimo della traspirabilità e della leggerezza, rendendolo perfetto per essere indossato sopra una\nmaglia Sun68 100% cotone\no una\nt-shirt Sun68 T36103\nnelle giornate primaverili o autunnali.\nPerchè sceglierlo:\nProtezione dalle Intemperie\n: Il tessuto tecnico softshell assicura una protezione ideale anche sotto la pioggia, mantenendo un comfort elevato per tutto il giorno.\nDesign Funzionale\n: La chiusura con zip a doppio cursore permette di modulare la vestibilità, mentre le tasche laterali e quella interna (tutte con zip) offrono spazio sicuro per i propri oggetti personali.\nFiniture Elasticizzate\n: Il giromanica e il fondo sono rifiniti con un nastro elastico logato che stabilizza il capo e impedisce le infiltrazioni d'aria.\nDettagli di Marca\n: Il look è completato dal logo Colmar Originals posizionato sul fondo e dall'esclusiva patch \"C\" applicata sul retro.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 92% Poliestere + 8% Elastan\nVestibilità regular\nCodice articolo: 1809N 6WV NERO-99",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "gilet smanicato in softshell leggero, marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-jk2406v-jet-black-z865",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo smanicato uomo Lyle & Scott in 95% poliestere e 5% elastane è un capo tecnico essenziale, progettato per offrire protezione e massima libertà di movimento. Grazie alla sua composizione \"stretch\", si adatta perfettamente al corpo, rendendolo ideale sia per l'attività sportiva (come il golf, disciplina cara al brand) che per un utilizzo urban quotidiano.\nPerformance & Versatilità Tech\nPerché sceglierlo\nLa prevalenza del poliestere (95%) garantisce un'elevata resistenza al vento e una rapida asciugatura, mentre il 5% di elastane conferisce quella flessibilità necessaria per non intralciare i movimenti delle braccia e delle spalle. È lo strato termico perfetto per chi cerca protezione senza l'ingombro delle maniche.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: JK2406V JET BLACK-Z865",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "gilet/smanicato tecnico sportivo in poliestere ed elastane",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

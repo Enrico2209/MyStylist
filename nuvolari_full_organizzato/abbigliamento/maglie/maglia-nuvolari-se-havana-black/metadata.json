@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-se-havana-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nM\naglia nera da uomo con maniche lunghe dalla vestibilità slim fit che valorizza al meglio il tuo fisico, in particolare la zona di spalle e torace, grazie anche al taglio del collo a serafino con chiusura a 4 bottoni. Maglia in cotone fiammato disponibile anche nei colori\nPorcellana\ne\nNotte\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglia a serafino uomo Nuvolari modello Havana - Black\nTessuto cotone effetto fiammato\nCollo a serafino con 4 bottoni\nCollo e polsi calati\nFondo a costine\nVestibilità Slim\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Porcellana",
+      "categoria_url": "https://www.nuvolari.biz/maglia-nuvolari-se-havana-porcellana.html"
+    },
+    {
+      "testo": "Notte",
+      "categoria_url": "https://www.nuvolari.biz/maglia-nuvolari-se-havana-notte.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia a serafino in cotone fiammato, vestibilita slim che alza leggermente il tono casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

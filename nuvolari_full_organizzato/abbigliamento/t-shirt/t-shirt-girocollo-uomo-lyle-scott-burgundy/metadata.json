@@ -22,5 +22,41 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-girocollo-uomo-lyle-scott-burgundy",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nEsprimi il tuo stile con questa\nT-shirt da uomo Lyle&Scott\nin un ricco\ncolore burgundy\n. Le\nmaniche corte\noffrono comfort e traspirabilità, ideali per le giornate estive o per strati durante la mezza stagione. Il\ngirocollo elasticizzato\ngarantisce una vestibilità comoda e aderente. Il tocco di classe è dato dal\nlogo dorato\n, finemente ricamato sul petto, che aggiunge un tocco di lusso a questa\nt-shirt casual\n.\nU\nn t-shirt classica sempre di tendenza\nQuesta\nt-shirt\nè versatile e si abbina perfettamente a\njeans\nper un look rilassato ma alla moda. Se desideri un tocco di eleganza, abbinala a un blazer e\npantaloni chino\n. Completa il tuo outfit con\nscarpe da ginnastica\nper uno stile casual o con\nstivaletti\neleganti per un look più sofisticato. La\nT-shirt\nLyle&Scott\nin burgundy\nè un capo essenziale per il guardaroba maschile che ti accompagnerà in molte occasioni.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nT-Shirt Girocollo Uomo Lyle&Scott Burgundy\nVestibilità slim\nComposizione:  100% cotone\nCodice articolo: TS400VOG",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "scarpe da ginnastica",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "stivaletti",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stivaletti.html"
+    },
+    {
+      "testo": "Lyle&Scott",
+      "categoria_url": "https://www.nuvolari.biz/brands/lyle-scott"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica in cotone, la vestibilita slim alza leggermente ma resta un capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

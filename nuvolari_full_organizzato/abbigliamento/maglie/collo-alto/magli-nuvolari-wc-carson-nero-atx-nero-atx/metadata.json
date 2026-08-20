@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/magli-nuvolari-wc-carson-nero-atx-nero-atx",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari modello Carson\nTessuto Viscosa vanisè operato\nCollo alto Tessuto\nVestibilità slim ﬁt\nComposizione : 70% viscosa 30% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglia a collo alto slim fit, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

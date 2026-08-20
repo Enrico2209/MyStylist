@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m6gi21-k3053-impact-grey-g9i0",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nELEGANZA MINIMALE: T-SHIRT GUESS JEANS BLACK\nQuesta t-shirt rappresenta il perfetto equilibrio tra uno stile essenziale e il carattere distintivo di Guess Jeans. Caratterizzata da una profonda tonalità \"Black\", è il capo ideale per chi cerca un look sobrio ma curato in ogni dettaglio.\nDesign Iconico:\nPresenta l'inconfondibile logo a triangolo Guess applicato in rilievo sul petto, in una raffinata versione tono su tono.\nComfort Superiore\n: Realizzata in morbido cotone premium, offre una vestibilità confortevole e una traspirabilità ottimale per tutto il giorno.\nDettagli di Qualità\n: Il girocollo rifinito e le cuciture piatte garantiscono una silhouette pulita e una lunga durata nel tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a tinta unita con piccolo logo tono su tono sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

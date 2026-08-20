@@ -22,5 +22,29 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/offset-fade-volley-0emmbo-aqua-0046",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura surf internazionale, l'innovazione tecnologica applicata ai materiali acquatici e il design solare australiano si incontrano nelle collezioni di\nCostumi Uomo Rip Curl\n. Fondato nel 1969 a Torquay, nella leggendaria Bells Beach, il brand \"The Ultimate Surfing Company\" ha ridisegnato il concetto di beachwear maschile, creando boardshort e pantaloncini da mare che fondono una vestibilità ad alte prestazioni atletiche a un'estetica fresca, dinamica e di grande tendenza.\nDesign, Tecnologie e Linee Principali\nLa Linea Mirage (The Ultimate Boardshort)\n: Vero e proprio fiore all'occhiello tecnologico del brand, acclamato dai surfisti professionisti di tutto il mondo. Questi costumi sono realizzati con tessuti premium stretch multidirezionali (Elastostretch), progettati per rimanere leggerissimi, azzerare gli sfregamenti sulla pelle e seguire ogni movimento in acqua con un'elasticità e una stabilità strutturale impareggiabili.\nTrattamento Idrorepellente DWR (Durable Water Repellent)\n: I tessuti Rip Curl sono sottoposti a speciali trattamenti idrofobici di ultima generazione che respingono attivamente l'acqua. Questa tecnologia impedisce al pantaloncino di appesantirsi durante il nuoto e garantisce tempi di asciugatura record appena usciti dal mare, prevenendo fastidiose irritazioni.\nEconyl® e Impegno Eco-Consapevole\n: In sintonia con l'amore e il rispetto per l'oceano, il brand utilizza ampiamente filati in nylon e poliestere riciclati e rigenerati (come l'Econyl® o il poliestere ricavato da bottiglie in PET). Tessuti ecologici ad alta densità che offrono un'eccellente resistenza al cloro, alla salsedine e ai raggi UV, mantenendo il fitting inalterato nel tempo.\nGrafiche Heritage, Gradienti e Stampe Tropicali\n: L'estetica Rip Curl celebra la libertà del viaggio e la \"Search\" (la ricerca dell'onda perfetta). Le collezioni spaziano da classici boardshort a tinta unita con bande laterali rétro d'ispirazione anni '70 a spettacolari stampe botaniche hawaiane, sfumature a gradiente pop ed esclusive grafiche geometriche dal sapore californiano.\nCostruzione della Vita Solida e Funzionale\n: Dai modelli tecnici con chiusura a surf (patta senza zip e cordoncino piatto intrecciato ad alta tenuta) ai più versatili volley short dotati di girovita elastico arricciato e tasche laterali a filo, ogni capo è progettato per assicurare un fitting personalizzato, sicuro e confortevole sui fianchi.\nIdee di Stile: Costruisci il Tuo Look Beach & Surf\nAuthentic Surfer Uniform\n: Esalta l'anima tecnica e radicale del brand per le tue giornate attive sul bagnasciuga. Coordina un boardshort della linea Mirage a una delle t-shirt grafiche Deus Ex Machina con stampa vintage sulla schiena, completando la protezione con un cappello trucker e un occhiale da sole lifestyle specchiato Oakley. Per gli appassionati di immersioni e viaggi tropicali, questo look è perfetto anche per rilassarsi in mete da sogno come il Siladen Resort & Spa.\nMetropolitan Beachwear Transition\n: Per muoverti fluidamente dalla spiaggia a un pool party o a un aperitivo al tramonto, gioca sui contrasti strutturati dello streetwear d'élite. Scegli un volley short Rip Curl a tinta unita o a micro-fantasia e abbinalo alla precisione minimale di una\nt-shirt uomo\n\"I Told Ya\" Bianca o Grigio Melange, chiudendo il look con una sneaker bassa in tela.\nSmart Summer Lounge Mix\n: Smorza l'impronta puramente sportiva del costume unendo l'eclettismo del nylon alla nobiltà delle fibre naturali. Indossa il tuo pantaloncino Rip Curl sotto la precisione lineare e ariosa di una delle freschissime\ncamicie uomo\nSquad in puro lino fiammato bianco, lasciandola completamente aperta per un'aria disinvolta e sofisticata.\nVivi l'estate e il richiamo delle onde senza scendere a compromessi tra funzionalità atletica e stile contemporaneo. Scegli la resistenza dei materiali eco-consapevoli, la stabilità strutturale dei tagli e l'inconfondibile energia solare dei costumi uomo firmati Rip Curl.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno tipo volley short, livello base di formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

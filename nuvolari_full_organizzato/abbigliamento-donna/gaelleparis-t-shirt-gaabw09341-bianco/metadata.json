@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/gaelleparis-t-shirt-gaabw09341-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-shirt Gaëlle Paris: Minimalismo Premium e Texture Tono su Tono\nT-shirt Donna Gaëlle Paris White Essential Edition\nEleva i tuoi capi base con la T-shirt bianca firmata Gaëlle Paris. Lontana dall'essere una semplice maglietta, questa creazione trasforma il concetto di \"basic\" in un pezzo di design grazie al gioco di volumi del logo in rilievo. La scelta cromatica total white la rende una tela bianca perfetta per ogni outfit, garantendo un look fresco, luminoso e sofisticato in ogni stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con logo tono su tono in rilievo, adatta a un uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

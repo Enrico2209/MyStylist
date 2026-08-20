@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/worker-short-i034934-matt-wash-89-0m",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Worker Short in versione Pembroke Black Denim rappresenta una rielaborazione moderna del classico denim da lavoro. Realizzato in una tela da 13,56 oz, questo pantaloncino si distingue per il lavaggio black matt, che conferisce al nero una finitura opaca e un aspetto delicatamente vissuto, garantendo al contempo una mano morbida e confortevole sin dal primo utilizzo.\nQuesto modello è l'ideale per chi cerca un'alternativa scura e grintosa ai classici short in denim blu. Il particolare trattamento opaco elimina la lucidità tipica del denim nuovo, offrendo un'estetica più ricercata e versatile. La vestibilità loose (ampia) lo rende estremamente comodo per la stagione estiva, mantenendo una struttura solida grazie alla grammatura importante del tessuto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I034934 MATT WASH-89.0M",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantaloncino corto in denim nero con vestibilita loose",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-chiado-denim-blu-29",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nBomber Uomo Rayz\nScopri l'essenza dello stile casual-chic con il bomber da uomo\nRayz\n, un capo versatile e moderno, perfetto per affrontare le mezze stagioni con un tocco di eleganza disinvolta. La sua composizione lo rende un capo non solo stiloso, ma anche estremamente comodo e funzionale.\nDettagli che uniscono stile e comfort\nRealizzato con una miscela di alta qualità di\n98% cotone e 2% spandex\n, il bomber\nRayz\noffre un comfort eccezionale e una vestibilità che si adatta a ogni movimento.\nTessuto:\nLa presenza di spandex aggiunge un'elasticità che garantisce libertà di movimento, mentre il cotone assicura morbidezza, traspirabilità e una sensazione piacevole a contatto con la pelle.\nDesign:\nIl taglio bomber classico, con la chiusura a zip frontale e i polsini e il colletto a costine, conferisce un look sportivo ma raffinato. I dettagli puliti e minimali lo rendono facile da abbinare.\nVersatilità:\nPerfetto per essere indossato sopra una t-shirt, una polo o una felpa leggera, questo bomber è l'ideale per completare qualsiasi outfit, dai jeans ai pantaloni cargo, per un look sempre curato.\nScegli il bomber\nRayz\nper un capo che unisce la funzionalità di un giubbotto leggero al fascino senza tempo di un'icona di stile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nESTERNO 98% cotone, 2% SPANDEX\nVestibilità regular\nCodice articolo: CHIADO DENIM BLU-29",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "bomber classico in denim, capo spalla casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

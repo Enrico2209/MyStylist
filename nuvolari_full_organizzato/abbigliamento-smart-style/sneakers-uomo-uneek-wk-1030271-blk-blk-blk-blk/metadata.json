@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/sneakers-uomo-uneek-wk-1030271-blk-blk-blk-blk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nScarpe Uomo Keen Uneek Wk Blk/Blk\nrappresentano un'evoluzione rivoluzionaria del concetto di calzatura ibrida, unendo l'innovativo design a corde intrecciate a una suola ad alte prestazioni. Questa versione total black offre un look tecnico e sofisticato, ideale per chi cerca una scarpa versatile capace di adattarsi con naturalezza sia ai sentieri outdoor che ai contesti urbani più moderni.\nDesign e Caratteristiche Principali\nCostruzione a Due Corde\n: La tomaia è realizzata con un sistema unico di corde in nylon intrecciate che si adattano dinamicamente alla forma del piede, garantendo una libertà di movimento senza precedenti e una ventilazione costante.\nTecnologia WK (Walking)\n: Dotate di una suola con profilo curvo progettata per assecondare il naturale movimento di rullata del piede, riducendo la fatica durante le lunghe camminate.\nIntersuola Ammortizzata\n: La struttura in EVA ad alta resilienza offre un assorbimento degli urti superiore, mantenendo la scarpa leggera e reattiva su ogni tipo di terreno.\nSistema di Allacciatura Rapida\n: Il bloccacorde integrato permette di regolare la calzata in modo immediato e sicuro, assicurando che la scarpa rimanga ferma in ogni situazione.\nTallone Aperto e Strutturato\n: Il design combina zone aperte per la massima traspirabilità con inserti imbottiti sul retro per proteggere il tendine d'Achille e migliorare la stabilità.\nSuola in Gomma High-Traction\n: Il battistrada in gomma anti-traccia presenta un disegno multidirezionale che offre un grip eccellente sia su superfici asciutte che bagnate.\nSuggerimenti di Stile\nEcco 3 modi per integrare queste calzature nel tuo guardaroba estivo:\nTechwear Essential\n: Combinale con pantaloni tecnici cargo neri e una giacca a vento minimalista per un outfit urban-ninja focalizzato sulla funzionalità e sul design d'avanguardia.\nSummer Explorer\n: Indossale con bermuda in tessuto tecnico e una t-shirt traspirante per affrontare escursioni leggere o giornate di viaggio con il massimo comfort climatico.\nUrban Minimal\n: Abbinale a jeans dal taglio dritto e una camicia over in cotone per un look quotidiano rilassato che non rinuncia a un tocco di originalità architettonica.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Sandalo ibrido da walking con design tecnico a corde, registro outdoor/sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

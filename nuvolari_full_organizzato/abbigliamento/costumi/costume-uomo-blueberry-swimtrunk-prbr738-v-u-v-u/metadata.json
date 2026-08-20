@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-uomo-blueberry-swimtrunk-prbr738-v-u-v-u",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl costume Propaganda è un capo beachwear che unisce l'estetica urban underground alla praticità necessaria per la stagione estiva. Caratterizzato da una grafica d'impatto sulla gamba sinistra, questo boxer da mare è pensato per chi vuole mantenere uno stile deciso anche in spiaggia o a bordo piscina.\nPerché sceglierlo\nQuesto modello si distingue per la maxi stampa laterale che ritrae l'iconico motivo dei teschi sovrastati dal lettering \"Propaganda\" in rosso, un segno distintivo del brand che richiama l'arte di strada e la cultura hip-hop. Realizzato in tessuto tecnico leggero, assicura un'asciugatura rapidissima e una resistenza ottimale all'acqua salata e al cloro.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: PRBR738 V.U.-V.U.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "streetwear": 0.4,
+      "da_mare": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno di stampo streetwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

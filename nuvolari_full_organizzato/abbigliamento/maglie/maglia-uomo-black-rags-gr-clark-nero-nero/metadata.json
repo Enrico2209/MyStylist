@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-black-rags-gr-clark-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Black Rags Gr Clark Nero\nLa\nmaglia\nBlack Rags presenta un design essenziale, ideale per un look casual e contemporaneo. Realizzata in tessuto morbido e confortevole, offre una vestibilità regolare e si adatta perfettamente a qualsiasi outfit quotidiano.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% viscosa; 27% Poliestere; 19% Nylon; 4% elastan\nCodice articolo: GR CLARK NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo basica, adatta a contesti smart casual e consigliata con camicia e chino",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

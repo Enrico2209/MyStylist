@@ -28,5 +28,39 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-fury-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ispirazione utility di matrice militare e la cura del dettaglio tipica della tradizione casual italiana si fondono nel nuovo\nBermuda Uomo Nuvolari SH Fury\n.\nQuesto modello cargo reinterpreta il concetto di pantaloncino multitasche attraverso una silhouette calibrata ed equilibrata, offrendo il perfetto compromesso per chi cerca un capo robusto, estremamente funzionale e ricco di personalità urban.\nDesign e Caratteristiche Principali\nSfumatura Beige / Sabbia con Lavaggio Rétro\n: Il bermuda si presenta in una versatile tonalità beige chiaro desaturata. Il tessuto è valorizzato da un leggero trattamento di lavaggio ed effetto vissuto che evidenzia le cuciture e i profili delle tasche, donando al capo una bellissima allure vintage e tridimensionale.\nIconiche Tasche Cargo Laterali\n: Il vero e proprio focus stilistico e funzionale del modello SH Fury è la presenza dei due ampi tasconi applicati a mezza coscia. Dotati di patta sagomata di chiusura, sono progettati per offrire massima capienza senza allargare eccessivamente la silhouette della gamba.\nCostruzione della Vita e Dettagli Sartoriali\n: La parte frontale mostra un fascione rigido pulito completo di passanti robusti per la cintura, una classica chiusura con bottone centrale metallico scuro a contrasto e patta con zip. Un taschino supplementare inserito sul lato destro aggiunge un ulteriore richiamo all'estetica utility d'archivio.\nTaglio Regular Comfort Calibrato\n: Sviluppato con una geometria comoda che accarezza i fianchi e scende dritta lungo la coscia per garantire un'eccellente libertà di movimento. La lunghezza è studiata accuratamente per fermarsi appena sopra il ginocchio con un orlo lineare rifinito.\nTasche ad Accesso Rapido Rinforzate\n: Oltre ai tasconi cargo, il modello presenta tasche superiori ad accesso diagonale profonde, impreziosite da un rivetto metallico scuro posizionato sul punto di apertura destro come raffinato dettaglio di finitura e rinforzo.\nTessuto in Cotone Strutturato e Resistente\n: Confezionato in una tela di cotone compatta e di alta qualità. Questo materiale fresco e traspirante assicura un'ottima resistenza agli strappi e all'usura quotidiana, ammorbidendosi piacevolmente sulla pelle lavaggio dopo lavaggio.\nIdee di Stile: Linka il Tuo Outfit\nUrban Utility Uniform\n: Esalta la natura cargo del bermuda creando un outfit street di chiara ispirazione utility. Abbina il modello SH Fury a una\nt-shirt uomo\nObey dal taglio boxy con maxi grafica posteriore, chiudendo il look con una sneaker robusta e uno zaino tecnico.\nContemporary Smart-Casual Break\n: Gioca di contrasti stilistici per un aperitivo estivo o un weekend in città. Smorza l'anima militare dei tasconi accostando lo short sabbia alla pulizia geometrica di una\ncamicia uomo\na maniche lunghe a righe verticali sottili azzurre e bianche, lasciata aperta sopra a un top basic.\nAthleisure Outdoor Vibe\n: Per le gite fuori porta, le giornate di transizione o i festival all'aperto, unisci la praticità del cargo al comfort dello sportswear. Indossa il bermuda insieme a una morbida\nt-shirt uomo\nNew Balance e completa l'outfit con un\ncappello uomo\nda pescatore mimetico o utility per proteggerti dal sole con stile.\nFai spazio nel tuo guardaroba estivo a un classico intramontabile riscoperto in chiave contemporanea. Scegli la massima funzionalità, la resistenza della tela e lo stile deciso dei bermuda cargo SH Fury firmati Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 SH FURY SABBIA-SABBIA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo multitasche, capo tipicamente casual e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,42 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/vincent-piquet-polo-es3-k1125bw-red-brownish-wnm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa ricchezza delle sfumature d'ispirazione earth-tone, il comfort delle fibre naturali premium e l'iconico DNA grafico del brand si fondono nella\npolo uomo K-Way modello Vincent Piquet Red Brownish\n. Questo capo reinterpreta un pilastro del guardaroba casual unendo una struttura fresca e traspirante a un'intensa colorazione stagionale, arricchita da dettagli grafici sui bordi che richiamano immediatamente l'heritage e l'inconfondibile identità visiva K-Way.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Cotone Piquet Traspirante\n: La polo è interamente realizzata in morbido cotone piquet, caratterizzato dalla classica trama micro-ventilata in rilievo. Questa speciale lavorazione strutturale favorisce un continuo ricircolo dell'aria, regalando una piacevole sensazione di freschezza sulla pelle anche durante i climi più caldi.\nLa Nuance Red Brownish e i Bordi Heritage\n: Il corpo della maglia si distingue per una sofisticata tonalità rosso mattone con sottotoni marroni (Red Brownish), calda, avvolgente e di grande personalità. A contrasto sulla base scura, il bordo delle maniche corte è rifinito in maglia costina nera, impreziosita da un sottile profilo rigato che riprende i colori iconici del brand (giallo e arancione).\nDettagli di Branding Minimal\n: Sul petto, lato cuore, è applicato il classico logo K-Way in silicone bianco a contrasto, un dettaglio pulito ed essenziale che certifica l'autenticità del capo senza sovraccaricare il design.\nChiusura Classica e Fit Regolare\n: Il colletto a camicia in costina coordinata incontra una patta frontale lineare dotata di due bottoni logati. Tagliata su una silhouette regular fit, la polo assicura una vestibilità equilibrata e una totale libertà di movimento in qualsiasi contesto quotidiano.\nIdee di Stile: Costruisci il Tuo Look Yacht Club & Smart Casual\nUrban Streetwise Combo\n: Crea una solida uniforme quotidiana bilanciando i toni caldi della terra con i classici tessuti streetwear. Indossa la polo piquet infilata leggermente all'interno di un paio di denim relaxed scegliendo tra i modelli disponibili nella categoria dei\njeans uomo\n. Completa l'outfit con una scarpa low-top e un capospalla leggero.\nSummer Breeze Layering\n: Esalta l'anima athleisure abbinando la polo a strati per le ore più fresche o per un aperitivo informale. Abbina il capo a un modello tecnico prelevato dalla selezione di\nbermuda uomo\n. Per proteggerti dai cambi repentini di meteo, porta con te un guscio impermeabile o una giacca a vento leggera esplorando la sezione dei\ncapispalla\nuomo.\nNautical & Resort Transition\n: Per una giornata di relax in barca o per il tempo libero sul bagnasciuga, gioca con i contrasti cromatici decisi. Accosta la tonalità Red Brownish alle proposte grafiche e ad asciugatura rapida che trovi nella collezione dei\ncostumi uomo\n. Completa il set da viaggio aggiungendo un accessorio capiente e compatto cercandolo tra le novità dei\nmarsupi e accessori\n.\nSperimenta la perfetta evoluzione della polo sportiva arricchita da dettagli d'archivio inconfondibili. Scegli la traspirabilità del cotone piquet, la ricercatezza della sfumatura Red Brownish e l'attitudine inconfondibile della linea Vincent firmata K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "capispalla",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "marsupi e accessori",
+      "categoria_url": "https://www.nuvolari.biz/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Polo classica in piquet, ma con tetto di marchio sportivo (K-Way) e dettagli heritage colorati sulle maniche",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

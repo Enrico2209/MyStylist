@@ -20,5 +20,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/w-pantalone-donna-rayz-fw-ivette-piombo-piombo",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantalone Tuta Donna Rayz Ivette Cargo Piombo\nIl\npantalone cargo\nda donna Rayz unisce comfort e stile urbano. Con dettagli pratici come tasche laterali e un design casual, è perfetto per un look dinamico e versatile, ideale per ogni occasione informale.\nAbbinalo ad un\ntop\ne ad un paio di\nsneakers\npensate per il tuo look.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n65% cotone, 35 poliestere\nCodice articolo: FW IVETTE PIOMBO-PIOMBO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    },
+    {
+      "testo": "top",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in felpa con coulisse ed elastico alle caviglie",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

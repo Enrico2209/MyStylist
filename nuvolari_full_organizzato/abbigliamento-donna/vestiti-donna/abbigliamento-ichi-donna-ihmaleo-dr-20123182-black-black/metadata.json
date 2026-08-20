@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/vestiti-donna/abbigliamento-ichi-donna-ihmaleo-dr-20123182-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'\nAbito Ichi Donna Ihmaleo Dr Black\nesprime un'eleganza bohémien sofisticata e ricca di texture, reinterpretando il classico abito nero estivo attraverso un gioco di trasparenze e ricami di grande impatto visivo. Questo modello smanicato si distingue per una lavorazione in pizzo traforato all-over che dona tridimensionalità e leggerezza a una silhouette fluida e contemporanea.\nDesign e Caratteristiche Principali\nTessuto in Pizzo Traforato (Broderie Anglaise)\n: Il tratto distintivo assoluto, è la complessa trama geometrica e floreale ricamata all-over. I piccoli intagli del pizzo creano un raffinato gioco di trasparenze che alleggerisce la solidità del nero totale.\nScollo a V con Colletto alla Coreana\n: La parte superiore presenta un'apertura a V pulita e geometrica che slancia il collo, incorniciata da un colletto alla coreana minimale e accennato che rifinisce la scollatura con precisione sartoriale.\nChiusura Frontale Bottonata (Shirt-Dress Design)\n: L'abito è strutturato con un cannoncino centrale verticale che corre lungo tutta la lunghezza del capo, arricchito da una fila di piccoli bottoni scuri in tinta, evocando la linea pulita ed elegante di un maxiduster o di un abito a camicia.\nTaglio Smanicato con Profilo Pulito\n: Il giromanica dritto e privo di maniche è rifinito con un sottile bordino a costine piatte che segue la linea della spalla senza spessore, perfetto per garantire la massima freschezza.\nLinea Fluida e Silhouette ad A\n: Il taglio scivola morbido dal petto fino al fondo senza costringere la vita, ampliandosi leggermente in una silhouette svasata che asseconda il movimento del corpo in modo naturale e arioso.\nLunghezza Midi/Maxi e Orlo Ricamato\n: La gonna si estende sotto il ginocchio terminando con una finitura trasparente sul fondo, dove i motivi del pizzo rimangono a vista creando un bellissimo bordo smerlato e leggero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Abito midi smanicato in pizzo traforato con trasparenze, versatile tra il casual estivo e lo smart casual",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

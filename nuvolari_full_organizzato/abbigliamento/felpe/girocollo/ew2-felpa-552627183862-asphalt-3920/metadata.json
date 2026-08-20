@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/girocollo/ew2-felpa-552627183862-asphalt-3920",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo classica con logo frontale di medie dimensioni",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

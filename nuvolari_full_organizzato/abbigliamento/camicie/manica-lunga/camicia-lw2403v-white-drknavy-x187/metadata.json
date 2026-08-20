@@ -21,5 +21,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-lw2403v-white-drknavy-x187",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Uomo Lyle & Scott mostrata nell'immagine è un classico intramontabile dello stile casual-chic britannico. Caratterizzata dalla distintiva trama a righe sottili (seersucker o popeline ritorto), questa camicia incarna perfettamente il connubio tra eredità sartoriale e attitudine contemporanea del brand scozzese.\nPerché sceglierla\nLyle & Scott è rinomata per la qualità dei suoi tessuti naturali. Questa camicia offre una vestibilità impeccabile che si adatta sia a contesti formali che a situazioni più rilassate. La leggerezza del cotone utilizzato garantisce un'elevata traspirabilità, rendendola un capo piacevole da indossare per tutta la giornata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a righe sottili, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

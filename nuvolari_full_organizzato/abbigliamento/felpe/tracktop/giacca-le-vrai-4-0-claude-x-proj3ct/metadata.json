@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/giacca-le-vrai-4-0-claude-x-proj3ct",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nK-Way x Proj3ct: Le Vrai 4.0 Claude\nExclusive Edition\nQuesta edizione speciale unisce l'avanguardia tecnologica di K-Way con l'anima \"street-oriented\" di Proj3ct, creando un pezzo da collezione per gli amanti dell'urban outdoor.\nL'icona delle giacche impermeabili si evolve. Il modello Le Vrai 4.0 Claude rappresenta l'ultima frontiera della funzionalità K-Way: impacchettabile, traspirante e oggi ancora più sostenibile. Questa versione speciale, realizzata in collaborazione con Proj3ct, celebra l'incontro tra il design storico del 1965 e le necessità dinamiche del contesto urbano contemporaneo.\nPerché sceglierlo\nScegliere Le Vrai 4.0 x Proj3ct Claude significa indossare un pezzo di storia del design, potenziato dalle migliori performance tecniche attuali. La sua caratteristica distintiva è l'estrema versatilità: una protezione totale contro pioggia e vento che scompare in una pratica pouch quando torna il sole, perfetta per chi vive la città con lo spirito di Proj3ct.\nEccellenza Tecnica e Innovazione\nMateriali Sostenibili\n: Realizzato in tessuto Ripstop 100% nylon riciclato, per una scelta consapevole che non rinuncia alla robustezza.\nImpermeabilità e Protezione\n: Membrana interna in DRY PU e trattamento idrorepellente DWR, con una colonna d'acqua di\n10.000 mm\nper sfidare anche i temporali più intensi.\nTraspirabilità Superiore\n: Progettato per espellere il calore in eccesso grazie a una capacità di traspirazione di\n10.000 g/m²\n, mantenendo il corpo asciutto durante il movimento.\nPackable Design\n: L'iconica tasca laterale permette di ripiegare l'intera giacca al suo interno, trasformandola in una pouch con strap da legare in vita o alla borsa.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% Recycled Nylon\nCURA DEL PRODOTTO\nLavare delicatamente max 30°c - Non candeggiare - Non usare asciugatrice - Non stirare - Non lavare a secco - Lavare separatamente - Proteggere gli accessori durante il lavaggio\nVestibilità regular\nCodice articolo: K7135QW WHITE-001",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.5,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "giacca antivento tecnica, tetto di marchio sportivo/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

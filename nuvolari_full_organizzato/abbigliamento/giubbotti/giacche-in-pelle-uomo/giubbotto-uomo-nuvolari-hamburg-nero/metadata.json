@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-uomo-nuvolari-hamburg-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Nuvolari 2.0 Hamburg Nero\nScopri il giubbotto\nNuvolari 2.0 Hamburg\n, l'essenza dello stile urbano e contemporaneo, perfetto per l'uomo che cerca un capo versatile e alla moda. Questo giubbotto, in un'elegante tonalità nera, è stato progettato per unire funzionalità e design, rendendolo un'aggiunta indispensabile al tuo guardaroba.\nDettagli che fanno la differenza\nIl giubbotto Hamburg si distingue per la sua cura nei dettagli e per i materiali di alta qualità. Realizzato con un tessuto resistente ma leggero, offre una protezione ottimale contro il vento e l'umidità, senza sacrificare il comfort.\nDesign:\nLa linea pulita e minimalista è arricchita da dettagli come le cuciture a vista e le tasche con cerniera, che conferiscono al capo un tocco di modernità e praticità. Il cappuccio, spesso regolabile o staccabile, offre un'ulteriore protezione e versatilità.\nVestibilità:\nIl taglio regolare si adatta perfettamente alla silhouette, permettendoti di indossarlo comodamente sopra una\nt-shirt\n, una\nfelpa\no una\ncamicia\n.\nVersatilità:\nPerfetto per ogni stagione, questo giubbotto è l'ideale per le mezze stagioni, ma può essere indossato anche con un\nmaglione\npiù pesante nelle giornate più fredde. È il capo perfetto per un look casual e sofisticato, adatto a ogni occasione.\nScegli il giubbotto\nNuvolari 2.0 Hamburg\nper un look che unisce l'eleganza urbana alla funzionalità di un capo pensato per la vita di tutti i giorni.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nesterno 100% vera pelle\nfodera 100% poliestere\nVestibilità regular\nCodice articolo: W2 HAMBURG NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "maglione",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile biker in pelle, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

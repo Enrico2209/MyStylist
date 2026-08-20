@@ -24,5 +24,37 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m1600v-navy-608",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa t-shirt uomo Fred Perry è un pilastro del guardaroba casual, pensata per chi cerca un capo che unisca l'eredità sportiva britannica a un design minimalista e senza tempo. È la scelta perfetta per chi non vuole rinunciare allo stile neanche nei momenti di relax assoluto.\nFred Perry T-shirt L’icona del Minimalismo\nPerché sceglierla\nFred Perry è sinonimo di una qualità che si sente al tatto. Le t-shirt del brand si distinguono per un cotone spesso e resistente, capace di mantenere la forma originale lavaggio dopo lavaggio. Il dettaglio della Corona d'Alloro ricamata sul petto è un segno distintivo che trasforma una semplice maglia in un capo iconico e immediatamente riconoscibile.\nConsigli di Outfit\nSmart-Casual:\nAbbina la t-shirt a un pantalone\nchino\nscuro e un paio di\nsneakers\nper un look da ufficio informale o un aperitivo serale.\nUrban Layering\n: Indossala sotto una\ncamicia\naperta in tessuto tecnico o un\nbomber\nleggero per un contrasto tra il gusto classico e uno stile contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:M1600V NAVY-608",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bomber",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica in cotone, capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

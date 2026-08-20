@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giacca-unisex-k-way-charmain-travel",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nK-Way Charmain: La Giacca da Viaggio Definitiva in Ripstop 3L\nGiacca Unisex Charmain Ultra-Light & Packable\nProgettata per l'esploratore moderno, la giacca Charmain è la sintesi perfetta tra tecnicismo estremo e praticità d'uso. Realizzata in un innovativo tessuto ripstop a tre strati ultra-leggero, questa giacca unisex non teme le intemperie né le pieghe della valigia. Che si tratti di un'escursione improvvisa o di un viaggio intercontinentale, Charmain offre una protezione totale con un ingombro minimo, ripiegandosi agilmente nella sua tasca integrata.\nIngegneria Tessile e Protezione Totale\nTriplo Strato Anti-Pieghe: Il tessuto a 3 strati garantisce una struttura resistente e una naturale proprietà antipiega, mantenendo un aspetto sempre impeccabile anche dopo ore nello zaino.\nPerformance 10K/10K: Con un'impermeabilità di 10.000 mm e una traspirabilità di 10.000 g/mq/24h, il capo assicura un isolamento eccellente dagli agenti atmosferici e un comfort interno costante.\nDettagli Termonastrati: Le cuciture interne sono interamente termonastrate per impedire il passaggio dell'acqua, supportate da una patta interna antivento dietro la zip.\nVentilazione e Regolazione: Il taglio di aerazione posteriore favorisce la circolazione dell'aria, mentre i polsini elasticizzati con chiusura a strap e il fondo regolabile permettono di personalizzare la vestibilità e la protezione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 18% Poliestere, 48% Recycled Polyamide, 34% Poliuterano Termopla\nVestibilità regular\nCodice articolo: K7137NW BLACK PURE-USY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giacca antivento tecnica, tetto di marchio sportivo/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

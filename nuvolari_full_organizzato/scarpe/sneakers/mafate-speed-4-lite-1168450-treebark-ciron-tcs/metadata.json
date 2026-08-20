@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/mafate-speed-4-lite-1168450-treebark-ciron-tcs",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nHoka Mafate Speed 4 Lite: L' agilità\n- Costruzione Alleggerita: Rispetto alla versione standard, la \"Lite\" utilizza materiali ancora più sottili e tecnici per ridurre il peso senza sacrificare la resistenza strutturale.\n- Intersuola a Doppia Densità PROFLY+™: Offre un atterraggio ammortizzato e uno stacco reattivo, garantendo una falcata energica e veloce anche in salita.\n- Tomaia in Mesh Jacquard: Progettata per una traspirabilità superiore, avvolge il piede in modo sicuro offrendo al contempo la flessibilità necessaria nei passaggi tecnici.\n- Grip Vibram® Megagrip con Litebase: Utilizza una suola sottile ma estremamente resistente con tasselli da 5mm per una trazione imbattibile su fango, rocce e superfici scivolose.\n- Design Active Foot Frame™: La struttura culla il piede all'interno dell'intersuola anziché appoggiarlo sopra, migliorando la stabilità laterale nei cambi di direzione improvvisi\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nLe Hoka Mafate Speed 4 Lite sono l'evoluzione tecnica definitiva per chi cerca una scarpa da trail running d'élite capace di dominare i terreni più impegnativi con una leggerezza sorprendente. Questa versione \"Lite\" esalta la reattività e l'agilità, rendendola un punto di riferimento per le prestazioni outdoor più spinte.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da trail running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

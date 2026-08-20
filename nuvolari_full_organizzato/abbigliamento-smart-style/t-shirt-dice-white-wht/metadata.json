@@ -22,5 +22,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-dice-white-wht",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'estetica underground e la provocazione visiva tipiche della controcultura street si fondono nella nuova\nT-Shirt Uomo Obey Dice\n. Questo modello celebra l'eredità artistica del brand fondato da Shepard Fairey attraverso una grafica bold ad alto impatto grafico, perfetta per chi vuole infondere un carattere deciso e anticonformista al proprio stile daily.\nDesign e Caratteristiche Principali\nGrafica Frontale \"Obey Dice\"\n: Il vero e proprio statement del capo è la maxi stampa artistica posizionata sul petto. Al centro della composizione spicca l'illustrazione di due dadi da gioco in movimento, uniti all'iconico lettering ufficiale\n\"OBEY\"\ninserito con un font massiccio e d'ispirazione brutalist.\nSfondo Bianco Ottico Pulito\n: La scelta del total white come tela di base massimizza il contrasto cromatico della stampa nera, garantendo un'estetica minimale, nitida e la massima versatilità in qualsiasi tipo di abbinamento urbano.\nGirocollo Spesso a Costine\n: Strutturata con una scollatura a girocollo robusta e definita da una lavorazione a coste fitte, una finitura classica dello streetwear americano che mantiene perfettamente la forma nel tempo.\nTaglio Boxy Street Fit\n: Sviluppata con una vestibilità rilassata e leggermente squadrata, caratterizzata da spalle scese e maniche ampie per assicurare una linea contemporanea e una totale libertà di movimento.\nTessuto Premium in Cotone Heavyweight\n: Confezionata in un jersey di puro cotone ad alta densità (pesante). Questo filato corposo offre una struttura solida che cade perfettamente sul corpo, assicurando al contempo un'altissima resistenza all'usura e ai lavaggi frequenti.\nIdee di Stile: Crea la Tua Wave\nClassic Skate Uniform\n: Esalta l'anima californiana di Obey abbinando la t-shirt Dice a un\njeans\nbaggy dal lavaggio chiaro o a un bermuda in denim oversize, chiudendo il cerchio con una sneaker bassa da skate e calzino bianco di spugna a vista.\nUrban Utility Vibe\n: Crea un perfetto contrasto metropolitano indossando la maglia insieme a un pantalone cargo strutturato nei toni della terra, completando l'outfit con un gilet tecnico multitasche aperto.\nEsprimi la tua attitudine street senza filtri. Scegli l'iconografia bold e l'energia grafica della t-shirt Dice firmata Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica streetwear con vestibilita boxy, tetto di marchio street",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

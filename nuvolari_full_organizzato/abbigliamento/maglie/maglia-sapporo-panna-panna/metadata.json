@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-sapporo-panna-panna",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMAGLIA UOMO BLACK RAGS SAPPORO Calore Tecnico e Lana Merino\nLa maglia\nBlack Rags Sapporo\nè un capo di\nmaglieria tecnica\nche unisce la\nperformance\ndelle fibre sintetiche al lusso e al comfort termico della\nLana Merino\n. Il nome \"Sapporo\" (città giapponese famosa per la neve) evoca immediatamente l'uso in climi freddi, rendendola un capo perfetto per l'inverno e la mezza stagione.\nComposizione Ottimizzata per l'Inverno\nQuesto\nblend\ndi filati è progettato per trattenere il calore offrendo al contempo morbidezza e stabilità:\nComponente\nPercentuale\nVantaggio Chiave\nPoliestere\n53,5%\nLeggerezza\n,\nresistenza\nall'usura e agli agenti atmosferici; garantisce che la maglia mantenga la forma.\nNylon\n20,7%\nAumenta la\ndurabilità\ne la compattezza del tessuto, prevenendo la formazione di\npilling\neccessivo.\nAcrilico\n19,5%\nContribuisce a trattenere il\ncalore\n(\nwarmth retention\n) e conferisce al filato un aspetto pieno e una mano\nmorbida\n.\nLana Merino\n6,3%\nAggiunge un tocco di\nqualità premium\n, offrendo\ntermoregolazione naturale\n(calda d'inverno, traspirante in primavera) e una sensazione non pruriginosa.\nStile e Dettagli\nVestibilità:\nRegular Fit\n, progettata per essere indossata sia da sola che sopra una T-shirt termica.\nIdeale per:\nLook\nsmart-casual\no abbinamenti più formali sotto un\nblazer\no un giubbotto pesante come il\nBark Duffle Coat\n. La composizione tecnica la rende inoltre una scelta ideale per chi cerca un capo caldo ma con facilità di manutenzione.\nScegli la Maglia Sapporo per affrontare il freddo con la morbidezza della lana e la performance delle fibre tecniche.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n53,5% poliestere, 20,7% nylon, 19,5% acrilico, 6,3% lana merino\nVestibilità regular\nCodice articolo: SAPPORO PANNA-PANNA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in misto lana merino, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

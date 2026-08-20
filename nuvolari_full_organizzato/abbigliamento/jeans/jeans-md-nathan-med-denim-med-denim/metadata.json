@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-md-nathan-med-denim-med-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Baecker MD Nathan in variante Med Denim sono la sintesi perfetta tra l'estetica del denim classico e la silhouette moderna di un pantalone sartoriale. Caratterizzati da un lavaggio medio equilibrato, questi jeans si distinguono per un design pulito che li rende adatti anche a contesti più formali rispetto al tipico denim a cinque tasche.\nPerché sceglierli\nA differenza dei jeans tradizionali, il modello MD Nathan adotta una costruzione ispirata ai pantaloni chino. Le tasche anteriori a filo (tasche \"America\") e l'assenza di rivetti metallici a vista conferiscono al capo un aspetto più ordinato e sofisticato, permettendoti di godere della resistenza del denim senza rinunciare a un'eleganza sobria.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo:MD NATHAN MED DENIM-MED DENIM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Jeans con costruzione chino e tasche America, piu formale del classico 5 tasche",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

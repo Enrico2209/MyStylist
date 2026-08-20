@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/t-shirt-in-maglia-es3-jenney-beige-beige",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Nuvolari In Maglia Jenney\nrappresenta una raffinata evoluzione della classica maglietta estiva, unendo il taglio versatile a maniche corte alla ricercatezza della lavorazione a maglia. Contraddistinta da una colorazione pastello delicata e contemporanea, questa calata è ideale per chi desidera unire freschezza e un look smart-casual sofisticato, perfetto per le calde giornate primaverili ed estive.\nDesign e Caratteristiche Principali\nPregiata Lavorazione in Maglia\n: Il capo si distingue per una texture a maglia fine, morbida e leggera, che dona al capo un aspetto superiore rispetto alle tradizionali maglie in jersey di cotone.\nColorazione Verde Salvia\n: Una nuance sobria, desaturata e di tendenza, ottimamente versatile e in grado di dare un tocco di colore raffinato al guardaroba maschile.\nFiniture Canneté d'Alta Qualità\n: Il girocollo, il bordo delle maniche e il fondo della maglia presentano una solida lavorazione a costine elasticizzata, progettata per definire la silhouette e garantire una tenuta perfetta della forma.\nEstetica Pulita e Minimalista\n: Il design monocromatico e privo di stampe o loghi visivi esalta la pulizia delle linee e la qualità del filato, mettendo in primo piano l'eleganza intrinseca del modello.\nTaglio Regular Confortevole\n: Offre una vestibilità classica che scivola con naturalezza lungo il busto, garantendo comfort e un'eccellente libertà di movimento.\nDettaglio Interno Esclusivo\n: Il colletto posteriore è rifinito internamente dall'etichetta ricamata \"NUVOLARI\", a testimonianza della cura del brand per i piccoli particolari.\nSuggerimenti di Stile\nEcco 3 modi per valorizzare questa t-shirt in maglia nei tuoi abbinamenti:\nSmart Casual Chic\n: Indossala insieme a dei\npantaloni chino\nbianchi o beige e a dei mocassini scamosciati per un outfit estivo impeccabile e ricercato.\nContemporary Urban\n: Abbinala a dei\njeans\nlavaggio medio dal taglio dritto e a delle sneakers minimali in pelle per un look quotidiano pulito ed equilibrato.\nSummer Layering\n: Provala sotto a una\novershirt\nleggera o a un blazer sfoderato blu navy per aggiungere profondità e consistenza a un look da sera o da ufficio informale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chino.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "T-shirt in maglia fine con finiture canneté, più formale di una classica t-shirt in jersey, ideale per smart casual.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

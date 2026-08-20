@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/jack-st-warm-double-k6128vw-blk-pur-grn-army-dbz",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa giacca da uomo Jack vanta una vestibilità slim e un design reversibile per infiniti utilizzi, combinando uno strato in poliestere elasticizzato impermeabile con un lato opposto in poliestere antivento a contrasto. Isolata con un'imbottitura sintetica per un livello di calore medio, perfetto per le mezze stagioni, presenta cuciture termonastrate per un isolamento termico e un comfort superiore durante le attività all'aperto.\nPoliestere elasticizzato impermeabile, idrorepellente, antivento e traspirante\nPoliestere antivento e idrorepellente\nImbottitura sintetica\nGrado di calore medio\nReversibile\nCuciture termonastrate\nCappuccio regolabile con cordini elastici\nChiusura con zip\nPolsini elastici\n2 tasche con zip\n2 tasche con bottoni a pressione\nVestibilità slim\nLogo in silicone bianco\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nImbottitura: Poliestere 100%\nEsterno: Nylon 88%, Elastan 12%\nFodera: Poliestere 100%\nVestibilità regular\nCodice articolo: K6128VW BLK PUR/GRN ARMY-DBZ",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento e impermeabile K-Way, tetto di marchio sport/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

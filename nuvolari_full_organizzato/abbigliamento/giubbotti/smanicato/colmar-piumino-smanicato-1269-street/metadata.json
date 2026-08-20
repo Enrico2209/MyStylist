@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/colmar-piumino-smanicato-1269-street",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPiumino smanicato Colmar uomo con trattamento idrorepellente e logo sul petto. La parte superiore è realizzata in tessuto semilucido 40 denari con leggera imbottitura in piuma. La parte inferiore in tessuto opaco non imbottito. Il modello indossa una taglia 50 ed è alto 1,85 m.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPiumino smanicato uomo Colmar Originals modello 1269 5ST - Street\nParte superiore in tessuto semi lucido con leggera imbottitura in piuma\nParte inferiore in tessuto opaco non imbottito\nChiusura con zip\nTasche laterali più una tasca interna con zip\nNastro elastico al fondo e al giromanica\nTrattamento idrorepellente\nLogo\nColmar Originals\napplicato sul petto\nComposizione: 100% poliammidica\nIl modello è alto 1,85 m e indossa una taglia 50",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "gilet smanicato sportivo/casual, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

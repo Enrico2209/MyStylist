@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/proj3ct-camicia-s3-dolls-white-sky-white-sky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Donna Proj3Ct Dolls\n, visibile nel file Schermata 2026-05-14 alle 14.49.57.jpg, è un capo che reinterpreta il classico stile sartoriale con un'attitudine punk e irriverente. La base a righe sottili bianco e azzurro (White/Sky) viene stravolta da grafiche audaci, rendendola un pezzo chiave per chi ama distinguersi.\nDesign e Caratteristiche Principali\nPattern Mille-Righe\n: La camicia presenta una classica fantasia a righe verticali sottilissime in bianco e azzurro cielo, un richiamo all'abbigliamento business tradizionale.\nGrafica \"Dolls\" Impattante\n: Sul lato sinistro è presente una maxi stampa rossa con lettering in stile graffiti che recita un messaggio provocatorio, creando un forte contrasto visivo con la base sobria.\nTaglio Oversize e Rilassato\n: La silhouette è ampia con spalle leggermente scese, pensata per una vestibilità moderna e confortevole.\nDettaglio sulla Manica\n: La manica sinistra è arricchita da una patch nera logata, un segno distintivo del branding Proj3Ct Roma.\nColletto Classico e Bottoni a Scomparsa\n: Mantiene elementi formali come il colletto a punta e una chiusura frontale pulita con bottoni tono su tono.\nFondo Arrotondato\n: Il taglio curvo del fondo permette di indossarla facilmente sia all'interno che all'esterno dei pantaloni.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questa camicia:\nRebel Office\n: Indossala parzialmente inserita nei Jeans Donna Proj3Ct Malaga per un mix equilibrato tra rigore sartoriale e stile urban.\nStreet Layering\n: Portala aperta come una giacca sopra una\nt-shirt\nbianca e i Bermuda Donna Proj3Ct Cordova Denim per un look stratificato e di carattere.\nContemporary Preppy\n: Abbinala a dei\nchinos\nchiari e delle\nsneakers\npulite per far risaltare la grafica rossa come unico punto focale del look.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con taglio oversize e grafica graffiti provocatoria che ne abbatte la formalità classica",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

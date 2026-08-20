@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\npantalone\ndella tuta\nda uomo\ndi\nNew Balance\nfa parte di un completo sportivo felpa e pantalone.\nÈ un pantalone nero, a tinta unita, realizzato in misto cotone.\nHa vita elasticizzata regolabile con lacci.\nA completare questo capo di abbigliamento, due tasche laterali, una posteriore e il logo del brand sul fronte.\nIl modello indossa la taglia L.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone tuta Uomo New Balance nero\nVestibilità regular\nComposizione: 60% cotone 40% poliestere\nCodice Prodotto: UP21500 BLACK-BK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta sportivo, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

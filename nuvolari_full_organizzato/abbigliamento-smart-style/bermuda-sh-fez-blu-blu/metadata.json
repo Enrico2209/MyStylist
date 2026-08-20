@@ -25,5 +25,35 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-sh-fez-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Black Rags Fez Blu\nconiuga sapientemente un'estetica rilassata e vacanziera a una tonalità scura e rigorosa, offrendo un'alternativa versatile e di tendenza ai classici shorts estivi. Caratterizzato da una profonda colorazione blu notte (\"Blu\"), questo capo si distingue per la fluidità del tessuto e per una struttura pensata per assicurare la massima freschezza durante i mesi più caldi.\nDesign e Caratteristiche Principali\nTessuto Leggero e Fluido\n: Realizzato in un filato estivo dalla texture morbida, leggermente lucente ed eccezionalmente cascante, che asseconda ogni movimento del corpo regalando un fitting arioso e confortevole.\nFascia Elastica in Vita Elasticizzata\n: La parte superiore presenta un alto cinturino arricciato internamente, progettato per adattarsi in modo flessibile alla silhouette senza costrizioni e per garantire una vestibilità eccezionale.\nCoulisse Regolabile a Contrasto\n: Un lungo cordoncino intrecciato in tonalità panna/naturale fuoriesce dal fronte della vita, fungendo sia da elemento funzionale di regolazione sia da forte accento estetico asimmetrico in stile resort.\nTasche Laterali Integrate a Filo\n: Provvisto di pratiche tasche inserite sui fianchi lungo le linee di cucitura, che mantengono pulito e lineare il design del pannello frontale.\nTaglio Lounge Ampio e Rilassato\n: La gamba scende con un taglio dritto e confortevole, offrendo una silhouette moderna ispirata ai volumi fluidi dello streetwear contemporaneo.\nFondo Lineare Pulito\n: L'orlo inferiore presenta una finitura piatta e minimale, preservando la pulizia geometrica del capo e valorizzando la caduta naturale del tessuto.\nProposta di Outfit\nRiviera Vintage Chic\n: Abbinalo a una\ncamicia\na maniche corte con colletto resort a righe verticali bianche e rosa per un contrasto cromatico fresco, estivo e sofisticato, perfetto per contesti balneari o aperitivi al tramonto.\nContemporary Total Monochrome\n: Portalo insieme a una t-shirt basic scura e sovrapponi un\ngiubbotto\nleggero nero con colletto dritto eretto per creare un outfit urban minimalista e grintoso dai toni scuri coerenti.\nUrban Holiday Texture\n: Indossalo in combinazione con una\ncamicia\na maniche corte bianca in cotone seersucker crepe lasciata completamente sbottonata sopra una canotta chiara, completando il look con sneakers in tela per un perfetto contrasto di volumi e superfici.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda con coulisse a contrasto e taglio lounge rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

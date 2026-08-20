@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-court-nero-150",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Uomo Black Rags realizzata in 97% poliestere e 3% elastane è un capo tecnico che reinterpreta un classico del guardaroba maschile in chiave estremamente funzionale e moderna. Progettata per chi cerca un'estetica curata senza i vincoli dei tessuti tradizionali, questa camicia offre prestazioni superiori in termini di vestibilità e manutenzione.\nPerché sceglierla\nIl vantaggio principale di questa composizione risiede nella tecnologia \"stretch\" del tessuto. Mentre il poliestere garantisce che la camicia sia praticamente \"no-iron\" (non necessita di stiratura) e mantenga un aspetto liscio per tutto il giorno, il 3% di elastane fornisce la flessibilità necessaria per un comfort totale, eliminando il senso di rigidità tipico delle camicie formali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% POLIESTERE 3% ELASTANE\nVestibilità regular\nCodice articolo:CA COURT NERO-150",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con tasche applicate, taglio squadrato e tessuto tecnico elasticizzato",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

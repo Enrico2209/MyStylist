@@ -25,5 +25,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-s3-outkast-nat-frst-green-natfg",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Proj3Ct Outkast Nat/Frst Green\nincarna la quintessenza dell'accessorio streetwear contemporaneo, fondendo il classico fascino dei berretti d'ispirazione baseball vintage con ricami d'avanguardia d'ispirazione urban-skate. Questo modello si distingue per una raffinata struttura bicolore a pannelli contrastanti, configurandosi come il dettaglio ideale per arricchire outfit giornalieri e dare carattere ai look metropolitani.\nDesign e Caratteristiche Principali\nCostruzione Bicolore a Pannelli\n: Il design propone un forte stacco visivo grazie alla calotta superiore strutturata in un pannello frontale continuo e pulito, abbinata alla visiera e ai dettagli inferiori in una sfumatura boschiva profonda.\nRicamo Frontale Graffiti Style\n: Sul pannello frontale spicca un ricamo tridimensionale ad alta densità che riproduce la scritta \"Outkast\" con un lettering calligrafico dinamico e angolato, tipico della cultura dei graffiti underground. Il filato utilizzato richiama cromaticamente la tonalità scura della visiera per una perfetta coerenza estetica.\nVisiera Sagomata con Impunture Tono su Tono\n: La visiera presenta una curvatura accennata e moderna, arricchita sulla parte superiore da molteplici file di cuciture e impunture concentriche parallele che rinforzano la struttura e donano un sapore heritage al cappello.\nTessuto in Cotone Twill Resistente\n: Realizzato in una tela di cotone twill spessa e robusta, caratterizzata dalle classiche coste diagonali che garantiscono un'eccellente resistenza all'usura, mantenendo al contempo una buona traspirabilità grazie agli occhielli ricamati sulla parte superiore della calotta.\nProposta di Outfit\nUrban Camouflage Layering\n: Abbinalo a una\nfelpa con cappuccio\ne a un paio di shorts coordinati; le note boschive del cappello si integreranno armoniosamente con il pattern camouflage del completo, definendo un outfit athleisure coordinato, grintoso e di chiara ispirazione skate.\nResort Minimal Contrast\n: Portalo insieme a una\ncamicia a maniche corte a righe\nverticali beige e bianche lasciata aperta sopra una t-shirt basic; l'accessorio spezzerà la pulizia del completo a righe inserendo un forte elemento urban e creando un contrasto cromatico molto sofisticato.\nStreetwear Monochrome Vibe\n: Indossalo per completare un look composto da una\ncamicia strutturata\naperta e un\npantalaccio\nscuro; la calotta chiara e il ricamo graffiti del cappellino spiccheranno nettamente sulla base total-black, posizionandosi come il fulcro visivo di un perfetto outfit streetwear metropolitano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa con cappuccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "camicia a maniche corte a righe",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia strutturata",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "cappellino da baseball con ricamo stile graffiti, tetto di marchio street",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

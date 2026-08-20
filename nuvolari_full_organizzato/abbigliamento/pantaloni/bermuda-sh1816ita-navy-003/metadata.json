@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda-sh1816ita-navy-003",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBermuda Uomo Lyle & Scott\nI bermuda da uomo Lyle & Scott incarnano perfettamente lo spirito casual chic del brand. Con un taglio moderno e materiali leggeri, sono pensati per offrire comfort senza rinunciare allo stile. Ideali per l’estate, si distinguono per dettagli curati come il logo dell’aquila ricamata, tasche funzionali e una vestibilità attuale.\nCaratteristiche principali:\nVestibilità moderna:\nregular fit, con lunghezza sopra il ginocchio per un look equilibrato.\nMateriali di qualità:\ncotone per garantire freschezza e libertà di movimento.\nDettagli distintivi:\nricamo logo Lyle & Scott, tasche laterali e posteriori, coulisse o passanti in vita.\nProposta Outfit\nCrea un outfit estivo fresco e di tendenza abbinando i bermuda a capi complementari:\nT-shirt Uomo\n– un capo semplice e moderno che valorizza il bermuda senza appesantire.\nPolo Uomo Nuvolari\n– per un look casual raffinato, ideale da giorno.\nSneakers Uomo Nuvolari\n– per completare con comfort e personalità.\nScopri i capi perfetti per accompagnare i bermuda Lyle & Scott:\nT-shirt Uomo\nPolo Uomo\nSneakers Uomo\nCompleta con accessori leggeri come occhiali da sole e cappellino per un richiamo sportivo, oppure aggiungi una camicia overshirt aperta per un tocco più sofisticato.\nCon i bermuda Lyle & Scott porti nel tuo stile la perfetta fusione tra comfort estivo e cura dei dettagli, per un outfit versatile e sempre attuale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "T-shirt Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Polo Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "Sneakers Uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi laterali, capo tipicamente casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

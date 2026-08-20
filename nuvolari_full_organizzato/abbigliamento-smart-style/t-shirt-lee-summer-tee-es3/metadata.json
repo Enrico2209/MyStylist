@@ -19,5 +19,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-summer-tee-es3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-SHIRT LEE SUMMER TEE: ESSENZA D'ESTATE\nPorta con te lo spirito dell'oceano con la nuova Summer Tee di Lee. Questa t-shirt cattura perfettamente l'atmosfera delle vacanze grazie a una grafica ispirata al mondo del surf e della natura. Il colore blu navy profondo fa risaltare la stampa posteriore, rendendola il capo ideale per le tue giornate sotto il sole.\nGrafica Iconica:\nSul retro campeggia una grande illustrazione in stile vintage con un'onda stilizzata, il sole che sorge e il claim \"Sun, Sea and Lee\".\nDettaglio Frontale\n: Un piccolo logo Lee dal design fluido e dinamico è stampato sul petto, mantenendo il fronte della maglia pulito ed essenziale.\nQualità del Tessuto:\nRealizzata in morbido cotone jersey per offrire la massima traspirabilità e freschezza durante i mesi più caldi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt classica con grafica estiva sul retro, adatta a contesti quotidiani e informali",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

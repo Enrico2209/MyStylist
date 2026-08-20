@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/sciarpe/nuvolari-pashmina-fantasia-moro-nero",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPashmina uomo fantasia all over geometrica con frange corte sul bordo e brand label Nuvolari cucita realizzata in tessuto misto lana, viscosa e acrilico. Una sciarpa calda e morbida 100% Made in Italy.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPashmina uomo fantasia Nuvolari modello 8752 - Moro/Nero\nFantasia geometrica all over\nFrange sul bordo\nBrand label cucita\nComposizione: 48% viscosa, 36% acrilico, 16% lana\nMade in Italy\nTaglia Unica",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa/pashmina in misto lana con fantasia geometrica discreta, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "stampato"
+  }
 }

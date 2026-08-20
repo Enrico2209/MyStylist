@@ -22,5 +22,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-pocket-tee-es3-112376516-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE POCKET TEE: QUALITÀ E DESIGN SENZA TEMPO\nQuesta t-shirt rappresenta l'equilibrio perfetto tra semplicità e funzionalità. Realizzata in un morbido tessuto di cotone, la Pocket Tee è pensata per chi cerca un capo versatile capace di adattarsi con naturalezza a ogni look quotidiano.\nDettaglio Pratico:\nIl caratteristico taschino applicato sul petto aggiunge un elemento di design funzionale al profilo pulito della maglia.\nFirma del Brand:\nUna piccola ed elegante etichetta nera con il logo Lee è\nposizionata sul bordo del taschino, garantendo l'originalità del capo.\nScollo Classico:\nIl girocollo a costine elasticizzate assicura comfort e resistenza, mantenendo la forma nel tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con taschino, capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

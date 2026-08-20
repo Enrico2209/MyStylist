@@ -21,5 +21,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-chino-uomo-baecker-antracite",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nI\npantaloni uomo Baecker\n, nel sofisticato\ncolore antracite\n, incarnano l'eleganza e la versatilità. Il\nmodello chino\noffre un taglio raffinato, adatto a molteplici occasioni. La\nchiusura con bottone e zip\nassicura praticità, mentre la\nvita elasticizzata sul retro\ngarantisce un comfort senza compromessi. Con\ndue tasche laterali\ne altrettante sul retro, questi\npantaloni\nconiugano stile e funzionalità.\nA\nbbinamenti Versatili per un Look Impeccabile\nCombina i\npantaloni\nBaecker\ncon una\ncamicia\nbutton-down\nper un look formale, oppure con una polo per uno stile casual chic. Accompagnali a un paio di mocassini per un tocco sofisticato o a\nsneakers\nper un approccio più rilassato. Aggiungi una\ncintura\nin pelle coordinata per completare il tuo outfit con stile. Con questi\npantaloni\n, la tua versatilità è il limite per creare combinazioni di moda senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Chino Uomo Baecker Antracite\nVestibilità Regular\nComposizione: Composizione: 80% Cotone, 18% Poliammide, 2% elastan\nCodice Prodotto: 8253 NATHAN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Baecker",
+      "categoria_url": "https://www.nuvolari.biz/brands/baecker"
+    },
+    {
+      "testo": "",
+      "categoria_url": "https://www.nuvolari.biz/brands/baecker"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "cintura",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cinture.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino classico, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

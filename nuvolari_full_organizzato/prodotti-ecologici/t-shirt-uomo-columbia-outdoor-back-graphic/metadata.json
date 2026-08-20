@@ -18,5 +18,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "prodotti-ecologici/t-shirt-uomo-columbia-outdoor-back-graphic",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSTILE NATURALE PER I TUOI GIORNI IN CITTÀ\nScegli il comfort autentico del cotone organico. Questa t-shirt stampata unisce una texture incredibilmente soffice a un design grafico moderno, rendendola un must-have per il tuo guardaroba casual.\nComfort\nsenza compromessi: Senti la differenza di un tessuto biologico di alta qualità, progettato per durare nel tempo e regalarti benessere costante.\nBack Print Originale\n: Una stampa posteriore curata nei dettagli trasforma una t-shirt basic in un capo distintivo che parla di te.\nLibertà di movimento\n: Grazie al suo taglio tradizionale ma ricercato, è la compagna ideale per ogni attività, dalle commissioni in centro al relax con gli amici.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone organico\nVestibilità regular\nCodice articolo: 2155021 BLACK-013",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di cotone, marchio outdoor/sportivo",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-es3-piranesi-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nMaglia Uomo Nuvolari Piranesi\nsi distingue nel guardaroba maschile come un classico intramontabile della maglieria fine, progettato per offrire un'eleganza essenziale e un comfort avvolgente. La pulizia assoluta delle sue linee e la scelta di una lavorazione liscia e uniforme la rendono il capo perfetto per il layering stagionale o come pezzo unico da indossare direttamente sulla pelle, prestandosi a innumerevoli interpretazioni di stile, dal formale al tempo libero.\nDesign e Caratteristiche Principali\nPregiato Filato a Maglia Rasata Fine\n: Confezionata con un filato leggero e premium lavorato a maglia rasata compatta, che assicura una mano straordinariamente morbida, liscia e vellutata al tatto, garantendo una perfetta termoregolazione e fluidità nei movimenti.\nScollo a Girocollo Classico\n: Presenta un design a girocollo minimale e pulito, rifinito con un sobrio bordo in maglia elasticizzata a costine sottili che incornicia il collo con precisione sartoriale.\nBordi e Polsini in Maglia Elastica\n: Sia i polsini delle maniche lunghe sia l'orlo inferiore del capo sono strutturati con alti bordi elastici lavorati a costine, studiati per accostare delicatamente la maglia al corpo, mantenendo la silhouette salda, ordinata e protetta da infiltrazioni d'aria.\nEstetica Minimalista e Dettagli Interni\n: Il fronte si presenta completamente liscio e privo di loghi esterni o taschini, sposando un'idea di sobria ricercatezza. All'interno del collo è applicata la label tessuta Nuvolari, unita a una pulizia millimetrica delle cuciture di giunzione sulle spalle.\nSilhouette Regular Fit Contemporanea\n: Offre una vestibilità regolare che accarezza il busto senza costringerlo, ideale sia da indossare sopra una camicia sia sotto una giacca strutturata, senza creare spessori o volumi eccessivi.\nProposta di Outfit\nSartorial Layering Spezzato\n: Indossala come sottogiacca sotto la\ngiacca jacquard\ne completala con il\npantalone chino\nin cotone twill; la pulizia essenziale del girocollo liscio farà risaltare la raffinata micro-texture tridimensionale della giacca per un perfetto look business casual o da evento formale rilassato.\nSmart Urban Denim Match\n: Portala in abbinamento al\njeans\ndal lavaggio intermedio con leggere sabbiature frontali; l'incontro tra l'attitudine casual del denim e la finezza della maglia rasata strutturerà un look quotidiano sobrio, bilanciato ed estremamente confortevole.\nCasual Chino Comfort\n: Abbinala al\npantalaccio\nmicro-strutturato con coulisse in vita; la morbidezza e la linearità superiore della maglia si sposeranno perfettamente con lo spirito loungewear e dinamico del pantalone leggero, dando vita a un outfit per il tempo libero raffinato e disinvolto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca jacquard",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo fine e minimale, adatta a contesti smart casual e layering formale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

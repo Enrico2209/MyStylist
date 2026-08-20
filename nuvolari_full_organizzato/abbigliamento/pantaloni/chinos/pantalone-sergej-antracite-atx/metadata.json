@@ -21,5 +21,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-sergej-antracite-atx",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl pantalone da uomo Baecker unisce stile e comfort in un capo versatile perfetto per ogni occasione. Realizzato con materiali di qualità, offre una vestibilità impeccabile e dettagli curati per un look sofisticato ma rilassato. Ideale per completare outfit casual o più eleganti, si abbina perfettamente a una\ncamicia\no a una\nt-shirt.\nCompleta il tuo stile con un paio di\nsneakers\ndi tendenza o scarpe classiche per un tocco distintivo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n69% poliestere, 29% viscosa, 2% elastane\nVestibilità regular\nCodice articolo: SERGEJ NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt.",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "pantalone sartoriale con pinces ma in misto viscosa/poliestere, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

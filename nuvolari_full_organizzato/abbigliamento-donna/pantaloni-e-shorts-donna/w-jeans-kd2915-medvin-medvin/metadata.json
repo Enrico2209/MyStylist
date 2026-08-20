@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/w-jeans-kd2915-medvin-medvin",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nC'è una nuova silhouette che sta ridefinendo il denim femminile, e nasce dall'incontro tra heritage sportivo e attitudine street. Il\nbermuda in jeans Adidas Originals KD2915 in blu denim medio\nreinterpreta il capo cinque tasche con un taglio wide leg deciso e le iconiche bande laterali a contrasto.\nDesign, Tessuti e Caratteristiche Costruttive\nLavaggio blu denim medio vintage:\ntonalità versatile e senza tempo, perfetta per un look casual quotidiano.\nTaglio wide leg over:\ngamba ampia e volume generoso per una vestibilità comoda e contemporanea.\nBande laterali a contrasto:\nil dettaglio 3-Stripes firmato Adidas Originals corre lungo le cuciture esterne.\nCostruzione cinque tasche:\nstruttura classica con chiusura a bottone e zip, impreziosita da rivetti e patch logo.\nTessuto denim di cotone:\nmano robusta e resistente, pensata per durare nel tempo.\nIdee di Stile: Costruisci il Tuo Look con Adidas Originals\nLook Skate Attitude:\nabbina il bermuda a una\nt-shirt\noversize e sneakers chunky per un mood urbano e disinvolto.\nLook Denim Total:\ngioca sui toni del jeans con un\ngiubbotto\nin denim e accessori essenziali.\nLook Casual Chic:\ncompleta con una camicia annodata in vita e le tue\nsneakers\npreferite.\nAggiungi un tocco di carattere sportivo al tuo guardaroba con il bermuda in jeans Adidas Originals KD2915: acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html?settore=Donna"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda jeans con taglio wide leg e bande sportive laterali, marchio sport/street",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-proj3ct-girocollo-taglio-vivo-proj3ct-goose-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia girocollo uomo con una particolare rifinitura del collo, a taglio vivo. Modello adatto ai ragazzi più alla moda, da abbinare ad esempio al\njeans bull nero\nper un look streetwear interamente firmato Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglia girocollo uomo Project modello Goose - Nero\nGirocollo taglio vivo\nManiche lunghe\nApplicazione interno collo a contrasto\nVestibilità Regular fit\nComposizione: 100% Cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans bull nero",
+      "categoria_url": "https://www.nuvolari.biz/jeans-slim-fit-uomo-proj3ct-bull-9113-nero.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone, base smart casual ma con collo a taglio vivo che la rende piu informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

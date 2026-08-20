@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-b2310-white-100",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Sneakers Uomo Fred Perry B2310 sono un tributo alla storia tennistica del brand, reinterpretate con un gusto contemporaneo che le rende un pilastro dello stile urban-minimalista. Queste calzature si distinguono per il loro profilo pulito e la costruzione solida, ideali per chi cerca una scarpa versatile che unisca l'eredità sportiva britannica a una raffinatezza quotidiana.\nFred Perry B2310 L'Evoluzione della Court Shoe\nPerché sceglierle\nIl punto di forza della serie B2310 risiede nella sua estetica essenziale. Realizzate solitamente in pelle premium o canvas testurizzato, queste sneakers offrono una resistenza superiore e una capacità unica di adattarsi al piede con il passare del tempo. La suola in gomma vulcanizzata richiama i modelli d'archivio usati sui campi da tennis, garantendo grip e un comfort ammortizzato ideale per lunghe giornate in movimento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche in stile tennis, ideali per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

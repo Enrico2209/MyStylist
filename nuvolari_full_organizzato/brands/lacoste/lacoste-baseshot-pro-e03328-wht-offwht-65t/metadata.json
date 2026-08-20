@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/lacoste-baseshot-pro-e03328-wht-offwht-65t",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLacoste Baseshot L'Icona d'Archivio Ritrovata\nIspirate direttamente ai modelli da tennis degli anni '90, le\nBaseshot\nsono sneakers dal profilo basso che puntano tutto su una pulizia estetica impeccabile e su materiali dal sapore \"old school\". È la scarpa ideale per chi ama il look rétro-tennis rivisitato in chiave lifestyle contemporanea.\nCaratteristiche Principali\nTomaia in Suede\n: Realizzata principalmente in morbida pelle scamosciata di alta qualità, che conferisce alla scarpa una texture ricca e una flessibilità immediata.\nDesign a Contrasto\n: Caratterizzata da bordi definiti e, in molte varianti, da dettagli cromatici che richiamano la palette classica di Lacoste.\nIl Ritorno del Logo\n: Presenta il classico coccodrillo verde ricamato sul lato, accompagnato spesso dal branding \"Lacoste\" sulla linguetta per un tocco autentico.\nSuola in Gomma\n: La suola \"cupsole\" in gomma color gomma naturale o avorio accentua l'estetica vintage e garantisce una trazione eccellente sulle superfici urbane.\nComfort Interno\n: Dotata di soletta ammortizzata per supportare il piede durante tutto l'arco della giornata.\nSpecifiche Tecniche\nMateriale Esterno\n: 100% Pelle scamosciata (Suede).\nSuola\n: Gomma preformata ultra-resistente.\nFodera\n: Tessuto traspirante per un microclima interno ottimale.\nChiusura\n: Lacci piatti in cotone che riprendono il colore della tomaia o della suola.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche in stile tennis retrò, perfette per un look casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

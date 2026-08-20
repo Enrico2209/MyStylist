@@ -26,5 +26,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/lino/bermuda-s3-li-branch-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa freschezza impalpabile del tessuto naturale per eccellenza, il comfort dell'abbigliamento resort e il design ricercato d'ispirazione estiva si fondono nei\nbermuda uomo Nuvolari modello Li Branch\n. Realizzati interamente in puro lino, questi pantaloncini reinterpretano il guardaroba della bella stagione unendo un'estetica rilassata a dettagli di stile dal sapore artigianale, ideali per affrontare le giornate più calde con un look ricercato e senza sforzo.\nDesign, Tessuti e Caratteristiche Costruttive\n100% Puro Lino Traspirante\n: Confezionati in una pregiata tela di puro lino, questi bermuda garantiscono la massima traspirabilità, un'elevata assorbenza dell'umidità e una sensazione di straordinaria freschezza sulla pelle. La tipica trama fiammata del tessuto dona al capo una texture tridimensionale ed elegante.\nGirovita Elasticizzato con Coulisse Intrecciata\n: La struttura della vita è progettata per il massimo comfort grazie alla fascia elasticizzata che si adatta alla silhouette. Il punto focale del design è la coulisse frontale realizzate in spessa corda intrecciata con dettagli con nappe sui finali, un tocco d'ispirazione marinara e sartoriale.\nTasche Funzionali e Dettagli Hardware\n: Il modello presenta pratiche tasche laterali inserite lungo i fianchi, impreziosite da piccoli rivetti metallici con logo discreto che aggiungono un punto luce distintivo. Il retro è completato da pulite tasche a filo.\nFondo con Risvolto e Taglio Relaxed\n: La gamba scivola dritta e confortevole terminando con un leggero risvolto sul fondo, pensato per donare una proporzione disinvolta e slanciata al capo.\nIdee di Stile: Costruisci il Tuo Look Resort & Summer Casual\nResort & Holiday Uniform\n: Crea un outfit estivo sofisticato e d'ispirazione marittima per i tuoi weekend al mare o per una passeggiata al tramonto. Abbina i bermuda in lino a una fresca opzione in puro cotone scegliendo la tua preferita all'interno della selezione di\nt-shirt uomo\n, oppure eleva il look con una camicia in lino lasciata sbottonata.\nMetropolitan Summer Casual\n: Per la città durante le giornate calde o un aperitivo informale, gioca con i volumi e i tessuti naturali. Accosta il bermuda al dinamismo e alla praticità delle ultime novità che trovi nella sezione delle\nsneakers uomo\no a un mocassino in pelle scamosciata.\nLayering per le Brezze Serali\n: Quando le serate estive si fanno ventilate, crea una combinazione coordinata ma strutturata. Indossa i bermuda portando con te un capospalla leggero o una giacca spolverino prelevata dall'ampio assortimento di\ngiubbotti uomo\n, oppure tieni a portata di mano un paio di\njeans uomo\no un modello della linea\ncostumi uomo\nper i tuoi cambi durante la giornata.\nSperimenta il perfetto connubio tra la leggerezza delle fibre naturali e l'attenzione ai dettagli d'ispirazione estiva. Scegli la freschezza del lino, la comodità del girovita con corda e la versatilità dei bermuda Li Branch firmati Nuvolari, un capo essenziale dell'assortimento dedicato ai\nbermuda uomo\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: S3 LI BRANCH",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in lino con coulisse in corda, stile resort rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

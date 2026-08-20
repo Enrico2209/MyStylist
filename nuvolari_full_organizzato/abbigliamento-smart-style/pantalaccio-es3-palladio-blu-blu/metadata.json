@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-es3-palladio-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Nuvolari Palladio Blu\nrappresenta l'evoluzione contemporanea del pantalone estivo, dove la comodità assoluta incontra un'estetica sartoriale impeccabile. Tinto in una profonda, magnetica e uniforme tonalità blu navy, questo modello ibrido si distingue per un tessuto dalla texture mossa e tridimensionale, perfetto per chi esige freschezza ed eleganza disinvolta nelle calde giornate estive o durante i viaggi in pieno stile Riviera.\nDesign e Caratteristiche Principali\nCintura Comfort con Elastico e Coulisse Interna\n: Il girovita è strutturato per offrire il massimo benessere, integrando un morbido inserto elastico arricciato che si adatta ergonomicamente ai fianchi. La chiusura è potenziata da una coulisse tonda dotata di terminali metallici incisi, posizionata per una regolazione personalizzata.\nPatta Formale e Passanti per Cintura\n: Nonostante la natura loungewear, il modello mantiene un rigore formale grazie alla presenza dei passanti in vita e a una chiusura frontale tradizionale con zip nascosta e bottone a quattro fori scuro effetto corno, permettendo di indossarlo anche con una cintura formale coprendo l'elastico.\nTasche Sartoriali a Filo e Finiture Custom\n: Sul davanti presenta tasche laterali inclinate inserite a filo lungo il fianco (slash pockets) che mantengono la silhouette pulita. Le estremità sono rinforzate da piccoli rivetti metallici personalizzati con il logo Nuvolari, mentre il retro è completato da tasche a filetto lineari.\nTaglio Slim-Tapered Slanciato\n: Propone una vestibilità comoda e ariosa sul bacino che si va a snellire in modo progressivo e geometrico lungo la gamba fino al fondo, definendo una silhouette asciutta, pulita e decisamente attuale.\nProposta di Outfit\nQuiet Luxury Riviera Style\n: Abbinalo alla\npolo in maglia Karl beige\ncon scollo a V senza bottoni; l'incontro tra il filato crema ultra-morbido superiore e la texture fiammata blu del pantalaccio creerà un outfit casual-chic rilassato, lussuoso e perfetto per un aperitivo al tramonto.\nSmart Summer Blazer Layering\n: Indossalo come base sotto la\ngiacca jacquard Flower beige\n, inserendo sotto una t-shirt bianca essenziale; lo stacco cromatico e materico tra il micro-pattern floreale in rilievo del blazer chiaro e la solidità del lino blu scuro darà vita a un perfetto ed elegantissimo look spezzato estivo.\nMinimal Urban Monochrome\n: Portalo in abbinamento alla\nmaglia rasata fine Piranesi\n; la fluidità della maglieria liscia unita alla texture fiammata del pantalone coordinerà un outfit monocromatico nei toni del blu sofisticato, minimale ed estremamente confortevole per le fresche serate estive in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo in maglia Karl beige",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "giacca jacquard Flower beige",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "maglia rasata fine Piranesi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Pantalaccio ibrido con elastico in vita ma dettagli formali come passanti e patta, ideale per smart casual estivo.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

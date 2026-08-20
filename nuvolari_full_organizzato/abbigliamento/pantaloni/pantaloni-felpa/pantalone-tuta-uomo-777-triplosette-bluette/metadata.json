@@ -20,5 +20,39 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/pantalone-tuta-uomo-777-triplosette-bluette",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\npantalone tuta da uomo 777 Triplosette\nunisce comfort e stile in un unico capo. Il colore bluette conferisce un tocco di freschezza, mentre la stampa del\nlogo sui toni del giallo\naggiunge un dettaglio accattivante. L'\nelastico in vita con coulisse\nassicura una vestibilità perfetta, mentre le caviglie elasticizzate offrono un fit comodo e pratico. Dotato di\ndue tasche\n, questa\ntuta\nè anche funzionale. Perfetto per un look casual e rilassato, ideale da indossare in occasioni sportive o durante il tempo libero.\nC\nomodità e stile in una tuta\nCompletando il look con una\nfelpa\no una\nt-shirt\na tinta unita, si otterrà un outfit armonioso. Per un look sportivo-chic, è possibile abbinare il questa tuta con delle\nsneakers\ndi tendenza. Questo capo si presta a essere indossato durante una passeggiata in città, donando sempre un'immagine curata e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Tuta Uomo 777 Triplosette Bluette\nVestibilità Regular\nComposizione: 100% Cotone\nCodice Prodotto: TRSM650",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "tuta",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantaloni-felpa.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.3,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con elastico e coulisse, marchio streetwear/trap",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

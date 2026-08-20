@@ -22,5 +22,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-sandler-tab-avocado-sand-7f",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNuvolari S3 Sandler: Lo Spirito Tropicale dell'Estate\nCamicia Uomo Nuvolari Modello Sandler\nPorta l'energia delle mete esotiche nel tuo guardaroba con la camicia Nuvolari S3 Sandler. Caratterizzata da una stampa botanica all-over che richiama le palme e la flora tropicale, questo capo è realizzato in puro cotone 100% per garantirti una freschezza imbattibile. È la scelta definitiva per chi vuole distinguersi con un look rilassato, vibrante e profondamente estivo.\nLeggerezza Naturale e Design \"Escapist\"\n100% Cotone Traspirante\n: La fibra naturale selezionata per il modello Sandler è ultra-leggera e altamente traspirante, ideale per mantenere la pelle fresca anche durante le giornate più calde o nei climi tropicali.\nStampa \"Monochrome Palm\"\n: La fantasia botanica è declinata in tonalità soft che rendono il pattern tropicale sofisticato e facile da indossare. Un perfetto equilibrio tra audacia street e pulizia formale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: S3 SANDLER TAB/AVOCADO/SAND-7F",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.4,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "camicia in cotone leggero con stampa tropicale all-over, adatta a contesti informali ed estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpa-saucony-progrid-guide-7-s70936-26-onyx-gold",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Saucony ProGrid Guide 7 è un modello storico che rappresenta l'equilibrio ideale tra ammortizzazione reattiva e supporto alla stabilità, progettato per chi cerca una calzata sicura e confortevole durante le attività quotidiane o gli allenamenti.\nSaucony ProGrid Guide 7 Stabilità e Reattività\nTecnologia ProGrid™\n: L'intersuola integra il sistema ProGrid nel tallone, che assorbe efficacemente gli impatti e distribuisce la pressione in modo uniforme per una rullata fluida.\nPowerGrid™ di Nuova Generazione\n: Utilizza il materiale PowerGrid per combinare leggerezza e ammortizzazione superiore, offrendo una protezione costante senza appesantire la scarpa.\nSupporto Mediale\n: Progettata per fornire una stabilità extra nella zona dell'arco plantare, aiutando a controllare la pronazione e garantendo un supporto strutturale a ogni passo.\nTomaia Traspirante\n: Realizzata in mesh tecnico con sovrapposizioni sintetiche strategiche, assicura una ventilazione ottimale e una calzata che avvolge il piede in modo sicuro.\nTecnologia iBR+\n: La suola presenta inserti in gomma soffiata iBR+ che, oltre a essere più leggera della gomma tradizionale, aggiunge un ulteriore strato di ammortizzazione durante lo stacco.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da running/ginnastica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,37 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-girocollo-uomo-lyle-scott-jet-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nQuesta\nt-shirt da uomo Lyle & Scott\nè un capo essenziale per il guardaroba maschile. Con il suo\ncolore nero classico\ne il taglio a\nmanica corta\n, è perfetta per creare\noutfit casual\no più sofisticati. Il\ngirocollo\nelasticizzato offre comfort durante tutto il giorno, mentre il\nlogo dorato\nricamato sul petto aggiunge un tocco di raffinatezza. La combinazione di\nnero e oro\nconferisce un'eleganza senza tempo.\nA\nbbinamenti Ideali\nQuesta\nt-shirt\nè la base perfetta per numerosi abbinamenti. Indossala con\njeans\ne\nsneakers\nper uno stile\ncasual\nquotidiano o sotto una\ngiacca blazer\nper un look più formale. Completa il tuo outfit con\npantaloni chino\nper un tocco di classe in più. Aggiungi accessori in pelle nera per un look coordinato o una\ngiacca in pelle\nper uno stile versatile. Con questa\nt-shirt Lyle & Scott\n, hai infinite opzioni per esprimere il tuo stile unico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nT-Shirt Girocollo Uomo Lyle&Scott Jet Black\nVestibilità regular\nComposizione:  100% cotone\nCodice articolo: TS400VOG",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "giacca in pelle",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/giacche-in-pelle-uomo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a tinta unita, capo classico da casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

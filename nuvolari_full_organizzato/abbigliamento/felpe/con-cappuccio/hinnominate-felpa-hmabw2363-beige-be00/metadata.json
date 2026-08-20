@@ -24,5 +24,27 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/hinnominate-felpa-hmabw2363-beige-be00",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa raffinatezza rilassata dei toni neutri si fonde con le geometrie d'avanguardia dello streetwear, dando vita a un essentials che ridefinisce il concetto di capospalla cozy. La\nFelpa Donna Hinnominate Beige\ndeclina una palette calda e polverosa su una silhouette accorciata e di chiara ispirazione urban. Questo modello a pullover unisce un comfort assoluto a linee pulite ed estremamente contemporanee, progettate per chi esige uno stile di strada minimale e ricercato.\nDesign e Caratteristiche Principali\nSilhouette Cropped con Bordo a Costine\n: Il tratto distintivo del capo è il taglio corto strutturato che si appoggia sopra i fianchi, valorizzando il punto vita. Il fondo è rifinito da una spessa fascia elastica a costine piatte che stabilizza i volumi boxy del pannello frontale.\nMaxi Cappuccio Avvolgente con Incrocio\n: Progettato con un cappuccio ampio e profondo dotato di una pulitissima costruzione incrociata alla base del collo. La totale assenza di coulisse o cordini esterni preserva l'estetica minimalista ed essenziale tipica del brand.\nDettaglio Logo Minimalist Tono su Tono\n: Sul lato inferiore sinistro, appena sopra l'orlo a costine, spicca la stampa pulita del lettering ufficiale\n\"HINNOMINATE\"\n. Realizzato in una tonalità bianca o leggermente a contrasto, firma il modello con un tocco grafico discreto.\nManica Lunga con Taglio Raglan Soft\n: La costruzione della manica si sviluppa con linee fluide che assecondano la forma della spalla, creando un fit morbido e rilassato che si chiude in polsini strutturati a costine.\nTessuto Premium in Felpa di Cotone Compatta\n: Confezionata in una tela di cotone di altissima qualità, liscia all'esterno e morbida sulla pelle, selezionata appositamente per mantenere la struttura squadrata del capo e garantire un'eccellente resistenza nel tempo.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Earth-Tone Uniform\n: Crea una combinazione cromatica pazzesca e avvolgente abbinando questa felpa beige a un pantalone jogger oversize o a uno short in felpa nella tonalità moka o in total look Off White firmato Hinnominate.\nUrban Denim Match\n: Esalta i volumi corti del pullover indossandolo sopra una canotta aderente a coste o un top della linea basic, completando il look con un\njeans\nbaggy a vita alta dal lavaggio chiaro vintage e una sneaker bold.\nUtility Contrast Layering\n: Sperimenta nuove proporzioni lasciando spuntare da sotto l'orlo della felpa il taglio netto di una camicia cropped a micro-righe, spezzando l'attitudine sportiva con un pantalone cargo multitasche o un chino dritto.\nElimina i volumi superflui e ridefinisci la tua idea di comfort quotidiano. Scegli l'architettura urban di Hinnominate e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa cropped con cappuccio, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

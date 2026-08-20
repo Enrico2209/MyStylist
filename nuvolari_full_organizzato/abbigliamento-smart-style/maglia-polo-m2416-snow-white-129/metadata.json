@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/maglia-polo-m2416-snow-white-129",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'Evoluzione di un'Icona\nDirettamente dagli archivi Fred Perry, questa felpa con colletto viene reinterpretata per l'estetica moderna, mantenendo intatto il fascino dei codici sportivi anni '90. Un modello che trasforma l'abbigliamento da allenamento in un pezzo di design raffinato, ideale per chi cerca un look distintivo e ricco di storia.\nConsigli di Outfit\nQuesta felpa è perfetta se abbinata ai jeans Proj3Ct S3 Naos per un gioco di volumi contemporaneo, oppure portata con il Pantalaccio Black Rags per un look total-tech estremamente confortevole.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 3,
+    "formality_perche": "polo a manica lunga, smart casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

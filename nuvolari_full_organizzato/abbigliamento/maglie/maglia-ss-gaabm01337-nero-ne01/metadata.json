@@ -23,5 +23,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-ss-gaabm01337-nero-ne01",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa\nmaglia Gaelle Paris\nunisce eleganza e spirito urban in un capo versatile e contemporaneo. Realizzata con tessuti di alta qualità, assicura comfort e stile in ogni occasione. Il design essenziale è arricchito dal logo iconico, che aggiunge un tocco distintivo perfetto per chi ama un look moderno e raffinato.\nAbbinala a\npantaloni\nper un outfit casual chic. Completa il look con un paio di\nsneakers\nper uno stile urbano impeccabile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:GAABM01337 NERO-NE01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "streetwear": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia di cotone, registro smart casual / casual chic",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

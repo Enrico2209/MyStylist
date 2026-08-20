@@ -25,5 +25,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/w-pantalone-gaabw07502-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone Donna Gaëlle Paris: Stile Audace e Contemporaneo\nI pantaloni da donna\nGaëlle Paris\nsono l'emblema di un'eleganza non convenzionale, che unisce un design ricercato a uno stile audace e contemporaneo. Il brand si distingue per la capacità di reinterpretare modelli classici con dettagli unici e materiali di tendenza, offrendo capi che non passano inosservati e che valorizzano la personalità di chi li indossa.\nCaratteristiche Principali\nDesign e Dettagli Unici:\nGaëlle Paris trasforma ogni pantalone in un pezzo d'autore. Dalle silhouette\ncargo\ncon tasche oversize ai classici\njoggers\nimpreziositi da stampe grafiche o loghi vistosi, ogni modello è una dichiarazione di stile. L'uso di catene decorative, cuciture a vista e dettagli metallici aggiunge un tocco di personalità audace.\nMateriali di Qualità e Comfort:\nI pantaloni sono realizzati con tessuti selezionati per garantire il massimo comfort e una vestibilità impeccabile. Troverai modelli in\ncotone felpato\nper un look casual e confortevole, o in\ntessuti tecnici\nche offrono resistenza e un'estetica moderna. La presenza di elastan in molti capi assicura una libertà di movimento ottimale.\nVestibilità e Silhouette:\nLa collezione offre una vasta gamma di vestibilità per soddisfare ogni esigenza. Dalle linee aderenti dei\njeans skinny\nai tagli morbidi e rilassati dei\npantaloni a palazzo\n, Gaëlle Paris propone modelli che esaltano la figura, creando un look moderno e di tendenza.\nVersatilità Streetwear:\nI pantaloni Gaëlle Paris sono perfetti per creare outfit dinamici e di carattere. Abbinali a una t-shirt oversize e sneakers per un look streetwear, o a un top e un paio di stivaletti per un tocco più elegante e aggressivo. Sono capi versatili, ideali per la vita di tutti i giorni.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\ntessuto 1 90% cotone, 10% poliestere | tessuto 2 95% cotone, 5% elastane\nVestibilità regular\nCodice articolo: GAABw07502",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in cotone felpato con elastico in vita",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

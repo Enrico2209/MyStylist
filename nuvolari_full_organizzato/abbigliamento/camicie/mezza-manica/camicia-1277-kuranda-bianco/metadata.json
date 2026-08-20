@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-1277-kuranda-bianco",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con micro-fantasia all-over, adatta a contesti casual estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

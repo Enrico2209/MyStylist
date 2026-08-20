@@ -22,5 +22,31 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/bermuda-s3-vietnam-camo-camo",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo spirito utility e l'attitudine urbana si incontrano nel\nbermuda da uomo Nuvolari nella fantasia camouflage\n. Un capo dal carattere deciso, dove la stampa mimetica incontra la comodità di un taglio pensato per la stagione calda, perfetto per look estivi grintosi e versatili.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone Resistente\n: Realizzato in tessuto di cotone dalla mano robusta, garantisce comfort e durata nell'uso quotidiano.\nFantasia Camouflage\n: La stampa mimetica dona personalità e un forte carattere utility al capo.\nTasche Funzionali\n: Design pratico con tasche capienti, dettaglio iconico dello stile militare-urban.\nVestibilità Comoda\n: Fit rilassato con fondo sopra il ginocchio per la massima libertà di movimento.\nIdee di Stile: Costruisci il Tuo Look Urban & Streetwear\nUrban Streetwear\n: Abbinalo a una\nt-shirt uomo\na tinta unita per bilanciare la fantasia mimetica, con delle\nsneakers uomo\n.\nCasual Estivo\n: Completa con una camicia aperta o una polo per un look disinvolto e di carattere.\nPalette\n: Gioca con toni neutri come il verde militare, il beige o il nero per valorizzare il pattern camo.\nAggiungi carattere ai tuoi outfit estivi con il bermuda camouflage Nuvolari. Un capo versatile e grintoso, perfetto per la bella stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.4,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi e fantasia mimetica, capo prettamente casual e streetwear",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-lee-daren",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCAMICIA LEE DAREN BLUE BREEZE: IL CLASSICO DENIM SENZA TEMPO\nQuesta camicia rappresenta l'essenza del DNA Lee. Realizzata in un denim di alta qualità dal lavaggio Blue Breeze, offre un colore blu profondo e intenso che acquista carattere con il passare del tempo. È il capo ideale per chi cerca un look robusto ma estremamente curato.\nDesign Funzionale:\nDotata di un pratico taschino sul petto con l'iconica etichetta Lee cucita a contrasto.\nColletto Button-Down\n: Il colletto con bottoni assicura una linea sempre ordinata, rendendola perfetta sia indossata chiusa che aperta sopra una t-shirt.\nFiniture a Contrasto\n: Le cuciture color ambra risaltano sul denim scuro, richiamando la tradizione dei capi da lavoro americani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia in denim scuro con colletto button-down, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

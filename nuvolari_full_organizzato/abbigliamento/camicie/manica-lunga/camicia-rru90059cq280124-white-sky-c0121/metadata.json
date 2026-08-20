@@ -23,5 +23,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-rru90059cq280124-white-sky-c0121",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Roy Roger's White/Sky\nè un'interpretazione magistrale del classico stile preppy, rivisitato con la qualità sartoriale e l'attenzione ai dettagli che definiscono il brand italiano. Caratterizzata da un pattern a righe verticali bianche e celesti, questa camicia a maniche lunghe è il capo ideale per chi cerca un look fresco, luminoso e versatile per la bella stagione.\nRoy Roger's White/Sky L'Eleganza del Pattern a Righe\nPerché sceglierla\nIl punto di forza di questo modello è l'equilibrio tra formalità e attitudine casual. Il colletto\nbutton-down\nne sottolinea il gusto sportivo e raffinato, perfetto per essere indossato senza cravatta. Realizzata in un popeline di cotone traspirante, offre una sensazione di leggerezza sulla pelle che la rende confortevole anche durante le giornate più calde o sotto un maglione leggero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Camicia button-down a righe in popeline, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

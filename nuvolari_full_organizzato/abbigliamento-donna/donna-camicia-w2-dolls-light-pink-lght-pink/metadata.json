@@ -23,5 +23,22 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/donna-camicia-w2-dolls-light-pink-lght-pink",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Classicismo Rivisitato Eleganza e Atteggiamento Street\nQuesta camicia di PROJECT ribalta i canoni classici: il tessuto a righe, tipicamente sartoriale, viene contaminato da una stampa grafica audace e un messaggio provocatorio. È il capo perfetto per un\nlook\nche unisce l'ufficio allo\nstreetwear\npiù grintoso.\nPerchè acquistarla\nContrasto Grafico:\nLa\nstampa rossa\ncrea un forte contrasto visivo con il tessuto a\nrighe sartoriali\nazzurre e bianche.\nDettaglio Streetwear:\nPresenta un patch o un dettaglio di branding sulla manica, tipico dell'estetica PROJ3CT.\nVestibilità Versatile:\nIl taglio è probabilmente\nregular\no leggermente\noversize\n, consentendo di indossarla abbottonata, aperta o annodata.\nEleganza e Ribellione:\nMantiene i dettagli classici (colletto, abbottonatura) ma li eleva con la stampa\nstatement\n, ideale per un look audace.\nConsiglio di Stile:\nIndossala con i pantaloni sartoriali che hai caricato in precedenza o sbottonata sopra un\ncrop top\ne jeans neri.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: W2 DOLLS",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.1,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Camicia classica a righe ma con grafica provocatoria e patch street che ne abbassano la formalità",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-es1-wing-blu-claudio-k142",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Nuvolari Blu Claudio\nLa maglia\nNuvolari\nblu incarna l'eleganza della semplicità. Con un design pulito e girocollo classico, è un capo essenziale per ogni guardaroba. Realizzata con cura nei dettagli, offre comfort e stile senza sforzo. La sua tonalità blu versatile la rende adatta a molteplici occasioni, dall'ufficio al tempo libero. Una scelta raffinata per chi ama la praticità senza rinunciare all'eleganza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica e pulita, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/lacoste/cappello-rk0491-green-132",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nEntra nell'universo della moda con i cappelli a visiera Lacoste, ora disponibili nel vibrante colore verde.\nCon il riconoscibile logo del coccodrillo sul davanti e un design alla moda, questi cappelli sono l'accessorio perfetto per completare il tuo look con stile e personalità. Indossali durante le tue giornate in città o durante le tue attività all'aria aperta per un tocco di eleganza sportiva. Con i cappelli a visiera Lacoste, il tuo stile sarà sempre al top.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\n100% cotone\nCodice articolo: RK0491 GREEN-132",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera in cotone, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

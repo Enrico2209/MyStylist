@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stivaletti/101-antique-pullup-uomo-dr-martens-31872777-dk-khaki-dk-khaki",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStivaletto Dr. Martens Uomo 101 Antique Pullup Dk Khaki\nStivaletto\nDr. Martens da uomo e donna, iconico e resistente. Realizzato in pelle di alta qualità, presenta cuciture a vista, occhielli metallici e suola carrarmato con tecnologia AirWair per comfort e aderenza. Ideale per uno stile unico e grintoso.\nAbbinali ad un paio di\njeans\ne ad una\nmaglia\npensata appositamente per elevare il tuo look quotidiano!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie UK\nTinta unita. Logo jacquard. Tirante posteriore. Tomaia in pelle scamosciata e nabuk. Interno in pelle e gomma. Modello stringato. Punta tonda. Gambale basso. Suola in gomma.\nCodice articolo: 31872777 DK KHAKI-DK KHAKI",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Stivaletto",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stivaletti.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "stivaletto stringato in pelle dall'estetica grunge/streetwear, ideale per look casual quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

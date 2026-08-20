@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/parka/giubbotto-nuvolari-wc-frost-militare-militare-wc-frost-militare-militare",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nParka Uomo Nuvolari modello FROST\nParka in tessuto sofshell idrorepellente\nTasche con pattine diagonali chiuse da automatici interni\nImbottitura in ecopiuma certiﬁcata FELLEX\nFodera con tessuto accoppiato nylon più mesh di colore argento\nPannello frontale chiuso da automatici interni\nZip frontale rovesciata con tirazip personalizzato\nPolso in costina antivento interno manica\nCappuccio con allacciatura antivento\nPlacca metallica personalizzata montata sulla manica sinistra\nVestibilità slim ﬁt\nComposizione: ESTERNO 100% POLIESTERE, FODERA 1 100% POLIESTERE, FODERA 2 100% NYLON IMBOTTITURA 100% POLIESTERE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "parka tecnico imbottito in softshell, vestibilità slim ma di stampo prettamente casual/outdoor",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

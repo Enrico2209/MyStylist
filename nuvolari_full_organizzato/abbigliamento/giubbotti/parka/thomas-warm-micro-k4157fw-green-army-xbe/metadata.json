@@ -27,5 +27,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/parka/thomas-warm-micro-k4157fw-green-army-xbe",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa perfetta sintesi tra l'heritage del capospalla iconico, la massima protezione termica e un'attitudine urban minimale si fondono nel\nparka uomo K-Way modello Thomas Warm Micro Green Army\n. Questo capospalla a tre quarti reinterpreta il classico design protettivo del brand parigino, combinando un guscio ad alta resistenza tecnica con un'imbottitura calda e leggera, ideata per l'uomo contemporaneo che affronta le temperature più rigide e l'instabilità climatica delle stagioni fredde senza rinunciare a una silhouette pulita e rigorosa.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Tecnico in Microfibra Protettiva\n: Il parka è realizzato esternamente in uno speciale tessuto di microfibra accoppiato a una membrana interna impermeabile, traspirante e antivento. La texture al tatto si presenta morbida ma estremamente robusta, capace di respingere l'acqua e isolare il corpo dalle raffiche di vento più intense.\nImbottitura Calda a Peso Ridotto\n: All'interno, il modello Thomas è dotato di un'imbottitura tecnica sintetica (Warm) che garantisce un eccellente isolamento termico senza creare un volume eccessivo. Questo permette di mantenere una linea slanciata e un comfort dinamico ottimale durante gli spostamenti quotidiani.\nLa Nuance Green Army ed Estetica Minimale\n: Il guscio esterno si veste di una versatile tonalità verde militare (Green Army), una sfumatura di ispirazione utility, sobria e facile da abbinare. Il design è studiato per nascondere gli elementi funzionali: la cerniera integrale frontale è protetta da una patta di chiusura con bottoni a pressione a scomparsa, regalando un impatto visivo estremamente lineare e sofisticato.\nCappuccio Avvolgente e Tasche a Filo\n: Il parka è dotato di un cappuccio fisso regolabile tramite cordoncini interni per sigillare la testa in caso di pioggia battente. Sui fianchi sono integrate due ampie tasche verticali a filo con patta geometrica protettiva. Sul petto, lato cuore, spicca l'iconica firma del brand con il logo K-Way in silicone applicato a contrasto.\nIdee di Stile: Costruisci il Tuo Look Urban Dynamic & Smart Casual\nUrban Utility Uniform\n: Struttura un look metropolitano solido, caldo e organizzato per la vita di tutti i giorni o per un weekend invernale in viaggio. Indossa il parka sopra una maglia pesante e abbinalo alla linea relaxed di un jeans d'archivio, scegliendo la tua tela preferita nella collezione di\njeans uomo\n. Completa l'outfit ai piedi con il dinamismo tecnologico delle ultime novità della sezione\nsneakers uomo\n.\nSmart Casual Layering\n: Crea un perfetto equilibrio tra formalità e attitudine athleisure per l'ufficio o il tempo libero. Utilizza la lunghezza a tre quarti del parka Green Army per coprire una giacca destrutturata o una polo a manica lunga abbinata ai modelli in gabardina o cotone pesante che trovi nella selezione di\nbermuda uomo\n(per le mezze stagioni) o pantaloni lunghi. Come strato base per le giornate di transizione, esplora anche la linea di\nt-shirt uomo\nin cotone premium.\nOutdoor Leisure Transition\n: Per le giornate invernali più fredde o per una gita fuori porta, ottimizza l'isolamento sfruttando la massima copertura dei capispalla della linea. Scopri le varianti di stratificazione esplorando l'assortimento completo di\ngiubbotti uomo\n, oppure gioca d'anticipo con i contrasti stagionali inserendo una nota pop ispirata ai pattern grafici della collezione\ncostumi uomo\nper i tuoi momenti di relax in spa o mete esotiche.\nSperimenta la perfetta evoluzione del parka urbano, dove la tecnicità della microfibra incontra la pulizia delle linee minimali a scomparsa. Scegli la solidità della tonalità Green Army, il calore intelligente dell'imbottitura K-Way e affronti l'inverno con uno stile protettivo senza compromessi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Parka tecnico imbottito, tetto di marchio sportivo/outdoor",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

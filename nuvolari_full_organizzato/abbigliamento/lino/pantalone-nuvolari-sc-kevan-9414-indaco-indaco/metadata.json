@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/lino/pantalone-nuvolari-sc-kevan-9414-indaco-indaco",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nBermuda Uomo Nuvolari modello KEVAN 9414\nRealizzato in fresco lino\nDue tasche anteriori con dettaglio cucitura a contrasto\nUna tasca posteriore con etichetta Nuvolari\nCoulisse elastica con laccio\nComposizione : 100% lino",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in lino con coulisse elastica in vita, ideale per contesti casual estivi e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

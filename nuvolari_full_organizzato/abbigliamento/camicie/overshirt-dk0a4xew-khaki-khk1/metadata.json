@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/overshirt-dk0a4xew-khaki-khk1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'heritage workwear e la robustezza di Dickies prendono forma nell'\novershirt da uomo Dickies nella colorazione khaki\n. Un capo ibrido tra camicia e giacca leggera, dove la tonalità militare versatile incontra la funzionalità e la resistenza tipiche del marchio americano.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Resistente\n: Realizzato in tessuto robusto dalla mano corposa, pensato per durare e per un uso quotidiano intenso.\nColore Khaki Versatile\n: Una nuance verde-sabbia militare, facile da abbinare e dal forte carattere utility.\nTasche Frontali Funzionali\n: Tasche applicate sul petto con pattina, dettaglio pratico e iconico dello stile workwear.\nAbbottonatura Frontale\n: Chiusura con bottoni e colletto a camicia, per indossarlo aperto o chiuso a piacere.\nVestibilità Comoda\n: Fit rilassato ideale per il layering, da portare come sovracamicia o giacca leggera.\nIdee di Stile: Costruisci il Tuo Look Workwear & Urban\nWorkwear Look\n: Indossalo aperto su una\nt-shirt uomo\na tinta unita con dei\njeans uomo\nper un outfit utility autentico.\nLayering\n: Perfetto come sovracamicia nelle mezze stagioni, da abbinare a felpe e capi casual.\nUrban Casual\n: Completa con dei\npantaloni uomo\ncomodi e delle\nsneakers uomo\nper un look metropolitano e funzionale.\nScegli l'autenticità workwear firmata Dickies. L'overshirt khaki è il capo versatile che unisce funzionalità e stile in ogni stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Giacca coach/overshirt leggera di stampo workwear e streetwear, con bottoni a pressione e coulisse",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

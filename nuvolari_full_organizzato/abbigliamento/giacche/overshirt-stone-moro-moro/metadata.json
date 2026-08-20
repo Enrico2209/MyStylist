@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/overshirt-stone-moro-moro",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'\nOvershirt Uomo Baecker Stone\nincarna alla perfezione il concetto di transizionalità e stratificazione intelligente, posizionandosi a metà strada tra una camicia strutturata e una giacca leggera d'ispirazione workwear. Questo capo fa della pulizia geometrica e della ricchezza materica i suoi punti di forza, offrendo una soluzione versatile per elevare i look casual ed eclettici della mezza stagione.\nDesign e Caratteristiche Principali\nTessuto Strutturato Effetto Lavato\n: Realizzata in una tela di cotone corposa e resistente dall'aspetto leggermente opaco, rifinita con un lavaggio morbido che ne ammorbidisce la mano e crea impercettibili sfumature tridimensionali lungo i bordi e le cuciture.\nDoppie Tasche Pettorali Utility\n: Sul davanti spiccano due ed esclusive tasche applicate sul petto con patta squadrata e chiusura a bottone singolo centrale. Il design include una leggera piega a cannone centrale sui taschini che ne esalta il sapore utility.\nTasche Laterali a Filo Verticali\n: Integrati con discrezione sui fianchi inferiori si trovano due comodi tasconi a filetto verticale, perfetti per riparare le mani o custodire piccoli oggetti personali senza alterare la silhouette pulita ed essenziale del pannello frontale.\nChiusura Lineare e Colletto Classico\n: Presenta un colletto a camicia tradizionale, nitido e ben proporzionato, abbinato a un'allacciatura frontale a sei bottoni disposti lungo la patta centrale aperta.\nEtichetta Heritage e Interno Parzialmente Foderato\n: All'interno della calotta posteriore, sotto il colletto, è applicata la patch tessile rettangolare con il logo del brand, sormontata da un fine passante in nastro che richiama la cura artigianale del marchio.\nTaglio Square Regular Fit\n: La vestibilità propone volumi squadrati e un fondo dritto, pensata appositamente per ospitare t-shirt o maglie leggere inferiori garantendo una caduta impeccabile e una totale libertà di movimento.\nProposta di Outfit\nResort Tone Fusion\n: Indossala aperta sopra una\ncamicia\n, la solidità dell'overshirt farà risaltare il pattern grafico inferiore, creando un perfetto gioco di sovrapposizioni calde e sofisticate.\nUrban Cargo Streetwear\n: Portala abbottonata a metà insieme a un paio di\nbermuda cargo\ne a un cappello alla pescatora coordinato; le note del pantalone cargo si sposeranno splendidamente con la base dell'overshirt, definendo un outfit d'ispirazione utility perfetto per il tempo libero in città.\nMinimal Total Contrast\n: Abbinala a una\nt-shirt\nessenziale infilata dentro un paio di\njeans\ndal lavaggio stone-washed; l'overshirt fungerà da perfetto capospalla, focalizzando l'attenzione sulle linee rilassate e pulite del look.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Overshirt d'ispirazione workwear/utility con tasche a toppa, adatta a contesti casual quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

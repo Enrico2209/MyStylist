@@ -22,5 +22,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/mocassino-donna-vans-lx-loafer-53-vn000vas-zebra-zbr1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'eleganza classica del design preppy incontra la forza visiva della cultura streetwear e l'audacia dell'animalier nella nuova\nScarpa Donna Vans Lx Loafer 53 Zebra\n. Questo esclusivo mocassino ibrido rompe completamente gli schemi tradizionali della calzatura formale, unendo una texture zebrata dal forte impatto grafico a una suola strutturata e iper-resistente di chiara matrice skate.\nDesign e Caratteristiche Principali\nTomaia Animalier in Cavallino Zebrato\n: Il vero e proprio statement di questo modello è la tomaia realizzata in pregiato cavallino (pelle con pelo rasato) che riproduce un audace motivo zebrato bianco e nero. Una finitura materica tridimensionale, lussuosa e graffiante che trasforma la scarpa nel punto focale di qualsiasi outfit.\nMascherina Penny Loafer e Dettagli in Pelle\n: Il profilo riprende le linee pulite dell'intramontabile mocassino a mascherina. I bordi della vaschetta, il colletto e il dettaglio penny sono rifiniti con inserti in solida pelle liscia nera, che incorniciano il pattern zebrato donando equilibrio e struttura alla calzatura.\nDettaglio Iconico \"Off The Wall\"\n: Sul tallone spicca l'immancabile \"red badge\" in gomma con il logo ufficiale\n\"Vans Off The Wall\"\n. Un contrasto cromatico e d'archivio iper-riconoscibile che sancisce l'autentica appartenenza della calzatura alla scuderia skate californiana.\nSuola Carrarmato Vulcanizzata Bold\n: Costruito su una spessa intersuola in gomma nera vulcanizzata con finitura zigrinata, completata da un robusto battistrada carrarmato spessorato. Questa struttura non solo assicura un grip eccezionale e una grande durevolezza, ma regala un volume massiccio e di tendenza.\nComfort Premium Interno\n: Il sottopiede anatomico e la fodera interna morbida sono progettati per offrire il massimo comfort durante le camminate urbane, rendendo il mocassino ideale per essere indossato sia a piedi nudi che con calze a contrasto.\nIdee di Stile: Crea la Tua Wave\nSkate Luxury Uniform\n: Esalta le proporzioni bold e l'anima street del mocassino abbinandolo ai volumi rilassati dei jeans Dickies 957 Loose Tapered (sia in versione Dark Indigo che Vintage Blue). Completa il look con una t-shirt basic bianca infilata dentro e una giacca utility leggera.\nUrban Contrast Outfit\n: Gioca di contrasti accostando l'audacia della trama zebrata alla pulizia di un pantalone a gamba dritta pastello — come i pantaloni Dickies 997 Loose Straight Stormy Sea — spezzando l'azzurro con una\nt-shirt\ngrafica nera (ottima la Dickies Plentywood Tee) per un perfetto look street-chic.\nContemporary Minimal Vibe\n: Lascia che la scarpa sia l'unica protagonista indossandola insieme ai pantaloni chino Dickies 247 Desert Sand e a un crop top nero minimalista, definendo la silhouette con una cintura in pelle nera in vita.\nRivoluziona il concetto di eleganza quotidiana con un mix esplosivo di artigianalità e attitudine underground. Scegli il carattere graffiante del mocassino LX Loafer 53 Zebra firmato Vans.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nEU\nUS Donna\n34.5\n5\n35\n5.5\n36\n6\n36.5\n6.5\n37\n7\n38\n7.5\n38.5\n8\n39\n8.5\n40\n9\n40.5\n9.5\n41\n10\n42\n10.5\n42.5\n11\n43\n11.5",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Mocassino ibrido skate con suola spessa vulcanizzata e tomaia zebrata, tetto di marchio street/sportivo",
+    "season": "tutte",
+    "pattern": "animalier"
+  }
 }

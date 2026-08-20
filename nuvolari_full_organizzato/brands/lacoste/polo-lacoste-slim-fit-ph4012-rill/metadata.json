@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/lacoste/polo-lacoste-slim-fit-ph4012-rill",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\npolo da uomo\nfirmata\nLacoste\nè un capo di abbigliamento che, nonostante il tempo, non passa mai di moda.\nQuesta polo a manica corta, con taglio classico e orlo rifinito a costine è realizzata interamente in cotone e ha una vestibilità slim. Polo a\ntinta unita\ncon il famoso coccodrillo verde di Lacoste sul petto. La\nmaglietta a manica corta\nha colletto e due bottoncini.\nIl modello indossa la taglia L.\nSe anche tu sei amante del brand Lacoste, scopri qui gli altri\ncapi di abbigliamento\ndel marchio selezionati apposta per te da\nNuvolari\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPolo Uomo Lacoste Rill\nVestibilità slim\nComposizione: 100% cotone\nCodice articolo: PH4012 RILL-T01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi di abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/lacoste"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone, vestibilita slim che alza leggermente il tono smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

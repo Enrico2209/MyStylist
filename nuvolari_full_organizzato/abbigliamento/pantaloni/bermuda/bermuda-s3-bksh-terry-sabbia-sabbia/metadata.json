@@ -26,5 +26,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-bksh-terry-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Bksh Terry\nridefiniscono il concetto di short sportivo attraverso una costruzione ibrida curata nei minimi dettagli, pensata per chi non vuole rinunciare a un'immagine ordinata nemmeno nei momenti di massimo relax. Ideali per il tempo libero, i viaggi estivi o le giornate di svago in città, questi pantaloncini coniugano perfettamente un'anima athleisure a dettagli di chiara ispirazione sartoriale.\nDesign e Caratteristiche Principali\nCintura Elasticizzata Comfort con Coulisse Sportiva\n: Il girovita è progettato per garantire un benessere superiore e un'ottima adattabilità ergonomica, integrando una fascia elastica arricciata che asseconda fluidamente i movimenti del corpo. La chiusura è completata da un cordoncino tubolare che fuoriesce sul davanti, rifinito con terminali metallici silver.\nChiusura Funzionale e Passanti\n: L'impostazione ibrida del modello si riflette nella presenza di passanti disposti lungo la cintura e di una finta patta frontale con cuciture a vista, elementi che richiamano la struttura del pantalone classico e permettono di indossarlo anche sollevando il livello di formalità del look.\nTasche Anteriori e Hardware Personalizzato\n: Sul pannello frontale sono collocate due tasche laterali inclinate inserite a filo lungo il fianco, che mantengono la silhouette pulita. Le estremità superiori sono rinforzate e impreziosite da piccoli rivetti metallici circolari con il branding Nuvolari inciso.\nTasche Posteriori Applicate\n: Il retro del bermuda si distacca per un'estetica pulita ma funzionale, ospitando due tasche applicate a toppa con taglio lineare e squadrato, che aggiungono struttura ai volumi posteriori.\nSilhouette Regular Fit Calibrata\n: Il taglio propone una vestibilità regolare e ariosa che scende dritta lungo la coscia senza costrizioni. La lunghezza è studiata per arrestarsi poco sopra la linea del ginocchio, definendo una proporzione slanciata, dinamica e decisamente attuale.\nProposta di Outfit\nSmart Summer Knitwear\n: Abbinalo alla\npolo in maglia Karl beige\n; l'incontro tra l'eleganza rétro dello scollo a V senza bottoni e la linea pulita dello short strutturerà un outfit casual-chic rilassato, impeccabile per un pranzo estivo all'aperto o un pomeriggio sul lungomare.\nUrban Heritage Style\n: Indossalo insieme alla\nt-shirt Uat blu\ncon maxi stampa centrale automotive; il contrasto tra l'essenzialità geometrica del bermuda e il sapore vintage della grafica d'epoca bianca darà vita a un perfetto look streetwear metropolitano per il weekend.\nSophisticated Vacation Layering\n: Portalo in abbinamento alla\ncamicia Nadoto Khaki\na micro-righe verticali, lasciata aperta sopra una canotta o una t-shirt bianca leggera; il gioco geometrico della riga sottile coordinerà un insieme arioso, fresco e ricercato d'ispirazione Resort.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo in maglia Karl beige",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt Uat blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia Nadoto Khaki",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "bermuda con coulisse sportiva ed elastico in vita, ideale per il tempo libero estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

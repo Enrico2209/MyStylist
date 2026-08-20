@@ -23,5 +23,35 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh1816ita-camo-cmo",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl bermuda uomo LYLE & SCOTT nella fantasia Camo è il capo perfetto per un look estivo dal piglio deciso e sportivo. La stampa camouflage porta una nota grintosa e attuale, mentre l'inconfondibile eleganza british del marchio scozzese garantisce qualità e cura dei dettagli, a partire dal celebre logo dell'aquila.\nLYLE & SCOTT Bermuda: la Fantasia Camo dallo Spirito British\nPerché sceglierlo\nConfezionato in tessuto resistente e confortevole, questo bermuda offre libertà di movimento e una vestibilità curata, ideale per le giornate più calde. La fantasia camouflage lo rende un capo versatile e di carattere, capace di dare personalità anche agli abbinamenti più semplici.\nConsigli di Outfit\nCasual Estivo:\nabbinalo a una\nt-shirt\na tinta unita per bilanciare la fantasia camouflage.\nSporty Chic:\ncompleta con una\npolo\nin tinta neutra per un look ordinato e contemporaneo.\nCalzature:\npunta su delle\nsneakers\nbianche per far risaltare la stampa mimetica.\nPalette:\ngioca con toni neutri come il verde militare, il beige o il nero per valorizzare al meglio il pattern camo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi e fantasia mimetica, capo prettamente casual e informale",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalone-pt-marrakech-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa leggerezza dei tessuti estivi e il fascino disinvolto dello stile mediterraneo si fondono nel\npantalone da uomo Black Rags modello Marrakech nella tonalità Nero\n. Caratterizzato da una texture fiammata di grande effetto e da un design morbido d'ispirazione relaxed, questo pantalone in lino e cotone rappresenta la scelta ideale per chi cerca la massima freschezza, comodità e un'estetica vacanziera sofisticata da sfoggiare nelle giornate più calde.\nDesign, Tessuti e Caratteristiche Costruttive\nMisto Lino e Cotone Leggero e Traspirante\n: Confezionato in una pregiata miscela di lino e cotone dalla mano fresca e naturale, garantisce un'eccellente traspirabilità e una piacevole sensazione di leggerezza sulla pelle.\nTexture Fiammata e Nuance Nero Antracite\n: La particolare trama del tessuto dona al colore nero un affascinante effetto fiammato e leggermente melange, rendendo il capo vibrante e mai banale.\nVita Elasticizzata con Coulisse a Contrasto\n: Dotato di una comoda fascia elasticizzata in vita rifinita con spessi cordoni di regolazione in tonalità crema/ecrù, che aggiungono un tocco di contrasto estivo di grande tendenza.\nFit Relaxed e Tasche Laterali\n: Il taglio comodo con gamba dritta e scivolata assicura la massima libertà di movimento, completato da pratiche tasche laterali a fessura per un look disinvolto e funzionale.\nIdee di Stile: Costruisci il Tuo Look Urban & Resort Casual\nSummer Resort & Beach Mood\n: Crea l'outfit estivo definitivo per le vacanze o gli aperitivi al tramonto. Abbina il pantalone Marrakech alla freschezza di una\nt-shirt uomo\nessenziale o a una camicia in lino bianca sbottonata, portandolo con te sopra i capi della selezione\ncostumi uomo\n.\nEveryday Urban Casual\n: Perfetto per la città nelle giornate più calde, accosta la morbidezza del lino al design essenziale di un paio di\nsneakers uomo\nbasse o di sandali in pelle, completando il look con occhiali da sole e accessori leggeri.\nMid-Season & Evening Layering\n: Nelle serate estive più ventose, indossa il pantalone con una maglia leggera o spezza il look accostandolo a un capospalla della collezione\ngiubbotti uomo\n. Nelle giornate in cui preferisci una struttura più classica o corta, scopri anche le nostre proposte tra i\njeans uomo\ne i\nbermuda uomo\n.\nAbbraccia l'eleganza rilassata della stagione calda. Scegli la traspirabilità del lino, la comodità della vita con coulisse e lo stile inconfondibile del pantalone Black Rags Marrakech.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone relaxed in lino e cotone con vita elasticizzata e coulisse, stile resort/vacanziero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

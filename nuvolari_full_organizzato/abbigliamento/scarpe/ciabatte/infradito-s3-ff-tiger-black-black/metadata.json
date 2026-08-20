@@ -23,5 +23,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/infradito-s3-ff-tiger-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo streetwear romano di Proj3ct arriva anche in spiaggia con le\ninfradito da uomo Proj3ct in nero\n. Un accessorio estivo essenziale e versatile, dove il nero total look incontra i dettagli firmati del brand per un comfort quotidiano dal gusto urbano.\nDesign, Materiali e Caratteristiche Costruttive\nSuola Comoda\n: Realizzate con suola in materiale morbido e leggero, garantiscono comfort e ammortizzazione a ogni passo.\nNero Total\n: Una tinta unita scura, minimale e facilissima da abbinare a qualsiasi look estivo.\nFascetta Avvolgente\n: Tomaia a fascia con logo del brand, comoda e sicura durante l'uso.\nLeggere e Pratiche\n: Perfette da mettere e togliere, ideali per la spiaggia, la piscina e il tempo libero.\nIdee di Stile e Utilizzo\nBeach & Pool\n: Compagne ideali per le giornate al mare o in piscina, comode e resistenti all'acqua.\nCasual Estivo\n: Abbinale a un bermuda e a una\nt-shirt\nper un look estivo rilassato in città.\nRelax\n: Perfette per il tempo libero, dal giardino di casa alla passeggiata sul lungomare.\nVivi l'estate con lo stile Proj3ct. Le infradito nere sono l'accessorio comodo e versatile che non può mancare nella bella stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "infradito da mare e piscina, livello base di formalita",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

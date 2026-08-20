@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-s3-2-0-hamburg-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGrinta biker ed eleganza urbana si incontrano nel\ngiubbotto da uomo Nuvolari modello Hamburg in pelle nera\n. Una giacca dallo stile racer realizzata in morbida pelle, con collo alla coreana, bottone di chiusura al colletto e zip frontale: un capospalla dal carattere deciso e senza tempo, perfetto per le mezze stagioni.\nDesign, Materiali e Caratteristiche Costruttive\nPelle di Qualita:\ntomaia in morbida pelle nera dalla mano pregiata, resistente e dallo stile intramontabile.\nCollo alla Coreana:\ncolletto a fascia con bottone di chiusura per un look racer pulito e minimal.\nChiusura Zip Centrale:\nzip frontale robusta e cuciture verticali che snelliscono la linea.\nTasche Funzionali:\ntasche laterali con zip per un dettaglio pratico e sportivo.\nIdee di Stile: Costruisci il Tuo Look Urban Chic\nCasual Everyday:\nabbinalo a un paio di\njeans uomo\ne a delle\nsneakers uomo\nper un look grintoso e disinvolto.\nSmart Layering:\nperfetto sopra una\nt-shirt uomo\no un maglione girocollo per un outfit curato.\nStatement di Stile:\nla pelle nera in stile biker lo rende un capospalla iconico e versatile.\nAggiungi un capospalla dal carattere deciso al tuo guardaroba. Scegli la qualita della pelle, la linea racer con collo alla coreana e lo stile inconfondibile firmato Nuvolari Hamburg.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto in pelle stile biker/racer, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "accessori/occhiali/occhiali-s3-ector-nero-luc-azzurro-c05",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa linea di\nOcchiali Proj3Ct\npropone accessori dal forte impatto visivo, pensati per chi desidera completare il proprio stile urban con un tocco rétro e contemporaneo allo stesso tempo. Caratterizzati da una struttura solida e dettagli cromatici ricercati, questi occhiali si adattano perfettamente a diverse tipologie di look, dal casual allo streetwear più spinto.\nDesign e Caratteristiche Comuni\nMontature Strutturate\n: La collezione punta su silhouette \"bold\" con linee spesse e decise che richiamano il design degli anni '70.\nLenti Colorate Pastello\n: L'utilizzo di lenti in tonalità come l'azzurro chiaro crea un contrasto sofisticato con le montature, offrendo una visione luminosa e uno stile distintivo.\nVarianti Materiche\n: Le montature spaziano dal classico effetto tartarugato nei toni dell'ambra e del marrone a versioni in acetato pieno.\nDettagli Iconici\n: Ogni modello è arricchito da inserti metallici o loghi del brand sulle aste, garantendo l'autenticità del prodotto Proj3Ct.\nVersatilità di Calzata\n: Progettati per offrire comfort e resistenza, sono accessori ideali per l'uso quotidiano all'aria aperta.\nSuggerimenti di Stile\nEcco 3 modi per integrare gli occhiali Proj3Ct nel tuo guardaroba:\nStreet Icon\n: Abbinali a una\novershirt\naperta e un\ncappello\nvintage per un look metropolitano completo e curato nei minimi dettagli.\nCasual Refresh\n: Indossali con una semplice\nt-shirt\nbianca o pastello per far risaltare il colore delle lenti e la particolarità della montatura.\nRetro Vibes\n: Coordinali con capi denim dal lavaggio chiaro o camicie a righe per richiamare un'estetica nostalgica ma estremamente attuale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori/cappelli.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "accessorio occhiale da sole stile rétro/streetwear, ideale per look casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

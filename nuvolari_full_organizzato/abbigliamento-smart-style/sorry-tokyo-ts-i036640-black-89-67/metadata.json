@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/sorry-tokyo-ts-i036640-black-89-67",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa T-Shirt Sorry Tokyo è un capo dall'anima cosmopolita che fonde estetica urbana e comfort assoluto. Realizzata in morbido jersey, questa maglietta è progettata per offrire una piacevole sensazione di leggerezza e una vestibilità che segue con naturalezza i movimenti del corpo.\nPerché sceglierli\nQuesto modello è il fulcro di un look streetwear contemporaneo. La\nvestibilità oversized\nnon solo garantisce un'attitudine rilassata, ma permette anche una grande versatilità nello styling. Il punto di forza risiede nel gioco di stampe fronte/retro: un richiamo grafico moderno che rende omaggio all'energia delle metropoli, perfetto per chi non vuole passare inosservato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I036640 BLACK-89.67",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica con vestibilita oversize e ispirazione streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

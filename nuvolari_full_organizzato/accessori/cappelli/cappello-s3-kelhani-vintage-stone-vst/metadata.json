@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-s3-kelhani-vintage-stone-vst",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Proj3Ct Kelhani Vintage Stone\ncattura alla perfezione l'estetica rétro e rilassata dei primi anni '90, declinando l'intramontabile silhouette \"bucket hat\" (cappello alla pescatora) in una colorazione di chiara ispirazione utility e desertica. Sviluppato in una tonalità beige sabbia/pietra, arricchita da lavaggi stone-washed che ne schiariscono i profili, questo accessorio si impone come un pezzo chiave per completare look estivi freschi, disinvolti e dal forte accento streetwear.\nDesign e Caratteristiche Principali\nSilhouette Bucket Hat Tradizionale\n: Presenta una calotta a cupola destrutturata con pannello superiore piatto, abbinata a una tesa spiovente corta e perimetrale, un design iconico ereditato dalla cultura underground e hip-hop.\nTessuto in Cotone con Lavaggio Vintage\n: Realizzato in una solida ma morbida tela di cotone, sottoposta a un intenso trattamento di lavaggio minerale che ricrea un affascinante effetto sbiadito e vissuto, visibile in particolar modo lungo le venature e i bordi delle cuciture.\nRicamo Frontale Calligrafico Tono su Tono\n: Il pannello centrale della calotta è impreziosito dal ricamo del logo del brand con un lettering dinamico stile graffiti. L'utilizzo di un filato beige identico alla tonalità di base assicura una finitura discreta, sofisticata e dall'impatto minimale.\nFalda Strutturata e Occhielli di Ventilazione\n: La tesa inferiore è rinforzata da molteplici file di impunture circolari parallele che ne mantengono la forma ottimale. Ai lati della calotta sono inseriti occhielli metallici ricamati per favorire la traspirazione e assicurare la massima freschezza.\nProposta di Outfit\nTotal Resort Look Coordinato\n: Abbinalo a una\ncamicia a maniche corte a righe\nverticali beige e bianche e a un paio di shorts coordinati; l'inserimento del cappello alla pescatora completerà il set estivo spezzandone la formalità sartoriale con un tocco casual, rilassato e decisamente vacanziero.\nStreetwear Camouflage Contrast\n: Indossalo insieme a un\nbermuda camouflage\nsui toni del verde oliva e del khaki; la tinta unita effetto pietra del cappello richiamerà le sfumature sabbiose del pattern mimetico, strutturando un outfit urban d'ispirazione skate forte e bilanciato.\nUrban Monochrome Layering\n: Portalo in combinazione con una\ncamicia strutturata nera\nlasciata aperta sopra una t-shirt basic bianca; il contrasto netto tra la base scura dell'abbigliamento e la tonalità chiara \"stone\" del cappello farà risaltare l'accessorio come l'indiscusso punto luce centrale del look.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia a maniche corte a righe",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda camouflage",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicia strutturata nera",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "cappello alla pescatora (bucket hat) con ricamo stile graffiti, accessorio tipicamente casual e streetwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/dickies-997-loose-straight-dk0a889y-stormy-sea-l371",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autenticità dello stile utility americano incontra una delle palette più fresche e ricercate della stagione nei nuovi\nPantaloni Donna Dickies 997 Loose Straight Stormy Sea\n. Questa silhouette fa del taglio dritto e del comfort assoluto i suoi punti di forza, reinterpretando il classico pantalone da lavoro in una chiave iper-contemporanea e squisitamente street-ready.\nDesign e Caratteristiche Principali\nSfumatura Stormy Sea Esclusiva\n: Il pantalone si distingue per una sofisticata e magnetica colorazione azzurro-polvere/carta da zucchero sbiadita (Stormy Sea). Una tonalità pastello polverosa che ammorbidisce le linee rigorose del workwear tradizionale, regalando una ventata di freschezza e originalità agli outfit estivi e di transizione.\nTaglio Loose Straight d'Ispirazione Rétro\n: Sviluppato con la linea d'archivio \"997\", presenta una vestibilità loose, comoda e rilassata sui fianchi, che scende perfettamente dritta e ampia lungo tutta la gamba. Una geometria pulita d'ispirazione anni '90 che elimina ogni costrizione e garantisce una totale libertà di movimento.\nIconica Label Posteriore Dickies\n: Sul retro, posizionata sopra la tasca posteriore, spicca l'inconfondibile patch quadrata cucita con il celebre logo a ferro di cavallo di Dickies. Una firma inconfondibile che certifica la storicità e la robustezza del brand.\nFiniture Workwear e Passanti Rinforzati\n: Strutturato con tasche americane ad accesso laterale sul davanti, tasche posteriori a filo e passanti per la cintura sovradimensionati. La chiusura frontale pulita è gestita da una patta con zip a scomparsa e bottone in vita.\nTela di Cotone Twill Compatta ed Heavyweight\n: Confezionato nel leggendario tessuto twill di Dickies ad alta densità. Questo materiale corposo e resistente assicura che il pantalone mantenga perfettamente la sua forma strutturata ed ampia, garantendo un'eccezionale longevità contro l'usura quotidiana.\nIdee di Stile: Crea la Tua Wave\n90s Pastel Skate Uniform\n: Esalta l'anima core e i passaggi tonali del brand abbinando il pantalone alla t-shirt coordinata\nDickies Plainville Ringer Tee Stormy Sea\n. Il match monocromatico spezzato dai profili blu scuro della ringer tee crea un outfit d'archivio pazzesco, da chiudere con una sneaker bassa in tela.\nUrban Contrast Workout\n: Gioca di contrasti cromatici e di volumi accostando il volume loose del pantalone azzurro a una t-shirt grafica nera dal sapore vintage (ottima la Dickies Plentywood Tee Black), lasciando che la maxi stampa posteriore aggiunga carattere al look.\nCasual Cozy Layering\n: Per le giornate più fresche, indossa i chino 997 con un top minimalista bianco e sovrapponi la comodità full-zip della felpa Dickies Deshler Fz Hoodie Black, completando l'outfit con un sandalo platform audace come il modello Ugg Goldenglow Toggle.\nRidisegna le regole del tuo stile quotidiano unendo la solidità del workwear a una sfumatura cromatica irresistibile. Scegli il fit loose straight firmato Dickies.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Dickies Plainville Ringer Tee Stormy Sea",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo/workwear con vestibilita loose, abbassato a 2",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

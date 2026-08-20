@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-s3-keefer-wht-petrolio-7c",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nNuvolari Keefer: L'Essenza Tropicale in Puro Cotone\nCamicia Uomo Nuvolari Keefer 100% cotone\nImmergiti nell'atmosfera dell'estate con la camicia Nuvolari Keefer. Questo modello trasforma il classico motivo botanico in una stampa artistica monocromatica nei toni del petrolio su fondo bianco, offrendo un'interpretazione contemporanea della camicia \"aloha\". Realizzata interamente in cotone naturale, è il capo ideale per chi desidera unire freschezza assoluta e una personalità distintiva, sia in città che in riva al mare.\nLeggerezza Naturale e Design Grafico\nStampa All-Over \"Jungle\"\n: La fantasia a palme e vegetazione tropicale è declinata in una tonalità blu petrolio desaturata, creando un contrasto elegante e mai eccessivo con il bianco ottico del tessuto.\nPuro Cotone 100%\n: La fibra naturale garantisce la massima traspirabilità e una sensazione di freschezza sulla pelle, rendendo la camicia confortevole anche durante le giornate più calde.\nCostruzione Classica\n: Presenta un colletto a punta ben strutturato e una chiusura frontale con bottoni chiari che si fondono armoniosamente con la grafica del capo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:S3 KEEFER WHT/PETROLIO-7C",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con stampa tropicale all-over, adatta a contesti informali ed estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

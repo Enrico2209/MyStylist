@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-farah-sd-brooks-a054-mist-mist",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Farah modello Brooks\nManiche corte\nColletto alla francese\nChiusura con bottoni\nStampa fantasia all over\nLogo Farah a contrasto ricamato sul petto\nVestibilità regular fit\nComposizione : 50% cotone 50% lyocell",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con stampa all-over, adatta a contesti casual estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

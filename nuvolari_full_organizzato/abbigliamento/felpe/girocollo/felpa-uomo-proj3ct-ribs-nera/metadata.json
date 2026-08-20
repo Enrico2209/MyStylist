@@ -25,5 +25,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-uomo-proj3ct-ribs-nera",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa\nfelpa da uomo Proj3ct\nè un'autentica dichiarazione di stile\nstreetwear,\ncaratterizzata dalla sua\nstampa ribs\naudace sia sul petto che sul retro. Il\nnero\nintenso aggiunge un tocco di mistero e versatilità, perfetto per chi cerca uno\nstile urbano\ndistintivo. Il\ngirocollo\nconferisce un taglio moderno, mentre la\nvita e i polsi elasticizzati\noffrono un'aderenza perfetta, garantendo una vestibilità comoda e alla moda in ogni situazione.\nD\nesign street e dettagli di tendenza\nQuesta\nfelpa\nè l'ideale per un\nlook casual\ne di tendenza. Combinala con\njeans\nstrappati e\nsneakers\nrobuste per un look urbano impeccabile. Per un tocco sofisticato, accosta la\nfelpa\na\npantaloni\ncargo\ne un paio di stivali alla moda. Aggiungi accessori come una snapback o una\nborsa a tracolla\nper completare il tuo outfit\nstreetwear\ncon stile. La versatilità del nero consente abbinamenti audaci e creativi, rendendo questa felpa firmata\nProj3ct\nun capo essenziale per ogni guardaroba maschile moderno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo Proj3ct Ribs Nera\nVestibilità Regular\nComposizione: 65% Cotone, 35% Poliestere\nCodice Prodotto: WG FL RIBS",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalonicargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "borsa a tracolla",
+      "categoria_url": "https://www.nuvolari.biz/accessori/borse.html"
+    },
+    {
+      "testo": "Proj3ct",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo con grafica street, adatta a contesti casual quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

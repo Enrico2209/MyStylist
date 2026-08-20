@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/deus-ex-machina/t-shirt-deu-ex-machina-dogleg-tee-d261mts321-dirty-white-d-wht",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-shirt Deus Ex Machina\nQuesta t-shirt cattura perfettamente lo spirito \"custom\" e cosmopolita di Deus Ex Machina, celebrando la cultura motoristica con un design grafico d'impatto. È un capo essenziale per chi cerca un look streetwear autentico, ispirato alle celebri \"case\" del brand sparse per il mondo.\nDettagli del Design\nGrafica Posteriore Iconica\n: Il retro presenta la stampa \"The Chamber of Eternal Combustion\", arricchita dall'indirizzo della sede di Seoul (Seongdong-gu), che sottolinea il carattere globale e underground del marchio.\nMinimalismo Frontale\n: Sul petto spicca il classico logo \"Deus Ex Machina\" in bianco, realizzato con un font corsivo elegante che contrasta con la base nera del tessuto.\nCostruzione Premium\n: Realizzata in cotone di alta qualità, offre una mano morbida e una resistenza ottimale ai lavaggi frequenti.\nVestibilità Contemporanea\n: Caratterizzata da un taglio classico a girocollo e maniche corte, ideale per un fit rilassato ma definito.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt grafica di stampo streetwear/motoristico, adatta a contesti casual quotidiani",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

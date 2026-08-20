@@ -22,5 +22,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-m2426-ecru-170",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nC'è una felpa che unisce il comfort della maglieria sportiva all'eleganza inconfondibile del marchio dell'alloro. La\nfelpa Fred Perry M2426 in ecru\nreinterpreta il capo in una delicata tonalità panna, impreziosita dal ricamo iconico sul petto.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone di qualità:\nmano morbida e avvolgente per un comfort quotidiano.\nTonalità ecru:\nnuance neutra e luminosa, elegante e facile da abbinare.\nLogo alloro ricamato:\nl'iconica corona d'alloro Fred Perry firma il capo.\nBordi a costine:\nfiniture elastiche che mantengono la forma nel tempo.\nVestibilità regular:\nsilhouette classica e versatile.\nIdee di Stile: Costruisci il Tuo Look con Fred Perry\nLook Casual:\nabbina la felpa a dei\njeans\ne sneakers per un outfit quotidiano rilassato.\nLook Sporty:\nindossala su una\nt-shirt\ncon pantaloni comodi per un mood urbano.\nLook Layering:\ncompletala con una giacca leggera per le mezze stagioni.\nAggiungi un capo iconico e confortevole al tuo guardaroba con la felpa Fred Perry M2426: acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.7,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Felpa con collo a polo e zip, stile casual quotidiano sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

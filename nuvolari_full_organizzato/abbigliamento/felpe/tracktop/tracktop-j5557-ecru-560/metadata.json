@@ -24,5 +24,47 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-j5557-ecru-560",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile estetica dello sportswear d'archivio anni '70 e il legame profondo con le subculture musicali e urbane britanniche prendono vita nella\ntrack jacket da uomo Fred Perry modello J5557\n. Caratterizzata dalla celebre banda jacquard firmata lungo le maniche, questa giacca sportiva con zip unisce un'attitudine retro-athleisure a un design contemporaneo, perfetto per chi cerca un layer d'impatto, sofisticato e ricco di storia da aggiungere al proprio guardaroba casual.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Tricot Tecnico e Strutturato\n: Confezionata nella classica e resistente miscela di cotone e poliestere tricot, la giacca offre una superficie liscia, un'eccellente tenuta della forma e un comfort ottimale che si adatta ai movimenti quotidiani.\nL'Inconfondibile Tape con Corona d'Alloro\n: Il vero elemento distintivo del modello è la banda di fettuccia applicata lungo le spalle e le maniche, decorata con la ripetizione sequenziale della Corona d'Alloro, simbolo d'archivio d'ispirazione streetwear.\nLogo Ricamato al Petto e Dettagli d'Epoca\n: Sul petto, lato cuore, spicca il ricamo ad alta definizione della Corona d'Alloro in tonalità scura a contrasto. Il colletto alto a costine si chiude perfettamente per proteggere dal vento, richiamando le iconiche tute da allenamento vintage.\nChiusura Zip e Tasche Integrate\n: Dotata di una solida cerniera frontale a tutta lunghezza, la felpa presenta due pulite tasche laterali a filetto, perfettamente integrate nel design lineare del capo.\nFiniture Elasticizzate e Taglio Regular\n: I polsini e il bordo inferiore sono realizzati in maglia a costine ad alta densità per mantenere la silhouette sempre dritta, ordinata e ben proporzionata.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nClassic British Subculture Uniform\n: Costruisci un outfit di forte personalità d'ispirazione terrace e streetwear. Abbina la track jacket Fred Perry a un paio di jeans dal taglio dritto o relaxed, selezionando il tuo modello preferito all'interno della collezione di\njeans uomo\n. Completa il look ai piedi con la freschezza e la pulizia stilistica delle ultime novità in fatto di\nsneakers uomo\n.\nSmart Casual Layering\n: Sfrutta la versatilità della chiusura zip per un pratico gioco a strati nei momenti di transizione stagionale. Indossa la giacca aperta sopra una delle proposte essenziali in cotone della categoria\nt-shirt uomo\ne, per le giornate più fredde o piovose, aggiungi come strato esterno la tecnicità di un modello della linea\ngiubbotti uomo\n.\nEasy Weekend Transition\n: Per i momenti di relax, i viaggi o il tempo libero all'aperto, adotta uno stile disinvolto e confortevole. Accosta la track top alla freschezza dei modelli in cotone pesante o gabardina presenti nell'assortimento di\nbermuda uomo\n, oppure portala con te per ripararti dalla brezza serale sopra una proposta della selezione\ncostumi uomo\n.\nSperimenta il perfetto equilibrio tra la tradizione dello sportswear d'archivio e l'energia dello stile metropolitano. Scegli il carattere della banda firmata lungo le maniche, la qualità del tricot Fred Perry e l'intramontabile fascino della Corona d'Alloro per definire i tuoi outfit quotidiani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Tracktop sportivo d'ispirazione retro-athleisure, tetto di categoria per felpe e tute sportive",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

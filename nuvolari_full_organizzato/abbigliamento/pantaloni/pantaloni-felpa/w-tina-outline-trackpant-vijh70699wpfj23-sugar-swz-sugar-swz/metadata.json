@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/w-tina-outline-trackpant-vijh70699wpfj23-sugar-swz-sugar-swz",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPANTALONE TUTA DONNA JUICY COUTURE\nIl pantalone\nJuicy Couture\nmodello\nTINA OUTLINE TRACKPANT\nincarna il lusso\ncasual\ne il fascino\nnostalgico\ndel brand.\nComposizione e Materiale Iconico\nIl pantalone è realizzato con un\nblend\nottimizzato per morbidezza, vestibilità e durabilità:\nComposizione:\n95% Poliestere, 5% Elastane.\nMateriale:\nVelluto/Ciniglia (Velour):\nLa base in poliestere viene lavorata per ottenere il caratteristico tessuto in velluto liscio, estremamente\nmorbido al tatto\ne visivamente lucido\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: VIJH70699WPFJ23 SUGAR SWZ-SUGAR SWZ",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.5,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in ciniglia con coulisse ed elastico in vita",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

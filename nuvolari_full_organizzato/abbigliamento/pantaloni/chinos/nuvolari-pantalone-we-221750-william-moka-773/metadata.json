@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/nuvolari-pantalone-we-221750-william-moka-773",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone da uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari modello 221750 William Moka\nChiusura con zip e bottone\nDue tasche frontali\nDue tasche posteriori con bottone\nVita media\nVestibilità Slim\nComposizione: 97% cotone; 3% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone modello chino con vestibilita slim, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

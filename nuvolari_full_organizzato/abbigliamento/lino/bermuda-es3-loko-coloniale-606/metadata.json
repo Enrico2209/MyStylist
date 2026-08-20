@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/lino/bermuda-es3-loko-coloniale-606",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Loko\nnella colorazione\nColoniale\nsono un capo essenziale per la stagione estiva, progettati per offrire freschezza e uno stile naturale senza tempo.\nDesign e Caratteristiche Principali\nStile Minimalista\n: Presentano un design pulito e lineare, ideale per outfit casual-chic che richiedono estrema versatilità.\nVita Elasticizzata\n: Il comfort è garantito da una fascia elastica in vita che si adatta perfettamente alla silhouette.\nChiusura con Coulisse\n: Dotati di una coulisse esterna in corda tono su tono con terminali metallici, che permette di regolare la vestibilità in modo pratico e veloce.\nChiusura Classica\n: Oltre all'elastico, dispongono di una chiusura frontale con bottone singolo dall'effetto tartarugato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: ES3 LOKO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in lino con coulisse ed elastico in vita, ideale per contesti estivi informali",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

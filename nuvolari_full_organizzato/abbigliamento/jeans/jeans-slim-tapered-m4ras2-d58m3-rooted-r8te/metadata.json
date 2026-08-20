@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-slim-tapered-m4ras2-d58m3-rooted-r8te",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl jeans slim tapered del brand Guess Jeans è un capo essenziale che unisce stile e comfort in modo impeccabile\nRealizzato in un misto di\ncotone di alta qualità\ncon un tocco di elasticità, questo jeans offre una vestibilità aderente e comoda che si adatta perfettamente alla tua figura. Dotato di classici 5 tasche, questo jeans combina funzionalità e stile senza tempo. Le tasche anteriori e posteriori offrono spazio sufficiente per riporre comodamente gli oggetti essenziali, mentre il design a cinque tasche aggiunge un tocco di autenticità al capo. La vita media e la gamba tapered conferiscono al jeans una silhouette slanciata e moderna, perfetta per valorizzare la tua figura. La vestibilità slim assicura una linea pulita e sofisticata, mentre la chiusura con bottone frontale e cerniera lampo garantisce una vestizione sicura e comoda.\nIl modello slim tapered offre un look contemporaneo e alla moda, perfetto per una varietà di occasioni. Indossa questo jeans per un look casual ma curato durante il giorno, oppure aggiungilo a un outfit più elegante per un tocco di stile aggiuntivo durante la serata. Il trattamento di lavaggio chiaro conferisce al jeans una finitura fresca e moderna, perfetta per completare il tuo look primaverile o estivo. Sia che tu stia trascorrendo una giornata in città o una serata fuori con gli amici, questo jeans slim tapered sarà la scelta ideale per uno stile impeccabile e confortevole.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n99% cotone, 1% elastane\nCodice articolo: M4RAS2 D58M3 ROOTED-R8TE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans 5 tasche quotidiano, vestibilita slim/tapered",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

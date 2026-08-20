@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/donna-maxi-bag-sw0101-fuxia-fx",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'energia travolgente delle spiagge tropicali e la massima funzionalità estiva si fondono nella nuova\nBorsa F**K Maxi Bag Fuxia\n. Questo iconico accessorio oversize fa del suo colore vibrante e dello spazio generoso i suoi punti di forza, confermandosi come la \"it-bag\" da spiaggia definitiva per chi desidera unire praticità estrema e un impatto visivo audace, pop e iper-contemporaneo.\nDesign e Caratteristiche Principali\nTonalità Fuxia Fluido ed Energico\n: La borsa è interamente avvolta da una vibrante colorazione fucsia acceso, saturo e super vitaminico. Una nuance magnetica progettata appositamente per esaltare i look balneari e risaltare magnificamente sotto la luce diretta del sole.\nMaxi Volumi e Silhouette Trapezoidale\n: Sviluppata con un design capiente a spesa espansa (Maxi Bag) a base geometrica che si allarga verso l'alto. Un'architettura spaziosa studiata per contenere agevolmente teli mare, solari, cambi d'abito e tutto il necessario per le lunghe giornate tra spiaggia e piscina.\nFinitura Texture Plissé Elegante\n: La superficie esterna è interamente impreziosita da una finitura a micro-plissettatura verticale che crea un raffinato gioco di luci, ombre e dinamismo tridimensionale sul tessuto, spezzandone la monocromia con un tocco luxury.\nDoppio Manico in Corda e Passanti Metallici\n: La borsa è dotata di due robusti manici corti realizzati in morbida corda nautica intrecciata color panna naturale. La fune passa attraverso solidi occhielli metallici argentati rinforzati, garantendo un'ottima resistenza ai carichi pesanti e un perfetto richiamo allo stile marinaro.\nTessuto Tecnico Morbido e Quick-Dry\n: Confezionata in un materiale sintetico leggero, flessibile e piacevole al tatto. Questa tela è stata selezionata da F**K per la sua alta resistenza all'usura, ai granelli di sabbia e per una capacità di asciugatura estremamente rapida.\nIdee di Stile: Crea la Tua Wave\nGlam Beach Party Uniform\n: Crea il perfetto coordinato da bagnasciuga abbinando la maxi bag fucsia alle sfumature calde del costume F**K Culotte Brown. Il contrasto audace tra la stampa animalier marrone del bikini e l'energia pop della borsa crea un look esotico e di altissimo livello visivo.\nPastel Contrast Mix\n: Per i momenti di relax o per un pranzo in terrazza, attenua la forza del fucsia abbinando la borsa alla delicatezza romantica degli short Ichi Ihaya Sho3 Beige/Pink con motivo Vichy rosa e a una semplice canotta bianca.\nUrban Cruise Layering\n: Sfrutta i volumi della borsa anche fuori dalla spiaggia coordinandola a un outfit urban rilassato: pantaloni Dickies 247 Loose Work Desert Sand, t-shirt bianca basic e un sandalo platform comodo.\nRaddoppia lo spazio e accendi l'estate con l'accessorio statement della stagione. Scegli l'energia pop e la capienza della Maxi Bag firmata F**K.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "borsa da spiaggia in tessuto tecnico, brand beachwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/piumino-k-way-valeo-eco-warm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nValeo Quilted Warm\nunisce l'estetica casual di una camicia alla funzionalità e al calore di un piumino leggero, il tutto con materiali eco-responsabili.\nTessuto Esterno:\nNylon riciclato\n, trattato per essere idrorepellente e antivento.\nImbottitura:\nThermore®\n(Poliestere riciclato al 100%), una fibra ecologica altamente isolante.\nGrado di Calore:\nMedio (Ideale per la mezza stagione o da indossare a strati).\nDesign:\nCollo a camicia\n(senza cappuccio).\nTrapuntatura a onde\n(quilted) distintiva.\nDettagli\n- Chiusura con zip (a volte con bottoni a pressione sopra la zip).\n- Due tasche con bottoni a pressione.\n- Orlo dritto e polsini in stile camicia (non elasticizzati come i giubbotti).\nVestibilità: (Fitting)\nSlim Fit\n(Vestibilità asciutta).\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero stile camicia, tetto di marchio sport/outdoor",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

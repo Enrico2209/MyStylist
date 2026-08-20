@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/w-goldenstar-glide-1167399-sand-san",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPronto a goderti le giornate di sole? I sandali Goldenstar Glide sono pensati per offrirti praticità e benessere in ogni passo. Grazie al cinturino posteriore regolabile che può essere facilmente ripiegato in avanti, si trasformano in comode ciabatte da indossare al volo. La soletta sagomata, rivestita in morbido materiale riciclato e trattata per contrastare i cattivi odori, mantiene i piedi freschi a lungo. Realizzati con tomaia in camoscio di alta qualità e suola in EVA derivata dalla canna da zucchero, questi sandali uniscono stile e sostenibilità, diventando un alleato irrinunciabile per l'estate.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTomaia in camoscio, cinturino in tessuto resistente sul tallone\nCinturino regolabile sul tallone, chiusura in velcro\nFodera in tessuto realizzato con fibre di poliestere riciclato (100%)\nTessuto della soletta realizzato in poliestere riciclato (100%), soletta con trattamento antiodore a base di menta piperita\nSuola interna in EVA sagomato\nIntersuola in EVA da canna da zucchero, realizzata con EVA riciclato rimacinato\nSuola in EVA da canna da zucchero\nBordo in poliestere riciclato\nLogo UGG® stampato a caldo in rilievo\nVestibilità regular\nCodice articolo: 1167399 SAND-SAN",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "sandalo sportivo/casual con cinturino regolabile e suola in EVA",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

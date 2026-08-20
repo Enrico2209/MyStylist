@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-antracite-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nmaglione da uomo Nuvolari Fourty grigio scuro\nè\nun maglione in misto lana con girocollo, bordi e girovita elasticizzati e toppe in contrasto sui gomiti\nIl modello indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione da uomo Nuvolari Fourty antracite/nero\nVestibilità regular\nComposizione: 40%lana riciclata 30%cotone 10%poliammide 17%acrilico 3%altre fibre\nCodice Prodotto: WF FOURTY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana, classico capo smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

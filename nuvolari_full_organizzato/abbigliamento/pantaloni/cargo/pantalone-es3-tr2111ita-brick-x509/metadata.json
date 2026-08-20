@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-es3-tr2111ita-brick-x509",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza intramontabile della tradizione sartoriale scozzese, il minimalismo contemporaneo e l'attitudine British casual si fondono armoniosamente nella collezione di\npantaloni cargo uomo Lyle & Scott\n. Fondato nel 1874 a Hawick, nel cuore della Scozia, il brand contrassegnato dall'iconico\nGolden Eagle\n(l'aquila reale dorata) reinterpreta un pilastro dell'abbigliamento military e utility, trasformandolo in un capo smart-casual dalle linee pulite, essenziali e adatte a ogni contesto quotidiano.\nDesign, Costruzione e Caratteristiche Principali\nSilhouette Moderna e Taglio Ingegnerizzato\n: A differenza dei tradizionali modelli oversize e voluminosi del passato, i cargo firmati Lyle & Scott si sviluppano su geometrie calibrate che spaziano da un taglio tapered geometrico a vestibilità regular strutturate. Questa architettura garantisce una silhouette asciutta e ordinata, valorizzando la figura senza sacrificare la comodità.\nTessuti di Matrice Premium e Cotone Sostenibile\n: Confezionati in robusto e morbido twill di cotone elasticizzato o in tele tecniche ripstop ad alta densità. La consistenza e la qualità dei filati (spesso provenienti da fonti biologiche certificate) assicurano un'eccellente resistenza all'usura, traspirabilità totale e stabilità cromatica anche dopo ripetuti lavaggi e utilizzi intensi in città o all'aperto.\nTasconi Laterali dal Profilo Piatto ed Essenziale\n: L'identità utility del capo emerge nei caratteristici tasconi applicati sulle cosce. Progettati con una speciale piega geometrica a profilo ultra-piatto, rimangono aderenti alla gamba quando sono vuoti per non appesantire la silhouette, garantendo al contempo la massima funzionalità per custodire piccoli oggetti quotidiani.\nL'Inconfondibile Firma del Golden Eagle\n: Ciascun pantalone cargo è impreziosito dal celebre stemma dell'aquila reale dorata, applicato finemente come patch in tessuto o ricamato ad alta densità sulla pattina di uno dei tasconi laterali o sopra la tasca posteriore, siglando l'autenticità e il prestigio dell'heritage scozzese con raffinato understatement.\nIdee di Stile: Costruisci il Tuo Look Utility-Chic\nModern British Urban Uniform\n: Crea un outfit impeccabile, solido e bilanciato per i tuoi impegni quotidiani o per il tempo libero. Abbina un pantalone cargo Lyle & Scott in nuance verde militare o grigio antracite alla precisione costruttiva e strutturata di una\npolo uomo\nscura, completando il cerchio con una sneaker tecnica ad alto spessore o uno stivaletto scamosciato.\nMetropolitan Lounge Transition\n: Sperimenta il massimo del comfort per i weekend di viaggio giocando sui contrasti di texture e di volume. Accosta il cargo scuro alla struttura boxy e all'ironia minimale di una delle\nt-shirt uomo\nchiudendo l'outfit con una giacca Harrington aperta dal taglio asciutto.\nContemporary Summer Refresh\n: Per muoverti fluidamente verso un aperitivo al tramonto o un evento estivo, unisci la robustezza del taglio utility alla nobiltà delle fibre naturali. Indossa un pantalone cargo chiaro insieme alla freschezza lineare e ariosa di una delle\ncamicie uomo\nin lino, lasciandola leggermente sbottonata per un'aria disinvolta e sofisticata.\nSperimenta la perfetta sintesi tra la funzionalità dell'abbigliamento da lavoro e il rigore della sartoria scozzese tradizionale. Scegli la resistenza dei materiali d'archivio, la stabilità strutturale dei tagli e l'attitudine inconfondibile dei pantaloni cargo uomo firmati Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone cargo con tasconi e fondo con elastico, tipico registro casual quotidiano.",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

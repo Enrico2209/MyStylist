@@ -18,5 +18,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-501-donna-levis-original-short-56327-0081-oxnard-athens-m-0081",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nShorts Donna Jeans Levi's 501 Original Oxnard Athens\nShorts\nLevi's® 501 ORIGINAL in jeans, realizzati in\n100% cotone\n. Dotati di vita alta e chiusura con bottone. Lavaggio a macchina a 30 gradi. Un capo iconico, perfetto per un look casual ed estivo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: 56327-0081 OXNARD ATHENS M-0081",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "shorts in denim con strappi vistosi e orlo a taglio vivo, capo tipicamente estivo e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

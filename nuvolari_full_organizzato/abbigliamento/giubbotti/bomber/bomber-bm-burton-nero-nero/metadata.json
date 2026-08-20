@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-bm-burton-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nBomber Black Rags: Iconico e Versatile\nIl bomber Black Rags è il capo perfetto per chi cerca uno stile contemporaneo e senza tempo. Con il suo design minimale e i dettagli di qualità, si adatta a ogni situazione, dal tempo libero agli impegni serali. Grazie al taglio moderno e ai materiali di alto livello, offre comfort e un look sempre impeccabile.\nCrea il tuo outfit ideale!\nIndossalo sopra una\nt-shirt\nper un look casual, oppure abbinalo a una\ncamicia\nper un tocco più sofisticato. Completa il tuo stile con un paio di\nsneakers\nper un risultato trendy e dinamico.\nTrova l'ispirazione per il tuo prossimo\noutfit\ne riscopri il piacere di mixare i tuoi capi preferiti!\nPerché scegliere il bomber Black Rags?\nDesign moderno e versatile\nMateriali di alta qualità\nAdatto a ogni stagione e occasione\nIl bomber Black Rags è il capo irrinunciabile per un guardaroba sempre alla moda\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE 100% poliestere\nVestibilità regular\nCodice articolo: BM BURTON NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "bomber sportivo/casual in poliestere, vestibilita regular",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

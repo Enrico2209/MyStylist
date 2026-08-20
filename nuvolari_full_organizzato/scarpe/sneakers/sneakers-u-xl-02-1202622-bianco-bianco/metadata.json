@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-u-xl-02-1202622-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nKnit & Performance: La Sneaker Urban-Future tra Controllo e Ventilazione\nRidefinisci il concetto di agilità metropolitana.\nQuesta sneaker athleisure da uomo a taglio basso è un concentrato di\ndesign d'avanguardia\ne soluzioni\nrunning-oriented\n,\ndove ogni linea e materiale si trasforma in pura funzione.\nPensata per chi esige un controllo millimetrico e un'ammortizzazione senza sosta,\nquesta silhouette proietta il DNA sportivo direttamente nel futuro dello stile urbano.\nSinergia Materica e Precisione Strutturale\nArchitettura Traspirante e Supporto Termosaldato\nLa tomaia è il risultato di un equilibrio perfetto tra comfort termico e stabilità,\nprogettata per lavorare in totale armonia con la biomeccanica del piede durante l'uso intenso.\nKnit Perforato & Suede Premium\n:\nUna fusione che garantisce una ventilazione naturale continua.\nIl tessuto knit a trama aperta favorisce il micro-circolo dell'aria,\nmentre gli inserti in suede aggiungono quella nota di carattere e resistenza tipica del design d'eccellenza.\nSupporto Termosaldato Multistrato\n:\nLa struttura posteriore è rinforzata da una serie di strati tecnici termosaldati.\nQuesta soluzione offre un sostegno strutturale impeccabile e una protezione superiore senza aggiungere peso superfluo.\nDynamic Elastic Collar\n:\nIl collarino elastico non solo dona alla scarpa un profilo aerodinamico,\nma assicura un’adattabilità dinamica che avvolge la caviglia come una seconda pelle.\nSistema Suola a 5 Componenti\n:\nTrazione Variabile\n:\nTassellatura multidirezionale per un grip sicuro su ogni terreno urbano.\nImpact Protection\n:\nCuscinetti ammortizzanti localizzati su tallone e avampiede per dissipare gli urti.\nStabilità TPU\n:\nInserto centrale progettato per il massimo supporto torsionale e la stabilità dinamica.\nAmmortizzazione Rapid-Tech\n:\nL'intersuola integra microsfere in EVA per una reattività immediata e un comfort che dura tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive con dettagli tecnici e tomaia in knit, tipico livello 2",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -26,5 +26,18 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/bermuda-ms41520bk-black-bk",
-  "image_count": 2
+  "image_count": 2,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto in felpa sportiva con elastico e coulisse, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

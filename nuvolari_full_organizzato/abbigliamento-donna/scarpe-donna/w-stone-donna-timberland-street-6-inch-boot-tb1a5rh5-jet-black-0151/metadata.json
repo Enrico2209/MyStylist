@@ -18,5 +18,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/scarpe-donna/w-stone-donna-timberland-street-6-inch-boot-tb1a5rh5-jet-black-0151",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStivaletti Donna Timberland Stone Street 6 Inch Boot Jet Black\nStivaletti\ndonna Timberland, con cuciture saldate per una maggiore durata. Il modello stringato e la caviglia imbottita offrono una calzata sicura e confortevole. Dotati di una punta rotonda e di una suola spessa e scolpita, garantiscono aderenza e supporto. Il logo Timberland aggiunge un tocco distintivo al design.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nTomaia in nabuk. Suola: 100% gomma. Tomaia: 100% pelle.\nCodice articolo: TB1A5RH5 JET BLACK-0151",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Stivaletti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "stivaletto stringato stile workwear/outdoor, adatto a contesti casual quotidiani",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

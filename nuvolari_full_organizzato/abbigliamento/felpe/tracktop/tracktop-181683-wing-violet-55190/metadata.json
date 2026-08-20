@@ -22,5 +22,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-181683-wing-violet-55190",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nTracktop Uomo Diadora – Stile sportivo dal DNA retrò\nIl tracktop Diadora da uomo è l'emblema dello sportswear italiano che unisce performance e stile. Ispirato alle iconiche tute anni '80 e '90, questo capo è perfetto per chi cerca un look casual dal sapore vintage, senza rinunciare al comfort.\nRealizzato in morbido poliestere traspirante, presenta una vestibilità regolare e dettagli classici come la zip intera frontale, il colletto alto e le tasche laterali. Le bande logate o i contrasti cromatici sulle maniche (a seconda del modello) aggiungono un tocco distintivo e grintoso.\nIl logo Diadora ricamato sul petto celebra il heritage sportivo del brand, rendendo questo tracktop perfetto sia per il tempo libero che per completare un outfit streetwear contemporaneo.\nDettagli prodotto:\nChiusura con zip integrale\nColletto alto in stile tuta\nTasche laterali\nPolsini e fondo a costine\nLogo Diadora ricamato o stampato\nTessuto: 100% poliestere\nCome abbinarlo:\nCrea un outfit sportivo impeccabile indossandolo con un paio di\nsneakers\n. Aggiungi una\nt-shirt\nsotto per uno stile a strati comodo e attuale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "tuta sportiva in poliestere, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

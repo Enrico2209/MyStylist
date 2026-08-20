@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-nuvolari-wc-7218-king-jeans-jeans-wc-7218-king-jeans-jeans",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nJeans Nuvolari modello King 7218\nLavaggio blitch stretch con risarciture e toppe\nChiusura con zip e bottone logato\nStampa tasche\nSalpa in pelle logata\nVestibilità slim fit\nComposizione: 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim fit con strappi, risarciture e toppe vistose che lo mantengono nel casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

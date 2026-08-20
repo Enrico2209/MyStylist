@@ -20,5 +20,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/merton-boat-p07645-desert-tan-001",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEleganza nautica e comfort senza tempo si incontrano nelle\nscarpe da barca da uomo Ralph Lauren modello Merton nella nuance Desert Tan\n. Un mocassino nautico in pelle scamosciata color sabbia, con i classici lacci in cuoio e la suola antiscivolo: un capo intramontabile e versatile, perfetto per i look estivi e smart casual.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Camoscio:\npelle scamosciata desert tan dalla mano morbida e pregiata, dallo stile classico.\nLacci Nautici in Cuoio:\nallacciatura laterale a 360 gradi tipica delle boat shoe per una calzata regolabile.\nSuola Antiscivolo:\nsuola in gomma con battistrada nautico per una buona aderenza anche su superfici umide.\nDettaglio Pony Ralph Lauren:\nil logo firma certifica autenticita e stile classico americano.\nIdee di Stile: Costruisci il Tuo Look Smart Casual\nSummer Preppy:\nabbinale a dei bermuda o a un paio di\njeans uomo\ne a una\ncamicia uomo\nper un look estivo e curato.\nSmart Casual:\nperfette con pantaloni chino e una\nt-shirt uomo\no una polo.\nMood Nautico:\nil tan versatile le rende facili da abbinare in ogni look della bella stagione.\nAggiungi un classico intramontabile al tuo guardaroba. Scegli la morbidezza del camoscio, il comfort della suola nautica e lo stile americano firmato Ralph Lauren Merton.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica in pelle, ideale per contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/tshirt-dickies-plentywood-tee-dk0a866f-black-blk1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'immaginario dei vecchi diner americani e l'attitudine street della skate culture si incontrano nella nuova\nT-Shirt Donna Dickies Plentywood Tee Black\n. Questo modello fa del contrasto grafico e del sapore vintage i suoi punti di forza, confermandosi come la scelta ideale per chi cerca una t-shirt dal carattere bold, originale e ricca di stile d'archivio.\nDesign e Caratteristiche Principali\nMaxi Grafica Rétro \"Dickies Hardwear\"\n: Il vero e proprio statement del capo è posizionato sul retro, dove campeggia una grande stampa artistica circolare. Il lettering d'archivio è accompagnato dal payoff\n\"Hardwear & Apparel\"\ne dall'illustrazione di un toro stilizzato, declinati nei toni del panna, del marrone tabacco e del blu polvere. Sul petto, lato cuore, la stessa grafica è riproposta in formato micro.\nSfondo Total Black Profondo\n: La base nera solida e monocromatica fa risaltare al massimo i dettagli pastello delle stampe, garantendo un forte impatto visivo e una versatilità di abbinamento eccezionale.\nGirocollo Robusto a Costine\n: Strutturata con una scollatura a girocollo fitta che incornicia perfettamente il viso. La finitura elastica impedisce al collo di cedere, preservando la silhouette originale del capo lavaggio dopo lavaggio.\nTaglio Regular Fit e Silhouette Pulita\n: Sviluppata con una vestibilità regolare e bilanciata, non troppo oversize, studiata per cadere dritta sui fianchi in modo naturale e offrire un fit iper-confortevole.\nJersey di Cotone Premium Compatto\n: Confezionata in un jersey di 100% cotone di medio peso, estremamente morbido e fresco sulla pelle, ma dotato della classica consistenza robusta che contraddistingue i capi Dickies.\nIdee di Stile: Crea la Tua Wave\n90s Tomboy Skate Uniform\n: Esalta i richiami vintage della grafica posteriore abbinando la t-shirt ai volumi morbidi dei jeans Dickies 957 Loose Tapered Dark Indigo, chiudendo il look con una sneaker bassa da skate e calzini bianchi a vista.\nStreet Utility Layering\n: Per i momenti più freschi o per un look da festival, indossa la maglia Plentywood sotto la felpa Dickies Deshler Fz Hoodie Black lasciata aperta, così da mostrare la micro stampa sul petto.\nSummer Contrast Outfit\n: Gioca con i colori accostando il nero della t-shirt a un pantalone o bermuda chiaro (ottimo il modello Dickies 958 Khaki), richiamando perfettamente le tonalità panna e tabacco dell'illustrazione.\nEsprimi la tua attitudine street con una grafica che racconta la storia del workwear americano. Scegli il carattere unico della t-shirt Plentywood firmata Dickies.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a girocollo con attitudine street/skate",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/bro-ship-pantalone-slim-miami-8051-navy",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone slim uomo realizzato in tessuto armaturato 100% cotone e dotato di due tasche anteriori a filo e due tasche posteriori a filetto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone slim uomo Bro-Ship modello MIAMI 008051 - Navy\nRealizzato in tessuto armaturato\nDue tasche a filo anteriori\nDue tasche posteriori a filetto\nVestibilità Slim\nComposizione: 97% cotone 3% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim in cotone armaturato, perfetto per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

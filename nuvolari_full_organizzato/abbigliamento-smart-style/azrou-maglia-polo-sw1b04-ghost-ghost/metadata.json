@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/azrou-maglia-polo-sw1b04-ghost-ghost",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Polo Uomo Weekend Offender è un classico dell'abbigliamento \"Casual\" britannico, rivisitato con l'attitudine audace e irriverente che contraddistingue il brand. È il capo perfetto per chi cerca un equilibrio tra un look ordinato e un'anima ribelle, ideale per i sabati allo stadio, le serate nei pub o il tempo libero in città.\nPolo Weekend Offender Sharp Design & Terrace Soul\nPerché sceglierla\nRealizzate in piqué di cotone di alta qualità, offrono una struttura eccellente che mantiene la forma del colletto e del busto anche dopo un uso prolungato, garantendo freschezza e stile in ogni situazione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Polo a manica lunga in cotone piqué con polsini e fondo felpa, stile terrace/casual britannico",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

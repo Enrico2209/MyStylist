@@ -24,5 +24,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/beach-volley-short-foa404310-mist-68s",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa tecnicità d'avanguardia del mondo action-sport e lo stile fresco della cultura balneare si fondono nel nuovo\nCostume Uomo Oakley Beach Volley Short Mist\n. Progettato sapientemente per offrire il massimo delle performance sulla sabbia, tra le onde o durante i beach party più caldi, questo pantaloncino unisce materiali ad asciugatura ultrarapida a un'estetica pulita e d'impatto, perfetta per chi vive l'estate in modo dinamico.\nDesign e Caratteristiche Principali\nSfumatura Mist Luminosa ed Estiva\n: Il costume si presenta in una delicata colorazione \"Mist\", un bianco ottico puro leggermente desaturato che esalta l'abbronzatura e si integra con naturalezza cristallina nel guardaroba da spiaggia, riflettendo al meglio la luce solare.\nLogo Oakley Bold a Contrasto\n: Sulla parte inferiore della gamba sinistra spicca il leggendario logo \"Oakley\" stampato in nero ad alta definizione con l'iconico font geometrico del brand. Un dettaglio visivo forte che sottolinea l'identità sportiva e tecnica del capo.\nGirovita Elastico con Coulisse Tecnica\n: Il focus funzionale è l'ampio fascione elastico arricciato in vita, che integra un cordino bicolore intrecciato in bianco e nero con punte logate, studiato per offrire una regolazione millimetrica e un fitting stabile anche durante i tuffi o le sessioni di beach volley.\nTaglio Volley Short Leggero e Dinamico\n: Strutturato con una silhouette a gamba dritta d'ispirazione atletica, comoda e fluida, progettata per eliminare ogni attrito nei movimenti. La lunghezza calibrata si ferma a metà coscia per garantire massima freschezza e comfort d'azione.\nTessuto Tecnico Idrorepellente Premium\n: Confezionato in una speciale tela polimerica leggera e ultra-resistente, trattata per respingere l'acqua e limitare l'assorbimento dell'umidità. Questo assicura che il costume rimanga leggerissimo e si asciughi in pochissimi minuti una volta fuori dall'acqua.\nTasche Laterali e Interno in Mesh\n: Dotato di pratiche tasche verticali a filo lungo i fianchi per riporre piccoli oggetti sul bagnasciuga e completato da uno slip interno in morbida rete traspirante (mesh) che massimizza il supporto e il comfort quotidiano.\nIdee di Stile: Linka il Tuo Outfit\nBeach Volley Pro Uniform\n: Crea un perfetto look da atleta della sabbia. Abbina lo short Mist a una performante\nt-shirt uomo\nNew Balance in tessuto tecnico traspirante o a una t-shirt dal taglio boxy. Completa l'outfit con un occhiale da sole sportivo specchiato e un\ncappello uomo\ncon visiera.\nSunset Beach Party Mix\n: Trasforma il costume in un perfetto outfit da aperitivo al tramonto. Indossa lo short insieme a una\nt-shirt uomo\nPsycho Bunny dal taglio minimalista con logo ricamato a contrasto sul petto, e sovrapponi una camicia aperta in cotone leggero o lino per una nota casual-chic disinvolta.\nSurf Culture Layering\n: Per i tuoi spostamenti dal bagnasciuga alla città, abbina il costume alla forza grafica dello streetwear. Accostalo a una\nt-shirt uomo\nObey con maxi stampa posteriore di propaganda o a una maglietta a tema Mushroom, definendo il look con una comoda ciabatta slide o una sneaker bassa in tela.\nPorta l'eccellenza della tecnologia sportiva e lo stile inconfondibile della surf culture direttamente sotto il sole. Scegli la freschezza, l'asciugatura rapida e la libertà di movimento garantite dagli short da spiaggia firmati Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "da_mare": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno tipo volley short, livello base di formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

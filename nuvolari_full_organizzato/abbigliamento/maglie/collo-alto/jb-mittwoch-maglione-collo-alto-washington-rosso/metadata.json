@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/jb-mittwoch-maglione-collo-alto-washington-rosso",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nMaglione a collo alto da uomo in tessuto misto lana, cotone, viscosa e acrilico dalla lavorazione a punto milano con collo, polsini e girovita rifiniti a costina. Vestibilità regular.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione a collo alto uomo J.B. Mittwoch modello Washington - Rosso\nPunto Milano\nCollo, polsini e girovita a costina\nVestibilità Slim\nComposizione: 20% lana, 20% cotone, 20% viscosa, 40% acrilico",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto in misto lana, capo classico da smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

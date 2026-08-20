@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/gilet/gilet-sf-8061-kit-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGilet Nuvolari Uomo Kit Nero\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGilet Nuvolari Uomo Kit Nero\nNUVOLARI®",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "elegante": 0.9
+    },
+    "formality": 4,
+    "formality_perche": "gilet sartoriale da abito classico ed elegante",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,42 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-li-branch-salvia-salvia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa leggerezza impareggiabile della fibra nobile estiva e un design rilassato d'ispirazione marittima si fondono nel nuovo\nBermuda Uomo Nuvolari LI Branch 100% Lino\n.\nQuesto pantaloncino incarna la quintessenza dell'eleganza disinvolta per la stagione calda, offrendo una freschezza strutturale insuperabile e un'estetica easy-chic curata in ogni dettaglio.\nDesign e Caratteristiche Principali\nPregiato Tessuto 100% Lino Fiammato\n: Interamente confezionato in puro lino di alta qualità. Celebre per le sue naturali proprietà termoregolatrici e l'altissima traspirabilità, il tessuto presenta la classica mano fiammata e mossa, che regala al capo un aspetto autentico, fresco e piacevolmente rilassato sulla pelle.\nNuance Ghiaccio / Corda Chiarissimo\n: Il bermuda è tinto in una luminosissima tonalità off-white/ghiaccio desaturata. Una scelta cromatica estiva e sofisticata, eccezionalmente versatile e facile da abbinare sia a tonalità neutre e sabbiose che a contrasti grafici più decisi.\nFocus Girovita con Maxi Coulisse a Corda\n: Il vero e proprio dettaglio di stile del modello LI Branch è il fascione elastico arricciato in vita, arricchito sul davanti da una spessa coulisse esterna in corda intrecciata bianca. I lunghi cordoni terminano con caratteristici nodi nautici e nappe sfilacciate, accentuando l'allure vacanziera e rilassata del modello.\nTaglio Regular Fit Rilassato\n: Sviluppato con una silhouette comoda a gamba dritta che asseconda le linee del corpo senza costrizioni, assicurando massima libertà di movimento. Il fondo della gamba è rifinito con un risvolto cucito a vista che dona un tocco di stabilità e precisione geometrica alla caduta del lino.\nTasche Laterali con Rivetti Signature\n: Il design pulito è completato lateralmente da profonde tasche a filo ad accesso diagonale. L'apertura delle tasche è impreziosita da piccoli rivetti metallici decorativi, tra cui spicca sul lato destro il dettaglio personalizzato con l'iconico monogramma del brand Nuvolari.\nIdee di Stile: Linka il Tuo Outfit\nResort Smart-Casual Uniform\n: Esalta la raffinatezza intrinseca della fibra naturale creando un perfetto outfit da aperitivo o da viaggio. Abbina il bermuda LI Branch a una\ncamicia uomo\nin lino o a una camicia a maniche lunghe a righe verticali sottili azzurre e bianche. Porta le maniche risvoltate e lascia la coulisse a corda in evidenza.\nMetropolitan Skate Core Mix\n: Gioca di contrasti stilistici inserendo la morbidezza del lino in un contesto più urban. Accosta lo short ghiaccio alla struttura boxy di una\nt-shirt uomo\nObey con maxi grafica posteriore o a una delle eclettiche ed estrose\nt-shirt uomo\na tema Mushroom, chiudendo il look con una sneaker bassa da skate.\nAthleisure Summer Break\n: Per le calde giornate di relax nel tempo libero, unisci il comfort della corda allo stile atletico. Coordina il bermuda a una pulita\nt-shirt uomo\nNew Balance con logo heritage, definendo l'outfit con un calzino in spugna bianco a vista e un\ncappello uomo\ncon visiera ricurva.\nSperimenta il massimo livello di comfort termico e lo stile disinvolto della sartoria estiva contemporanea. Scegli la freschezza e l'originalità dei dettagli nautici dei bermuda LI Branch in puro lino firmati Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: S3 LI BRANCH",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in lino con coulisse a corda stile nautico, ideale per contesti casual estivi e da spiaggia.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

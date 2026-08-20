@@ -22,5 +22,34 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-camos-camouflage-camo",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Rayz Camos Camouflage\ninfondono una forte energia streetwear e un'attitudine utility al guardaroba estivo, reinterpretando il classico motivo militare attraverso un design scattante e moderno. Caratterizzati da un pattern mimetico fluido che unisce le sfumature calde del sabbia, del khaki e del verde oliva, questi pantaloncini corti si impongono come un pezzo statement ideale per chi cerca comfort, praticità e un forte impatto visivo nei look informali quotidiani.\nDesign e Caratteristiche Principali\nPattern Mimetico Organico e Dinamico\n: La superficie presenta una stampa camouflage a macchie sfumate e sovrapposte che rompe la monotonia dei colori uniti, richiamando le tendenze dell'abbigliamento urban e d'ispirazione skate.\nTessuto in Felpa Comfort Leggera\n: Confezionati in un morbido tessuto di cotone stile felpa non garzata (french terry), che assicura un'ottima traspirabilità, una mano piacevole a contatto con la pelle e la consistenza ideale per mantenere la forma ottimale durante l'uso prolungato.\nCintura Elasticizzata con Maxi Cordoncini\n: Il punto vita è strutturato con una spessa e morbida fascia elastica arricciata che si adatta ergonomicamente ai fianchi. Dal girovita fuoriescono due lunghissimi cordoncini piatti di cotone nero a contrasto, dotati di terminali rinforzati, perfetti per regolare il fit e pensati per rimanere a vista.\nTasche Laterali Inserite a Filo\n: Sul davanti sono presenti due comode tasche profonde inserite lungo la linea dei fianchi, che mantengono il bacino piatto e la silhouette pulita, senza alterare i volumi del bermuda.\nSilhouette Regular-Relaxed Bilanciata\n: Il taglio propone una vestibilità regolare e ariosa, con volumi comodi sulla coscia che assicurano la massima libertà di movimento. La lunghezza è calibrata per arrestarsi appena sopra la linea del ginocchio, definendo una linea proporzionata e dinamica.\nProposta di Outfit\nTotal Camouflage Layering\n: Abbinalo alla\nfelpa con cappuccio Rayz Camos Camouflage\ncoordinata, lasciata aperta sopra una t-shirt minimalista nera; l'insieme total-pattern creerà un look athleisure coordinato di forte impatto visivo e di chiara ispirazione underground.\nUrban Smanicato Vibe\n: Indossalo insieme alla\nfelpa smanicata Rayz Sm Apui\ncon cappuccio, indossata sopra una t-shirt basic bianca; l'effetto marmorizzato e acid wash della felpa si sposerà perfettamente con le tonalità miche del bermuda, strutturando un outfit streetwear grintoso, destrutturato e perfetto per il tempo libero metropolitano.\nHeritage Graphic Contrast\n: Portalo in abbinamento alla\nt-shirt Uat blu\n; la profondità blu notte del jersey e la maxi stampa d'epoca automotive bianca sul petto spezzeranno la base mimetica inferiore, dando vita a un gioco grafico e cromatico ricercato, bilanciato ed estremamente fresco.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa con cappuccio Rayz Camos Camouflage",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "felpa smanicata Rayz Sm Apui",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "t-shirt Uat blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "bermuda in felpa con coulisse e tasche cargo, stile prettamente streetwear e rilassato",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

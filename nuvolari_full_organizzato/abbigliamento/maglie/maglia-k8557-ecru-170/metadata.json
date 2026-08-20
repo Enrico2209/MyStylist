@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k8557-ecru-170",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nRaffinatezza british e comfort si fondono nella\nMaglia Uomo Fred Perry in Ecru\n, un capo in filo dalla lavorazione curata e dalla calda tonalità panna, impreziosito dall'inconfondibile alloro ricamato sul petto.\nDesign e Caratteristiche Principali\nFilato Pregiato:\nmaglia dalla lavorazione fine e compatta, morbida al tatto e piacevole da indossare nelle mezze stagioni.\nNuance Ecru Panna:\nuna delicata tonalità naturale e luminosa, elegante e facilissima da abbinare a ogni look.\nAlloro Ricamato Signature:\nil celebre logo dell'alloro Fred Perry spicca ricamato sul petto, firma inconfondibile del brand britannico.\nBordi a Costine:\npolsini, fondo e scollo rifiniti in maglia a costine elastica che mantiene la forma nel tempo.\nTaglio Regular Fit:\nvestibilità comoda e curata, perfetta da indossare da sola o in layering.\nIdee di Stile: Linka il Tuo Outfit\nPreppy Chic:\nabbina la maglia a dei\npantaloni uomo\nchino e mocassini per un look ordinato e raffinato.\nSmart Layering:\nindossala sopra una\ncamicia uomo\nlasciando il colletto in evidenza per un tocco heritage.\nWeekend Denim:\ncompletala con dei\njeans uomo\ne sneakers per uno stile disinvolto ma curato.\nScegli l'eleganza britannica della Maglia Fred Perry M2426 in Ecru: un capo versatile e raffinato. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia fine Fred Perry, ideale per contesti smart casual e layering con camicia",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

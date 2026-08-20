@@ -21,5 +21,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/tasra-16l-backpack-s25491u1431-dd-dd",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSpirito avventuroso e anima sostenibile si uniscono nello\nzaino Cotopaxi modello Tasra 16L nella versione Multicolor Del Día\n. Realizzato con tessuti di rimanenza secondo la filosofia \"Del Día\", ogni esemplare presenta una combinazione cromatica unica e irripetibile: un daypack compatto, colorato e dal forte carattere, pensato per la citta, i viaggi e il tempo libero.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Ripstop Riciclato:\ncostruito con nylon di rimanenza resistente e leggero, per un prodotto durevole e a basso impatto ambientale.\nColorazione Del Día Unica:\nogni zaino è assemblato dagli artigiani con colori scelti liberamente, rendendo ogni pezzo un esemplare irripetibile.\nCapacita 16 Litri:\nscomparto principale ampio piu tasche organizzative interne ed esterne per gestire ogni essenziale quotidiano.\nComfort e Praticita:\nspallacci imbottiti regolabili e schienale ergonomico per un utilizzo confortevole tutto il giorno.\nIdee di Stile: Un Accessorio per Ogni Avventura\nUrban Everyday:\nabbinalo a una\nt-shirt uomo\nessenziale e a delle\nsneakers uomo\nper un look cittadino pratico e dinamico.\nTravel & Outdoor:\ncompagno ideale per gite ed escursioni, si abbina a capi comodi e a una\nfelpa uomo\nper le giornate all'aria aperta.\nStatement di Colore:\nla sua palette vivace aggiunge un tocco di personalita anche agli outfit piu neutri e minimal.\nPorta con te un pezzo unico e sostenibile. Scegli la resistenza del tessuto riciclato, l'inconfondibile colorazione Del Día e lo stile avventuroso firmato Cotopaxi Tasra.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "zaino outdoor in nylon tecnico, tetto di categoria e marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

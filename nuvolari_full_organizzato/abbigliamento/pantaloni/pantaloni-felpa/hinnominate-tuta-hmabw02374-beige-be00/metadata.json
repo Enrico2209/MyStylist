@@ -24,5 +24,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/hinnominate-tuta-hmabw02374-beige-be00",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa raffinatezza dei toni polverosi incontra la massima espressione del comfort streetwear, dando vita a un essentials irrinunciabile per il guardaroba quotidiano. il\nPantalone Tuta Donna Hinnominate Beige\nreinterpreta il classico jogger sportivo con volumi moderni e una silhouette pulita di chiara ispirazione urban. Questo modello combina un'estetica minimale a un fit rilassato, posizionandosi come il pezzo chiave per eccellenza della cultura luxury loungewear.\nDesign e Caratteristiche Principali\nSilhouette Jogger Rilassata con Fondo Elastico\n: Sviluppato con una gamba morbida che segue le linee del corpo senza costrizioni, il pantalone si stringe delicatamente sul fondo chiudendosi in robusti orli elastici arricciati, perfetti per mettere in risalto le sneaker.\nFascione Elastico Multiriga in Vita\n: Progettato con una spessa fascia elastica arricciata che si adatta anatomica sia appoggiata sui fianchi sia portata a vita alta, garantendo stabilità strutturale e un comfort flessibile per tutta la giornata.\nDettaglio Logo Minimalist Frontale\n: Sulla parte alta della coscia sinistra spicca la stampa pulita del lettering ufficiale del brand\n\"HINNOMINATE\"\n. Realizzato in una tonalità bianca a contrasto, funge da sigillo iconico e minimale.\nTasche Laterali a Filo Verticali\n: Integrate con precisione sartoriale lungo i fianchi, le tasche anteriori offrono la massima praticità d'uso quotidiano mantenendo intatta la pulizia geometrica del design complessivo.\nTessuto Premium in Felpa di Cotone Compatta\n: Confezionato in una tela di cotone di altissima qualità, estremamente morbida sulla pelle e liscia all'esterno, selezionata appositamente per mantenere la caduta fluida del pantalone e resistere nel tempo.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Co-Ord Uniform\n: Crea la divisa loungewear definitiva abbinando il pantalone alla sua felpa beige cropped o con cappuccio in coordinato per un total look monocromatico d'impatto, chiudendo il cerchio con una sneaker bold chunky.\nVolume & Color Contrast Match\n: Esalta i volumi rilassati del jogger giocando di contrasto con la parte superiore. Indossalo insieme a un top super aderente a coste, a una canotta asimmetrica o al modello moka infilato nel fascione per una combinazione di toni della terra pazzesca.\nContemporary Smart Layers\n: Eleva l'attitudine street del pantalone spezzando la sportività della felpa; abbinalo a una camicia cropped a micro-righe aperta sopra un top basic o sovrapponi un blazer oversize destrutturato lasciato completamente aperto per un outfit urban ricercato.\nAbbandona i volumi superflui e fai spazio al perfetto equilibrio tra comfort e avanguardia geometrica. Scegli lo stile iconico di Hinnominate e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta/jogger con elastico in vita e sul fondo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-blackrugs-uomo-mony-grigio-med-965",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo BLACK RAGS Mony Grigio Med\nLa\ncamicia a maniche corte\ndel brand Blackrugs è l'ideale per affrontare l'estate con stile e freschezza. Realizzata con tessuti leggeri e traspiranti, offre un comfort ineguagliabile nelle giornate più calde. Il design moderno e versatile la rende perfetta per ogni occasione, dal tempo libero agli eventi casual. Una scelta essenziale per chi desidera un look estivo elegante e confortevole.\nAbbinali con un paio di\nocchiali da sole\ned un\ncappello\npensato appositamente per te da\nNuvolari\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: MONY GRIGIO MED-965",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia a maniche corte",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie/mezza-manica.html"
+    },
+    {
+      "testo": "occhiali da sole",
+      "categoria_url": "https://www.nuvolari.biz/accessori/occhiali.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.1,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con collo bowling in lino/tessuto estivo leggero, adatta a contesti casual e balneari",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

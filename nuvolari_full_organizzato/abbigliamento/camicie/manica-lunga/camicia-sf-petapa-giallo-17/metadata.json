@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-sf-petapa-giallo-17",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Petapa Giallo\nChiusura con bottoni nascosti, collo alla coreana, bottoni sui polsini.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Nuvolari Petapa Giallo\nVestibilità Slim\nComposizione: 100 % lino\nCodice articolo: SF PETAPA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in lino con collo alla coreana, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-sh-branch-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl perfetto equilibrio tra la sartorialità rilassata e l'estetica streetwear si materializza nei nuovi\nBermuda Uomo Nuvolari Branch\n. Questo modello reinterpreta il concetto di pantaloncino estivo grazie a una silhouette curata e a una texture naturale, ideale per chi cerca freschezza, versatilità e un'impeccabile attitudine daily durante le giornate più calde.\nDesign e Caratteristiche Principali\nSfumatura Naturale\n: Il capo è declinato in una tonalità neutra e estremamente raffinata. Questa scelta cromatica lo rende un vero e proprio passe-partout per la stagione estiva, perfetto da abbinare sia a tonalità accese sia a palette terrose.\nFascione in Vita Misto con Coulisse\n: Progettato con una chiusura classica a bottone e patta frontale per mantenere un aspetto pulito ed elegante, ma arricchito da inserti elastici laterali e da una coulisse tubolare regolabile. Una struttura ibrida che assicura il massimo comfort e un fit personalizzato.\nTexture in Misto Lino e Cotone\n: Confezionato in una tela leggera che combina la traspirabilità e la fiammatura tipica del lino alla morbidezza e alla resistenza del cotone. Il tessuto assicura una regolazione termica ottimale e una caduta fluida sulla gamba.\nTasche Americane e Posteriori a Filo\n: Dotato di due tasche anteriori dal taglio diagonale (alla francese) che seguono pulite la linea dei fianchi e di due tasche posteriori a filo, ideali per contenere gli essentials quotidiani senza appesantire la silhouette.\nTaglio Regular Comfort\n: La linea si sviluppa con una vestibilità regolare che si ferma appena sopra il ginocchio, offrendo un'ottima libertà di movimento e una silhouette slanciata e contemporanea.\nIdee di Stile: Crea la Tua Wave\nSummer Smart Casual Uniform\n: Eleva l'attitudine sofisticata del lino abbinando il bermuda Branch a una\ncamicia\nleggera a maniche lunghe (da portare leggermente risvoltate) in bianco o azzurro pastello, completando il look con un mocassino scamosciato o un sandalo in pelle.\nUrban Street Contrast\n: Gioca con i volumi e lo stile urban indossando il pantaloncino insieme a una\nt-shirt\ngrafica oversize o a una t-shirt dal sapore rétro vintage (come le varianti panna o bianco), chiudendo il cerchio con una sneaker bassa da skate e calzino bianco a vista.\nSperimenta il perfetto punto d'incontro tra comfort tessile e stile metropolitano. Scegli il design versatile del bermuda Branch firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n97% cotone, 3% spandex\nVestibilità regular\nCodice articolo:S3 SH BRANCH BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda con coulisse in vita ed elastico, materiale leggero e sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

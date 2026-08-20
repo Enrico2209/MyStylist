@@ -24,5 +24,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/t-shirt-es3-trus-panna-panna",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Nuvolari Trus Panna\nunisce la passione per il design automobilistico a un'estetica street-casual pulita e di forte impatto visivo. Caratterizzata da una tonalità panna calda e luminosa, questa maglietta si distingue per la sua grafica specchiata che cattura l'attenzione, rendendola un pezzo chiave per i look informali della stagione estiva.\nDesign e Caratteristiche Principali\nGrafica \"Supercar\" Centrale\n: Il fronte del capo è dominato dall'illustrazione realistica di un iconico fuoristrada d'alto livello nei toni del blu navy, posizionato sopra una raffinata scritta \"SUPERCAR\".\nEffetto Riflesso e Blueprint\n: Sotto l'immagine principale si sviluppa un originale effetto specchiato che sfuma in un disegno tecnico (blueprint), mostrando i dettagli ingegneristici e le quote del veicolo.\nBase Color Panna/Bianco Naturale\n: Lo sfondo chiaro esalta i contrasti scuri del fuoristrada blu e i dettagli rossi dei freni a disco, conferendo al capo una grande luminosità ed eleganza.\nTaglio Regular Fit\n: La vestibilità classica assicura un comfort ottimale e una caduta fluida sul corpo, ideale per l'uso quotidiano in ogni contesto.\nGirocollo Strutturato\n: Il colletto con finitura a costine è progettato per mantenere perfettamente la forma nel tempo e resistere ai lavaggi frequenti.\nTessuto in Puro Cotone\n: Realizzata interamente in cotone morbido e traspirante, garantisce freschezza ed elevata piacevolezza a contatto con la pelle durante le giornate più calde.\nSuggerimenti di Stile\nEcco 3 modi per valorizzare questa t-shirt dal gusto urban-automotive:\nUrban Cruise\n: Abbinala a dei\njeans\ndenim scuro dal lavaggio fermo e a delle sneakers pulite per un outfit casual classico che mette in risalto il blu della stampa.\nStreet Utility\n: Indossala con dei\npantaloni cargo\ncolor oliva o antracite per un contrasto cromatico deciso e di tendenza, perfetto per il tempo libero in città.\nSummer Aperitif\n: Provala insieme a degli\nshorts\nin lino o cotone beige e completala con una\novershirt\nleggera sbottonata per un look fresco e ricercato ideale per il tramonto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica stampata, capo base per casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

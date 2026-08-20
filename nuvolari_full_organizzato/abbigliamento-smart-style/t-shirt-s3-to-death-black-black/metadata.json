@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-s3-to-death-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nT-SHIRT UOMO PROJ3CT\nComfort In Puro Cotone\nLa T-shirt\nProj3ct\nè la maglia perfetta per chi cerca un capo essenziale, comodo e di alta qualità per il proprio\nlook\nquotidiano. Realizzata in\npuro cotone\n, offre la massima traspirabilità e una morbidezza ineguagliabile, tipiche del marchio Proj3ct.\nComposizione e Vantaggi\nMateriale:\n100% Cotone\n.\nTraspirabilità:\nIl puro cotone è la fibra ideale per le giornate calde, garantendo\nmassima traspirabilità\ne un'ottima sensazione di freschezza sulla pelle.\nMorbidezza:\nTessuto confortevole e\nmorbido al tatto\n, che migliora a ogni lavaggio.\nDurabilità:\nMateriale robusto e resistente, in grado di mantenere una buona forma nel tempo.\nDesign e Stile\nModello:\nClassica T-shirt a\nManiche Corte\ne\nGirocollo\ncon bordino sottile.\nVestibilità:\nVestibilità Regular\n(\nRegular Fit\n), che offre una linea comoda e adatta a tutte le silhouette, senza essere troppo aderente o\noversize\n.\nVersatilità:\nÈ il capo base perfetto per ogni stagione, da indossare con\njeans\n,\njogger\no come\nsottogiacca\n.\nScegli la T-shirt per un comfort 100% cotone unito allo stile essenziale di Proj3ct\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:S3 TO DEATH BLACK-BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sottogiacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica a maniche corte con grafica di ispirazione street sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

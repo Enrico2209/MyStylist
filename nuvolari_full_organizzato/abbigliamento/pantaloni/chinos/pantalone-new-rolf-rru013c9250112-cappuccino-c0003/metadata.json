@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-new-rolf-rru013c9250112-cappuccino-c0003",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nEsplora l'eleganza casual dei pantaloni chino color leaf Roy Roger's, un capo imprescindibile per il tuo guardaroba quotidiano.\nRealizzati in morbido cotone, questi\npantaloni\noffrono una vestibilità slim che si adatta perfettamente alla tua silhouette, conferendo un look moderno e sofisticato. Le caratteristiche includono una chiusura frontale con finto cinturino, bottone e zip, che aggiunge un tocco di stile distintivo. Le tasche laterali all'americana offrono praticità, mentre le tasche sul retro a filetto con bottoni aggiungono un elemento di funzionalità. Il logo cucito sul retro completa l'aspetto di questi pantaloni, aggiungendo un tocco di autenticità al design complessivo. Indossali per un look casual e chic, perfetto per qualsiasi occasione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità Slim Fit\n97% cotone, 3% elastan. Fodera 100% cotone\nCodice articolo: RRU013C9250112 CAPPUCCINO-C0003",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit in cotone, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

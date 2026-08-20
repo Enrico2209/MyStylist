@@ -23,5 +23,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-sm-apui-grey-inox-127",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nFelpa Uomo Rayz Sm Apui\nrappresenta un'interpretazione d'avanguardia del capospalla sportivo, pensata per chi desidera arricchire il proprio guardaroba streetwear con un capo dinamico, destrutturato e dal forte impatto visivo. Caratterizzata da un design smanicato e da una particolare finitura superficiale, questa felpa con cappuccio gioca sui volumi e sulle sovrapposizioni, prestandosi perfettamente alla creazione di look stratificati d'ispirazione urban contemporanea.\nDesign e Caratteristiche Principali\nEffetto Texture Acid Wash / Marmorizzato\n: Il trattamento visivo della felpa è il vero elemento distintivo del capo; la superficie mostra una trama irregolare e sfumata che ricorda le venature del marmo o l'effetto \"acid wash\" tipico della cultura underground, donando movimento e un sapore heritage vissuto al capo.\nTaglio Smanicato Moderno\n: Priva di maniche e rifinita lungo il girospalla da un sottile bordo elastico a costine, la silhouette favorisce una totale libertà nei movimenti ed è sagomata per cadere in modo naturale sul busto, valorizzando le maglie indossate inferiormente.\nChiusura Post-Industriale e Dettagli Funzionali\n: Sul davanti è presente una chiusura lampo integrale con cursore metallico silver geometrico che permette di regolare l'apertura a piacimento. Lungo la parte inferiore, sui fianchi, sono collocate due tasche verticali inserite a filo per mantenere pulita la linea del pannello frontale.\nCappuccio Avvolgente con Maxi Cordoncini\n: Il capospalla integra un ampio cappuccio strutturato, regolabile tramite due lunghissimi cordoncini piatti in cotone chiaro a contrasto, dotati di terminali rinforzati, che scendono sul petto enfatizzando l'estetica urban-skate del brand.\nFondo a Costine Strutturato\n: La base del busto è sigillata da una spessa fascia elastica con trama a costine, progettata per raccogliere i volumi della felpa sui fianchi e assicurare stabilità durante l'uso.\nProposta di Outfit\nStreetwear Bold Statement\n: Indossala sopra una t-shirt basic oversize bianca e abbinala ai\njeans Rayz Tite Blu Chiaro\n; il volume balloon del pantalone e il lavaggio azzurro stone-washed si sposeranno armoniosamente con la finitura materica della felpa smanicata, definendo un look perfetto per contesti metropolitani.\nUrban Minimal Contrast\n: Portala chiusa direttamente sopra la pelle o sopra una canotta essenziale, coordinandola al\npantalaccio Rayz Vicente Nero\n; lo stacco cromatico tra la texture mossa della felpa e la base scura e rigorosa del pantalone slim fit comporrà un outfit serale scattante, grintoso e di grande tendenza.\nHeritage Graphic Layering\n: Sperimenta un gioco di sovrapposizioni lasciandola completamente aperta sopra la\nt-shirt Uat blu\n; la maxi stampa frontale automotive bianca della maglietta spunterà dal centro del gilet, spezzando la geometria del look con un tocco vintage d'impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans Rayz Tite Blu Chiaro",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantalaccio Rayz Vicente Nero",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt Uat blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.3,
+      "streetwear": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "felpa smanicata con cappuccio, estetica urban-skate e taglio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

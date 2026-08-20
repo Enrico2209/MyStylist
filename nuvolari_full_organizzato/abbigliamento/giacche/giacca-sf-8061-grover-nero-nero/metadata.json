@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/giacca-sf-8061-grover-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGiacca Uomo Nuvolari Grover Nero\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiacca Uomo Nuvolari Grover Nero\nNUVOLARI®",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.8
+    },
+    "formality": 4,
+    "formality_perche": "giacca blazer sartoriale monopetto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/hinnominate-canotta-hmabw02506-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'essenzialità del nero profondo incontra un'architettura geometrica d'avanguardia, trasformando la classica canotta estiva in un vero e proprio statement di stile streetwear. La\nCanotta Donna Hinnominate Nero\nridefinisce il concetto di basic grazie a un design asimmetrico e a linee pulite che esaltano il carattere urban del brand. Questo modello è concepito per chi cerca un pezzo versatile, iper-contemporaneo e ricco di attitudine metropolitana.\nDesign e Caratteristiche Principali\nScollo Americano Asimmetrico (Cut-Out Design)\n: Il vero focus stilistico del capo è il taglio asimmetrico sulla spalla destra, caratterizzato da un'apertura curvilinea che scopre parzialmente il décolleté, creando un gioco geometrico di forte impatto visivo.\nGirocollo e Giromanica a Costine\n: Rifiniture robuste e spesse circondano sia la base del collo sia le ampie aperture delle braccia, garantendo stabilità alla struttura asimmetrica e preservando la forma originaria del capo nel tempo.\nDettaglio Logo Minimalist a Contrasto\n: Sul lato inferiore sinistro, sopra l'orlo, spicca il lettering bianco del brand\n\"HINNOMINATE\"\nstampato con un font pulito e lineare, che firma il pannello frontale con puro stile grafico.\nTaglio Cropped Rilassato\n: La silhouette si sviluppa con una lunghezza leggermente accorciata che si appoggia sopra il punto vita, offrendo una vestibilità asciutta ma confortevole, ideale per i match con capi a vita alta.\nTessuto Premium Elasticizzato Soft Touch\n: Confezionata in un jersey di cotone di altissima qualità intrecciato con fibre elastiche. Questa combinazione assicura una texture compatta, morbidezza sulla pelle e un'eccellente flessibilità nei movimenti.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Loungewear Uniform\n: Esalta lo stile minimalista del top abbinandolo a un pantalone jogger oversize o a un pantalone della tuta a gamba dritta in tinta o nei toni del grigio melange firmato Hinnominate.\n90s Baggy Volume Contrast\n: Gioca con i contrasti di proporzioni indossando la canotta asimmetrica insieme a un jeans loose o baggy dal lavaggio chiaro vintage, completando l'outfit con una sneaker chunky bold.\nUtility Street Layering\n: Utilizza il capo come strato base strategico sotto una giacca denim o un blazer oversize lasciato completamente aperto; lo scollo asimmetrico rimarrà in primo piano, spezzando la formalità del capospalla con un accento pop immediato.\nAbbandona le linee convenzionali e sperimenta nuove geometrie. Scegli il design asimmetrico di Hinnominate e scendi in città a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta cropped con taglio asimmetrico e logo, capo prettamente informale e street",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

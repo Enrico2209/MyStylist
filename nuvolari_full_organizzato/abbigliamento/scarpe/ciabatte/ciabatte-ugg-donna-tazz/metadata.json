@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/ciabatte-ugg-donna-tazz",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCiabatte Donna UGG Tazz\nScopri un comfort ineguagliabile e uno stile che non passa inosservato con le ciabatte\nUGG Tazz\nda donna. Queste pantofole ridefiniscono il concetto di lusso per la casa, unendo la leggendaria morbidezza della pelliccia di montone UGG a un design audace e contemporaneo.\nDettagli che fanno la differenza\nLe ciabatte Tazz sono un'evoluzione dell'iconico modello Tasman, con un tocco in più che le rende uniche. La loro piattaforma alta 3,8 cm aggiunge un'ulteriore dose di stile, offrendo una silhouette che si distingue e allunga la figura.\nMateriali:\nRealizzate in\nmorbido camoscio\ne foderate con la celebre\npelliccia di montone UGGplush™\n, queste ciabatte mantengono i piedi al caldo e garantiscono un comfort che avvolge.\nDesign:\nIl bordo con ricamo a treccia e il logo UGG laterale sono dettagli di stile che impreziosiscono il design.\nSuola:\nLa suola\nTreadlite by UGG™\nè leggera, flessibile e resistente, perfetta per essere indossata sia in casa che per una rapida uscita.\nCon le ciabatte\nUGG Tazz\n, puoi goderti il massimo del comfort senza rinunciare a un look moderno e sofisticato.\nTaglie UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta/pantofola con plateau, uso domestico o tempo libero molto informale",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

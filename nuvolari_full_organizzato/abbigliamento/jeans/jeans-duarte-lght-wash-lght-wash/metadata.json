@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-duarte-lght-wash-lght-wash",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Rayz Duarte: L'Anima Workwear del Denim Light Wash\nJeans Uomo Rayz Duarte Light Wash\nRidisegna il tuo stile urban con i Jeans Rayz Duarte. Questo modello fonde l'estetica robusta dei pantaloni da lavoro con la freschezza di un denim light wash di tendenza. Caratterizzati dall'iconico pannello frontale \"Double Knee\", questi jeans sono progettati per chi cerca un capo resistente, dal carattere deciso e capace di distinguersi con un volume moderno e rilassato.\nDesign Rinforzato e Attitudine Urban\nEstetica Double Knee\n: Il tratto distintivo del modello Duarte è il pannello di rinforzo sulle ginocchia con cuciture a vista. Un dettaglio funzionale derivato dal workwear classico che oggi definisce uno dei trend più forti dello streetwear mondiale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con estetica workwear double-knee e vestibilita rilassata",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

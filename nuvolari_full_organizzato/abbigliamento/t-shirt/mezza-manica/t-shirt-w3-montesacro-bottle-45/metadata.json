@@ -21,5 +21,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-w3-montesacro-bottle-45",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'identità streetwear metropolitana e l'omaggio alla cultura romana si fondono nella\nt-shirt da uomo Proj3ct modello Montesacro\n. Caratterizzata da un'estetica underground d'ispirazione varsity, questa maglietta celebra lo spirito autentico dei quartieri capitolini, rappresentando un capo essenziale per chi ama distinguersi con un look dal carattere deciso.\nDesign, Tessuti e Caratteristiche Costruttive\n100% Cotone di Alta Qualità\n: Confezionata in morbido e resistente cotone, garantisce traspirabilità, piacevolezza al tatto e massima durevolezza anche dopo frequenti lavaggi.\nGrafica Frontale D'Ispezione Varsity & Underground\n: Presenta la stampa frontale \"MONTE SACRO\" ad arco con scritte di dettaglio \"Sempione\", \"Roma\", \"H501\" e il logo triangolare Proj3ct sul fondo.\nGirocollo e Vestibilità Regular/Street\n: Taglio classico a maniche corte con girocollo a costine, studiato per offrire una silhouette confortevole e versatile.\nDesign Trasversale\n: Un grande classico della street culture pensato per adattarsi perfettamente a differenti opzioni di colore e abbinamenti quotidiani.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Urban\nFull Streetwear Style\n: Indossa la t-shirt in abbinamento a un paio di\njeans uomo\nbaggy o dal taglio straight, completando l'outfit con delle\nsneakers uomo\nd'ispirazione skate o dal design chunky.\nCasual & Summer Vibe\n: Per le giornate più calde, accostala a un paio di\nbermuda uomo\nin denim o in cotone cargo per uno stile rilassato e dinamico.\nLayering & Mezze Stagioni\n: Crea un interessante gioco di sovrapposizioni indossando la t-shirt sotto una camicia a maniche corte aperta oppure completa il look con una giacca della nostra collezione\ngiubbotti uomo\nper le uscite serali. Per altre proposte della linea, scopri l'intera selezione di\nt-shirt uomo\n.\nEsprimi la tua appartenenza all'universo urban. Scegli la qualità del cotone, l'originalità della grafica e l'inconfondibile attitudine di Proj3ct Roma.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: W3 MONTESACRO BOTTLE-45",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt grafica di ispirazione varsity e streetwear, vestibilità regular/street",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

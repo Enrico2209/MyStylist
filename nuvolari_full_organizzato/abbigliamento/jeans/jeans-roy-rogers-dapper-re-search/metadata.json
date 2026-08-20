@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-roy-rogers-dapper-re-search",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nJeans Uomo Roy Roger's Dapper Re-Search Es Torrent\nè un capolavoro di artigianalità italiana che fonde l'estetica vintage con l'innovazione della linea\nRe-Search\n. Questo modello si distingue per un lavaggio denim autentico e ricercato, caratterizzato da sfumature naturali e dettagli \"lived-in\" che raccontano la storia del denim più puro.\nRoy Roger's Dapper L'Essenza del Denim Contemporaneo\nPerché sceglierlo\nIl modello\nDapper\nè progettato per chi cerca una silhouette moderna senza rinunciare al comfort. La particolarità della linea\nRe-Search\nrisiede nell'attenzione maniacale per i trattamenti e i materiali: il lavaggio\nEs Torrent\noffre un indaco vibrante con zone di schiaritura localizzate e micro-abrasioni realizzate a mano, che donano al jeans un carattere unico e un aspetto \"di seconda mano\" estremamente sofisticato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "jeans con lavaggio vissuto e micro-abrasioni",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/fantasies-trucker-ht00924-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Cappello HUF è l'accessorio definitivo per chiunque voglia portare un pezzo di storia dello skateboarding di San Francisco nel proprio stile quotidiano. Che si tratti di un classico snapback, di un versatile bucket hat o di un caldo berretto in maglia, ogni modello riflette la filosofia del fondatore Keith Hufnagel: unire l'estetica ribelle della strada a una manifattura di alta qualità.\nIl punto di forza di questo capo risiede nel suo equilibrio tra design grafico e resistenza. Progettato per resistere alle sollecitazioni delle sessioni in skate, il cappello HUF si distingue per l'uso di materiali robusti come il twill di cotone pesante o filati tecnici traspiranti. Le grafiche iconiche, che spaziano dal celebre logo \"Triple Triangle\" alle collaborazioni artistiche più ricercate, lo rendono un oggetto di culto per chi ama distinguersi con un accessorio ricco di significato culturale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "cappellino trucker con grafica vistosa, marchio street puro",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

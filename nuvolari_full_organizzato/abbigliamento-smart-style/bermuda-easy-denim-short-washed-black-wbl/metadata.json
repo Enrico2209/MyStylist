@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-easy-denim-short-washed-black-wbl",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo spirito skate degli anni '90 incontra la massima praticità quotidiana nei nuovi\nBermuda Uomo Obey Easy Denim Washed Black\n. Questo modello unisce l'estetica ruvida e intramontabile del jeans a una costruzione orientata al comfort assoluto, proponendosi come la scelta definitiva per chi cerca un look rilassato, durevole e intriso di attitudine streetwear.\nDesign e Caratteristiche Principali\nLavaggio Washed Black\n: Il pantaloncino si distingue per una tonalità nero slavato ricca di sfumature grigio antracite lungo le cuciture. Un trattamento dall'effetto piacevolmente vissuto che dona al capo un'estetica underground e vintage.\nFascione in Vita Elastico \"Easy Fit\"\n: Il vero focus sul comfort è rappresentato dalla vita interamente elastica, completata da una coulisse interna regolabile. Una struttura comoda che elimina la rigidità del classico denim in vita, garantendo una vestibilità dinamica ideale per l'uso quotidiano o sulla tavola da skate.\nDettaglio Logo d'Archivio\n: Sul retro, posizionata sopra la tasca destra a filo, spicca l'iconica etichetta rettangolare cucita con il lettering ufficiale\n\"OBEY\"\n, firma inconfondibile che certifica il DNA del brand californiano.\nTasche Pratiche e Capienti\n: Progettato con due ampie tasche anteriori ad accesso laterale integrate lungo i fianchi e tasche posteriori applicate per custodire con facilità gli essentials urbani.\nTaglio Relaxed in Puro Cotone\n: Sviluppato con una silhouette comoda e dritta che cade morbida sulla coscia. La tela in 100% cotone denim di medio peso garantisce un'eccellente resistenza all'usura pur mantenendo una mano morbida sulla pelle.\nIdee di Stile: Crea la Tua Wave\nFull Street Skate Uniform\n: Esalta l'estetica core di Obey abbinando il bermuda Easy a una\nt-shirt\ngrafica oversize (ottime le varianti bianche con stampe bold come il modello Dice o Leaf Camo) e a una sneaker bassa da skate.\n90s Layering Outfit\n: Crea un contrasto di lunghezze indossando il pantaloncino con una canotta basic e camicia a maniche corte aperta — come i modelli a fantasia Alan Woven — chiudendo il look con un cappellino con visiera.\nAbbraccia lo stile relaxed della West Coast senza rinunciare al carattere del denim. Scegli la versatilità dei bermuda Easy firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in denim con vita elastica, taglio relaxed e attitudine skate/streetwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-s1-old-fight-fango-fango",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEsplora l'eleganza senza tempo con i nostri pantaloni uomo Nuvolari, un'icona di stile e comfort\nRealizzati con una miscela del 98% di cotone, questi\npantaloni\noffrono un equilibrio perfetto tra comfort e resistenza, garantendo una vestibilità impeccabile che dura tutto il giorno. Il tessuto di alta qualità assicura traspirabilità e morbidezza, mantenendoti fresco e a tuo agio in qualsiasi situazione. Con il loro design classico e versatile, i pantaloni Nuvolari sono adatti per un look casual o più formale, aggiungendo un tocco di raffinatezza al tuo guardaroba. Scegli la qualità e lo stile senza tempo con i nostri pantaloni Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione pantalone Nuvolari S1 OLD FIGHT\nVestibilità Regular\nComposizione: 98%COTONE - 2%ELASTAN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino a cinque tasche in cotone, perfetto per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

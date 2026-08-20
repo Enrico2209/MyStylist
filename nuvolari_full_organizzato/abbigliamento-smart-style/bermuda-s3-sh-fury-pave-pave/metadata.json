@@ -21,5 +21,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-fury-pave-pave",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSpirito utility e comfort estivo si incontrano nel\nbermuda cargo da uomo Nuvolari modello Fury nella nuance Pavé\n. Uno short in cotone dal caratteristico tinto in capo effetto delavato, in una calda tonalita verde militare tortora, con tasconi laterali funzionali: un capo versatile e dal mood casual-outdoor, perfetto per i mesi caldi.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone Tinto in Capo:\ntessuto resistente con trattamento garment dyed che dona sfumature vissute e uniche.\nColore Pavé Delavato:\nnuance verde militare tortora dall'aspetto naturale e leggermente slavato.\nTasconi Cargo Laterali:\npratiche tasche con pattina sulle gambe per un tocco utility e funzionale.\nVestibilita Comoda:\ntaglio regolare con chiusura a bottone e zip per una calzata versatile.\nIdee di Stile: Costruisci il Tuo Look Estivo & Casual\nSummer Utility:\nabbinalo a una\nt-shirt uomo\nessenziale e a delle\nsneakers uomo\nper un look fresco e disinvolto.\nSmart Casual:\nperfetto con una\ncamicia uomo\nin lino per un outfit estivo curato.\nOutdoor Vibes:\nla nuance militare lo rende ideale per un look casual dal mood avventuroso.\nAggiungi un capo utility e versatile al tuo guardaroba estivo. Scegli la resistenza del cotone tinto in capo, i pratici tasconi cargo e lo stile inconfondibile firmato Nuvolari Fury.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi laterali, stile utility e casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-d-hor-diesel-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Diesel in stile western regular-fit.\nRealizzata in denim di cotone con impunture a contrasto e logo D ricamato in rosso. Chiusura con bottoni automatici e due tasche frontali con patta.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità Regular\nComposizione: 100 %Cotone\nCodice articolo: 0CGAK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sovracamicia in denim stile western con impunture a contrasto, uso casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

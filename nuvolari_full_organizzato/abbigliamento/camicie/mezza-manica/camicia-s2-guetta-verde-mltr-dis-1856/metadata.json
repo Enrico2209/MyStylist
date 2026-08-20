@@ -23,5 +23,47 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-s2-guetta-verde-mltr-dis-1856",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo\nEssenziale nel guardaroba maschile, la camicia da uomo rappresenta l'equilibrio perfetto tra eleganza e praticità. Realizzata con materiali di alta qualità e rifinita nei dettagli, si distingue per una vestibilità moderna e uno stile senza tempo. Perfetta da indossare sia in contesti formali che informali, si abbina facilmente a capi come jeans, chinos o pantaloni sartoriali, rendendola una scelta versatile per ogni stagione.\nProposta Outfit:\nCrea un look completo dal gusto contemporaneo abbinando questa camicia a un\npantalone uomo\ndal taglio dritto, una\ngiacca leggera\ne un paio di\nsneakers uomo\nper un tocco casual ma curato. Aggiungi un accessorio dal carattere deciso come una\ncintura in pelle\nper completare l’outfit con stile.\nCome alternativa più elegante o una versione più street-style con\ncamicie overshirt\no\nbermuda\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giacca leggera",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "cintura in pelle",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cinture.html"
+    },
+    {
+      "testo": "camicie overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.1,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo a rever e stampa floreale all-over, adatta a contesti casual ed estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

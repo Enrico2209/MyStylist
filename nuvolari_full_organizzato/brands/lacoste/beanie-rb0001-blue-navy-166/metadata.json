@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/beanie-rb0001-blue-navy-166",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nBerretto Uomo Lacoste RB0001\nAggiungi un tocco di eleganza sportiva al tuo look con il berretto\nLacoste RB0001\n. Questo accessorio, icona di stile e qualità, è perfetto per affrontare le giornate più fredde con un tocco di classe, unendo comfort e riconoscibilità in un unico capo.\nDettagli di stile e comfort\nRealizzato con materiali di alta qualità, questo berretto è pensato per offrirti calore e una vestibilità perfetta. La sua linea essenziale e pulita si adatta a qualsiasi stile, rendendolo un capo versatile e indispensabile.\nMateriale:\noffre una sensazione piacevole a contatto con la pelle e un'ottima protezione dal freddo.\nDesign:\nIl berretto a costine, con la sua forma classica, si adatta facilmente a diverse forme del viso. Il risvolto sul bordo dona un tocco di stile in più.\nLogo:\nL'iconico coccodrillo\nLacoste\n, ricamato con cura sul risvolto, è il simbolo di autenticità e qualità del brand, un dettaglio discreto che non passa inosservato.\nIndossa il berretto\nLacoste RB0001\nper dare un tocco di stile sofisticato al tuo outfit, sia che tu stia andando a fare una passeggiata in città o che tu stia praticando uno sport all'aria aperta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "berretto in maglia a costine, accessorio casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

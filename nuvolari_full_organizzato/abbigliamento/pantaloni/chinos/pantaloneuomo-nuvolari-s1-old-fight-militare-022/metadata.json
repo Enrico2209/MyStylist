@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantaloneuomo-nuvolari-s1-old-fight-militare-022",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nProva i nostri pantaloni uomo Nuvolari, ora disponibili in un vibrante tono militare\nCon una composizione al 98% in cotone, questi pantaloni offrono comfort e resistenza ineguagliabili, perfetti per affrontare le sfide quotidiane con stile. Il tessuto di alta qualità garantisce traspirabilità e morbidezza, mentre il design classico e versatile li rende adatti a qualsiasi occasione. Indossa questi pantaloni con una\ncamicia\nper un look formale o con una\nt-shirt\nper uno stile più casual. La tonalità militare aggiunge un tocco di originalità al tuo outfit, distinguendoti con stile e personalità. Scegli i pantaloni Nuvolari per un'eleganza senza tempo con un tocco moderno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione S1 OLD FIGHT\nVestibilità Regular\nComposizione: 98%COTONE - 2%ELASTAN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in cotone, versatile per smart casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

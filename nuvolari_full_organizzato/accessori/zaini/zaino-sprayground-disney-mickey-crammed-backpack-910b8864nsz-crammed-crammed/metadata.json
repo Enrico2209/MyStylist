@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-disney-mickey-crammed-backpack-910b8864nsz-crammed-crammed",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa magia della pop culture Disney e l'atteggiamento irriverente dello streetwear contemporaneo si incontrano nello\nzaino Sprayground modello Disney Mickey Crammed Backpack\n. Caratterizzato da una travolgente grafica \"Crammed\" che affolla lo spazio visivo con l'iconico Topolino sapientemente integrato con l'inconfondibile Shark Mouth, questo accessorio in edizione limitata è pensato per chi vuole farsi notare con un look audace, ludico e ricercato.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Confezionato in pregiata ed ecologica pelle sintetica, resistente all'acqua, alle abrasioni e all'uso quotidiano per proteggere al meglio il contenuto.\nGrafica Esclusiva Disney x Sprayground \"Crammed\"\n: Una stampa ad alto impatto visivo ricca di dettagli che vede protagonisti i tratti distintivi di Mickey Mouse combinati con l'iconica bocca da squalo frontale e laterale.\nScomparti Organizzati e Multifunzione\n: Impreziosito da uno scomparto interno imbottito separato per laptop fino a 15\", tasca superiore in velluto portaocchiali, tasche laterali a fessura e una tasca di sicurezza nascosta con zip sullo schienale.\nErgonomia e Comfort di Trasporto\n: Schienale in mesh traspirante con imbottitura anatomica, spallacci regolabili imbottiti e comoda fascia posteriore per il fissaggio al manico del trolley durante i viaggi.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Pop Culture\nPop Streetwear Statement\n: Rendi lo zaino il vero protagonista del tuo outfit abbinandolo a una\nt-shirt uomo\noversize o grafica, a un paio di\njeans uomo\nbaggy e a delle\nsneakers uomo\nd'impatto.\nCasual Everyday & Campus Look\n: Ideale per la scuola, l'università, il lavoro o il tempo libero, indossalo con una felpa confortevole e dei\nbermuda uomo\nnei mesi più caldi.\nLayering Metropolitano\n: Durante i mesi più freschi, accostalo a un giubbotto di pelle, un bomber o un piumino selezionato dalla nostra linea\ngiubbotti uomo\nper uno stile urbano completo.\nEsprimi la tua personalità con un accessorio unico e ricco di stile. Scegli la capienza, la praticità e il design iconico dello zaino Sprayground Disney Mickey Crammed.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino street puro Sprayground con grafica Disney, tetto di marchio",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-s1-norbit-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEsplora lo stile senza tempo e la funzionalità con il Giubbotto Uomo Nuvolari Hamburg. Realizzato con materiali di alta qualità e un design pensato per resistere alle intemperie, questo capo è l'ideale per affrontare le giornate più fredde con stile. Con dettagli curati e una vestibilità confortevole, il Giubbotto Uomo Nuvolari è perfetto per creare outfit casual e alla moda. Sia che tu stia esplorando la città o trascorrendo del tempo all'aperto, questo\ngiubbotto\nti accompagnerà con eleganza e praticità ovunque tu vada.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 100% Poliestere\nCodice Prodotto: S1 norbit",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/giubbotti-uomo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto in similpelle/poliestere con colletto camicia, taglio casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-minimum-ewc-jay-1017-indigo-blu-688-ewc-jay-1017-indigo-blu-688",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Minimum JAY 1017\nCamicia\na maniche lunghe Minimum modello\nJay 1017,\ncon colletto button down in tessuto di cotone operato, presenta bottoni logati e taschino sul petto. La camicia\nMinimum\nha vestibilità regular. 100% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia button-down in cotone operato, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

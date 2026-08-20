@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-hanover-dyed-blup01120-007452-verde-salvia-694",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Blauer Blup01120 Hanover è il pantalone cargo per eccellenza, pensato per chi cerca un look d'ispirazione militare senza rinunciare a un taglio contemporaneo e a una vestibilità impeccabile. È un capo robusto, che incarna lo spirito \"utility\" del brand statunitense.\nL'Hanover è il pantalone ideale per chi vuole differenziarsi dai classici chino o jeans. È perfetto per chi apprezza l'abbigliamento \"tecnico-storico\" e cerca un capo che possa resistere alle sfide della giornata, mantenendo uno stile deciso e maschile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone utility/cargo d'ispirazione militare con tasche applicate e vestibilità rilassata",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

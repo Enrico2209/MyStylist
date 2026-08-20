@@ -25,5 +25,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-es3-vitruvio-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBomber Uomo Nuvolari Vitruvio\nreinterpreta il mitico design del capospalla aviatore in una chiave squisitamente contemporanea, urbana e minimalista. Grazie alla pulizia delle linee e alla scelta di materiali leggeri, questo giubbotto si impone come il perfetto capospalla da mezza stagione, capace di completare con carattere sia outfit di matrice sportiva che abbinamenti casual-chic più ricercati.\nDesign e Caratteristiche Principali\nIconica Silhouette Bomber\n: Presenta la classica struttura corta in vita con volumi puliti sul busto, che richiama il fascino intramontabile dei modelli d'ispirazione flight jacket.\nCollo, Polsi e Fondo in Maglia Costinata\n: Il girocollo a coste elasticizzato, i polsini e la fascia inferiore coordinata garantiscono una vestibilità avvolgente che stabilizza il capo e scherma efficacemente dagli spifferi di vento.\nChiusura Centrale con Zip a Contrasto\n: La parte frontale è percorsa da una cerniera scura a tutta lunghezza dotata di un cursore metallico, che aggiunge un dettaglio tecnico e lineare al design globale del capospalla.\nPratiche Tasche Laterali a Filetto\n: Integra due tasche frontali dal profilo geometrico e pulito, perfette per riporre in modo confortevole le mani o piccoli oggetti senza appesantire la linea del giubbotto.\nTessuto Tecnico Leggero\n: Realizzato in un filato esterno compatto, fluido e liscio al tatto, ideale per offrire protezione e traspirabilità durante le giornate di transizione stagionale.\nVestibilità Slim/Regular Equilibrata\n: Il taglio è sagomato per asciugare i volumi in eccesso tipici dei bomber vintage, delineando una figura slanciata e moderna adatta alla vita metropolitana.\nSuggerimenti di Stile\nEcco 3 modi per valorizzare il bomber Vitruvio all'interno dei tuoi abbinamenti:\nContemporary Casual Smart\n: Indossalo chiuso o semi-aperto sopra la\nCamicia Nuvolari\n, in combinazione con il\nPantalaccio Nuvolari Goni\ne mocassini scamosciati per un outfit da aperitivo o da ufficio rilassato.\nUrban Minimal Street\n: Abbinalo a una t-shirt basic bianca, ai\nJeans Nuvolari Search Mdm Denim\ne a sneakers bianche pulite in pelle, completando il look con un cappellino da baseball per un'estetica street d'impatto.\nSporty Loungewear Vibe\n: Provalo aperto sopra a una felpa leggera con cappuccio o alla\nmaglia Nuvolari\n, insieme ai\nBermuda Nuvolari Rino\nper un outfit da tempo libero dinamico e ad alto tasso di comfort.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Pantalaccio Nuvolari Goni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "Jeans Nuvolari Search Mdm Denim",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "maglia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "Bermuda Nuvolari Rino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Bomber dal design minimalista e pulito, adatto anche a contesti smart casual se abbinato a camicia e pantalone",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

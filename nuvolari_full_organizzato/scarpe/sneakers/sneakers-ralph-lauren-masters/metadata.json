@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-ralph-lauren-masters",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe Sneakers Ralph Lauren Masters CRT sono l'interpretazione definitiva della classica scarpa da tennis da parte di Polo Ralph Lauren. Caratterizzate da un'estetica \"court\" (da campo) degli anni '70 e '80, queste sneakers fondono un design atletico vintage con la raffinatezza moderna, rendendole un elemento essenziale per chi cerca una calzatura versatile che superi le tendenze del momento.\nIl punto di forza delle Masters CRT risiede nel loro equilibrio proporzionale. A differenza delle sneakers moderne più ingombranti, questo modello mantiene un profilo basso e pulito, ideale per essere abbinato a pantaloni dal taglio sartoriale o denim di qualità. La costruzione robusta e l'uso di pelle di prima scelta assicurano che la scarpa mantenga la sua forma e acquisti fascino con il tempo, offrendo un comfort duraturo grazie al supporto plantare integrato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche in stile tennis vintage, ideali per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

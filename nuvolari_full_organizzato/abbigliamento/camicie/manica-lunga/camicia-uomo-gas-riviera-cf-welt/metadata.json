@@ -20,5 +20,43 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-gas-riviera-cf-welt",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Gas Riviera Cf Welt Basecream/Blu\nincarna perfettamente lo spirito rilassato e sofisticato dei look estivi, unendo la freschezza dei materiali a un motivo grafico dal sapore sartoriale. Sviluppata su una base color panna/crema (\"Basecream\"), si distingue per una raffinata trama a righe verticali sfumate che evocano le atmosfere marine della Riviera, ponendosi come un capo ideale per chi cerca un'eleganza disinvolta durante la bella stagione.\nDesign e Caratteristiche Principali\nPattern a Righe Verticali Sfumate\n: Il design è caratterizzato da ampie righe verticali che sfumano delicatamente dal blu indaco all'azzurro polvere e al grigio. Questo gioco di sfumature a contrasto sulla base crema rompe la rigidità della classica riga aziendale, donando al capo un movimento visivo morbido e naturale.\nTessuto Leggero in Misto Lino (Linen Blend)\n: Confezionata in un pregiato filato misto lino, chiaramente indicato dalla fettuccia interna al colletto. La texture presenta la caratteristica fiammatura irregolare della fibra naturale, garantendo massima traspirabilità, freschezza sulla pelle e una piacevole morbidezza al tatto.\nTaschino Posticcio \"Welt\" con Bottone\n: Sul petto a sinistra è inserito un taschino a filetto (\"Welt pocket\") rifinito da una sottile bordatura blu scuro a contrasto e impreziosito da un bottone centrale con asola elastica, un dettaglio sartoriale ricercato e distintivo.\nColletto e Finiture Pulite\n: Presenta un colletto a punta flessibile di piccole proporzioni e un cannoncino frontale lineare con bottoni chiari che si fondono cromaticamente con la base del tessuto. L'interno del collo è rifinito con un inserto in denim azzurro chambray.\nTaglio Regular Fit e Fondo Sagomato\n: La silhouette propone una vestibilità regolare e scivolata che asseconda le linee del corpo senza costrizioni. Il fondo è stondato e leggermente più corto sui fianchi, una geometria studiata appositamente per consentire di indossare la camicia sia infilata nei pantaloni sia lasciata morbida e aperta all'esterno.\nProposta di Outfit\nRiviera Smart Casual\n: Indossala abbottonata insieme a un\npantalone\nchino leggero color sabbia o corda; le sfumature blu e azzurre della camicia spezzeranno la neutralità della base chiara, definendo un look estivo sobrio, fresco e ordinato, perfetto per una cena o un evento diurno.\nContemporary Layering Street\n: Portala completamente aperta sopra una\nt-shirt\nminimalista bianca e abbinala a un\nbermuda\nin denim morbido; la morbidezza del misto lino e il movimento delle righe verticali struttureranno un outfit da giorno dinamico e rilassato.\nChic Marine Match\n: Abbinala a un\npantalone\nblu navy e, per i momenti più freschi, sovrapponi un\ngiubbotto\ndi jeans dal lavaggio scuro; le tonalità indaco del denim richiameranno le righe sfumate della camicia, creando un perfetto coordinato cromatico d'ispirazione nautica.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in misto lino a righe, ideale per contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

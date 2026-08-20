@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-dapper-rru108d7283125-sidney-denim-c0999",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nJeans Uomo Roy Roger's Dapper Sidney Denim\nè la sintesi perfetta dell'eccellenza manifatturiera italiana,\npensato per chi desidera un denim autentico ma adattato ai ritmi della vita contemporanea.\nQuesto modello si distingue per il lavaggio\nSidney\n,\nuna tonalità di indaco medio estremamente versatile,\ncaratterizzata da una schiaritura naturale e uniforme che conferisce al capo un aspetto fresco e luminoso.\nRoy Roger's Dapper Sidney  L'Equilibrio del Denim Moderno\nPerché sceglierlo\nIl modello\nDapper\nè apprezzato per la sua capacità di slanciare la figura mantenendo un comfort eccezionale.\nIl lavaggio Sidney è studiato per essere un \"passe-partout\" stagionale:\nmeno aggressivo rispetto ai trattamenti\ndistressed\n,\noffre una finitura pulita ma ricca di sfumature,\nideale per chi cerca un jeans che possa facilmente passare da un contesto informale a uno più curato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche, lavaggio medio pulito senza strappi, perfetto per il casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

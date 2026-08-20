@@ -21,5 +21,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/bondi-7-1110518-blk-hcitrus-bhk",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'ammortizzazione leggendaria e la massima protezione del brand incontrano un'estetica grintosa e performante nelle\nsneakers da uomo Hoka modello Bondi 7 nella colorazione Black / Citrus\n. Considerata una delle calzature più ammortizzate della linea Hoka, la Bondi 7 garantisce un'esperienza di corsa e camminata straordinariamente fluida e bilanciata, ideale sia per la corsa su strada a lungo raggio che per l'uso quotidiano attivo.\nDesign, Tessuti e Caratteristiche Tecniche\nTomaia in Mesh Tecnico Traspirante\n: Realizzata in rete ingegnerizzata aperta e ultraleggera, offre una ventilazione ottimale e un supporto avvolgente del piede senza aggiungere peso.\nIntersuola Max-Cushioning in EVA Sagomata\n: Presenta un'imponente intersuola in EVA pressata a caldo a tutta lunghezza che assorbe l'impatto con il terreno, garantendo la tipica morbidezza e ammortizzazione protettiva Hoka.\nTecnologia Meta-Rocker Vicino al Collo del Piede\n: La geometria della suola leggermente curvata favorisce una transizione tacco-punta rapida, fluida e naturale, riducendo l'affaticamento durante la rullata.\nColletto Memory Foam e Dettagli Citrus\n: Dotata di un collarino imbottito in morbida schiuma memory per accogliere il tallone e il tendine d'Achille in totale comfort. I dettagli e il logo HOKA nei toni giallo agrumi (Citrus) risaltano sulla base nera per uno stile dinamico.\nIdee di Stile: Costruisci il Tuo Look Sporty & Athleisure\nPerformance Running & Athletic Mood\n: Ideali per le sessioni di corsa su asfalto, l'allenamento o il fitness outdoor, abbinale a shorts tecnici traspiranti e a una\nt-shirt uomo\nperformante.\nUrban Active & Streetwear Look\n: Sfrutta il volume importante dell'intersuola per creare outfit metropolitani d'impatto. Indossale con un pantalaccio jogger o con dei\njeans uomo\ndal taglio tapered e una felpa oversize.\nLayering & Capi Alternativi\n: Nelle giornate più fresche o durante il defaticamento post-workout, completa l'insieme con un giubbotto sportivo o un antivento dalla nostra selezione\ngiubbotti uomo\n. Per il tempo libero nei mesi estivi, scopri anche la nostra gamma di\nbermuda uomo\n.\nSperimenta la massima ammortizzazione sul mercato. Scegli la protezione dell'intersuola oversize, il supporto del colletto memory e lo stile inconfondibile delle Hoka Bondi 7 Black/Citrus.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

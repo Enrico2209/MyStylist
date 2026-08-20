@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-w1-gr-tiger-uomo-proj3ct-7-bianco-bianco",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Proj3Ct Gr Tiger 7 Bianco\nLa felpa da uomo Proj3ct unisce comfort e stile in un design versatile e contemporaneo. Caratterizzata da una vestibilità rilassata, è ideale per il tempo libero e si abbina facilmente a vari look casual.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n65% cotone, 35% poliestere\nCodice articolo: W1 GR TIGER 7 BIANCO-BIANCO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo con grafica streetwear, vestibilita regular",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

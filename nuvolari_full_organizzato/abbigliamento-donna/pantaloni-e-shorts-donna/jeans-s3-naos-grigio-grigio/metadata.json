@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-s3-naos-grigio-grigio",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Jeans Donna Proj3Ct S3 Naos Denim rappresentano l'evoluzione contemporanea del denim, pensati per chi cerca un capo dal taglio distintivo che si allontani dalle linee classiche per abbracciare un'estetica più audace e strutturata.\nPerché sceglierli\nQuesto modello si caratterizza per il suo iconico taglio \"barrel\" (a botte): la gamba è ampia e curva verso l'esterno per poi restringersi leggermente al fondo. Questo design, arricchito da cuciture strutturali orizzontali e verticali ben visibili, crea un gioco di volumi tridimensionale che definisce la silhouette con un carattere forte e urban.\nContrasto di Volumi: Per bilanciare l'ampiezza della gamba, abbina i jeans a un top o a una\nt-shirt\ndal taglio slim. Una maglia inserita all'interno della vita aiuterà a definire meglio la silhouette.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n99% cotone, 1% elastane\nVestibilità regular\nCodice articolo:S3 NAOS GRIGIO-GRIGIO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con taglio barrel a botte e lavaggio acido, vestibilità urban e informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

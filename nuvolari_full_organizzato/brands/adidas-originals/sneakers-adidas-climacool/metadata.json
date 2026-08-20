@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/sneakers-adidas-climacool",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe adidas Climacool 1 segnano il ritorno di un’icona del running dei primi anni 2000, un modello che ha rivoluzionato il concetto di ventilazione nelle calzature sportive. Grazie al loro design futuristico e tecnologico, queste sneakers rappresentano la fusione perfetta tra estetica retro-tech e comfort moderno.\nVentilazione a 360 Gradi\nTecnologia Climacool\n: Progettate per offrire una ventilazione totale a tutto il piede, grazie all’utilizzo di materiali mesh aperti che favoriscono il ricircolo costante dell'aria.\nTomaia in Mesh Tecnico\n: La struttura esterna è realizzata in mesh multistrato, leggero e altamente traspirante, che garantisce una calzata fresca anche nelle giornate più calde.\nSupporto TPU\n: Presentano inserti laterali e sulla punta in materiale termoplastico (TPU) che forniscono stabilità strutturale e protezione, mantenendo inalterata la leggerezza del design.\nAmmortizzazione ADIPRENE®+\n: L'intersuola integra la tecnologia ADIPRENE®+ nell'avampiede per assorbire gli impatti e fornire una spinta propulsiva a ogni passo.\nSuola Ventilata\n: Anche la suola in gomma presenta aperture strategiche protette da una sottile rete, completando il sistema di raffreddamento a 360 gradi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

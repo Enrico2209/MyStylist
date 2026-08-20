@@ -16,5 +16,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-kuranda-gllo-paglia-gll-pagl",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "camicia classica ma in colore estivo e con bottoni colorati che la rendono smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

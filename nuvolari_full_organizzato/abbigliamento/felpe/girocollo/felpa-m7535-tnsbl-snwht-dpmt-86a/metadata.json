@@ -22,5 +22,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-m7535-tnsbl-snwht-dpmt-86a",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile estetica dello sportswear d'ispirazione British e il fascino leggendario delle subculture urbane si fondono nella\nfelpa girocollo da uomo Fred Perry modello M7535\n. Capo simbolo del guardaroba casual di transizione, questa felpa reinterpreta il concetto di felpa sportiva con una linea pulita, essenziale e rigorosa, pensata per offrire un perfetto equilibrio tra comfort quotidiano e stile sofisticato.\nDesign, Tessuti e Caratteristiche Costruttive\nMorbido Cotone Garzato Premium\n: Realizzata in uno speciale misto cotone di alta qualità, la felpa garantisce una piacevole sensazione di morbidezza sulla pelle, un'ottima tenuta termica e la traspirabilità ideale per affrontare con disinvoltura i cambi di stagione.\nLa Corona d'Alloro a Contrasto\n: Sul petto, lato cuore, spicca l'iconico ricamo ad alta definizione della Corona d'Alloro in una tonalità a contrasto, sigillo indiscusso dell'heritage sportivo e culturale del brand.\nGirocollo Classico e Finiture in Costina\n: Il design presenta un girocollo pulito, con orlo, colletto e polsini rifiniti in maglia elasticizzata a costine che assicura una tenuta strutturale impeccabile nel tempo, prevenendo deformazioni dopo il lavaggio.\nVestibilità Regular Fit\n: Tagliata su una silhouette dromante e ben calibrata, la felpa segue naturalmente i movimenti del corpo offrendo una vestibilità confortevole e una linea sempre ordinata.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nBritish Subculture Uniform\n: Ricrea una solida tenuta quotidiana dal sapore d'oltremanica. Abbina la felpa girocollo Fred Perry alla versatilità di un denim dal lavaggio medio o scuro, scegliendo il fit perfetto all'interno dell'ampia selezione di\njeans uomo\n. Completa l'outfit ai piedi con il design iconico delle proposte presenti nella nostra categoria\nsneakers uomo\n.\nSmart Casual Layering\n: Per i momenti più freschi o per un aperitivo informale, sfrutta la versatilità del girocollo costruendo un look a strati. Indossa la felpa sopra una delle opzioni basiche della collezione\nt-shirt uomo\noppure sotto un capospalla d'impatto o una giacca leggera da scegliere tra le novità dei\ngiubbotti uomo\n.\nEasy Weekend Transition\n: Per un fine settimana di relax o per il tempo libero all'aperto nelle mezze stagioni, adotta uno stile dinamico e disinvolto. Accosta la felpa alla freschezza dei modelli disponibili nella sezione dei\nbermuda uomo\n, oppure tienila a portata di mano sopra una proposta della linea\ncostumi uomo\nper la brezza serale al mare.\nSperimenta la perfetta evoluzione della felpa girocollo maschile d'autore. Scegli la qualità tessile di Fred Perry, la ricercatezza dei dettagli d'archivio e l'intramontabile eleganza della Corona d'Alloro per elevare i tuoi look quotidiani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "sportivo": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo classica di marca sportiva/casual, adatta all'uso quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

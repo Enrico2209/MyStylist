@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-biscotto3",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl pantalone chino da uomo Nuvolari biscotto\nè realizzato in cotone, ha chiusura con zip nascosta e bottone più passante per la cinta e due tasche laterali\nIl modello è alto 1.91 e indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone da uomo Nuvolari Thomas biscotto\nVestibilità regular\nComposizione: 98& cotone 2% elastan\nCodice articolo: WF GB THOMAS",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone modello chino in cotone, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

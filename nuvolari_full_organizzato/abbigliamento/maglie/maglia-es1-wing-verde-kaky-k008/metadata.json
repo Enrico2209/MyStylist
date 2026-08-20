@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-es1-wing-verde-kaky-k008",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Nuvolari: Un'eccellenza di comfort e stile senza tempo. Realizzata con morbido materiale, offre una sensazione di comfort ineguagliabile. Il design raffinato e i dettagli di alta qualità la rendono un capo versatile per ogni occasione. Perfetta per un look casual o elegante, si adatta al tuo stile unico. Con la maglia Nuvolari, sfoggia un'eleganza senza sforzo e un comfort superiore in ogni momento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica in maglieria fine, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

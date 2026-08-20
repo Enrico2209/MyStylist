@@ -16,5 +16,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/sandalo-donna-goldenglow-embossed",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nI Sandali UGG GoldenGlow Embossed Mustard Seed sono la fusione definitiva tra il comfort leggendario di UGG e un'estetica futuristica e dinamica. Progettati per chi non vuole scendere a compromessi tra stile e benessere, questi sandali si distinguono per la loro struttura voluminosa ma incredibilmente leggera, declinata in una raffinata tonalità \"Mustard Seed\" (un beige dorato caldo e naturale) che li rende perfetti per la stagione estiva.\nIl punto di forza dei GoldenGlow risiede nella loro costruzione in TPU ammortizzato. A differenza dei classici sandali piatti, questo modello offre un supporto superiore grazie alla suola platform che assorbe gli impatti e alla soletta ergonomica che segue la forma del piede. La finitura \"Embossed\" aggiunge una texture tridimensionale sofisticata, elevando il sandalo da semplice calzatura da piscina a vero e proprio pezzo fashion.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.2,
+      "da_mare": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "sandalo sportivo/da mare in TPU con suola platform, livello base di formalita",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

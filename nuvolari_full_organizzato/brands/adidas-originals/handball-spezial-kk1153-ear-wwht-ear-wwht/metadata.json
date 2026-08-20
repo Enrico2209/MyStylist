@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/handball-spezial-kk1153-ear-wwht-ear-wwht",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nQueste sneaker adidas Handball Spezial portano un tocco di fascino retrò nella tua vita di tutti i giorni. Originariamente progettate negli anni '70 per gli sport indoor, sfoggiano un design a taglio basso perfetto tanto per il campo quanto per le strade urbane.\nLa tomaia in morbido suede di alta qualità è impreziosita da cuciture a contrasto, che aggiungono un moderno tocco di eleganza. La caratteristica punta a T rimane un elemento iconico che celebra il tradizionale stile adidas.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers retro in suede, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "scarpe/sneakers/equipe-vela-182806-nero-80013",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe Diadora Equipe Vela rappresentano una raffinata reinterpretazione in chiave lifestyle delle calzature legate al mondo della nautica, mantenendo l'inconfondibile estetica heritage che contraddistingue la linea Equipe.\nEleganza Nautica e Dettagli Premium\nMateriali di Alta Qualità\n: La tomaia è realizzata in un mix di pregiata pelle scamosciata e tessuti tecnici che richiamano i materiali utilizzati nel mondo della vela, garantendo resistenza e un tocco sofisticato.\nDesign Ispirato alla Vela\n: Si distingue per i dettagli che omaggiano l'estetica nautica, come le stringhe che ricordano le cime delle imbarcazioni e le finiture costruttive tipiche delle scarpe da ponte.\nSuola in Gomma Sottile\n: Dotata di una suola a basso profilo che offre un'ottima sensibilità e una linea pulita, tipica delle scarpe da regata classiche.\nSottopiede Estraibile\n: Include spesso un plantare interno studiato per offrire comfort durante tutto il giorno, mantenendo la scarpa leggera e flessibile.\nEstetica Heritage\n: Il fregio Diadora laterale è integrato armoniosamente nel design, celebrando la tradizione del marchio con un'eleganza discreta.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nUS\nITA\n7\n40\n8\n41\n8.5\n42\n9.5\n43\n10\n44\n11\n45\n12\n46",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers heritage di ispirazione nautica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

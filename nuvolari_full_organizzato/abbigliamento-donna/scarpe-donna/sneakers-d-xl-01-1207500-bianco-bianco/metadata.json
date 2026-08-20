@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-d-xl-01-1207500-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUrban Trail Woman: La Sneaker che Domina la Metropoli con Spirito d'Avventura\nPreparati a ridefinire i confini della tua città. Questa sneaker athleisure da donna a taglio basso incarna lo spirito dell'esplorazione, fondendo l'affidabilità del\ntrail running\ncon l'estetica più ricercata dello\nstreetwear\n. È la silhouette ideale per chi vive con dinamismo, progettata per chi non teme di affrontare l'asfalto con la stessa grinta di un sentiero selvaggio.\nDesign Multistrato e Architettura Tecnica al Femminile\nPotenza Visiva e Supporto Superiore\nL'estetica di questo modello si basa su un design multistrato che gioca con contrasti materici e texture diverse. Il risultato è un effetto grafico deciso e contemporaneo, dove il\nlogo oversize\nfunge da firma inconfondibile di uno stile street-style autentico e senza compromessi.\nTomaia Hybrid Suede & Tech\n: Il mix strategico tra tessuto tecnico e inserti in suede non solo dona personalità alla scarpa, ma garantisce una stabilità e un supporto laterale superiori durante ogni spostamento urbano.\nSistema di Ammortizzazione Rapid-Tech\n: All'interno, la sinergia tra microsfere in EVA e schiuma poliuretanica offre una reattività eccezionale, trasformando ogni impatto in energia pura e proteggendo le articolazioni.\nIngegneria della Suola a 5 Componenti\n:\nTrazione Trail-Ready\n: Tasselli a 'V' da 4mm progettati per un grip totale su superfici lisce o irregolari.\nStruttura Multi-Livello\n: Intersuola ultraleggera in EVA con cuscinetti ammortizzanti posizionati su tallone e avampiede per una camminata fluida.\nDynamic Shield\n: Inserto centrale in\nTPU\nche stabilizza il passo, prevenendo le torsioni e aumentando il supporto dinamico.\nCollarino Anatomico\n: L'imbottitura soft assicura un comfort eccezionale, ideale per affrontare lunghe giornate metropolitane o weekend fuori porta senza affaticamento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneakers stile urban trail, calzatura sportiva e casual quotidiana",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

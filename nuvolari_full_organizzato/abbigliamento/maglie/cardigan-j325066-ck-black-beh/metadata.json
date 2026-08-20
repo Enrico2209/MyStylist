@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/cardigan-j325066-ck-black-beh",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nComfort senza compromessi con il Cardigan in Cotone Calvin Klein\nRealizzato al 100% con cotone in conversione certificato, questo capo è una dichiarazione di stile e sostenibilità. La sua\nmaglia\ndi cotone lavorata a costine offre un fit rilassato, perfetto per ogni occasione. Lo scollo a V aggiunge un tocco di eleganza, mentre la chiusura a bottoni e le righe all'interno del colletto aggiungono dettagli distintivi. Con il ricamo\nCalvin Klein\nsulla manica, questo cardigan è il perfetto equilibrio tra moda e impegno ambientale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 100% cotone in conversione\nCodice Prodotto: J325066",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "Calvin Klein",
+      "categoria_url": "https://www.nuvolari.biz/brands/calvin-klein-jeans"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "cardigan in maglia a costine, scollo a V, vestibilita rilassata ma registro smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

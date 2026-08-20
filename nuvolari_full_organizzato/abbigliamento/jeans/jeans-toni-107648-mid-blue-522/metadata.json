@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-toni-107648-mid-blue-522",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nJeans tapered Young Poet Society.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità Tapered\nComposizione:  100% cotone\nCodice articolo: 107648",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Jeans tapered in denim con strappo, vestibilità rilassata e stile casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

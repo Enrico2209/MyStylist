@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/gaelle-paris-cappello-gaacw03195-nero-ne01",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCappello Gaëlle Paris: L'Accessorio Urban-Chic Definitivo\nCappello Donna Gaëlle Paris Baseball Cap Nero\nEleva i tuoi look quotidiani con il cappello firmata Gaëlle Paris. Questo baseball cap non è solo un accessorio funzionale, ma un vero e proprio pezzo statement che aggiunge un'attitudine glamour e decisa a ogni outfit. La combinazione tra il nero profondo del tessuto e la lucentezza del logo dorato lo rende perfetto per chi desidera uno stile street-wear ricercato e sempre attuale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball, accessorio tipicamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

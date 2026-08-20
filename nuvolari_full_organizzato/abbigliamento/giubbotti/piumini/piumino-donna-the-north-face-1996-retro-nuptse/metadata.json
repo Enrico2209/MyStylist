@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/piumino-donna-the-north-face-1996-retro-nuptse",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl piumino 1996 Retro Nuptse da donna è una fedele riedizione di uno dei capi più iconici di The North Face, immediatamente riconoscibile per le sue trapuntature oversize e il design squadrato. Il modello Retro riprende le caratteristiche esatte della versione originale del 1996, celebrando un look che è diventato un'icona sia in montagna che nello streetwear urbano.\nIdeale per le condizioni di freddo intenso, questo piumino è caldo, resistente all'acqua e vanta una vestibilità boxy (squadrata) e corta, tipica degli anni '90.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "piumino sportivo/outdoor, tetto di marchio The North Face",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

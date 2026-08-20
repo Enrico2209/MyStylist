@@ -24,5 +24,39 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-theo-easy-short-smokey-olive-sol",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa massima libertà di movimento e l'estetica funzionale della cultura skate si incontrano nel nuovo\nBermuda Uomo Obey Smokey Olive\n. Questo pantaloncino corto reinterpreta il concetto di easy-wear estivo attraverso una silhouette essenziale dai volumi comodi, proponendosi come la scelta definitiva per chi cerca un capo fresco, ultra-resistente e intriso di autentica identità streetwear.\nDesign e Caratteristiche Principali\nNuance Smokey Olive di Tendenza\n: Il bermuda è caratterizzato da una colorazione oliva sfumata e polverosa, un verde militare desaturato di chiara ispirazione utility. Un tono neutro e di carattere, perfetto per essere abbinato con disinvoltura sia a t-shirt basiche che a grafiche bold.\nGirovita Elastico Easy-Fit\n: Il focus strutturale del modello è l'ampio fascione elastico interamente arricciato in vita. Questa costruzione assicura una calzata dinamica, confortevole e priva di costrizioni, adattandosi perfettamente a ogni silhouette senza rinunciare alla stabilità.\nTaglio Relaxed a Gamba Ampia\n: Sviluppato con una geometria comoda e leggermente squadrata che scende morbida lungo le cosce, fermandosi appena sopra il ginocchio. Un design d'ispirazione anni '90 che strizza l'occhio ai classici short da skate d'archivio.\nDettagli e Cuciture Workwear\n: La parte frontale è rifinita da una finta patta centrale impunturata che dona struttura alla silhouette. Robuste doppie cuciture laterali in tono corrono lungo i fianchi, garantendo un'eccellente tenuta agli strappi e all'usura quotidiana.\nTasche Laterali a Scomparsa\n: Il design pulito ed essenziale è completato da pratiche tasche inserite direttamente lungo le cuciture dei fianchi, ideali per riporre gli oggetti personali in modo rapido e sicuro.\nTela di Cotone Leggera e Robusta\n: Confezionato in un tessuto di puro cotone morbido, fresco e altamente traspirante. La consistenza della tela è selezionata appositamente da Obey per risultare piacevole sulla pelle durante le giornate più calde, mantenendo un'ottima struttura lavaggio dopo lavaggio.\nIdee di Stile: Crea la Tua Wave\nSkate Core Uniform\n: Esalta l'attitudine originale del brand abbinando il bermuda a una\nt-shirt\nuomo Obey dal taglio boxy oversize, arricchita da una maxi grafica di propaganda posteriore. Completa il look con un calzino di spugna a vista e una sneaker bassa da skate.\nUrban Utility Layering\n: Crea un outfit perfetto per i festival estivi o per le gite fuori porta. Indossa lo short Smokey Olive insieme a una t-shirt basic bianca infilata dentro e sovrapponi una\ncamicia\na maniche corte aperta o il cappello Obey Fence Camo per un audace richiamo mimetico d'ispirazione outdoor.\nContemporary Street Mix\n: Gioca di contrasti stilistici accostando la praticità del bermuda sportivo a elementi più ricercati. Abbinalo a una camicia di\nlino\nleggera o a una overshirt utility, chiudendo il cerchio con un\nmocassino\nibrido bold dotato di suola carrarmato come il Vans LX Loafer 53 Black.\nAffronta la stagione estiva con il perfetto equilibrio tra comfort totale ed estetica underground. Scegli la versatilità e lo stile senza compromessi dei bermuda firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "lino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/lino.html"
+    },
+    {
+      "testo": "mocassino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/scarpe/mocassini.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.4,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda da skate con elastico in vita, tipico capo casual/streetwear a bassa formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

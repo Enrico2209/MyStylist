@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-ml2507v-dark-navy-z271",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Tracktop Uomo Lyle & Scott in 100% cotone è un tributo alla tradizione sportiva britannica, reinterpretata con una pulizia estetica contemporanea. Questa giacca sportiva abbandona i materiali sintetici lucidi a favore della naturalezza del cotone, offrendo una sensazione di calore morbido e una traspirabilità superiore.\nRetro Sport & Pure Cotton\nPerché sceglierla\nLa scelta del 100% cotone trasforma la classica track jacket in un capo versatile per il tempo libero. A differenza dei modelli in poliestere, questa versione ha una mano opaca e corposa, che la rende adatta non solo allo sport, ma anche come strato intermedio sotto un capospalla o come giacca leggera per le serate estive.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: ML2507V DARK NAVY-Z271",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "tracktop sportiva in cotone, adatta al tempo libero e al casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

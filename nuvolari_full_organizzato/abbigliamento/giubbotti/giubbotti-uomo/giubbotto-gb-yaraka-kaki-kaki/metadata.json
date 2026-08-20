@@ -22,5 +22,46 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-yaraka-kaki-kaki",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo J.B.Mittwoch Yaraka Kaki\nreinterpreta il fascino intramontabile delle storiche sahariane e dei capispalla di matrice militare in una chiave metropolitana e contemporanea. Tinto in una versatile e luminosa tonalità sabbia desaturata (\"Kaki\"), questo giubbotto leggero unisce una ricca dotazione di dettagli iconici a una struttura confortevole, posizionandosi come la scelta ideale per completare con carattere i look a strati della mezza stagione e delle serate estive.\nDesign e Caratteristiche Principali\nTessuto in Cotone Compatto e Delavé\n: Realizzato in un robusto filato di cotone ritorto ad alta densità, sottoposto a uno speciale lavaggio tinto in capo che ammorbidisce la mano del tessuto e dona un ricercato aspetto vissuto lungo le cuciture a rilievo.\nMostrine Militari sulle Spalle\n: Le spalle sono arricchite da spalline fisse con bottone a pressione coordinato, un classico elemento di derivazione utility che conferisce rigore visivo e struttura alla parte superiore del busto.\nQuattro Tasche Frontali a Toppa\n: La sezione anteriore è caratterizzata da quattro ampie tasche applicate dotate di patta di chiusura sagomata, perfette per organizzare gli oggetti personali; sopra il taschino sinistro è presente un inserto geometrico in tessuto lucido a coste che spezza con originalità la texture del corpo.\nChiusura Centrale Protetta con Fustella\n: La cerniera e i bottoni a pressione frontali sono completamente nascosti da una fustella in tessuto piatta, che isola l'interno dal vento e assicura una linea pulita e minimale sul davanti.\nDoppio Sistema di Regolazione dei Volumi\n: Il giubbotto è dotato sia di una coulisse interna sul punto vita sia di un cordoncino sul fondo inferiore che fuoriesce sul retro, permettendo di personalizzare la silhouette, modificando il fit da dritto e squadrato a sciancrato ed ergonomico.\nColletto a Camicia e Polsini Sagomati\n: Il collo dritto a camicia incornicia il viso con ordine, mentre le maniche lunghe terminano con polsini lineari regolabili tramite bottoni a pressione per adattarsi al posizionamento sui polsi.\nProposta di Outfit\nContemporary Safari Track\n: Indossalo aperto sopra una\nt-shirt\nbasic chiara e un\npantalaccio\ncargo in cotone fiammato verde oliva scuro, realizzando un perfetto abbinamento metropolitano ispirato alle tonalità naturali della terra.\nNautical Riviera Layering\n: Abbinalo a una\ncamicia\na maniche corte azzurra a righe verticali e a un\nbermuda\nfluido blu notte; la tonalità kaki del giubbotto si integrerà magnificamente con le sfumature marine superiori, garantendo un look fresco e sofisticato.\nSummer Bright Contrast\n: Portalo sopra una\ncamicia\nin tessuto crepe seersucker bianca e a un\nbermuda\nin tinta coordinata, giocando sul contrasto tra la base bianca ottica e lo strato esterno color sabbia per un ensemble rilassato ed estivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto leggero stile sahariana/militare con tasche cargo, prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

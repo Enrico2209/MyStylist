@@ -19,5 +19,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-shark-central-camo-bkpack",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nZaino Sprayground – Stile urbano e personalità audace\nLo\nzaino Sprayground\nè molto più di un semplice accessorio: è una dichiarazione di stile. Con le sue grafiche iconiche, l’anima streetwear e l’estetica fuori dagli schemi, è pensato per chi vuole distinguersi ogni giorno.\nRealizzato in\nmateriali resistenti\n, è perfetto per accompagnarti a scuola, in viaggio o nelle giornate più dinamiche, offrendo praticità e comfort senza rinunciare al design.\nDesign esclusivo con stampa all-over\nPerfetto per:\nScuola, università, tempo libero, viaggi brevi. Lo zaino Sprayground è pensato per chi ama lo stile street con una marcia in più.\nScopri tutta la collezione Sprayground\nsu\nNuvolari.biz\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Nuvolari.biz",
+      "categoria_url": "https://www.nuvolari.biz/brands/sprayground"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro, tetto massimo di formalita pari a 1",
+    "season": "tutte",
+    "pattern": "camouflage"
+  }
 }

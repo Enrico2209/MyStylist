@@ -22,5 +22,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-md-freddy-med-denim-med-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Nuvolari Denim: L’Equilibrio Perfetto tra Autenticità e Flessibilità\nRiscopri l'icona del guardaroba maschile con i jeans Nuvolari. Progettati per chi non scende a compromessi tra stile e libertà di movimento, questi jeans fondono la struttura robusta del denim classico con un'anima elastica pensata per la vita dinamica di oggi. Un capo versatile, capace di adattarsi con naturalezza sia ai contesti casual che a quelli più ricercati.\nMateria Prima e Vestibilità Evoluta\nBlend Comfort Stretch\n: La composizione in 98% cotone e 2% elastane assicura una mano naturale e traspirante, tipica delle fibre organiche, potenziata da una leggera elasticità che asseconda ogni movimento senza far perdere la forma originale al pantalone.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 MD FREDDY MED DENIM-MED DENIM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche con lavaggio medio, capo base del guardaroba casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

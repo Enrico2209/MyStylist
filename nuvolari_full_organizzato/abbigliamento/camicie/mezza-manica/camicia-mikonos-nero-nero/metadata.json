@@ -26,5 +26,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-mikonos-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Black Rags: Stile Urbano e Versatilità\nLa\ncamicia uomo Black Rags\nè il capo perfetto per chi cerca\nun mix di eleganza e spirito urban\n. Realizzata con tessuti di alta qualità, assicura una vestibilità confortevole e un look sempre attuale. Il design essenziale e i dettagli minimal la rendono ideale sia per outfit casual che per abbinamenti più ricercati.\nCome abbinarla?\nPerfetta con un paio di\npantaloni\nper un look raffinato, oppure con un\npantalaccio\nper un tocco più rilassato e contemporaneo. Completa l’outfit con delle\nsneakers\nper un perfetto equilibrio tra stile e comodità.\nScopri altre idee tra i nostri\noutfit\ne trova la combinazione perfetta per ogni occasione!\nPerché scegliere la camicia Black Rags?\nTessuto di alta qualità\nper massimo comfort\nStile versatile\n, perfetto per diverse occasioni\nFacile da abbinare\nper look sempre attuali\nUn must-have per chi ama distinguersi con eleganza e carattere!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: MIKONOS NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con collo bowling e fantasia estiva, adatta a contesti informali e tempo libero",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

@@ -23,5 +23,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/hinnominate-top-hmabw02370-azzurro-bl66",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI volumi rilassati dello streetwear d'avanguardia incontrano la freschezza estiva di una tonalità pastello, dando vita a un pezzo essenziale dal carattere iconico. Il\nTop Donna Hinnominate Azzurro\nridefinisce il concetto di t-shirt cropped unendo un comfort assoluto a una silhouette geometrica di chiara ispirazione urban. Questo modello è pensato per chi esige pulizia nelle linee e un'attitudine effortless, ideale da indossare nelle giornate più calde o per costruire dinamici look multistrato.\nDesign e Caratteristiche Principali\nSilhouette Cropped Boxy Fit\n: Il tratto distintivo del capo è il taglio corto squadrato combinato a volumi ampi e rilassati. Una struttura ariosa che si ferma sopra il punto vita, offrendo una caduta fluida e un movimento naturale pazzesco.\nManica Corta Oversize e Scesa (Drop Shoulder)\n: Progettato con spalle fortemente scese e maniche larghe che si sviluppano con un taglio obliquo e geometrico, enfatizzando l'estetica cozy e street del top.\nGirocollo Spesso Strutturato (Ribbed Crewneck)\n: Rifinito alla base del collo con una bordatura a coste piatte dal profilo robusto e cuciture rinforzate, studiata per mantenere perfettamente la forma originaria nel tempo.\nDettaglio Logo Minimalist sul Fondo\n: Sul lato inferiore sinistro, in prossimità dell'orlo, spicca la stampa tono su tono o in leggero contrasto del lettering ufficiale del brand\n\"HINNOMINATE\"\n, che firma il pannello frontale con puro stile geometrico.\nTessuto Premium in Jersey di Cotone\n: Confezionato in una tela di cotone di altissima qualità, compatta ma leggera al tatto, selezionata appositamente per strutturare i volumi boxy del capo e garantire la massima traspirabilità sulla pelle.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Loungewear Uniform\n: Crea un abbinamento perfetto e super confortevole indossando questo top cropped azzurro sopra un pantalone jogger oversize o a gamba dritta nelle tonalità del panna, del grigio melange o in total look firmato Hinnominate.\n90s Baggy Denim Match\n: Gioca con i contrasti di proporzioni abbinando il volume squadrato del top a un\njeans\nbaggy a vita alta dal lavaggio chiaro vintage. Chiudi il cerchio con una sneaker chunky e una borsa tote in canvas.\nUtility Street Vibe\n: Combina il capo con un pantalone cargo con tasconi laterali o un classico chino Dickies dal taglio dritto. Sovrapponi una overshirt leggera aperta o una giacca denim per un outfit di strada dinamico e ricco di carattere.\nRivoluziona la tua selezione di basici estivi con l'architettura urban di Hinnominate e scendi in strada pronta a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt cropped con vestibilità boxy e spalle scese, tipico capo casual/streetwear quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

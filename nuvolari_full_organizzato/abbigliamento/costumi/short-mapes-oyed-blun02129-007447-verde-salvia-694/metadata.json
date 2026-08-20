@@ -19,5 +19,20 @@
   "pattern": "stampato",
   "needs_vision_review": true,
   "relpath": "abbigliamento/costumi/short-mapes-oyed-blun02129-007447-verde-salvia-694",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesti boxer da mare Blauer fondono l'estetica sportiva del brand con materiali ad alte prestazioni, offrendo un capo perfetto per chi non vuole rinunciare allo stile nemmeno sul bagnasciuga. Realizzati in un tessuto tecnico a rapida asciugatura, garantiscono comfort e leggerezza per tutta la giornata.\nPerché sceglierli\nQuesto costume si distingue per una struttura estremamente funzionale, studiata per resistere al sale e al sole senza perdere la forma. Il design è arricchito da una forte componente grafica: il logo esteso sulla coscia e l'immancabile scudo Blauer sul fondo aggiungono un tocco di prestigio che rende il capo immediatamente riconoscibile. È l'alleato ideale per passare con disinvoltura dal nuoto al relax in spiaggia.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "boxer da mare, capo da spiaggia",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-rabat-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Black Rags Rabat Nero\nrappresentano la perfetta sintesi tra comfort relaxed ed estetica urban d'avanguardia, ridefinendo il concetto di pantaloncino estivo attraverso un uso ricercato delle texture. Interamente declinati in un nero profondo e magnetico, questi bermuda si distinguono per la superficie tridimensionale e la silhouette fluida, configurandosi come un vero e proprio passe-partout per chi desidera mantenere un'impronta minimalista e decisa anche durante le giornate più calde.\nDesign e Caratteristiche Principali\nTessuto Fiammato dalla Texture Tridimensionale\n: Confezionati in una speciale tela leggera caratterizzata da una struttura a costine verticali sottili e irregolari (effetto plissé o goffrato). Questa lavorazione non solo dona movimento visivo al nero monocromo, ma distanzia il tessuto dalla pelle, massimizzando la freschezza e la traspirabilità.\nCintura Elastica Comfort con Maxi Coulisse\n: Il punto vita è provvisto di una morbida ed efficiente fascia elastica interna arricciata, progettata per adagiarsi sui fianchi senza stringere. La regolazione è affidata a una vistosa coulisse con cordoncini tubolari bianchi a contrasto, rifiniti ai terminali con nodi artigianali a goccia, che spezzano il total-black del capo.\nTasche Laterali Verticali a Filo\n: Presentano due ampie tasche inserite con discrezione lungo le cuciture dei fianchi. Questo posizionamento tecnico preserva la pulizia delle linee geometriche del bermuda e previene rigonfiamenti antiestetici sul davanti.\nTaglio Ampio e Silhouette Modern Relaxed\n: La vestibilità propone volumi ariosi e rilassati sulla gamba, assecondando un'estetica marcatamente streetwear e contemporanea. La linea scende fluida arrestandosi esattamente all'altezza del ginocchio, garantendo freschezza e una totale libertà di movimento.\nProposta di Outfit\nTotal Texture Monochrome Set\n: Abbinalo a una\ncamicia a maniche corte\nnera nello stesso tessuto fiammato e goffrato, tenuta aperta sopra una canotta o t-shirt bianca; l'abbinamento coordinato di textures identiche darà vita a un completo estivo d'ispirazione resort-wear estremamente sofisticato, fluido e d'impatto.\nUrban Heritage Graphic\n: Indossalo insieme a una\nt-shirt grafica scura\nstampata sul petto con motivi d'ispirazione vintage o automotive; lo sfondo nero dei bermuda farà risaltare gli elementi grafici chiari della maglietta, bilanciando la pulizia del pantaloncino con un tocco underground e dinamico.\nKnitwear Minimal Contrast\n: Portalo in abbinamento a una\npolo in maglia leggera\na maniche corte color beige o sabbia; il contrasto cromatico tra la morbidezza della maglia chiara e la texture increspata nera del bermuda inferiore strutturerà un look casual-chic raffinato, perfetto per un aperitivo estivo o per il tempo libero in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia a maniche corte",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt grafica scura",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo in maglia leggera",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda con elastico in vita e maxi coulisse a contrasto, stile relaxed/streetwear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

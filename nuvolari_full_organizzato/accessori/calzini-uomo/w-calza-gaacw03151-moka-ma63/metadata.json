@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/w-calza-gaacw03151-moka-ma63",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl dettaglio che fa la differenza incontra l'attitudine glam nelle\nCalze Donna Gaelle Paris in Moka\n, un accessorio dal gusto contemporaneo impreziosito da una calda tonalità marrone moka e dall'inconfondibile lettering del brand.\nDesign e Caratteristiche Principali\nFilato Morbido:\ntessuto elastico e confortevole che avvolge il piede con dolcezza, piacevole da indossare tutto il giorno.\nNuance Moka:\nuna calda tonalità marrone moka, elegante e versatile, perfetta per completare ogni look con carattere.\nLogo Signature:\nl'inconfondibile lettering Gaelle Paris impreziosisce il polsino, firma di stile del brand.\nBordo Elastico:\npolsino a costine che assicura tenuta e comfort senza stringere.\nDettaglio Glam:\nl'accessorio ideale per aggiungere un tocco di personalità all'outfit.\nIdee di Stile: Linka il Tuo Outfit\nStreet Glam:\nabbina le calze a un paio di\nsneakers donna\ne look sportivo per un tocco di carattere.\nSporty Chic:\ncompletale con una\ngonna donna\nper un mood giovane e attuale.\nAthleisure Mood:\nindossale con dei\npantaloni donna\nper uno stile comodo e ricercato.\nAggiungi un tocco glam al tuo guardaroba con le Calze Gaelle Paris in Moka. Acquistale ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers donna",
+      "categoria_url": "https://www.nuvolari.biz/calzature/sneakers.html?settore=Donna"
+    },
+    {
+      "testo": "gonna donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/gonne.html?settore=Donna"
+    },
+    {
+      "testo": "pantaloni donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "calzino in spugna con fantasia animalier vistosa e logo, adatto a look casual e street",
+    "season": "tutte",
+    "pattern": "animalier"
+  }
 }

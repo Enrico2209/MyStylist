@@ -20,5 +20,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-columbia-rapid-rivers-printed",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLA CAMICIA STAMPATA PER UN LIFESTYLE ATTIVO\nRinfresca il tuo guardaroba con un capo progettato per chi cerca equilibrio tra estetica urbana e benessere naturale. Grazie alla sua elasticità bidirezionale, questa camicia si adatta ai tuoi ritmi, offrendo una vestibilità che dura tutto il giorno.\nComfort Elastico\n: La struttura del tessuto elasticizzato in due direzioni assicura morbidezza e una flessibilità costante.\nDesign Classico\n: Taglio classico con lunghezza posteriore di 76,2 cm, studiato per offrire una copertura ideale e un fit sempre ordinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastan\nVestibilità regular\nCodice articolo: 1768931 CHARCOAL-030",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.6,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte sportiva/outdoor con fantasia camouflage, abbassata dal pattern e dal marchio tecnico",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

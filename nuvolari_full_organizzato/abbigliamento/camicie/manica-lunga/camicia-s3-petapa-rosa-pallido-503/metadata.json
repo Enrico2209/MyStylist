@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-petapa-rosa-pallido-503",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNuvolari S3 Petapa: L'Essenza del Lino Contemporaneo\nCamicia Uomo Nuvolari Modello Petapa\nEleva il tuo guardaroba estivo con la camicia Nuvolari S3 Petapa. Realizzata integralmente in puro lino, questa camicia combina la nobiltà di una fibra millenaria con un taglio moderno e sofisticato. Il collo alla coreana e la tonalità grigio perla la rendono il capo ideale per chi cerca un'eleganza fresca, naturale e senza tempo, perfetta per ogni occasione formale o di relax.\nNobiltà della Fibra e Comfort Termico\n100% Lino Premium\n: Il lino è la fibra estiva per eccellenza: traspirante, leggera e capace di regolare naturalmente la temperatura corporea, lasciando la pelle fresca anche nelle giornate più calde.\nTexture Materica\n: La trama Petapa offre quella mano leggermente irregolare e preziosa tipica del lino di alta qualità, che acquista carattere e morbidezza lavaggio dopo lavaggio.\nDesign alla Coreana (Mandarin Collar)\n: Il colletto minimalista conferisce al capo un’aria moderna e versatile, eliminando il rigore del collo tradizionale per un look più pulito e arioso.\nDettagli Raffinati\n: La chiusura frontale con bottoni chiari in contrasto e i polsini strutturati sottolineano l'attenzione sartoriale di Nuvolari per i dettagli funzionali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: S3 PETAPA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in lino con collo alla coreana, ideale per contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

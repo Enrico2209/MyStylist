@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/hinnominate-t-shirt-hmabw02479-bianco-ottico-bi11",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa purezza essenziale del bianco ottico si fonde con una struttura d'avanguardia sartoriale, dando vita a un basic evoluto che stravolge i canoni tradizionali del loungewear di lusso. La\nT-Shirt Donna Hinnominate Bianco Ottico\nè concepita per chi non si accontenta delle solite geometrie lineari e cerca un pezzo dal carattere sofisticato, dinamico e spiccatamente contemporaneo.Questo modello trasforma il concetto di maglietta bianca grazie a drappeggi studiati e a volumi anatomici di grande impatto visivo.\nDesign e Caratteristiche Principali\nCostruzione Con Arricciature Laterali (Ruched Design)\n: Il vero e proprio focus stilistico del capo, è lo sviluppo di morbide increspature e drappeggi posizionati lungo i fianchi. Questa particolare lavorazione modella la silhouette in modo asimmetrico ed elimina la rigidità dei tagli dritti classici.\nDettaglio Logo Minimal Minimalist\n: Sul fianco sinistro, posizionato discretamente all'interno delle arricciature, spicca il lettering nero del brand\n\"HINNOMINATE\"\n, stampato con un font pulito e geometrico che firma il capo con eleganza.\nScollo a Girocollo Sottile e Pulito\n: Strutturata con un classico scollo a girocollo a costine piatte molto sottili, progettato per rimanere aderente alla base del collo e garantire una linea pulita che valorizza il pannello frontale lisciato.\nManica Corta dal Taglio Accennato (Cap Sleeves)\n: La costruzione della manica si sviluppa con una lunghezza ridotta e un'inclinazione anatomica che segue la linea della spalla, offrendo un fit fresco, leggero e slanciato.\nTessuto Premium Soft Touch\n: Confezionata in un jersey di cotone leggero e compatto di altissima qualità, studiato appositamente per sostenere il gioco dei drappeggi laterali mantenendo una fluidità pazzesca sulla pelle.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Sweatpants Combo\n: Abbina l'attitudine sofisticata di questa t-shirt a un pantalone della tuta oversize a gamba dritta firmato Hinnominate, creando un perfetto total look loungewear chic da viaggio o tempo libero.\nStreet Cargo Contrast\n: Esalta la linea modellata del capo indossandolo sopra un pantalone cargo multitasche o un chino Dickies dal fit ampio e dritto, spezzando i volumi maschili del pantalone con la femminilità dei drappeggi superiori.\nDenim-On-Trend Match\n: Combinala con un\njeans\nd'ispirazione rétro a vita media o alta dal lavaggio chiaro; la finitura arricciata della t-shirt si appoggerà sul fascione creando un movimento geometrico perfetto senza bisogno di infilarla all'interno del pantalone.\nRivoluziona i tuoi capi base con l'architettura minimal firmata Hinnominate e scendi in strada pronta a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con arricciature laterali e piccolo logo, adatta a un uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

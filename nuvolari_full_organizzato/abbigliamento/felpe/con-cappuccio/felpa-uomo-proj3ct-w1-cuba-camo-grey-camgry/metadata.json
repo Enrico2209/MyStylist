@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-proj3ct-w1-cuba-camo-grey-camgry",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Proj3Ct Cuba Hood Camo Grey\nLa\nfelpa\nProj3ct con cappuccio, tasconi e coulisse si distingue per il tema fantasia, ideale per un look casual e originale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE  65% cotone, 35% poliestere\nVestibilità regular\nCodice articolo: W1 CUBA CAMO GREY-CAMGRY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, fantasia camouflage d'impatto",
+    "season": "mezza_stagione",
+    "pattern": "camouflage"
+  }
 }

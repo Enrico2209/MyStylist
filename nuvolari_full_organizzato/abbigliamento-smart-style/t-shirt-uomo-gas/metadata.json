@@ -22,5 +22,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-uomo-gas",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Gas Luc Est.1984 Jet Stream\nesprime un'estetica solare, fresca e spiccatamente estiva, combinando il minimalismo grafico frontale con ricami testuali di ispirazione californiana. Sviluppata su una nuance bianco ottico/panna leggero (\"Jet Stream\"), questa t-shirt a maniche corte si caratterizza per dettagli strutturati e ricami a rilievo, posizionandosi come un capo essenziale ma ricco di personalità per la stagione calda.\nDesign e Caratteristiche Principali\nFrontale Essenziale con Grafica \"Sole\"\n: Il pannello anteriore sceglie un approccio pulito e grafico, ospitando sul petto a sinistra un micro-stemma nero a forma di sole stilizzato che racchiude al centro il lettering del brand \"GAS\" in bianco.\nDettaglio Posteriore con Ricami a Rilievo\n: Il retro della t-shirt mostra una composizione testuale complessa ed elegante eseguita a ricamo nero, impreziosita dal disegno filiforme di una palma tropicale sul lato sinistro. La grafica riporta la dicitura in stampatello \"HOUSE OF GAS MILANO EST.1984\", completata dal claim in carattere corsivo \"Wander wild, shine free\".\nTessuto Jersey di Cotone Morbido\n: Confezionata in un jersey di puro cotone compatto ma leggero, capace di assicurare un'alta traspirabilità e una sensazione di morbidezza prolungata sulla pelle anche durante i climi estivi più intensi.\nGirocollo e Finiture Strutturate\n: Presenta uno scollo rotondo classico rifinito con una bordatura elastica a costine che previene la deformazione dovuta all'uso. Le maniche corte e l'orlo inferiore dritto sono rifiniti con cuciture piatte parallele ad alta precisione.\nVestibilità Relaxed Fit Contemporanea\n: La t-shirt propone un taglio lineare e leggermente rilassato (\"Relaxed Fit\") come indicato dall'etichetta interna al collo, garantendo una silhouette moderna che si stacca fluidamente dal busto.\nProposta di Outfit\nCalifornia Casual Layering\n: Indossala sotto una\ncamicia\nin misto lino a righe verticali azzurre e crema, lasciata completamente aperta; l'abbinamento tra la palma ricamata della t-shirt e la texture fiammata del lino evocherà un perfetto stile da riviera, ideale per il tempo libero.\nSartorial Denim Match\n: Portala infilata all'interno di un\nbermuda\nstile chino in denim con doppie pinces frontali; la pulizia frontale della t-shirt valorizzerà la costruzione ricercata del pantalone, mentre la rimozione di un eventuale capospalla svelerà il carattere dei ricami posteriori.\nUrban Street Contrast\n: Abbinala a un\nbermuda\nin jeans dal lavaggio medio-scuro con risvolto sul fondo e completa il look sovrapponendo un\ngiubbotto\ndi jeans stone washed; il contrasto netto tra la base chiara della maglia e l'intensità del denim strutturerà un outfit urban classico, solido e senza tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con grafica, vestibilita relaxed fit",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

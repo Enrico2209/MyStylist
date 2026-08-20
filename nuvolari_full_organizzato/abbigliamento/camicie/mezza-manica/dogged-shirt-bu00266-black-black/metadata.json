@@ -22,5 +22,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/dogged-shirt-bu00266-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGrafica d'impatto e mood streetwear si incontrano nella\ncamicia da uomo HUF modello Dogged a manica corta nella nuance Nera\n. Un modello dal colletto aperto in stile bowling, impreziosito da una suggestiva stampa fotografica di due dalmata sul fronte: un capo dal carattere artistico e vacanziero, perfetto per le giornate calde e i look urbani.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Fresco e Fluido:\nmano leggera e morbida dalla vestibilita rilassata, ideale per la stagione calda.\nColletto Bowling Aperto:\ncollo a revers in stile camp che dona un tocco retro e disinvolto.\nStampa Fotografica Dalmata:\ngrafica placement in tonalita seppia sul fronte, tratto distintivo del modello Dogged.\nChiusura con Bottoni:\nabbottonatura frontale e maniche corte per una vestibilita fresca e ordinata.\nIdee di Stile: Costruisci il Tuo Look Estivo & Streetwear\nSummer Streetwear:\nabbinala a dei bermuda o a un paio di\njeans uomo\ne a delle\nsneakers uomo\nper un look fresco e d'impatto.\nLayering Leggero:\nperfetta aperta su una\nt-shirt uomo\nnera per un outfit urbano disinvolto.\nStatement Piece:\nla stampa grafica la rende protagonista anche degli outfit piu semplici.\nAggiungi un capo dal forte carattere al tuo guardaroba estivo. Scegli la freschezza del tessuto, la grafica fotografica e lo stile streetwear firmato HUF Dogged.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.5,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte stile bowling con grafica streetwear impattante e colletto camp",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

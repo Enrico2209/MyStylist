@@ -21,5 +21,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-uomo-nuvolari-slim-fit-micael-sw410-jeans",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nJeans Uomo Nuvolari Slim Fit Micael Sw410\nJeans slim fit uomo modello Micael firmato Nuvolari dal lavaggio chiaro con effetto scoloriture. Un jeans urban dal design semplice e lineare, realizzato in cotone elasticizzato ed impreziosito dalla salpa logata Nuvolari sul retro. Scopri, in un lavaggio scuro, il\njeans Micael sw510\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n99% cotone, 1% elastane\nCodice articolo: ESE SW410 MICAEL  JEANS-JEANS",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans Micael sw510",
+      "categoria_url": "https://www.nuvolari.biz/jeans-slim-fit-micael-sw510-jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche, capo base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

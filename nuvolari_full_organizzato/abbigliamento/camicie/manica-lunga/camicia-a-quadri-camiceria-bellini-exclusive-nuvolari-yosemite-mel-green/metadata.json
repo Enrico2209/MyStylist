@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yosemite-mel-green",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia uomo a maniche lunghe in tessuto 100% cotone con fantasia a scacchi verde e collo alla francese firmata\nCamiceria Bellini\nin esclusiva per Nuvolari. Completa il tuo look Nuvolari con il\npantalone chino Dexter sabbia\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia a quadri uomo Bellini for Nuvolari modello Yosemite - Mel Green\nManiche lunghe\nFantasia check\nChiusura con bottoni\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camiceria Bellini",
+      "categoria_url": "https://www.nuvolari.biz/brands/camiceria-bellini"
+    },
+    {
+      "testo": "pantalone chino Dexter sabbia",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-chino-nuvolari-5299-dexter-sabbia.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "camicia in cotone a quadri, vestibilita slim fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

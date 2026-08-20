@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m6gi16-k3032-light-oak-g1fg",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGUESS JEANS EST. 1981: UN’ICONA SENZA TEMPO\nQuesta T-shirt in bianco ottico celebra le radici storiche del brand con un design pulito ed essenziale. Il focus è tutto sulla grafica frontale, dove l'iconico lettering \"GUESS\" è realizzato con una particolare texture a rilievo che richiama l'estetica vintage del denim.\nDettagli Grafici:\nIl logo in verde muschio con effetto strutturato è accompagnato dalla dicitura \"EST. 1981\", un omaggio all'anno di nascita del brand.\nQualità Premium\n: Realizzata in puro cotone morbido, offre una sensazione di freschezza naturale sulla pelle, ideale per affrontare le giornate in città.\nStile Versatile\n: La rende il punto di partenza perfetto per qualsiasi outfit, dai jeans classici ai bermuda estivi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con logo frontale di medie dimensioni",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

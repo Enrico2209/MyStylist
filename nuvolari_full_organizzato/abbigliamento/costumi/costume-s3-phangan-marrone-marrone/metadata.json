@@ -22,5 +22,29 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-s3-phangan-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica funzionale e tonalità monocromatiche si fondono nel\nCostume Uomo Proj3ct Phangan\n. Caratterizzato da una vivace stampa all-over, questo modello è pensato per chi desidera un look balneare dinamico, espressivo e ricco di stile, perfetto per non passare inosservato in spiaggia o durante i pool party estivi.\nDesign e Caratteristiche Tecniche\nFascione Elastico in Vita con Coulisse\n: La vita è dotata di una spessa fascia elastica arricciata per garantire un fit sempre comodo e stabile. È completata da una coulisse a cordoncino piatto regolabile sul davanti, rifinita con cura nei minimi dettagli.\nTasche Pratiche e Funzionali\n: Il modello è strutturato con due comode tasche a filo posizionate lungo i fianchi e un taschino posteriore applicato sul lato destro, ideale per contenere i piccoli essentials fuori dall'acqua.\nTessuto Tecnico ad Asciugatura Rapida\n: Confezionato in un poliestere leggero e ultra-rapido nell'asciugarsi, che previene le irritazioni e garantisce il massimo comfort nel passaggio dall'acqua alle attività quotidiane.\nConsigli di Stile Nuvolari\nPool Party Match\n: Esalta l'anima grafica del costume Phangan abbinandolo a una\nt-shirt\nbasic oversize in total black o bianca e a un paio di ciabatte slide dal profilo bold.\nSunset Aperitif Outfit\n: Trasforma il look per il post-spiaggia indossandolo insieme a una\ncamicia\na maniche corte in viscosa o lino leggero tenuta aperta sopra un micro top, completando il tutto con occhiali da sole rétro.\nPorta il ritmo dell'estate sempre con te. Scegli l'attitudine bold e la freschezza del costume Phangan firmato Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% poliestere\nVestibilità regular\nCodice articolo: S3 PHANGAN MARRONE-MARRONE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno con elastico e coulisse",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

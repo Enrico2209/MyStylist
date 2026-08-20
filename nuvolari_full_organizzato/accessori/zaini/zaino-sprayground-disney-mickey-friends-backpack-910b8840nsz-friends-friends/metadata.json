@@ -25,5 +25,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-disney-mickey-friends-backpack-910b8840nsz-friends-friends",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'allegria senza tempo della banda Disney e l'attitudine urban di Sprayground si incontrano nello\nzaino Disney Mickey & Friends Backpack modello Friends\n. Caratterizzato da uno sfondo a scacchi marroni e neri su cui svetta la grafica vintage \"On Top of the World\" insieme a Topolino, Minni, Paperino, Pippo, Pluto, Paperina e Ciop, questo accessorio in edizione limitata fonde nostalgia e street culture con un impatto visivo straordinario.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Realizzato in robusta ed ecologica pelle sintetica, resistente all'acqua, alle abrasioni e all'uso quotidiano per la massima protezione del contenuto.\nGrafica Esclusiva Disney x Sprayground \"Mickey & Friends\"\n: Stampa frontale ricca di dettagli con la scritta \"On Top of the World - Always Fresh\", l'iconica Shark Mouth laterale e tutti i personaggi Disney classici in outfit streetwear.\nOrganizzazione e Scomparti Intelligenti\n: Vano interno imbottito separato per laptop fino a 15\", tasca superiore in velluto portaocchiali, tasche laterali a fessura e una tasca di sicurezza nascosta con zip sullo schienale.\nErgonomia e Comfort di Trasporto\n: Schienale in mesh traspirante con imbottitura anatomica, spallacci regolabili imbottiti e praticissima fascia posteriore per il fissaggio al manico del trolley.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Pop Culture\nPop Streetwear Statement\n: Fai risaltare la vivace grafica dello zaino abbinandolo a una\nt-shirt uomo\ngrafica o oversize, a un paio di\njeans uomo\ndal taglio dritto e a delle\nsneakers uomo\nd'ispirazione retro.\nCasual Everyday & Campus Look\n: Ideale per lo studio, l'università, il lavoro o i viaggi nel tempo libero, indossalo con una felpa confortevole e dei\nbermuda uomo\nper le giornate più calde.\nLayering Metropolitano\n: Durante i mesi più freschi, accostalo a un giubbotto di pelle, un bomber o un piumino selezionato dalla nostra linea\ngiubbotti uomo\nper uno stile urbano completo.\nPorta sempre con te l'energia dei personaggi più amati. Scegli la capienza, la praticità e il design iconico dello zaino Sprayground Disney Mickey & Friends.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro con grafica cartoon vistosa",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

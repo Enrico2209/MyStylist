@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/new-balance/sneakers-ms237-navy-le1",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nSneakers da Uomo\nScala taglie US\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nSneakers Uomo New Balance modello MS237 Navy\nTomaia in suede e mesh che offre una comoda calzata e un look sportivo\nSuola in gomma per aderenza e durabilità\nDesign ispirato ai modelli da corsa anni '70 per un tocco vintage e uno stile di tendenza\nChiusura regolabile con lacci per una calzata personalizzata\nScala taglie US",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive di marchio sportivo, tetto massimo livello 2",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

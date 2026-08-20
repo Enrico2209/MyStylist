@@ -16,5 +16,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/scarpe-donna/w-classic-donna-ugg-mini-platform-1134991-chestnut-che",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nStivaletti Donna Ugg Classic Mini Platform Chestnut\nLo stivaletto UGG è realizzato in pregiato camoscio e foderato con un misto lana UGGplush™ per garantire una morbidezza eccezionale. La suola è disponibile in due varianti: la SugarSole™, realizzata con schiuma di canna da zucchero per ridurre la dipendenza dai combustibili fossili, o la Treadlite by UGG™, per un comfort e una trazione superiori. Un perfetto connubio di stile e sostenibilità.\nAbbinali ad un paio di\npantaloni\ne ad una\nfelpa\nper ottenere un look perfetto per la stagione invernale!\nTaglie UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nTomaia: camoscio. Dettagli: overlock sulle cuciture, tirante posteriore. Fodera: UGGplush™, 80% lana rigenerata e 20% lyocell (17 mm) o 60% lana rigenerata e 40% lyocell (17 mm). Soletta: UGGplush™, 80% lana rigenerata e 20% lyocell (17 mm) o 60% lana rigenerata e 40% lyocell (17 mm). Intersuola: EVA.\nCodice articolo: 1134991 CHESTNUT-CHE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/felpe-e-maglie-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "stivaletto scamosciato informale da giorno con platform, consigliato con felpa",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

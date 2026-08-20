@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/gilet/gilet-nuvolari-wd-4004-dave-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGilet da Uomo\nNuvolari\nNero\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGilet Uomo Nuvolari modello 4004 Dave\nClassica scollatura a \"V\"\nStruttura a monopetto\nBottoni a chiusura\nDue tasche con mini pattina\nMicro fantasia a pois all over sul retro\nDue punte sul davanti che stabilizzano il baricentro\nVita regolabile tramite fettucia e fibbia sul retro\nComposizione: 98% cotone, 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "gilet classico monopetto in cotone, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

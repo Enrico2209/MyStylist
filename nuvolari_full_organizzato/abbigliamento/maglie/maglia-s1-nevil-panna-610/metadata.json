@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s1-nevil-panna-610",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nScopri l'eleganza senza tempo con la Maglia Uomo Nuvolari Nevil. Realizzata con tessuti di alta qualità e cura dei dettagli, questa maglia è un'aggiunta essenziale al guardaroba di ogni uomo moderno. Con il suo design classico e sofisticato, si adatta perfettamente a diverse occasioni, dal lavoro agli incontri informali con gli amici. La\nMaglia Uomo\nNuvolari Nevil offre comfort e stile ineguagliabili, con una vestibilità che si adatta alla perfezione. Scegli la raffinatezza senza tempo con questa maglia di alta qualità, perfetta per ogni uomo che cerca un look impeccabile in ogni momento.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 80% cotone 20% Poliestere\nCodice Prodotto: S1 Nevil",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in maglia lavorata, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

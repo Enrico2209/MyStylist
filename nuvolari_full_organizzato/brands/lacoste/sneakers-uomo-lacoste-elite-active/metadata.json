@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/sneakers-uomo-lacoste-elite-active",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nElite Active LACOSTE\nLa Scarpa Elite Active di Lacoste è la sneaker ideale per l'uso quotidiano, unendo lo stile elegante e minimalista di Lacoste a un design ispirato alle scarpe da running rétro. È progettata per offrire leggerezza e reattività, garantendo un comfort che dura tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers di ispirazione running rétro, uso quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

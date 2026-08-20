@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/stivali-ugg-classic-micro",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUGG Classic Micro: L’Icona si fa Minimal\nIl\nClassic Micro\nè la nuova frontiera dello stivaletto basso, una reinterpretazione audace del leggendario design UGG. Con il suo profilo ultra-ribassato, questo modello unisce la versatilità di una scarpa urbana alla morbidezza leggendaria degli stivali Classic, offrendo un comfort così elevato che ti sembrerà di camminare su una nuvola.\nPunti di Forza\nTermoregolazione Naturale:\nGrazie alla pregiata fodera in\nmontone (fino a 17 mm)\n, il piede respira naturalmente. Questo materiale regola la temperatura interna, permettendoti di indossare lo stivale comodamente anche a pelle nuda.\nPronto a Tutto:\nLa tomaia in camoscio è stata arricchita con un\ntrattamento idrorepellente\napplicato esternamente, perfetto per proteggere la calzatura dalle macchie e dall'umidità leggera.\nLeggerezza Sostenibile:\nLa suola in\nEVA da canna da zucchero\ngarantisce una struttura piuma e un supporto naturale, ideale per chi cerca una calzatura da indossare tutto il giorno, in casa come fuori.\nMateriali:\nTomaia in camoscio di alta qualità con tirante posteriore per facilitare la calzata.\nInterni:\nDoppia densità di montone (10 mm sul gambale e 17 mm sulla mascherina) e soletta coordinata per il massimo calore.\nEco-Design:\nBordature realizzate interamente in\npoliestere riciclato al 100%\n.\nFiniture:\nDoppia etichetta tessuta con logo UGG® posizionata strategicamente sul tallone e sulla soletta interna.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "calzatura slip-on ultra-bassa in camoscio e montone, assimilabile a una pantofola da casa o uso estremamente informale",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

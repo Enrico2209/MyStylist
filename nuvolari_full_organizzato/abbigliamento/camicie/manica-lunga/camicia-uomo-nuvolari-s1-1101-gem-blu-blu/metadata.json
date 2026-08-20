@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-s1-1101-gem-blu-blu",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Gem Blu\nLa camicia\nNuvolari\npresenta un colletto classico e una trama perfetta per l'estate. Realizzata con tessuti leggeri e traspiranti, offre comfort e freschezza durante le giornate calde, garantendo un look moderno e adatto a molteplici occasioni.\nAbbina la camicia ad una\ngiacca\nper un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di\npantaloni di chino\nche\nNuvolari\nha pensato per te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n97% cotone, 3% elastane\nCodice articolo: S1 1101 GEM BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantaloni di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia con fantasia all-over, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

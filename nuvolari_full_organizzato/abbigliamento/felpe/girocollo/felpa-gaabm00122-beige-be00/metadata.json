@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/girocollo/felpa-gaabm00122-beige-be00",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nFelpa da Uomo Gaelle Paris Simbolo di Stile Contemporaneo\nIndossa il simbolo di stile contemporaneo con la Felpa da Uomo Gaelle Paris. Con un taglio moderno e dettagli distintivi, questa\nfelpa\nsi adatta perfettamente a un look di tendenza. Ideale per chi cerca uno stile distintivo e\nall'avanguardia\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo classica, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/w-cardigan-w2-taylor-grey-grey",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Cardigan Taylor di PROJ3CT è il capo di\nlayering\nessenziale per un comfort totale e un tocco di eleganza discreta. Realizzato in\n100% Acrilico\n, offre una morbidezza eccezionale, calda e piacevole al tatto, perfetta per avvolgerti nelle giornate più fresche.\nLa linea versatile lo rende ideale per ogni occasione: indossalo sopra una t-shirt e jeans per un look casual del fine settimana, oppure abbinalo a un vestito elegante per aggiungere calore e raffinatezza al tuo outfit da ufficio o da sera.\nPerché 100% Acrilico?\nL'Acrilico è una fibra sintetica premium scelta per le sue proprietà che replicano la morbidezza e il calore della lana, ma con notevoli vantaggi:\nLeggerezza e Calore:\nGarantisce un ottimo isolamento termico senza appesantire.\nResistenza e Durata:\nMantiene la forma e la vivacità del colore anche dopo numerosi lavaggi.\nFacilità di Cura:\nAsciuga rapidamente ed è resistente alle pieghe e alle tarme\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% acrilico\nVestibilità regular\nCodice articolo: W2 TAYLOR GREY-GREY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "cardigan lungo in maglia, capo versatile da smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

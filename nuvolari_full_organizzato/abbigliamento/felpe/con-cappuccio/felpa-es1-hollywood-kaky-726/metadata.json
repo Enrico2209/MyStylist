@@ -20,5 +20,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-es1-hollywood-kaky-726",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Nuvolari: Un'opzione versatile per ogni occasione. Realizzata con morbido tessuto per garantire comfort e calore. Il suo design senza tempo si adatta perfettamente allo stile casual o sportivo. Ideale per le giornate rilassate o per un look informale con un tocco di eleganza. La felpa Nuvolari è la scelta ideale per un\nabbigliamento\ncomodo e alla moda, senza compromettere lo stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio classica, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

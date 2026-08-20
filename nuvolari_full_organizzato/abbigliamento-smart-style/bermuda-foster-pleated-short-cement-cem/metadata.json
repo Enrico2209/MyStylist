@@ -25,5 +25,22 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-foster-pleated-short-cement-cem",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nL'eleganza rilassata del design sartoriale incontra la libertà di movimento della cultura skate nel nuovo\nBermuda Uomo Obey Cement\n. Questo pantaloncino corto adotta un approccio sofisticato ed easy-wear, perfetto per chi cerca un capo fresco, versatile e strutturato, ideale da inserire nei look quotidiani della bella stagione.\nDesign e Caratteristiche Principali\nNuance Cement Naturale e Neutra\n: Il bermuda si presenta in una colorazione sabbia/khaki chiaro desaturata, denominata \"Cement\". Un tono neutro, pulito ed estremamente versatile, facilissimo da abbinare sia a tinte unite minimaliste che a grafiche streetwear colorate.\nDettaglio Sartoriale con Pinces Frontali\n: Il vero e proprio focus stilistico del modello è la presenza di profonde pinces simmetriche sul davanti. Questa costruzione d'archivio dona una raffinata struttura tridimensionale alla parte superiore, creando un elegante gioco di volumi e pieghe morbide.\nGirovita Elastico Comfort con Passanti\n: Per garantire il perfetto equilibrio tra la precisione estetica di un pantalone classico e la comodità dello sport-wear, il fascione della vita integra una banda elastica arricciata sulla parte posteriore. La chiusura frontale mantiene il bottone in tinta, la patta con zip e passanti robusti per la cintura.\nTaglio Relaxed a Gamba Ampia\n: Sviluppato con una geometria svasata e comoda che scende fluida lungo i fianchi e le cosce, fermandosi sopra il ginocchio. Un design di chiara ispirazione anni '90 che assicura freschezza e comfort assoluti.\nTasche ad Accesso Rapido\n: Il design pulito è rifinito lateralmente da due pratiche tasche a filo ad accesso diagonale che assecondano la linea delle pinces, offrendo funzionalità senza appesantire la silhouette del bermuda.\nTessuto Twill di Cotone Leggero e Resistente\n: Confezionato in una tela di puro cotone di altissima qualità, fresca, traspirante e piacevole sulla pelle. La consistenza della tela è selezionata da Obey per strutturare al meglio le pieghe anteriori e assicurare un'ottima resistenza all'usura quotidiana.\nIdee di Stile: Crea la Tua Wave\nContemporary Preppy Uniform\n: Esalta la pulizia geometrica del bermuda abbinandolo alla precisione della camicia uomo Obey Sky Multi a righe azzurre e bianche. Indossa la camicia aperta sopra a una t-shirt basic bianca e chiudi il cerchio con un mocassino audace come il Vans LX Loafer 53 Black per un perfetto bilanciamento street-chic.\nSkate Core Daily Outfit\n: Gioca con i volumi rilassati combinando lo short Cement a una t-shirt uomo Obey dal taglio boxy arricchita da una maxi grafica di propaganda posteriore. Aggiungi una sneaker bassa da skate e un calzino di spugna bianco a vista per un look urban immediato ed efficace.\nUrban Utility Layering\n: Per le gite fuori porta o i festival estivi, indossa il bermuda insieme a un top minimalista e sovrapponi una overshirt leggera in canvas lasciata completamente aperta. Completa il look con il cappello Obey Fence Camo per inserire un forte e originale contrasto texture mimetico.\nRiscrivi le regole dello stile estivo unendo la raffinatezza dei dettagli sartoriali alla praticità dello skatewear d'avanguardia. Scegli la versatilità e il fit impeccabile dei bermuda Cement firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in cotone con pinces ma dal taglio rilassato e girovita elastico, di marchio streetwear (Obey)",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

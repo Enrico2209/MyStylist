@@ -21,5 +21,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/camicia-lee-donna-bohemian-blouse",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Donna Lee Bohemian Blouse White\nincarna una romantica estetica neo-folk d'ispirazione rétro, fondendo la delicatezza dei dettagli artigianali a una silhouette fluida e contemporanea. Questa blusa si distingue per una ricchissima alternanza di ricami traforati e inserti in pizzo che donano tridimensionalità e leggerezza visiva al capo, rendendolo un pezzo unico e di grande carattere.\nDesign e Caratteristiche Principali\nLavorazione Sangallo e Inserti in Pizzo\n: Il pannello frontale e le maniche sono interamente impreziositi da strisce verticali geometriche di pizzo ricamato e motivi floreali traforati che creano un sofisticato gioco di trasparenze e textures.\nColletto Alla Coreana con Bordo Festonato\n: Presenta uno scollo con colletto alla coreana basso, interamente rifinito sulla sommità da un ricamo a punta o smerlato che incornicia il collo con grazia e pulizia sartoriale.\nManiche a Palloncino con Maxi Polsini\n: Le maniche presentano un taglio ampio e arricciato sulle spalle che scende morbido a sbuffo, per poi convergere in alti polsini strutturati. Questi ultimi sono rifiniti da ricami geometrici coordinati e da una fitta fila di bottoncini laterali di chiusura.\nAbbottonatura Frontale Lineare\n: La chiusura centrale è definita da una fila verticale di piccoli bottoni chiari che corrono lungo la fessura anteriore, integrandosi con discrezione nel design ricamato.\nTessuto Leggero e Fluido\n: Confezionata in un filato purissimo, arioso e morbido sulla pelle, studiato per garantire la massima traspirabilità ed offrire un panneggio cascante e naturale.\nTaglio Regular Boxy Fit\n: La silhouette propone volumi leggermente squadrati e rilassati sul busto, bilanciando la ricchezza dei dettagli romantici con un'attitudine easy e disinvolta.\nProposta di Outfit\nNeo-Folk Denim Match\n: Abbinala a un\njeans\na gamba larga dal lavaggio vintage e completa il look con un cappello; l'incontro tra la texture ruvida del denim e la delicatezza dei ricami traforati creerà un contrasto perfetto di chiara ispirazione anni '70.\nSummer Tailoring Fusion\n: Portala infilata all'interno di un\npantalone\ndal taglio chino con vita alta e risvolto sul fondo; la pulizia geometrica del pantalone valorizzerà la ricchezza decorativa della blusa, definendo un outfit da giorno sofisticato e fresco.\nCasual Resort Layering\n: Indossala aperta come leggero capospalla sopra una canotta basic, abbinandola a un\nbermuda\nin tessuto morbido; un abbinamento rilassato, ideale per le giornate estive o per un aperitivo in spiaggia.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Camicia/blusa con ricami sangallo e pizzo, adatta a contesti smart casual e quotidiani ricercati",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

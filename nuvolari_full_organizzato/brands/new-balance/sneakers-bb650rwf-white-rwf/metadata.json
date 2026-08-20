@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-bb650rwf-white-rwf",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nscarpe\nda uomo sono più di semplici accessori: sono una dichiarazione di stile e funzionalità. Disponibili in una varietà di stili come sneakers, scarpe eleganti, stivali o mocassini, queste calzature sono realizzate con materiali di alta qualità come pelle, tessuti tecnici o materiali sintetici resistenti. Offrono comfort, supporto e aderenza, adattandosi a diverse attività e occasioni. Sia che tu cerchi un tocco casual o un'eleganza sofisticata, le\nscarpe da uomo\ncompletano il tuo look e riflettono la tua personalità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "scarpe da uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

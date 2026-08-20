@@ -26,5 +26,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/wally-canvas-40700-black-white-66",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nL'emblema del comfort ultraleggero, la massima libertà di movimento e un'attitudine casual e disinvolta si fondono nella collezione di\nmocassini uomo Heydude modello Wally Canvas\n. Il brand, diventato un punto di riferimento globale per la progettazione di calzature destrutturate da giorno, reinterpreta il classico mocassino estivo attraverso materiali freschi e flessibili, offrendo una scarpa slip-on ideale per chi cerca una leggerezza assoluta senza rinunciare a uno stile urban versatile e di tendenza.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Canvas di Cotone Traspirante\n: La struttura è interamente confezionata in tela di cotone (canvas) premium, un materiale eccezionalmente fresco, leggero e resistente, studiato per favorire la corretta ventilazione del piede anche durante le giornate più calde della stagione estiva.\nL'Innovativo Sistema Easy-On con Lacci Elastici\n: Il modello Wally è provvisto dell'esclusivo sistema di allacciatura elastica regolabile con finali annodati tono su tono. Questa soluzione costruttiva permette di calzare la scarpa istantaneamente come una slip-on, adattandosi in modo flessibile alla forma del collo del piede senza costringerlo.\nLa Tradizionale Costruzione Moc-Toe Destrutturata\n: La calzatura mantiene la classica cucitura a rilievo sulla vaschetta anteriore tipica del mocassino, sapientemente integrata in un'architettura priva di irrigidimenti interni o contrafforti rigidi, garantendo una calzata morbida e totalmente ripiegabile.\nSuola Ultralight e Soletta Ergonomica\n: La scarpa poggia su una leggerissima suola flat in schiuma EVA espansa, progettata per assorbire gli impatti e dare la sensazione di camminare a piedi scalzi. Al suo interno, una soletta interna rimovibile in memory foam rivestita in sughero o tessuto assicura comfort e igiene ottimali.\nPalette Cromatiche Versatili\n: Sviluppata su tonalità neutre e naturali come il beige, il kaki, il grigio melange e il blu navy, la linea Wally Canvas si adatta con fluidità a ogni tipo di guardaroba, combinando un'estetica sobria a dettagli moderni come le suole a contrasto o leggermente puntinate (speckled).\nIdee di Stile: Costruisci il Tuo Look Urban Casual & Smart-Riviera\nAuthentic Riviera Linen Uniform\n: Esalta la natura estiva e la leggerezza della calzatura creando una combinazione fresca dal sapore sartoriale disinvolto. Abbina i mocassini Wally Canvas alla silhouette fluida e traspirante di un pantalone uomo o di un bermuda uomo Baecker in lino nelle sfumature naturali del sabbia o del beige, completando l'outfit con una camicia in lino fiammato bianco ottico.\nMetropolitan Smart-Casual Transition\n: Crea un look pulito, bilanciato e ricco di comfort per i tuoi impegni quotidiani o per un aperitivo al tramonto in città. Accosta le calzature alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, indossando sulla parte superiore la ricercatezza tricot di una delle nostre maglie polo uomo Nuvolari in maglia blu navy o grigia.\nUrban Contemporary Denim Mix\n: Inserisci la praticità della scarpa in tela in un contesto streetwear solido, rilassato e d'ispirazione anni '90. Combina il modello Wally alla linea generosa, dritta e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro o bleach, lasciando che l'ampiezza del denim si appoggi con morbidezza sulla calzatura, e coordinando il look a una\nt-shirt uomo\ngrafica.\nSperimenta la perfetta sintesi tra l'essenzialità del design destrutturato e lo straordinario comfort delle suole ultraleggere di ultima generazione. Scegli la freschezza del canvas di cotone, la comodità della calzata elastica e l'attitudine inconfondibile dei mocassini uomo firmati Heydude.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Mocassino in tela ultraleggero e destrutturato, assimilabile a una slip-on casual quotidiana",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

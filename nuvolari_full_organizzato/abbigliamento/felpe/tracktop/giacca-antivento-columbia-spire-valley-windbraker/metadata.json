@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/giacca-antivento-columbia-spire-valley-windbraker",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGIACCA TECNICA OMNI-SHIELD™: COMFORT E VERSATILITÀ\nUna soluzione versatile per il trekking e le camminate urbane. Questo guscio protettivo sfrutta il sistema Omni-Shield™ per garantire una resistenza superiore all'umidità e alle macchie accidentali, assicurando traspirabilità e pulizia costante.\nImpermeabilità Leggera\n: Progettata per resistere alla nebbia e alle piogge brevi, bloccando l'ingresso dell'acqua senza appesantire il tessuto.\nFit Regolabile\n: La struttura include un cappuccio con cordoncino e polsini elasticizzati, pensati per isolare il calore e impedire l'ingresso del vento.\nDesign Funzionale\n: La chiusura centrale fluida e le tasche di sicurezza rendono questo capo un alleato indispensabile per ogni uscita.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 100% nylon\nVestibilità regular\nCodice articolo: 2155201 BLACK TREEBARK-010",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "giacca antivento tecnica, tetto di marchio outdoor",
+    "season": "mezza_stagione",
+    "pattern": "camouflage"
+  }
 }

@@ -22,5 +22,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt-donna-levis-essential",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'essenziale estivo si spoglia di ogni eccesso e si tinge di bianco ottico, ridefinendo il concetto di basic contemporaneo. La\nT-Shirt Donna Levi's Essential Sqrd Tee White\nè la scelta definitiva per chi esige una silhouette pulita, iper-femminile e dal carattere spiccatamente urban. Questo modello rompe i canoni del classico girocollo per scommettere su linee geometriche d'ispirazione minimalista anni '90, perfette per elevare qualsiasi look da strada quotidiano.\nDesign e Caratteristiche Principali\nScollo Quadrato Strutturato (Squared Neckline)\n: Il vero tratto distintivo del capo è l'ampio taglio squadrato sul davanti. Una linea geometrica e nitida che valorizza e incornicia il décolleté con un sapore d'archivio sofisticato.\nTessuto a Costine Verticali (Ribbed Craftsmanship)\n: Realizzata in un morbido filato elasticizzato con lavorazione a micro-costine fitte all-over. Questa texture dona spessore e consistenza alla maglia, garantendo un fit pazzesco che asseconda le forme in modo impeccabile.\nTaglio Slim Fit Modellato\n: La costruzione sartoriale definisce una silhouette asciutta e aderente al corpo, creando una linea pulita che elimina ogni tipo di volume superfluo.\nManiche Corte Anatomiche\n: Progettata con maniche dal taglio ridotto e lineare che seguono la fisionomia delle spalle in modo naturale, mantenendo le proporzioni del capo perfettamente bilanciate.\nDettaglio Red Tab Laterale\n: Sul fondo inferiore sinistro spicca la minuscola ed iconica etichetta rossa ricamata di Levi's, piccolo sigillo cromatico a contrasto e garanzia di autenticità heritage.\nIdee di Stile: Crea la Tua Wave\nThe 90s Baggy Contrast\n: Sfrutta l'aderenza di questa t-shirt bianca abbinandola a un gioco di volumi oversize. Indossala sopra un\njeans\ndal fit loose, cargo o baggy molto ampio e chiudi il cerchio con una sneaker chunky.\nSkate Inspired Match\n: Infila il capo all'interno di un bermuda in denim loose chiaro o di un classico pantalone chino Dickies dal taglio dritto. Calze bianche spesse a vista e una sneaker bassa da skate completeranno un outfit fedele alla cultura street.\nUrban Tailoring Layering\n: Utilizzala come strato base strategico sotto un blazer oversize destrutturato o una giacca utility lasciata completamente aperta; lo scollo geometrico quadrato rimarrà in primo piano, spezzando la formalità del capospalla con un accento pop immediato.\nRinfresca i tuoi fondamentali con il design evoluto di Levi's e scendi in città a dettare le regole dello stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a costine, capo quotidiano informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

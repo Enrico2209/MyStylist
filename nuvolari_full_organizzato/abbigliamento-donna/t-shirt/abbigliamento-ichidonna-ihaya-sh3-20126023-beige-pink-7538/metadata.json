@@ -23,5 +23,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihaya-sh3-20126023-beige-pink-7538",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa canotta\nIchi Donna Ihaya Sh3 Beige/Pink\n(strutturata come un top smanicato blusante) infonde una nota di raffinata e giocosa originalità nel guardaroba estivo femminile, grazie a un pattern grafico dal forte impatto visivo. Caratterizzato da una delicata combinazione cromatica tra una base beige/panna, macchie marrone cioccolato e vivaci tocchi fucsia (\"Beige/Pink\"), questo capo unisce la freschezza di una costruzione priva di maniche a una silhouette fluida, ideale per impreziosire i look casual della stagione calda o per aggiungere un accento grintoso sotto un blazer leggero.\nDesign e Caratteristiche Principali\nPattern Animalier Rivisitato Pop\n: La superficie è interamente decorata da una stampa maculata all-over che rielabora il classico motivo leopardato, inserendo all'interno della palette neutra del marrone e del beige dei vivaci accenti rosa fucsia che rinfrescano il design con un tocco contemporaneo e femminile.\nTessuto Fluido e Scivolato\n: Realizzata in un filato estivo leggerissimo e dalla caduta morbida, che scivola con delicatezza sulle linee del corpo garantendo freschezza, traspirabilità e un movimento sinuoso.\nScollatura a V Profonda e Pulita\n: Presenta uno scollo a V geometrico e nitido sul davanti che slancia la figura e incornicia il decolleté, perfetto da valorizzare con collane sottili.\nFustella Anteriore con Bottoncini\n: Il pannello frontale è scandito verticalmente da una fila centrale di piccoli bottoni chiari che partono dall'apice dello scollo fino all'orlo inferiore, aggiungendo un dettaglio strutturale d'ispirazione camiceria.\nCostruzione Smanicata con Spalla Larga\n: Il taglio privo di maniche presenta un giromanica pulito e una spalla ben proporzionata che garantisce un'ottima copertura e la massima libertà di movimento durante le giornate più afose.\nSilhouette Blusante Morbida\n: I volumi scendono fluidi senza costrizioni sul busto, offrendo una vestibilità versatile che si presta magnificamente a essere indossata sia lasciata morbida sia infilata all'interno di gonne o pantaloni a vita alta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Top smanicato blusante con bottoni, stile camicetta estiva ma informale per via del pattern vivace",
+    "season": "estate",
+    "pattern": "animalier"
+  }
 }

@@ -21,5 +21,25 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-uomo-la-coste-green",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa\nt-shirt da Uomo Green\nfirmata Lacoste, è un capo di altissima qualità che non passa mai di moda.\nMaglietta a girocollo, verde, a manica corta e stampa grafica frontale riportante il nome del\nBrand\n. Si tratta di un modello semplice e pratico, a tinta unita\nSe anche tu sei un fan sfegatato del brand\nLacoste\n, dai uno sguardo qui agli altri\ncapi d'abbigliamento\ndel marchio, selezionati ad hoc per te da\nNuvolari\n.\nIl modello è alto 1.88 cm e indossa la taglia L.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nT-shirt Uomo Green Lacoste\nVestibilità regular\nComposizione: 100% cotone\nCodice articolo: TH6709 GREEN-132",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi d'abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/lacoste"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a tinta unita con piccolo logo sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

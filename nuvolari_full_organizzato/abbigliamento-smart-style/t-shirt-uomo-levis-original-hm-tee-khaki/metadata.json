@@ -24,5 +24,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-uomo-levis-original-hm-tee-khaki",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Levi's Original\nrappresenta l'essenza stessa del basic d'autore, un pezzo fondamentale pensato per chi esige pulizia nelle linee e massima versatilità nel proprio guardaroba quotidiano. Questo modello si spoglia di grafiche oversize per puntare tutto su un'estetica minimale, solida e ricca di attitudine heritage.\nDesign e Caratteristiche Principali\nDettaglio Logo Micro Red Tab\n: Il vero e proprio sigillo di autenticità, ben visibile sul petto, è il piccolissimo e iconico ricamo del logo Levi's, un dettaglio discreto che celebra la storia del brand senza appesantire il design del pannello frontale.\nScollo a Girocollo Costruito\n: Presenta un girocollo classico rifinito con una bordatura a coste piatte e cuciture di rinforzo a doppio ago sulla parte posteriore, studiato per mantenere perfettamente la forma lavaggio dopo lavaggio.\nTessuto Jersey di Cotone Premium\n: Confezionata in un jersey di puro cotone morbido e compatto al tatto, capace di offrire un'eccellente traspirabilità sulla pelle e una caduta naturale che non segna.\nTaglio Regular Fit Bilanciato\n: La silhouette si sviluppa con volumi standard ed equilibrati, offrendo la giusta libertà di movimento senza risultare né troppo aderente né oversize.\nManiche Corte dal Taglio dritto\n: La costruzione della spalla e della manica segue la linea anatomica del corpo con precisione, terminando con un orlo lineare a profilo piatto ed essenziale.\nProposta di Outfit\nThe Core Denim Wave\n: Il match più naturale e iconico. Indossala all'interno di un\njeans\nd'archivio Levi's dal lavaggio vintage e completa il look con una sneaker bassa per una divisa urban intramontabile.\nContemporary Layers Style\n: Utilizzala come base e sovrapponi un'ampia\novershirt\naperta a scacchi o in denim pesante, abbinandola a un pantalone chino dal fit rilassato per un perfetto stile metropolitano.\nSmart-Casual Contrast\n: Spezza la rigidità di un completo formale o di un blazer estivo infilando questa t-shirt sotto la giacca; il perfetto equilibrio tra l'attitudine street e il tailoring contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a girocollo, capo quotidiano informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

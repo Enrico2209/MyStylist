@@ -22,5 +22,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/propaganda/t-shirt-ribs-tee-prts658-nero-01",
-  "image_count": 2
+  "image_count": 2,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt di stampo streetwear, tetto di marchio street",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

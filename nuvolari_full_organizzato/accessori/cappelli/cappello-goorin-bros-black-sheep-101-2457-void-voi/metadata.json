@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-goorin-bros-black-sheep-101-2457-void-voi",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nDai vita al tuo stile con l'autenticità inconfondibile di\nGoorin Bros.\n, un marchio che trasforma il cappello in una vera e propria dichiarazione di personalità. Ogni cappello è frutto di un'eredità artigianale che risale al 1895, unendo materiali di alta qualità a un design inconfondibile.\nFamosi per l'iconica \"Farm Collection\" e per le stampe audaci, i modelli Goorin Bros. sono realizzati per chi osa distinguersi. Che tu scelga un trucket, un berretto o un cappello di feltro, indosserai un pezzo di storia della moda, sinonimo di comfort, vestibilità impeccabile e qualità duratura.\nCaratteristiche Essenziali e Dettagli Distintivi\nAutenticità Garantita:\nFondato nel 1895, ogni capo porta con sé oltre un secolo di tradizione artigianale nella produzione di cappelli.\nDesign Inconfondibile:\nStile unico, spesso caratterizzato da patch audaci, stampe originali e l'iconica etichetta Goorin Bros. sul lato.\nMateriali Premium:\nSelezione di tessuti e materiali di alta qualità (cotone, lana, mesh traspirante) per garantire comfort e resistenza nel tempo.\nVestibilità Perfetta:\nRealizzato con cura per offrire un\nfit\ncomodo e regolabile (se il modello lo permette), adatto a ogni forma del viso.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera stile trucker, accessorio prettamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

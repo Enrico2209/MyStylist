@@ -21,5 +21,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-napapijri-2-0-np0a4hoq-mojave-n3d1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo spirito pionieristico dell'esplorazione e la praticità del design utilitaristico si incontrano nei nuovi\nBermuda Uomo Napapijri Cargo Short\n. Questo modello multitasche unisce l'estetica robusta dell'abbigliamento da viaggio a una struttura versatile e confortevole, ideale per affrontare sia le escursioni all'aria aperta che le giornate dinamiche in città.\nDesign e Caratteristiche Principali\nTasconi Cargo Laterali con Dettaglio Iconico\n: Elemento distintivo del modello sono i capienti tasconi applicati sulle cosce con patta geometrica di chiusura. Sulla tasca sinistra spicca il ricamo finissimo della celebre bandiera norvegese, simbolo inconfondibile di avventura e apertura verso il mondo che firma il capo.\nTessuto in Cotone Tecnico o Canvas Leggero\n: Confezionato in una tela di cotone premium robusta e resistente, trattata per garantire una piacevole morbidezza al tatto e un'ottima traspirabilità, ideale per le temperature estive.\nCostruzione Funzionale e Cuciture Rinforzate\n: La struttura presenta un girovita rigido con passanti robusti per la cintura, chiusura frontale classica con bottone centrale personalizzato e patta con zip. Le doppie cuciture a vista lungo i profili aumentano la resistenza nei punti di maggiore sollecitazione.\nTasche Superiori ad Accesso Rapido\n: Il design è completato da profonde tasche anteriori con taglio all'americana arrotondato che seguono la linea dei fianchi, garantendo un rapido accesso agli oggetti personali di uso quotidiano.\nIdee di Stile: Linka il Tuo Outfit\nThe Outdoor Explorer Uniform\n: Esalta la natura avventurosa del brand abbinando il bermuda cargo alla struttura e all'iconografia di una\nt-shirt uomo\nNapapijri con la classica grafica S-Box frontale. Chiudi il look con una sneaker robusta e un cappello con visiera.\nUrban Industrial Vibe\n: Per un mix metropolitano e di carattere, gioca con la solidità delle linee. Accosta lo short cargo alla precisione geometrica di una delle\nt-shirt uomo\nG-Star RAW in cotone biologico nero o grigio fiammato, completando con una sneaker bassa da skate e un occhiale da sole bold.\nFresh Metropolitano Layering\n: Smorza l'impronta utility del pantaloncino giocando con le sovrapposizioni e le fibre naturali per un aperitivo al tramonto. Indossa una maglietta basic bianca e sovrapponi una delle freschissime\ncamicie uomo\nSquad in puro lino, da portare completamente aperta e con le maniche risvoltate.\nAffronta ogni spostamento con il massimo della funzionalità e un'attitudine impeccabile che non teme confronti. Scegli la resistenza strutturale e l'inconfondibile impronta geografica dei bermuda cargo uomo firmati Napapijri.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo, modello utility sportivo/outdoor con tasconi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

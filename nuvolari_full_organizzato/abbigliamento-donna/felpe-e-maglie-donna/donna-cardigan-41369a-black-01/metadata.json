@@ -21,5 +21,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/felpe-e-maglie-donna/donna-cardigan-41369a-black-01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa femminilità contemporanea e la cura del dettaglio di 24Colours prendono forma nel\ncardigan da donna 24Colours in nero\n. Un capo versatile e raffinato, dove il nero elegante e la maglia morbida creano un pezzo perfetto per il layering, capace di impreziosire ogni look con discrezione.\nDesign, Tessuti e Caratteristiche Costruttive\nMaglia Morbida e Avvolgente\n: Realizzato in filato dalla mano piacevole, offre calore leggero, comfort e una vestibilità che valorizza la silhouette.\nNero Elegante e Versatile\n: Una tonalità intramontabile, facile da abbinare e adatta a ogni occasione, dal giorno alla sera.\nDettagli a Costina\n: Polsini e bordi a costina che rifiniscono il capo e ne mantengono la forma nel tempo.\nVestibilità Aderente\n: Linea che segue le forme con eleganza, ideale sia da sola sia in sovrapposizione su top e camicie.\nIdee di Stile: Costruisci il Tuo Look Casual Chic & Elegante\nCasual Chic\n: Abbina il cardigan a un paio di\njeans donna\ne delle\nsneakers donna\nper un look quotidiano curato.\nLayering Elegante\n: Indossalo sopra una\ncamicia donna\no un top per un effetto raffinato e sofisticato.\nSerale & Capi Alternativi\n: Completa con dei\npantaloni donna\neleganti per un'uscita serale dal gusto ricercato.\nScegli la versatilità del nero e la morbidezza della maglia firmata 24Colours: un cardigan che accompagna ogni momento con eleganza discreta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers donna",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "cardigan in maglia fine a costine, versatile per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

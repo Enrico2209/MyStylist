@@ -16,5 +16,22 @@
   "pattern": "stampato",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-propaganda-oyster-shirt-prou821-v-u-v-u",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Propaganda Oyster è un pezzo forte della collezione del brand milanese, noto per il suo immaginario legato alla cultura street e underground. Questo modello, in particolare, celebra il connubio tra l'estetica delle classiche \"bowling shirt\" e una grafica d'impatto che richiama il mondo marino, reinterpretato con il gusto grafico audace tipico di Propaganda.\nIl punto di forza della Oyster Shirt risiede nel suo design iconografico. La stampa all-over che raffigura ostriche e perle non è solo un omaggio al mondo oceanico, ma una dichiarazione di stile \"bold\" (audace). Realizzata solitamente in tessuti leggeri e fluidi come la viscosa o il cotone leggero, offre una vestibilità rilassata che la rende perfetta per i mesi caldi, garantendo freschezza e un movimento naturale del capo sul corpo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.5,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia bowling a maniche corte con grafica all-over molto audace e vestibilita rilassata",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

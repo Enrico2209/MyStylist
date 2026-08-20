@@ -22,5 +22,27 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-b2346-champagne-192",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage della subcultura British, la fusione perfetta tra l'eleganza rilassata del mondo boat e la stabilità delle suole urban si incontrano nelle\nscarpe uomo Fred Perry modello B2346 Champagne\n. Da sempre punto di riferimento per chi ama lo stile sport-sartorial dal forte sapore mod, il brand rilegge la silhouette classica della scarpa da barca fondendola con la pulizia geometrica di una sneaker contemporanea, offrendo una calzatura ibrida unica, versatile e ricca di personalità.\nDesign, Silhouette e Finiture di Pregio\nLa Luminosità della Nuance Champagne\n: La calzatura si sviluppa su una raffinata colorazione champagne/sabbia. Questa tonalità chiara e organica evoca un'immediata sensazione di freschezza estiva e quiet luxury, garantendo un'eccezionale facilità di abbinamento con i tessuti naturali e i lavaggi denim di stagione.\nTomaia Premium in Suede e Costruzione Moc-Toe\n: Realizzata in morbida pelle scamosciata (suede) di alta qualità, la scarpa presenta la classica cucitura a rilievo sul davanti (vaschetta) tipica del mocassino e della scarpa da barca. La mano vellutata del tessuto dona una straordinaria tridimensionalità visiva e un comfort morbido fin dal primo utilizzo.\nIl Sistema di Allacciatura Perimetrale a 360°\n: Riprendendo fedelmente l'architettura tecnica delle calzature nautiche, il modello integra un laccio passante che corre lungo i fianchi e il tallone attraverso occhielli metallici rinforzati, per poi chiudersi sul fronte con un'allacciatura classica a due fori e lacci tubolari in tinta\nL'Esclusivo Dettaglio della Corona d'Alloro\n: A siglare l'autenticità del capo spicca il celebre stemma del Laurel Wreath (la corona d'alloro), impresso su una raffinata targhetta in pelle sagomata inserita lungo i lacci sul fronte. All'interno, la soletta nera è impreziosita dal logo stampato in lettere dorate lucide che richiama la scritta Made in Portugal.\nSuola a Cassetta e Collarino Imbottito\n: Per garantire la massima trazione e un'attitudine urban, la scarpa poggia su una solida suola flat in gomma cucita dal profilo pulito tono su tono. L'ingresso del piede è completato da un collarino in tessuto tecnico a coste traspirante e imbottito, studiato per prevenire lo sfregamento sul tallone.\nIdee di Stile: Costruisci il Tuo Look Boat-Street & Smart-Casual\nAuthentic Riviera Linen Uniform\n: Esalta le tonalità organiche e sabbiose della calzatura creando una combinazione estiva monocromatica dal forte sapore sartoriale. Abbina le scarpe Fred Perry Champagne alla silhouette fluida e traspirante di un pantalone uomo o di un bermuda uomo Baecker in lino nelle sfumature del sabbia o del kaki, completando sul davanti con una camicia in lino fiammato bianco ottico.\nMetropolitan Smart-Casual Transition\n: Crea un outfit geometrico e bilanciato ideale per un aperitivo informale al tramonto o per il tempo libero in città. Accosta le calzature alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, e indossa sopra la ricercatezza tricot della t-shirt uomo o della maglia polo uomo Nuvolari in maglia blu navy.\nUrban Nineties Denim Contrast\n: Rompi il rigore formale della scarpa scamosciata inserendola in un contesto streetwear dinamico e rilassato. Combina il modello B2346 alla linea generosa, dritta e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro o medio, completando il look con una delle nostre\nt-shirt uomo\no polo uomo Gaëlle Paris ricamate.\nSperimenta la perfetta sintesi tra la funzionalità dell'accessorio nautico e l'impatto estetico dello stile street d'oltremanica. Scegli la morbidezza del suede champagne, la modernità della suola sneaker e l'eleganza intramontabile firmata Fred Perry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Scarpa ibrida barca-sneaker in suede, adatta a contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

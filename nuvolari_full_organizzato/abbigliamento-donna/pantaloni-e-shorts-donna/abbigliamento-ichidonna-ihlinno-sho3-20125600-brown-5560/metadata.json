@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/abbigliamento-ichidonna-ihlinno-sho3-20125600-brown-5560",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Ichi Donna Ihlinno Sho3 Brown\nincarna la quintessenza del comfort estivo e dell'eleganza rilassata, declinando la freschezza naturale delle fibre tessili in una nuance calda e versatile. Caratterizzato da una tonalità sabbia/beige dorato medio (\"Brown\"), questo pantaloncino corto unisce una silhouette fluida e ariosa a dettagli strutturali minimalisti, rivelandosi il pezzo chiave ideale per creare look estivi dal sapore safari-chic o urban lounge.\nDesign e Caratteristiche Principali\nMisto Lino Fresco e Traspirante\n: Realizzato in un tessuto leggero in misto lino, che conserva la tipica e nobile texture fiammata della fibra naturale garantendo una mano morbida, un'ottima caduta fluida e una ventilazione impeccabile durante le giornate più calde.\nCintura Elastica Arricciata High-Waist\n: La vita alta è definita da una spessa fascia elastica interamente arricciata che assicura un fit adattivo ed estremamente confortevole sul punto vita, senza costrizioni.\nCoulisse Regolabile in Tono\n: Inserito centralmente nella cintura, un sottile cordoncino della medesima tonalità beige permette di personalizzare la chiusura e la vestibilità, rifinendo il design anteriore con un fiocco minimale.\nTasche Laterali Scomparsa\n: La costruzione integra pratiche tasche inserite direttamente lungo le cuciture dei fianchi, mantenendo intatta la purezza delle linee del bermuda senza aggiungere volumi artificiali.\nSilhouette Fluida a Gamba Ampia\n: Il taglio scende morbido e svasato dal bacino fino all'orlo inferiore, imitando il movimento di una gonna-pantalone leggera che dona respiro alle cosce e slancia otticamente la figura.\nFiniture Lineari con Doppia Impuntura\n: Il fondo gamba dritto è sigillato da una bordatura piatta con cuciture in tinta ad alta precisione, che stabilizzano il tessuto leggero e ne preservano la pulizia estetica.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n55% lino, 45% viscosa\nVestibilità regular\nCodice articolo: 20125600 BROWN-5560",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda corto in misto lino con coulisse ed elastico in vita, ideale per contesti informali e tempo libero estivo",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/lyle-scott-pantalone-cargo-regular-vita-media-trek-green",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone cargo regular da uomo in cotone elasticizzato a vita media con logo Lyle & Scott ricamato a contrasto sul retro vita. Per la conversione taglia, consulta al sezione 'jeans' della nostra\nGuida alle Taglie\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone cargo uomo regular Lyle & Scott modello TR1301V - Trek Green\nChiusura con zip e bottone\nVita media\nPassanti per cintura\nDue tasche ad angolo\nDue tasconi sulle gambe con chiusura bottoni automatici\nDue tasche posteriori con chiusura bottoni automatici\nLogo ricamato sul retro\nVestibilità Regular Fit\nComposizione: 98% cotone, 2% elastane",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Guida alle Taglie",
+      "categoria_url": "https://www.nuvolari.biz/taglie"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile workwear/casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

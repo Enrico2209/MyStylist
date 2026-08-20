@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/canotta-lee-donna-lace-trim",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLEE LACE TRIM CAMI: FEMMINILITÀ E COMFORT QUOTIDIANO\nQuesta canotta rappresenta un perfetto connubio tra lo stile casual di Lee e un tocco romantico e raffinato. Realizzata in un tessuto leggero e fresco, è il capo ideale da indossare come sottogiacca o come protagonista dei tuoi outfit estivi più delicati.\nDettaglio in Pizzo\n: La scollatura a V è impreziosita da un elegante bordo in pizzo tono su tono, che aggiunge un dettaglio prezioso e femminile al design essenziale.\nBretelle Sottili:\nCaratterizzata da spalline sottili che enfatizzano la linea delle spalle e garantiscono una vestibilità leggera e quasi impercettibile.\nTexture Costinata:\nIl corpo della canotta presenta una delicata lavorazione a costine, che assicura elasticità e una silhouette che segue dolcemente le linee del corpo.\nColore Pure Whit\ne: La tonalità bianco ottico conferisce luminosità e massima versatilità, rendendola facilmente abbinabile a denim, gonne o pantaloni sartoriali.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "canotta con spalline sottili e laccetti, adatta a contesti molto informali o da spiaggia",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

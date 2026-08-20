@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/cinta-duvf0005-nero-9000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sartoriale e il gusto italiano di Daniele Alessandrini prendono forma nella\ncintura da uomo Daniele Alessandrini in nero\n. Un accessorio raffinato e versatile, dove la pelle dalla texture curata incontra una fibbia dal design pulito, per completare con classe ogni look.\nDesign, Materiali e Caratteristiche Costruttive\nPelle di Qualità\n: Realizzata in pelle dalla mano morbida e resistente, garantisce durata e un aspetto sempre curato.\nNero Intramontabile\n: Una tonalità classica e versatile, facile da abbinare a look formali e casual.\nFibbia Curata\n: Chiusura con fibbia in metallo dal design essenziale, impreziosita dai dettagli firma del brand.\nFiniture Sartoriali\n: Cuciture precise e bordi rifiniti che testimoniano l'attenzione artigianale del marchio.\nIdee di Stile: Completa il Tuo Look\nFormale\n: Abbinala a dei\npantaloni\neleganti e a una camicia per un outfit impeccabile.\nSmart Casual\n: Indossala con dei\njeans\ne delle\nsneakers\nper un tocco curato nel quotidiano.\nDettaglio che Fa la Differenza\n: Un accessorio nero è il jolly che rifinisce e valorizza ogni tipo di outfit.\nAggiungi un tocco di eleganza italiana al tuo guardaroba. La cintura nera Daniele Alessandrini è il dettaglio raffinato che completa ogni look con stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "cintura in pelle intrecciata, versatile tra casual e smart casual",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

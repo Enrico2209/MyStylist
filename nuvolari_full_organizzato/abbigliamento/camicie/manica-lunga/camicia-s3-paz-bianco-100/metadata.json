@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-paz-bianco-100",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nNuvolari Pure Linen: L'Eleganza senza tempo della Camicia alla Coreana\nCamicia Uomo Nuvolari 100% Lino\nSperimenta la massima espressione della freschezza estiva con la camicia Nuvolari in puro lino. Caratterizzata da un raffinato collo alla coreana e una silhouette pulita, questo capo è l'emblema di un lusso discreto e naturale. Progettata per l'uomo che ricerca un'eleganza rilassata, è la scelta perfetta per mantenere uno stile impeccabile anche sotto il sole più intenso.\nNobiltà della Fibra e Comfort Termico\n100% Lino Premium\n: Il lino è la fibra estiva per eccellenza: altamente traspirante, anallergica e capace di assorbire l'umidità lasciando la pelle asciutta. La trama Nuvolari offre quella mano materica e preziosa che migliora con il tempo e con i lavaggi.\nCollo alla Coreana (Mandarin Collar)\n: Un dettaglio di design che conferisce un'aria moderna e sofisticata, eliminando il rigore del colletto tradizionale per un look più arioso e contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo:S3 PAZ BIANCO-100",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in lino con collo alla coreana, adatta a contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

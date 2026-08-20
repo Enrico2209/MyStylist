@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/levis-boxy-tank-001mw-0019-bright-white-0019",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, la freschezza dello stile casual estivo e un pizzico di ironia pop si fondono armoniosamente nella\ncanotta donna Levi's Boxy Tank Bright White\n. Da sempre sinonimo di autenticità e innovazione nell'abbigliamento quotidiano, il brand reinterpreta il concetto di top smanicato basico attraverso una silhouette contemporanea e una grafica vivace dalle calde atmosfere mediterranee, ideale per arricchire i look della stagione calda con un tocco giocoso e spensierato.\nDesign, Silhouette e Dettagli Grafici\nLa Base Bright White e la Freschezza del Cotone\n: Il capo si sviluppa su una colorazione bianco ottico estremamente luminosa, pensata per esaltare l'abbronzatura e facilitare qualsiasi abbinamento estivo. Il morbido tessuto in jersey di puro cotone premium garantisce un'eccellente traspirabilità e una piacevole sensazione di leggerezza sulla pelle.\nTaglio Boxy e Fit Rilassato Moderno\n: La silhouette si distingue per una linea squadrata (boxy fit) leggermente accorciata che accarezza il corpo in modo fluido senza costringerlo. Questo taglio contemporaneo, unito al girocollo a costine pulito e agli ampi giromanica strutturati, dona al top un'attitudine street ed energica.\nLa Grafica \"Mediterranean Market\"\n: Il vero e proprio punto focale risiede nella coloratissima stampa centrale posizionata sul petto. Un'originale e poetica illustrazione in stile acquerello celebra gli ingredienti tipici dell'estate: pomodori maturi, spicchi di limone, un'ostrica, acciughe, foglie di basilico e un rametto di ulivo. Al centro spicca un peperoncino rosso che integra al suo interno l'iconico logo \"Levi's\" in bianco.\nL'Iconica Red Tab Laterale\n: A garanzia dell'assoluta originalità del capo, sul fianco sinistro inferiore è cucita la classica e leggendaria micro etichetta rossa \"Levi's\", che firma il modello con l'intramontabile understatement del brand.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "canotta smanicata con taglio boxy e grafica estiva",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

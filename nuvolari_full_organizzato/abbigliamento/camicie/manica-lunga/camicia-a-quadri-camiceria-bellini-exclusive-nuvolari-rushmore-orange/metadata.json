@@ -20,5 +20,26 @@
   "pattern": "quadri",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-rushmore-orange",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia a quadri da uomo slim fit realizzata in esclusiva da Camiceria Bellini per Nuvolari. Il modello Rushmore ha una linea semplice e raffinata, con classica abbottonatura centrale, ed è realizzata al 100% in morbido cotone. Completa il tuo look Nuvolari con il\njeans regular Micael black\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia a quadri uomo Bellini x Nuvolari modello Rushmore - Orange\nManiche lunghe\nFantasia check\nChiusura con bottoni\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans regular Micael black",
+      "categoria_url": "https://www.nuvolari.biz/jeans-regular-nuvolari-micael-ln512-black.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a quadri in flanella/cotone pesante, vestibilità slim ma stile prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/foldable-chair-i036761-black-89-00",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa Sedia Pieghevole è una soluzione di seduta leggera e portatile, realizzata con una struttura in acciaio ad alto tenore di carbonio e tessuto Oxford 600D. Presentata in un elegante colore nero, è progettata per essere completamente richiudibile, facilitando al massimo il trasporto e lo stoccaggio.\nQuesta sedia è l'accessorio indispensabile per chi cerca praticità senza rinunciare alla robustezza. La combinazione di materiali tecnici la rende perfetta per l'uso all'aperto, garantendo una seduta stabile e durevole. Il design \"foldable\" permette di passare in pochi secondi da una sedia operativa a un pacchetto compatto, ideale da riporre nel bagagliaio dell'auto o in piccoli spazi domestici.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "Sedia pieghevole da campeggio/outdoor, uso esclusivamente informale e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

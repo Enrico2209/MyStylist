@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-ew2-d-fury-verde-salvia-2024",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalone Cargo Uomo NUVOLARI Modello D-Fury\nè la scelta perfetta per chi ama un look casual deciso e funzionale. Questo capo riprende l'estetica\nmilitare\ne\nworkwear\n, elevandola con la qualità dei materiali NUVOLARI e una vestibilità contemporanea.\nQuesto cargo non è solo pratico, è un elemento di stile essenziale per un look\nstreetwear\no\nutility\ndi tendenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: EW2 D-FURY VERDE SALVIA-2024",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, estetica utility/workwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

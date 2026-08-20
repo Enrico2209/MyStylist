@@ -22,5 +22,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/handball-spezial-ih6596-fox-csky-fox-csky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'intramontabile fascino della cultura terrace degli anni '70, l'eredità storica delle calzature nate per gli sport indoor e la straordinaria ricercatezza degli accostamenti cromatici si fondono armoniosamente nelle\nsneakers uomo Adidas Originals Handball Spezial\n. Nate originariamente nel 1979 come scarpe dedicate ai professionisti della pallamano, queste iconiche sneakers sono diventate un pilastro dello stile urban globale. La variante \"Fox/Csky\" (Fox Brown/Clear Sky) reinterpreta la silhouette d'archivio accostando tonalità calde della terra a freschi accenti pastello, offrendo una combinazione ricca di personalità e dal sapore squisitamente rétro.\nDesign, Materiali e Caratteristiche Distintive\nPregiata Tomaia in Suede \"Fox Brown\"\n: La tomaia è interamente realizzata in morbido camoscio premium (suede) nella ricca e calda tonalità marrone \"Fox\". Questa texture vellutata e strutturata assicura una calzata flessibile, una grande resistenza all'usura e un look vintage iconico ed elegante.\nDettagli a Contrasto \"Clear Sky\" e Foil Gold\n: Le leggendarie tre strisce laterali Adidas e lo spoiler sul tallone sono declinati in una freschissima tonalità di azzurro cielo (\"Clear Sky\") che spezza la base marrone con vibrante armonia. Sul fianco esterno spicca la celebre scritta \"SPEZIAL\" stampata in un prezioso foil dorato, che celebra l'autenticità del modello d'archivio.\nL'Iconica Suola in Gomma Preformata (Gum Sole)\n: Fedele al design originale del 1979, la scarpa è dotata di una suola sottile in gomma naturale preformata color miele scuro. Oltre a garantire un'ottima aderenza e stabilità strutturale sulle superfici urbane, la \"gum sole\" definisce lo stile rétro-indoor inconfondibile delle produzioni d'epoca.\nSilhouette Low-Top Snella ed Ergonomica\n: Il profilo basso e affusolato si adatta in modo naturale alla forma del piede senza appesantire la figura. Completano il design una linguetta morbida logata, stringhe piatte coordinate e una fodera interna confortevole che assicura la massima comodità quotidiana.\nIdee di Stile: Costruisci il Tuo Look Terrace & Smart-Casual\nAuthentic Terrace Heritage Look\n: Esalta l'anima vintage e sportiva della calzatura creando un abbinamento ispirato alla cultura calcistica britannica. Abbina le Handball Spezial Fox/Csky alla precisione costruttiva del jeans uomo Obey con lavaggio Stone Wash, completando il look con una t-shirt basica e una giacca a vento o un bomber leggero dal taglio pulito.\nUrban Casual Chino Contrast\n: Crea una combinazione cromatica sofisticata giocando sulla continuità dei toni caldi della terra. Accosta le sneakers marroni alla tonalità gessosa e neutra del pantalone chino uomo Obey Cement, inserendo sopra la precisione tridimensionale di una polo uomo Lee in cotone piqué scuro per un perfetto outfit da giorno.\nContemporary Summer Refresh\n: Sperimenta il massimo del comfort estivo smorzando i toni classici del camoscio con tessuti leggeri e ariosi. Combina la scarpa con un bermuda uomo Lee in twill e una camicia a maniche corte a righe verticali completamente aperta sopra una canotta, evocando un'attitudine disinvolta e ricercata.\nSperimenta la perfetta sintesi tra la funzionalità della calzatura sportiva d'archivio e la forza espressiva del color-blocking contemporaneo. Scegli la morbidezza del camoscio premium Fox Brown, la stabilità della suola in gomma naturale e l'attitudine inconfondibile delle sneakers uomo Adidas Originals Handball Spezial.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker retro-running/indoor in suede, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

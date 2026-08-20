@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/cameron-sherpa-polar-k61322w-blue-dpt-blu-dpt-a2b",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMateriale:\nTessuto Polar a due strati\n: Primo strato in pile leggero liscio e secondo strato in pile\neffetto sherpa\n(garzato, soffice).\nDesign\n:\nCollo a camicia\n(non ha il cappuccio).\n- Chiusura frontale con\nbottoni personalizzati\n(anziché zip).\n- Due\ntasche applicate\nsul petto.\n- Polsini con elastico.\nGrado di Calore:\nMedio (Ideale per l'autunno o come strato isolante in inverno).\nK-Way Cameron Sherpa Polar\nè un capo caldo e confortevole che combina la praticità del pile con lo stile di una camicia sportiva, perfetto per il tempo libero\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto camicia in pile sherpa, tetto di marchio sport/outdoor",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

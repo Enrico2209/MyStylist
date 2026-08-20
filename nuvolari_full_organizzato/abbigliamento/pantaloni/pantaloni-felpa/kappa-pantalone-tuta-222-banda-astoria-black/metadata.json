@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/kappa-pantalone-tuta-222-banda-astoria-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone sportivo Kappa in tricot garzato con bande maxi logo laterali e patch logo laserato. Vestibilità slim.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone tuta Kappa 222 Banda Astoria modello 301EFS0 - Black\nRealizzato in tricot garzato\nBanda con ripetizione del logo applicata sui lati\nPatch Logo laserato\nVestibilità Slim\nComposizione: 100% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.2,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone da tuta sportivo con elastico in vita e banda logo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

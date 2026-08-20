@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/polo-in-maglia-es3-gaudi-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo In Maglia Uomo Nuvolari Gaudi\nè un capo essenziale che unisce la morbidezza della maglieria alla struttura classica della polo, offrendo un'alternativa elegante e confortevole per outfit casual-smart.\nCaratteristiche di Design\nCostruzione in Maglia\n: Il capo presenta una lavorazione a maglia rasata fine e compatta, che garantisce una caduta fluida e una sensazione di leggerezza ideale per le temperature miti.\nChiusura Classica\n: A differenza dei modelli \"open\" della collezione, la polo Gaudi dispone di una paramontura tradizionale con\ntre bottoni\na contrasto in tonalità chiara, che aggiungono un punto luce al design scuro.\nFiniture a Costine\n: Sia il fondo del capo che i bordi delle maniche corte sono rifiniti con un bordo a costine elasticizzato per una vestibilità definita che mantiene la forma.\nDettaglio Colletto\n: Il colletto è realizzato in maglia coordinata, mantenendo una linea morbida ma ordinata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia fine con bottoni a contrasto, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

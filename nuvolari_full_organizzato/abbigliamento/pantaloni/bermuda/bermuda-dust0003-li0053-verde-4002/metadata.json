@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-dust0003-li0053-verde-4002",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBermuda Daniele Alessandrini: L’Incontro tra Lino e Performance\nRifinisci il tuo stile estivo con l'eleganza sartoriale dei Bermuda Daniele Alessandrini. Realizzati in una sofisticata miscela di lino e poliestere (55% lino, 45% poliestere), questi pantaloncini sono la scelta ideale per chi cerca un look fresco e raffinato senza rinunciare alla praticità moderna.\nIngegneria della Freschezza e Stile Sartoriale\nTessuto Hibrido Lino-Tech\n: Questo bermuda unisce la traspirabilità naturale e l'estetica sofisticata del lino alla resistenza e alla proprietà antipiega del poliestere. Il risultato è un capo fresco sulla pelle, capace di mantenere la piega anche dopo una lunga giornata di utilizzo, perfetto per le calde giornate urbane.\nTaglio Tailored Moderno\n: Con una vestibilità regolare e un design a gamba dritta, i Bermuda Daniele Alessandrini offrono una silhouette pulita e moderna. Il fondo risvoltato e la piega centrale aggiungono un tocco di formalità sartoriale, rendendoli adatti sia a contesti casual che a occasioni più formali.\nDettagli Funzionali e Ricercati\n: Dotati di due tasche laterali a filo, due tasche posteriori con bottone e passanti per cintura, questi shorts sono rifiniti con un bottone a contrasto e il logo in silicone bianco e nero, simbolo di qualità e ricerca estetica.\nDNA Daniele Alessandrini\n: Fedeli allo stile iconico del brand, questi bermuda sono pensati per l'uomo contemporaneo che esige un look ricercato e non convenzionale, dove ogni dettaglio è studiato per fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n55% lino, 45% poliestere\nVestibilità regular\nCodice articolo:DUST0003-LI0053 VERDE-4002",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Bermuda sartoriale con piega centrale e risvolto, in misto lino, che eleva il capo a smart casual rispetto a un classico pantaloncino sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-psycho-bunny-classic-pique-polo-b6k001f200-misty-jade",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza classica della sartoria britannica, lo spirito vivace di New York e un'irriverente attitudine ribelle si fondono nelle collezioni di\npolo uomo Psycho Bunny\n. Fondato nel 2005, il brand ha letteralmente rivoluzionato il concetto di polo tradizionale, trasformando un pilastro del guardaroba preppy e del mondo del golf in un'icona streetwear sofisticata e ricca di personalità, perfetta per chi ama distinguersi senza rinunciare alla massima qualità costruttiva.\nDesign, Dettagli e Caratteristiche Distintive\nL'Iconico Logo in Rilievo\n: Il segno di riconoscimento assoluto del brand è il leggendario logo ricamato sul petto: un teschio con le orecchie da coniglio (il \"Psycho Bunny\"). Questo elemento sovversivo, realizzato con oltre quattromila punti di ricamo ad altissima densità, crea un contrasto ironico e tagliente con l'eleganza formale del capo.\nPregiato Cotone 100% Pima Peruviano\n: La forza straordinaria di queste polo risiede nella scelta della materia prima. Sono interamente confezionate in cotone Pima del Perù, un filato ultrasoffice a fibra extra-lunga celebre per la sua incredibile morbidezza, la naturale lucentezza e una resistenza eccezionale al pilling e ai lavaggi frequenti.\nBottoni in Madreperla e Finiture Sartoriali\n: Ogni dettaglio è curato secondo i più alti standard. La patta presenta esclusivi bottoni in vera madreperla (Mother-of-Pearl), mentre le cuciture interne nastrate e i raccordi rinforzati sulle spalle assicurano che la polo mantenga la sua struttura geometrica originaria nel tempo.\nDettagli di Colore a Contrasto (Tipping)\n: Molti modelli si distinguono per le sofisticate doppie rigature colorate (tipping) posizionate sui bordi del colletto e dei polsini a coste, accostando nuance neon o tonalità vibranti alla base monocromatica del capo.\nColletto Anti-Roll e Fit Impeccabile\n: Progettate con un colletto a coste brevettato che non si arriccia e non perde la forma (anti-roll). Il taglio regular-trim si adatta magnificamente al corpo, offrendo una silhouette asciutta e pulita che non stringe e garantisce una totale libertà di movimento.\nIdee di Stile: Linka il Tuo Outfit\nContemporary Smart Casual Uniform\n: Eleva i tuoi look quotidiani da ufficio o da tempo libero. Abbina la polo Psycho Bunny alla precisione strutturata dei\npantaloni uomo\nchino in cotone o ai modelli sartoriali con pinces. Infila parzialmente la polo nella cintura per valorizzare la silhouette e chiudi il cerchio con un mocassino pulito o una calzatura informale.\nPremium Streetwear Layering\n: Gioca di contrasti inserendo l'anima preppy del brand in un contesto urban deciso. Indossa la polo completamente abbottonata insieme alla robustezza strutturata dei\nbermuda uomo\ncargo o in twill di cotone (perfetti i modelli Nuvolari SH Fury). Sovrapponi una overshirt utility aperta e definisci il look con una sneaker bold.\nSophisticated Summer Vibe\n: Per le calde serate estive, gli aperitivi o i weekend in viaggio, unisci la morbidezza del cotone Pima alla leggerezza delle fibre naturali. Accosta la polo a un paio di freschissimi\nbermuda uomo\nin puro lino (come i modelli Nuvolari LI Branch con coulisse a corda), completando l'outfit con un\ncappello uomo\ncon visiera per una nota sporty-chic bilanciata.\nNon indossare la solita polo. Rompi gli schemi del classicismo ed esibisci un perfetto mix di lusso peruviano, precisione geometrica e spirito anticonformista. Scegli l'eleganza irriverente firmata Psycho Bunny.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Polo classica in cotone piqué, adatta a contesti smart casual quotidiani.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

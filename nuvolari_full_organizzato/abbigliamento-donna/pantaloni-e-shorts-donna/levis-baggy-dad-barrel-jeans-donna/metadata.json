@@ -20,5 +20,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/levis-baggy-dad-barrel-jeans-donna",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, la costante innovazione nei tagli femminili e la ricerca di un comfort assoluto si fondono armoniosamente nella collezione di\njeans donna Levi's\n. Da sempre punto di riferimento globale nel mondo del denim, il brand unisce in questo modello due delle tendenze più amate degli ultimi anni: il fit rilassato d'ispirazione maschile e l'iconica silhouette a botte. Il jeans \"Baggy Dad Barrel\" offre un perfetto connubio tra estetica rétro e attitudine street contemporanea.\nDesign, Silhouette e Caratteristiche Principali\nIl Lavaggio Bleach Light Indigo ad Effetto Vintage\n: Il pantalone si sviluppa su una base di azzurro chiarissimo con un lavaggio acido/marmorizzato ben definito. Questo speciale trattamento tessile crea una trama materica tridimensionale, ricca di sfumature nostalgiche che richiamano lo stile grunge degli anni '90.\nSilhouette Baggy Barrel (A Botte)\n: La costruzione si distingue per una gamba dal volume generoso che si allarga all'altezza delle cosce e dei fianchi per poi stringersi progressivamente con una linea ad arco verso la caviglia. Questo particolare taglio \"barrel\" dona al jeans una struttura scultorea, rilassata ed estremamente originale.\nVita Media d'Ispirazione Nineties\n: Pensato per essere appoggiato morbido sui fianchi, il jeans presenta una vita medio-bassa che ricalca lo stile \"borrowed from the boys\" (preso in prestito dal guardaroba di papà). L'architettura è completata da passanti robusti per la cintura, una patta con zip e il classico bottone metallico centrale.\nConfigurazione Classica a 5 Tasche\n: Il modello rispetta fedelmente la tradizione costruttiva di Levi's, integrando le classiche tasche anteriori rivettate, il taschino portamonete sul lato destro e le tasche posteriori sagomate rifinite da robuste cuciture in tinta, progettate per durare nel tempo.\nTela di Puro Cotone Premium\n: Realizzato in denim pesante di alta qualità senza elasticizzazione, il tessuto garantisce la caduta strutturata, autentica e tridimensionale tipica dei jeans d'epoca, ammorbidendosi in modo personalizzato sul corpo utilizzo dopo utilizzo. un top basico chiaro e sovrapponi sul davanti la freschezza geometrica della camicia uomo o donna Obey White Multi a righe sottili visibile nel file Screenshot 2026-07-07 alle 14.19.06.jpg, lasciandola completamente aperta e sbottonata con le maniche leggermente arrotolate.\nSperimenta la perfetta sintesi tra la funzionalità della tela denim d'archivio e la forza espressiva delle nuove geometrie urban. Scegli la luminosità del lavaggio Light Indigo, l'originalità del taglio Barrel e l'attitudine inconfondibile dei jeans donna firmati Levi's.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim a cinque tasche, il fit baggy/barrel e il lavaggio vintage chiaro lo mantengono nel casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

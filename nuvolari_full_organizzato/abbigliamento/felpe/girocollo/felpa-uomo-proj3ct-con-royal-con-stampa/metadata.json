@@ -21,5 +21,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-uomo-proj3ct-con-royal-con-stampa",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nfelpa da uomo Proj3ct\nè una dichiarazione di stile inconfondibile. Caratterizzata dalla sua\nchiusura con bottoni\n, questa\nfelpa in colore blu royal\ncon\nmaniche bianche\nvanta\nstampe grafiche\nin stile street che aggiungono un tocco di originalità. Il\nlogo Proj3ct,\ncon l'\niconica tigre\n, è impresso con audacia sul petto. I polsini, il collo e la vita elasticizzati, con una fantasia a righe bianche e blu, conferiscono un tocco dinamico e sportivo. Questa\nfelpa\nè perfetta per chi cerca uno stile distintivo e all'avanguardia.\nS\ntile Street con Dettagli Iconici\nCompletate il vostro look\nstreetwear\nabbinando questa\nfelpa\nProj3ct\na\njeans\no\npantaloni cargo\n. Questa felpa è la scelta ideale per chi desidera esprimere la propria personalità attraverso un\nabbigliamento audace\ne\ninnovativo,\nperfetto per le strade della città o le serate con gli amici.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo Proj3ct Con Royal Con Stampa\nVestibilità Regular\nComposizione:\nCodice Prodotto: WG TUCSON",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Proj3ct",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "Giacca varsity/felpa con bottoni, stile college molto informale e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

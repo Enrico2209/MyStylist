@@ -23,5 +23,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-emerson-denim-wash-black-wbl",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica underground più autentica si unisce alla solidità del denim d'ispirazione rétro nei nuovi\nJeans Uomo Obey Emerson Wash Black\n. Questo modello reinterpreta il classico cinque tasche attraverso volumi relaxed e un lavaggio acido e texturizzato, perfetto per chi cerca un capo dal forte impatto visivo, durevole e profondamente legato alla skate culture della West Coast.\nDesign e Caratteristiche Principali\nLavaggio Acid \"Emerson Wash Black\"\n: Il jeans si distingue per un lavaggio nero acido altamente contrastato, caratterizzato da intense schiariture marmorizzate che virano verso il grigio chiaro e l'antracite. Un trattamento dall'effetto decisamente vissuto e rock-grunge che rende ogni pezzo unico.\nTaglio Relaxed Straight Fit\n: Progettato con una linea comoda sul bacino e sulle cosce che scende dritta lungo la gamba. Una silhouette rilassata di chiara ispirazione anni '90, studiata per offrire comfort assoluto e massima libertà di movimento in città o sulla tavola da skate.\nDettaglio Logo d'Archivio\n: Sul retro, applicata con precisione sopra la tasca posteriore destra, spicca l'iconica label rettangolare in tessuto con il lettering ufficiale\n\"OBEY\"\n, firma inconfondibile che certifica il DNA del brand fondato da Shepard Fairey.\nCostruzione Classica a 5 Tasche\n: Strutturato secondo i canoni del denim tradizionale, presenta profonde tasche americane sul davanti con taschino porta-monete e tasche posteriori applicate dalla geometria pulita. La chiusura è gestita da una patta con zip a scomparsa e bottone metallico logato in vita.\nTela Denim Heavyweight in Puro Cotone\n: Confezionato in un denim pesante di 100% cotone ad alto spessore. Questo filato corposo assicura che il pantalone mantenga perfettamente la sua forma rilassata, garantendo un'altissima resistenza alle abrasioni e all'usura nel tempo.\nIdee di Stile: Crea la Tua Wave\n90s Grunge Hardcore Uniform\n: Esalta l'attitudine rebellious del lavaggio Emerson abbinando il jeans a una\nt-shirt\ngrafica oversize nera o bianca e sovrapponendo una camicia di flanella aperta, completando il look con uno scarponcino o una sneaker bold da skate.\nUrban Contrast Outfit\n: Bilancia l'effetto marmorizzato del pantalone accostandolo a elementi superiori più puliti e minimali. Indossalo insieme a una t-shirt basic tinta unita color panna o a un pullover leggero a coste, chiudendo il cerchio con una sneaker bassa in tela.\nTotal Dark Streetwear\n: Crea un look monocromatico ma ricco di texture abbinando il jeans alla camicia Brushed Nickel o a una felpa con cappuccio total black, enfatizzando l'anima industrial del brand.\nRivendica un look di carattere dal forte sapore d'archivio. Scegli l'impatto visivo e la solidità dei jeans Emerson firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans relaxed fit di un brand street puro, ideale per un look casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

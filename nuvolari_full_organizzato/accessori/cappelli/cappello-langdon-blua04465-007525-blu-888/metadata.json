@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-langdon-blua04465-007525-blu-888",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Cappello Blauer Langdon è l'accessorio indispensabile per completare un outfit urban dal carattere deciso, unendo la protezione termica all'estetica iconica del brand. Questo berretto (beanie) si distingue per la sua linea pulita e la qualità dei materiali, rendendolo un pezzo versatile capace di adattarsi sia ai contesti cittadini che alle escursioni nel tempo libero.\nBlauer Langdon Calore e Stile Iconico\nPerché sceglierlo\nIl punto di forza del modello Langdon risiede nell'equilibrio tra funzionalità e design. Realizzato in una morbida maglia di misto lana o acrilico di alta qualità (a seconda della variante stagionale), garantisce un isolamento termico ottimale senza risultare pesante sulla testa. La lavorazione a coste sottili offre una vestibilità elastica che si adatta perfettamente a ogni fisionomia, mantenendo la forma nel tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera (baseball cap) in denim con patch applicate, accessorio prettamente casual",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

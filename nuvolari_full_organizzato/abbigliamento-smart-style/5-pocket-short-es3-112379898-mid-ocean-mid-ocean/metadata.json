@@ -21,5 +21,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/5-pocket-short-es3-112379898-mid-ocean-mid-ocean",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'iconica tradizione del denim americano incontra la freschezza estiva nei\nbermuda da uomo Lee 5 Pocket Short nella lavatura Mid Ocean\n. Caratterizzati dall'intramontabile struttura a cinque tasche e da un lavaggio chiaro e brillante con leggeri effetti di usura, questi short in denim rappresentano un vero e proprio must-have per il guardaroba casual della stagione calda.\nDesign, Tessuti e Caratteristiche Costruttive\nDenim di Alta Qualità\n: Realizzati in resistente cotone denim con una percentuale di elasticità, garantiscono una vestibilità comoda che asseconda i movimenti senza perdere la forma.\nLavaggio Mid Ocean\n: Una sfumatura di azzurro chiaro luminosa e fresca, con delicate schiariture sul davanti che donano un autentico gusto vintage.\nTaglio Classico a 5 Tasche\n: Design iconico dotato di due tasche americane frontali con pocket risvoltino per le monete, rivetti metallici a contrasto e tasche posteriori applicate.\nFondo con Risvolto\n: Orlo pre-risvoltato sul fondo gamba che regala una silhouette pulita, slanciata e di tendenza.\nIdee di Stile: Costruisci il Tuo Look Casual & Urban\nCasual Everyday & Weekend\n: Ideali per un outfit quotidiano disinvolto, abbinali semplicemente a una\nt-shirt uomo\ngrafica o tinta unita e completa il tutto con un paio di\nsneakers uomo\nbasse.\nSummer Street & Festival Mood\n: Indossali con una camicia a maniche corte aperta sopra una canotta per uno stile estivo rilassato e contemporaneo.\nLayering & Modelli Alternativi\n: Durante le serate più fresche, sovrapponi un capospalla della selezione\ngiubbotti uomo\n. Se cerchi un'alternativa più formale in tessuto leggero, esplora la nostra gamma di\nbermuda uomo\noppure scopri i classici\njeans uomo\nper le uscite serali.\nAggiungi un grande classico al tuo stile estivo: scopri il comfort e l'inconfondibile carattere dei bermuda in denim Lee 5 Pocket Short Mid Ocean.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda di jeans, capo casual quotidiano estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

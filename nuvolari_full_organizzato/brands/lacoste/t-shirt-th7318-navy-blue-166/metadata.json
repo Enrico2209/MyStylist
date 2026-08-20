@@ -24,5 +24,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/t-shirt-th7318-navy-blue-166",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza sportiva francese incontra il comfort quotidiano nella\nT-shirt Uomo Lacoste TH7318 in Blu Navy\n, un capo essenziale in puro cotone impreziosito dall'iconico coccodrillo verde ricamato sul petto.\nDesign e Caratteristiche Principali\nPuro Cotone Jersey:\ntessuto morbido e traspirante, piacevole sulla pelle e perfetto per l'uso quotidiano in ogni stagione.\nIntramontabile Blu Navy:\nuna tonalità profonda ed elegante, la più versatile in assoluto, facile da abbinare a qualsiasi look.\nCoccodrillo Ricamato Signature:\nl'inconfondibile logo del coccodrillo Lacoste spicca ricamato sul petto, firma di autenticità del brand.\nGirocollo a Costine:\nscollo rifinito in maglia a costine elastica che mantiene la forma nel tempo.\nTaglio Regular Fit:\nvestibilità comoda e pulita, ideale da indossare da sola o come strato base.\nIdee di Stile: Linka il Tuo Outfit\nCasual Everyday:\nabbina la t-shirt a un paio di\njeans uomo\ne sneakers bianche per un look quotidiano semplice ed efficace.\nSporty Chic:\nindossala sotto una\ncamicia uomo\naperta o una giacca leggera per un tocco raffinato.\nSummer Chino:\ncompletala con dei\npantaloni uomo\nchino in tinta chiara per un outfit estivo elegante.\nAggiungi al tuo guardaroba l'essenzialità sportiva della T-shirt Lacoste TH7318 in Blu Navy. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt classica a girocollo, base per look casual quotidiani",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/short-ihaya-sho3-20126017-beige-pink-7538",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa freschezza scandinava e la leggerezza dei tessuti estivi si incontrano nei nuovi\nShort Ichi Donna Ihaya Sho3 Beige/Pink\n. Questo pantaloncino corto unisce un'estetica romantica e rilassata a un comfort assoluto, proponendosi come la scelta ideale per chi cerca un capo fresco, iper-femminile e versatile, perfetto da inserire nella propria rotazione quotidiana per la bella stagione.\nDesign e Caratteristiche Principali\nPattern Vichy Rétro (Beige/Pink)\n: Lo short è caratterizzato da un intramontabile motivo a quadretti Vichy, dove linee rosa confetto si incrociano su una base beige chiaro e panna. Una combinazione cromatica delicata, pastello e squisitamente rétro che dona subito un'allure bon ton e spensierata all'intero outfit.\nVita Alta Elastica con Arricciatura Paperbag\n: La parte superiore presenta un fascione elastico alto interamente arricciato, che crea un raffinato effetto \"paperbag\". Questa struttura non solo valorizza il punto vita, ma si adatta perfettamente alla silhouette senza stringere, garantendo il massimo comfort.\nCintura in Tessuto Coordinata\n: Ad arricchire il design interviene una morbida cintura in tessuto intrecciato passante in vita, rifinita da estremità sfilacciate a contrasto, ideale da annodare frontalmente in un fiocco per personalizzare il fit e aggiungere un dettaglio texture artigianale.\nTaglio Relaxed a Gamba Ampia\n: Sviluppato con volumi comodi e scivolati lungo i fianchi e le cosce, lo short scende ampio simulando la linea fluida di una gonna pantalone leggera, assicurando una freschezza ottimale anche durante le giornate più calde.\nTessuto Leggero e Traspirante\n: Confezionato in una composizione di fibre fresche e dalla mano naturale, selezionate appositamente da Ichi per offrire una texture cascante, traspirante e piacevole a contatto con la pelle nuda.\nIdee di Stile: Crea la Tua Wave\nRomantic Urban Vibe\n: Esalta le sfumature pastello e lo stile parigino dello short abbinandolo a un micro top a coste sottili color panna o bianco ottico, completando il look con un paio di sandali platform leggeri (perfetti i modelli Ugg Goldenglow Toggle) e una borsa in paglia.\nBerlin Street Contrast\n: Gioca di contrasti accostando l'anima romantica del quadretto Vichy all'attitudine streetwear berlinese. Indossa il pantaloncino con una\nt-shirt\nover maschile bianca o nera con micro grafica sul petto (ottime le varianti Dickies o 24colours) infilata parzialmente all'interno della vita paperbag.\nCasual Cozy Combo\n: Per i momenti di transizione o per una passeggiata sul bagnasciuga al tramonto, indossa lo short Ihaya con una canotta basic e sovrapponi una camicia di lino bianca o un blazer leggero oversize lasciato completamente aperto.\nFai spazio alla leggerezza e al romanticismo geometrico dello stile scandinavo. Scegli la freschezza e i colori delicati degli short firmati Ichi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto estivo molto leggero con elastico in vita",
+    "season": "estate",
+    "pattern": "animalier"
+  }
 }

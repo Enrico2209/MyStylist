@@ -25,5 +25,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpe-heydude-wally-braided-40003-b-olive-d-brown-3ci",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe scarpe\nHeyDude Wally Braided\nridefiniscono il concetto di calzatura casual estiva, fondendo l'inconfondibile e leggerissima struttura \"mocktoe\" del brand con ricercati dettagli materici dal sapore artigianale. Progettate per offrire la sensazione di camminare a piedi scalzi, queste calzature uniscono una tomaia flessibile a un sistema di calzata immediato, confermandosi la scelta ideale per chi cerca comfort assoluto, freschezza e uno stile disinvolto per il tempo libero.\nDesign e Caratteristiche Principali\nTomaia in Tessuto Tridimensionale con Dettagli Braided\n: Il corpo della scarpa è realizzato in una tela di cotone leggero e traspirante, impreziosito lungo il colletto e sui profili da inserti in tessuto intrecciato (\"Braided\") o con texture mélange mossa. Questa finitura dona profondità visiva e un raffinato tocco \"coastal-chic\" alla calzatura.\nSistema di Allacciatura Elastico Easy-On\n: Fedeli al DNA del brand, presentano lacci elastici corti che non richiedono di essere annodati. Permettono di infilare e sfilare la scarpa all'istante, adattandosi autonomamente alla forma del collo del piede senza stringere.\nSuola Ultra-Lightweight in Schiuma EVA\n: La suola flessibile e brevettata è stampata in una mescola espansa incredibilmente leggera. Ammortizza gli impatti con il terreno e asseconda la naturale torsione del piede, riducendo al minimo l'affaticamento anche dopo molte ore di utilizzo.\nSoletta Ergonomica in Memory Foam Rimovibile\n: L'interno è dotato di un plantare anatomico ammortizzato, rivestito in sughero naturale o morbido tessuto, che favorisce la traspirazione, previene i cattivi odori e può essere rimosso per facilitare la pulizia o per inserire plantari personalizzati.\nCalzata Ampia e Confortevole (Wide Fit)\n: Il design dell'avampiede è appositamente studiato spazioso per consentire alle dita di distendersi liberamente, eliminando fastidiosi punti di pressione e garantendo un comfort di livello superiore.\nProposta di Outfit\nCoastal Leisure Outfit\n: Abbinale alla camicia scivolata con stampa geometrica\nIchi Ihgiley Sh Birch/Blue\ne al\nbermuda\nin misto lino Ihlinno Sho3 Brown; la texture intrecciata delle calzature si sposerà magnificamente con la natura fiammata del lino sabbia e con i richiami marini della camicia, per un perfetto look da vacanza o da aperitivo al tramonto.\nUrban Casual Basics\n: Portale in combinazione con la t-shirt minimalista\nFred Perry M2474 Snow White\ne un pantalone chino sartoriale con risvolto sulla caviglia; la pulizia del bianco ottico e l'attitudine rilassata della scarpa Dude struttureranno un ensemble quotidiano fresco, sobrio ed equilibrato.\nRelaxed Denim Vibe\n: Indossale sotto un jeans regular-fit chiaro stone-washed e completa il look con la polo a righe multicolore\nIhmira Red Multi\n; le sfumature calde e geometriche della maglia intercetteranno lo spirito rétro e scanzonato delle scarpe, definendo un outfit perfetto per i weekend in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Ichi Ihgiley Sh Birch/Blue",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "Fred Perry M2474 Snow White",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Ihmira Red Multi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa slip-on ultraleggera in tela, stile mocassino destrutturato molto informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

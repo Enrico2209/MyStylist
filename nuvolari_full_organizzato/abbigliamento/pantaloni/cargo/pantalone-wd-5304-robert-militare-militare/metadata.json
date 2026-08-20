@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-wd-5304-robert-militare-militare",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "Descrizione\nPantalone cargo da Uomo robert militare\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari modello 5304 Robert\nDue grandi tasche laterali con patta\nDue tasche laterali stondate\nTasche filetto sul retro\nChiusura a scomparsa con zip e bottone chiodo in vita logato\nWD 5304 ROBERT MILITARE-MILITARE\nVestibilità regular fit\nMade in Italy\nComposizione : 75% poliestere 23% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, taglio prettamente casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

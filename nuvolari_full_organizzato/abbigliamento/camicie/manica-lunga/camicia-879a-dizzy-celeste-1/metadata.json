@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-879a-dizzy-celeste-1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Baecker Eleganza funzionale, spirito urbano\nLinee pulite e carattere deciso: la camicia uomo Baecker è il capo ideale per chi ama un look raffinato ma versatile. Realizzata in tessuto leggero e traspirante, è perfetta per essere indossata da sola o sotto una giacca. Il design minimal, arricchito da dettagli essenziali, la rende adatta sia per l’ufficio che per il tempo libero.\nProposta outfit:\nAbbinala a un\npantalone chino\no a un\njeans\nper un look casual ma curato, completando il tutto con una\nsneaker sobria\nper uno stile moderno e disinvolto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: DIZZY celeste",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneaker sobria",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia classica in cotone a righe sottili, adatta a contesti smart casual e ufficio",
+    "season": "tutte",
+    "pattern": "righe"
+  }
 }

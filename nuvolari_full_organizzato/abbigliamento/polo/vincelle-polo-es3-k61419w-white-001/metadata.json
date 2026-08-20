@@ -26,5 +26,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/vincelle-polo-es3-k61419w-white-001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sobria del preppy style, il comfort delle fibre naturali premium e il tocco funzionale firmato dal brand parigino si fondono nella\npolo uomo K-Way modello Vincelle\n. Pensato per l'uomo contemporaneo che ricerca un perfetto equilibrio tra casualwear e cura del dettaglio, questo capo unisce una lavorazione traspirante a una linea pulita e sofisticata, ideale per completare con disinvoltura outfit da giorno o soluzioni smart-casual per il tempo libero in città.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Cotone Piquet Traspirante\n: La polo è interamente confezionata in morbido tessuto piquet di puro cotone, caratterizzato dalla tipica trama a micro-rilievi. Questa lavorazione favorisce un'eccellente circolazione dell'aria, garantendo freschezza e comfort prolungato anche durante le giornate estive più calde.\nDettagli di Branding Minimal\n: Sul petto, lato cuore, spicca l'applicazione pulita del classico logo K-Way in silicone, sigillo di autenticità, qualità e riconoscimento che firma il modello con discrezione.\nColletto e Finiture in Costina\n: Il classico colletto a camicia e i bordi delle maniche corte sono realizzati in maglia a costine elasticizzata, progettata per mantenere una sagomatura perfetta nel tempo e resistere impeccabilmente all'usura e ai lavaggi.\nPatta Solida e Fit Regolare\n: Il design lineare della polo è completato da una patta frontale essenziale con chiusura a bottoni coordinati. La silhouette regular fit offre un taglio calibrato che segue le linee del corpo senza costringere, assicurando una totale libertà di movimento.\nIdee di Stile: Costruisci il Tuo Look Yacht Club & Smart Casual\nNautical & Active Transition Combo\n: Struttura un outfit estivo impeccabile d'ispirazione marittima perfetto per i weekend fuori porta. Abbina la polo Vincelle ai bermuda uomo K-Way dotati di bande laterali verticali. Completa il look ai piedi con la freschezza e la praticità contemporanea dei mocassini uomo Heydude o con lo stile casual dei mocassini Sun68.\nSummer Breeze Layering con Tocco Energico\n: Sperimenta un gioco di contrasti e stratificazioni ideato per le ore di brezza serale o per un aperitivo informale sul bagnasciuga. Indossa la polo sopra un costume uomo K-Way modello Hazel e porta sulle spalle un tracktop uomo K-Way Jack Stretch Dot, creando un richiamo coordinato ad alto impatto tecnico.\nUrban Utility Uniform\n: Adotta un look metropolitano comodo e organizzato per i viaggi o gli spostamenti quotidiani. Accosta la polo piquet alla linea rilassata dei\njeans\nuomo Levi's 568 Loose Straight. Indossa sul petto un marsupio K-Way della linea Fericy cross-body e rifinisci l'outfit con la struttura solida di\nsneakers\ntecniche come le Asics GEL-NYC o New Balance.\nSperimenta la perfetta sintesi tra la freschezza della tradizione tessile sportiva e il carattere di un modello dal fascino senza tempo. Scegli la traspirabilità della trama piquet, la precisione dei dettagli geometrici e l'attitudine inconfondibile della polo firmata K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "polo classica in piquet, ma limitata dal tetto del marchio sportivo K-Way",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

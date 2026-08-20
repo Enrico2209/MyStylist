@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-pv-louis-nero-n008",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica sartoriale incontra il massimo comfort metropolitano nel\npantalaccio da uomo Baecker modello Louis\n. Progettato per l'uomo contemporaneo che non vuole rinunciare all'eleganza pur ricercando una vestibilità disinvolta, questo capo coniuga la pulizia formale del pantalone chino con la praticità dinamica della vita elasticizzata e regolabile.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto In Cotone Elasticizzato e Compatto\n: Realizzato in un cotone di alta qualità leggermente elasticizzato, assicura struttura, morbidezza e una completa libertà nei movimenti durante tutta la giornata.\nVita Elasticizzata con Coulisse e Bottone Personalizzato\n: La fascia elastica posteriore e laterale è affiancata da cordoni tubular di regolazione e chiusura frontale con bottone brandizzato Baecker, per un fit personalizzabile e sempre confortevole.\nStile Trasversale e Intramontabile\n: Un grande classico del guardaroba maschile che regala estrema versatilità, rendendo il pantalaccio semplice da abbinare in molteplici contesti di stile.\nDettagli Curati e Taglio Tapered Moderno\n: Caratterizzato da tasche laterali a fessura, passanti per cintura e una gamba affusolata che definisce una silhouette pulita e slanciata.\nIdee di Stile: Costruisci il Tuo Look Smart Casual & Urban\nSmart Office & Casual Day\n: Perfetto per le giornate lavorative o i contesti informali ma curati. Abbina il pantalaccio a una camicia o a una polo essenziale, completando il look con la semplicità di un paio di\nsneakers uomo\nin pelle.\nUrban Minimal & Relaxed Mood\n: Per il tempo libero in città, indossa il pantalone con una\nt-shirt uomo\nmonocromatica in cotone per un outfit fresco e minimale.\nLayering & Opzioni Stagionali\n: Nelle mezze stagioni o durante le serate più fresche, completa l'insieme con un capospalla leggero selezionato dalla nostra linea\ngiubbotti uomo\n. Nelle giornate più calde o per un'alternativa più grintosa, esplora anche le collezioni di\nbermuda uomo\ne\njeans uomo\n.\nSperimenta il perfetto equilibrio tra comodità quotidiana e stile sartoriale. Scegli la qualità del cotone, la praticità della coulisse in vita e l'eleganza discreta del pantalaccio Baecker Louis.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con coulisse e vita elastica, abbassato a casual quotidiano nonostante il taglio chino",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-nuvolari-ewc-gore-grigio-654-ewc-gore-grigio-654",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari modello Gore\nCollo alto\nBordi a costina\nVestibilità regular fit\nComposizione: 10% cashmere, 35% lana merino, 30% poliammide, 25% viscosa",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto in misto lana e cashmere, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/gas-polo-310442182888-snow-white-1029",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Uomo Gas Snow White\n(nella versione variante monocromatica) rappresenta un'interpretazione minimale, candida e sofisticata della classica maglieria estiva. Sviluppata in una tonalità bianco panna/avorio calda e naturale (\"Snow White\"), questa polo a maniche corte rinuncia ai forti contrasti grafici per puntare tutto sulla purezza delle linee, sulla texture del tessuto e su un'eleganza discreta.\nDesign e Caratteristiche Principali\nTessuto in Cotone Piqué Traspirante\n: Confezionata nel tradizionale cotone piqué, la cui trama micro-geometrica a nido d'ape dona spessore e tridimensionalità alla tela. Il filato garantisce una ventilazione cutanea ottimale, mantenendo il corpo fresco durante le giornate estive più intense.\nEstetica Monocromatica \"Clean\"\n: A differenza delle versioni con profili a contrasto, questo modello sceglie una linea totalmente pulita: il colletto a costine e i bordi elastici delle maniche sono realizzati in tinta unita con il corpo della maglia, esaltandone il minimalismo.\nScollo Classico a Tre Bottoni\n: La chiusura frontale è caratterizzata da una patta lineare e allungata dotata di bottoni chiari che si fondono cromaticamente con il tessuto. L'interno del collo è rifinito con un sottile profilo scuro che funge da rinforzo strutturale.\nMicro-Logo Tono su Tono Quasi Impercettibile\n: Sul petto a sinistra è presente l'iconico ricamo a doppia freccia di GAS, eseguito con un filato avorio che si mimetizza perfettamente sulla base della polo, firmando il capo con estrema sobrietà e discrezione.\nBordo Inferiore con Spacchetti Laterali\n: L'orlo inferiore dritto è rifinito con piccoli spacchetti simmetrici sul fondo, che assecondano la linea dei fianchi e impediscono al tessuto di fare difetto quando la polo viene portata sopra i pantaloni o i bermuda.\nSilhouette Regular Fit Confortevole\n: Come indicato dall'etichetta interna, il modello adotta un taglio \"Regular Fit\" classico. La maglia scende fluida senza aderire eccessivamente al busto, assicurando una linea slanciata e un comfort di movimento ottimale.\nProposta di Outfit\nContemporary Heritage Layering\n: Indossala sotto un\ngiubbotto\ndi jeans dal lavaggio medio-scuro con finiture vissute e abbinala a un bermuda scuro; la morbidezza visiva della polo panna spezzerà in modo impeccabile la rigidità e la robustezza della tela denim, strutturando un outfit urban-casual di grande carattere.\nSartorial Smart Summer Look\n: Portala infilata all'interno di un\nbermuda\nstile chino in denim con doppie pinces frontali; la pulizia e la monocromia della polo valorizzeranno la costruzione sartoriale del pantaloncino corto, per un look estivo fresco, ricercato e di tendenza.\nUrban Street Essential\n: Abbinala a un\nbermuda\nin jeans dal lavaggio medio o scuro con risvolto sul fondo; il contrasto netto tra la luminosità della maglia avorio e l'intensità del denim indaco strutturerà un abbinamento quotidiano solido, pulito e senza tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "polo classica regular fit, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

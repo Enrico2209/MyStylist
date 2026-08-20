@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihpama-to-20125517-cdancer-blk-5443",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nCanotta Ichi Donna Ihpama To Cdancer/Blk\nreinterpreta il concetto di top estivo basic con un'estetica romantica, fresca e squisitamente rétro. Sviluppata su una base bianco ottico candida e ultra-luminosa (\"Cdancer/Blk\"), questa canotta si distingue per un delicato motivo all-over ricamato a contrasto, perfetto per infondere una nota bon-ton e spensierata ai look casual della bella stagione.\nDesign e Caratteristiche Principali\nPattern Ricamato \"Mini Cherries\"\n: La superficie candida del tessuto è animata da una pioggia ordinata di piccolissimi ricami neri a contrasto raffiguranti grappoli di ciliegie stilizzate, che donano movimento e un fascino grafico minimalista e giocoso.\nTessuto in Jersey di Cotone Stretch\n: Realizzata in un filato misto cotone di alta qualità elasticizzato, che si adatta dolcemente alle linee del corpo offrendo una vestibilità confortevole, un'ottima traspirabilità e una piacevole sensazione di freschezza sulla pelle.\nScollo Tondo a Barchetta Alto\n: Il design anteriore presenta uno scollo arrotondato piuttosto accollato e pulito, che bilancia la linea avvolgente del capo conferendogli un tono raffinato e composto.\nTaglio Slim Fit Avvolgente\n: La silhouette è sagomata per seguire fedelmente il profilo del busto senza stringere, rendendo questo top ideale sia come pezzo unico estivo sia come sottogiacca o strato base da stratificare.\nSpalla Larga e Giromanica Profilato\n: Le spalline larghe coprono elegantemente la biancheria intima e sono rifinite da una sottile bordatura in tono che stabilizza il tessuto, garantendo una stabilità impeccabile e un comfort prolungato.\nFondo Lineare Regolare\n: La lunghezza classica e l'orlo dritto permettono di infilare agevolmente la canotta all'interno di gonne, shorts o pantaloni a vita alta senza creare antiestetici rigonfiamenti sul girovita.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "canotta estiva basic, livello di formalità di partenza pari a 1",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

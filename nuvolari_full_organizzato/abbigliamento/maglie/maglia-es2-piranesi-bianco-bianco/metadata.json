@@ -22,5 +22,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-es2-piranesi-bianco-bianco",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Piranesi Essenziale, raffinata, 100% cotone\nLa\nmaglia Piranesi firmata Nuvolari\nè un capo senza tempo, perfetta da indossare nelle mezze stagioni o nelle serate più fresche. Realizzata in\n100% cotone\n, offre una sensazione di comfort naturale e traspirabilità, mentre il design pulito e i dettagli minimal la rendono facilmente abbinabile a qualsiasi look.\nIndossala con un\npantalaccio uomo\nper uno stile casual curato, oppure sopra una\ncamicia basic\nper un layering discreto ma d’effetto.\nCompleta l'outfit con:\nChino uomo\nSneakers lifestyle\nCappelli & accessori\nMade in Italy\nTessuto 100% cotone naturale\nVersatile e confortevole\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: ES2 PIRANESI BIANCO-BIANCO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalaccio uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-uomo/pantaloni.html"
+    },
+    {
+      "testo": "camicia basic",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-uomo/camicie.html"
+    },
+    {
+      "testo": "Chino uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-uomo/pantaloni.html"
+    },
+    {
+      "testo": "Sneakers lifestyle",
+      "categoria_url": "https://www.nuvolari.biz/scarpe-uomo.html"
+    },
+    {
+      "testo": "Cappelli & accessori",
+      "categoria_url": "https://www.nuvolari.biz/accessori-uomo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone fine, adatta a contesti smart casual e layering",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/propaganda/t-shirt-uomo-propaganda-ribs-underwood-prts521-nero-01",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nT-Shirt Uomo Ribs Underwood Nero\nT-shirt\nPropaganda in\n100% cotone\n, con girocollo classico. Caratterizzata da una stampa grafica distintiva sia sul fronte che sul retro, è un capo casual perfetto per chi ama uno stile unico e d'impatto.\nAbbinala con un\npantalone di chino\ned un paio di\nsneakers\nche\nNuvolari\nconsiglia per te per elevare il tuo stile\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: PRTS521 NERO-01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "T-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt con grafica d'impatto, stile streetwear quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

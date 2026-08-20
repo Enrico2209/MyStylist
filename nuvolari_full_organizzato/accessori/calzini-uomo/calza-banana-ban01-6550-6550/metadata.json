@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calza-banana-ban01-6550-6550",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI calzini da uomo sono essenziali per il comfort e il supporto quotidiano. Disponibili in varie lunghezze, colori e materiali, offrono sia funzionalità che stile, completando il look con una vestibilità comoda.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "calzini con fantasia giocosa e colorata, adatti a un uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

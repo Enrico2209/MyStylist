@@ -24,5 +24,26 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/958-baggy-tapered-work-jeans-dk0a88ed-khaki-tblue-l231",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'autentico DNA dell'abbigliamento da lavoro americano incontra le geometrie rilassate dello streetwear contemporaneo nei nuovi\nJeans Uomo Dickies 958 Baggy Tapered Work Khaki Tblue\n. Questo modello reinterpreta i canoni del pantalone utility attraverso una silhouette d'avanguardia e una raffinata ricerca cromatica, proponendosi come la scelta definitiva per chi cerca struttura, resistenza e uno stile urban unapologetic.\nDesign e Caratteristiche Principali\nSfumatura Khaki Tblue Esclusiva\n: Il pantalone si distingue per una complessa colorazione tinto in capo che fonde una solida base kaki/sabbia a una leggera e profonda sfumatura blu petrolio/avio (Tblue) lungo i filati. Un contrasto cromatico polveroso ed estremamente materico che dona un aspetto vintage-industrial unico a ogni pezzo.\nLinea Baggy Tapered Moderna\n: Sviluppato con l'innovativo taglio \"958\" di Dickies, caratterizzato da un volume decisamente ampio e comodo sul bacino e sulle cosce che si stringe in modo graduale e anatomico dal ginocchio verso la caviglia. Una geometria pulita che mantiene l'attitudine over senza risultare d'intralcio sulle scarpe.\nIconico Dettaglio Mini Logo Horseshoe\n: Posizionato frontalmente sul taschino o sul retro, spicca l'inconfondibile label quadrata cucita con il leggendario logo a ferro di cavallo del brand, firma d'archivio che garantisce l'autenticità e la storicità del capo.\nFiniture Workwear e Passanti Larghi\n: Strutturato con cuciture rinforzate a contrasto, passanti per la cintura sovradimensionati pronti ad accogliere cinture pesanti in cuoio o tessuto tecnico, e una classica chiusura frontale con zip a scomparsa e bottone metallico logato in vita.\nTela Denim in Puro Cotone Heavyweight\n: Confezionato in una robusta tela di 100% cotone ad alta densità. Questo filato rigido e corposo è selezionato appositamente per mantenere perfettamente il volume baggy e garantire un'altissima resistenza all'usura, alle abrasioni e ai lavaggi frequenti nel tempo.\nIdee di Stile: Crea la Tua Wave\nSkate Heritage Uniform\n: Esalta le proporzioni e le origini d'archivio del pantalone abbinandolo a una\nt-shirt\na righe orizzontali yarn-dyed e a una sneaker bassa da skate con calzino bianco a vista.\nUrban Utility Layering\n: Crea un perfetto contrasto metropolitano coordinando il jeans 958 con una t-shirt basic bianca o nera e sovrapponendo una camicia strutturata in flanella o una overshirt aperta, chiudendo il look con un cappello con visiera come il modello Obey Pigment Black.\nContemporary Chill Look\n: Per un outfit estivo rilassato ma ricercato nei passaggi tonali, spezza il kaki del pantalone indossando una camicia a maniche corte fluida a fantasia geometrica, come il modello Obey Alan Woven Sky Blue.\nRidisegna la tua silhouette quotidiana con la solidità del vero abbigliamento da lavoro americano. Scegli il carattere inconfondibile dei jeans 958 firmati Dickies.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con vestibilita baggy e dettagli workwear, tipico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-girocollo-proj3ct-soho-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nFelpa girocollo uomo nera firmata Proj3ct con bordi a costina e logo ricamato sul petto e sul retro del polsino. Modello dalla vestibilità loose fit che interpreta lo stile streetwear con una linea semplice e moderna. Completa il tuo look con il\nberretto Brooklyin nero\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa girocollo uomo Proj3ct modello Soho - Nero\nGirocollo\nBordi a costina\nLogo ricamato sul petto e sul retro del polsino\nVestibilità: Loose fit\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "berretto Brooklyin nero",
+      "categoria_url": "https://www.nuvolari.biz/beanie-wd-brooklin-nero-nero.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo casual con vestibilita loose fit e piccoli ricami",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

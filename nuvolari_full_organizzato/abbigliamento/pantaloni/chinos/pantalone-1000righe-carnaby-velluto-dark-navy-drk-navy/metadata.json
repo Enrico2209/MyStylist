@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-1000righe-carnaby-velluto-dark-navy-drk-navy",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone da uomo Modfitters.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità slim\nComposizione: 98% cotone , 2% elastan\nCodice articolo: CARNABY VELLUTO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in velluto millecoste, vestibilita slim, registro smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

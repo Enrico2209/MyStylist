@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/gaelle-paris-t-shirt-gaabw09322-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-Shirt Gaëlle Paris: Minimalismo Urban e Iconografia Diamond\nT-Shirt Donna Gaëlle Paris Black Diamond Logo\nDefinisci il tuo look quotidiano con la t-shirt essenziale di Gaëlle Paris. Questo modello incarna un'eleganza sobria e decisa, dove la profondità del nero incontra un dettaglio grafico geometrico di ispirazione vintage. Realizzata per offrire una vestibilità impeccabile, è il capo versatile che non può mancare nel guardaroba di chi ama distinguersi attraverso dettagli discreti ma iconici.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con piccolo logo centrale, capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

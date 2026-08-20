@@ -23,5 +23,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/piumino-uomo-proj3ct-violet",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\npiumino da uomo Proj3ct\nunisce funzionalità e stile in un capo essenziale. La\nchiusura a zip\noffre praticità e versatilità, garantendo una vestibilità aderente. Le\ndue tasche laterali\naggiungono un tocco pratico e aggiornato. Il\ncolore vibrante violet\naggiunge un tocco di audacia al tuo guardaroba invernale. Sulla manica sinistra, la\npatch con la tigre iconica del brand\naggiunge un elemento distintivo, conferendo al capo una personalità unica e riconoscibile.\nA\nbbinamenti Versatili in viola\nCombina questo\npiumino\ncon\njeans\ne\nstivali\nper uno stile casual ma alla moda. Per un approccio più elegante, indossalo sopra un\nmaglione\ncon\npantaloni\ncoordinati. Per completare il look, considera accessori come\nsciarpe\no\ncappelli\nnel medesimo colore vibrante. Il\npiumino Proj3ct\nè il compagno ideale per affrontare le giornate fredde con stile senza rinunciare al comfort.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPiumino Uomo Proj3ct Violet\nVestibilità Regular\nComposizione: rivestimento esterni 100% nylon + imbottitura interna 100% poliestere\nCodice Prodotto: WG DALLAS",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "stivali",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stivaletti.html"
+    },
+    {
+      "testo": "maglione",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sciarpe",
+      "categoria_url": "https://www.nuvolari.biz/accessori/sciarpe.html"
+    },
+    {
+      "testo": "cappelli",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "piumino sportivo/casual con blocco di colore a contrasto e patch, adatto a contesti quotidiani informali",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

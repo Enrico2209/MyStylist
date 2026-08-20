@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-uomo-gas-alex-stone-medium",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Jeans Gas Alex Stone Medium è la perfetta sintesi tra l'anima storica del denim italiano e una vestibilità contemporanea. Pensato per chi cerca un look asciutto ma estremamente confortevole, questo modello si posiziona come un pezzo fondamentale per un guardaroba dinamico, capace di passare con disinvoltura dall'ufficio al tempo libero.\nIl punto di forza del modello Alex risiede nella sua vestibilità Slim Fit. Progettato per seguire la linea della gamba senza costringerla, offre una silhouette pulita e moderna. Il trattamento Stone Medium regala al jeans un lavaggio azzurro intermedio, arricchito da leggere abrasioni e schiariture naturali che conferiscono al capo quell'aspetto \"vissuto\" ma curato, tipico del miglior design Gas Jeans.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim fit con lavaggio medio e leggere abrasioni, tipico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-7663r-7xh-pergamena-764",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta polo Colmar Originals reinterpreta un grande classico maschile attraverso dettagli cromatici ricercati, ideale per chi cerca un equilibrio tra eleganza sportiva e comfort assoluto. Realizzata in piqué di puro cotone, si distingue per la sua mano morbida e la sua estrema traspirabilità.\nPerché sceglierla\nIl vero carattere di questa polo risiede nei suoi accenti di stile: il sotto fessino e il collo sono impreziositi da una lavorazione in costina tricolore che richiama i colori iconici del logo del brand. È il capo perfetto per chi desidera un look ordinato ma con un tocco di personalità, adatto sia per il tempo libero che per contesti più formali grazie alla sua struttura leggera e fresca.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: 7663R 7XH PERGAMENA-764",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

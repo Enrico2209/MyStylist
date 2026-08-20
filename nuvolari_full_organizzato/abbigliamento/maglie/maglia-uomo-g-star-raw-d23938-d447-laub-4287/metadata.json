@@ -16,5 +16,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-uomo-g-star-raw-d23938-d447-laub-4287",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo G-Star-Raw Laub\nMaglia\nuomo G-Star. Il maglione Knitted Skipper Essential è realizzato in una struttura a coste. Il colletto rialzato aggiunge un tocco di comfort. Apri la zip per creare un colletto piatto e ottenere un look diverso. Vestibilità regular, colletto rialzato con zip corta, maniche lunghe con polsini integrati, orlo dritto con bordo a coste integrato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n75% lana, 20% poliestere (riciclato), 5% altro\nCodice articolo: D23938 D447 LAUB-4287",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie/collo-alto.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione in maglia a coste con mezza zip, registro smart casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

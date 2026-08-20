@@ -26,5 +26,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-es3-sh150-blue-blue",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa perfetta fusione tra l'autenticità dello streetwear contemporaneo e la cura artigianale della manifattura italiana si esprime nelle collezioni di\ncamicie uomo Squad\n(Squad2). Il brand rivoluziona un pilastro classico dell'abbigliamento maschile destrutturandone la formalità: attraverso lavaggi d'autore, silhouette aggiornate e tessuti ultra-freschi, la camicia si trasforma in un capo versatile, dinamico e ricco di attitudine urban, ideale per chi ama uno stile ricercato ma disinvolto.\nDesign, Materiali e Caratteristiche Distintive\nGeometrie e Fit Contemporanei\n: La proposta del brand spazia con disinvoltura dalle classiche vestibilità regular, pulite e lineari, fino ai tagli overshirt squadrati con fondo dritto e spalle scivolate. Queste varianti oversize sono progettate per essere indossate aperte come capospalla leggero, perfette per creare moderni giochi di stratificazione metropolitana.\nTrattamenti in Capo ed Effetto Delavé\n: Uno dei veri marchi di fabbrica di Squad risiede nei lavaggi. Molti modelli sono sottoposti a tintura in capo o lavaggi vintage che ammorbidiscono le fibre e creano sofisticate sfumature rétro in corrispondenza di colletto, polsini e cuciture, regalando un'allure vissuta e autentica.\nDettagli di Matrice Utility\n: Il design minimalista è arricchito da finiture mai banali. Spiccano colletti alla coreana freschi e minimali o colletti classici morbidi, abbinati a taschini applicati sul petto d'ispirazione utility, bottoni personalizzati a contrasto e orli finemente rifiniti.\nIdee di Stile: Costruisci il Tuo Outfit Urban-Chic\nUrban Utility Layering\n: Crea un perfetto look da transizione metropolitana o da aperitivo estivo. Indossa una camicia overshirt Squad a maniche lunghe lasciandola completamente aperta sopra a una delle iconiche\nt-shirt uomo\ndel brand (come i modelli Squad grafici o minimali). Abbina il tutto alla robustezza dei\nbermuda uomo\ncargo Nuvolari SH Fury e chiudi con una sneaker bassa.\nSmart Casual Summer Break\n: Per un weekend di viaggio, una cena informale o una serata in relax, esalta la leggerezza dei tessuti naturali. Scegli una camicia in lino Squad con collo alla coreana e abbinala alla precisione geometrica di un paio di\npantaloni uomo\nchino chiari o a un bermuda in twill stretch (come il Nuvolari SH Frank), completando con un mocassino morbido scamosciato.\nSporty-Street Mashup\n: Smorza la natura formale della camicia inserendola in un contesto prettamente underground. Accosta una variante a maniche corte stampata o delavé a un paio di bermuda tecnici idrorepellenti (ottimi i modelli Oakley Beach Volley Short) o a un bermuda cargo B1B scuro, definendo l'outfit con un\ncappello uomo\ncon visiera ricurva.\nRidisegna le regole del tuo guardaroba stagionale sperimentando un nuovo concetto di camiceria, dove il comfort delle fibre estive incontra l'energia del design street-sartoriale. Scegli il carattere inconfondibile delle camicie uomo firmate Squad.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a maniche lunghe, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calzini-shield-garment-dyed-sock",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'attenzione millimetrica per i dettagli iconici della \"custom culture\" e la ricerca di materiali dalla forte personalità materica ridefiniscono gli accessori essenziali nel nuovo\nCalzini Uomo Deus Ex Machina 3 Pack Multi Shield Garment Dyed Sock\n. Questo set da tre paia unisce l'estetica rétro dei calzini sportivi d'archivio a uno speciale trattamento di tintura che dona sfumature ricche di carattere, perfette per completare i tuoi look street e skate a partire dalle calzature.\nDesign, Trattamento e Caratteristiche Principali\nTrilogia Cromatica d'Ispirazione Utility\n: Il pack offre tre varianti colore versatili e sature, visibili chiaramente nell'immagine di riferimento: un profondo verde militare/oliva, un classico nero antracite delavé e un intenso blu cobalto/indaco. Tre tonalità perfette per spezzare la monotonia dei calzini tradizionali.\nIconica Patch Shield Deus Ricamata a Rilievo\n: Sulla parte alta del gambale spicca l'inconfondibile scudo ricamato con il lettering \"DEUS\". Lo scudetto presenta un bordo a contrasto che ne accentua la tridimensionalità, firmando l'accessorio con il simbolo della community internazionale di Sydney.\nStruttura a Coste Classica in Cotone Stretch Spugnato\n: Confezionati in una miscela premium di cotone ed elastane, i calzini presentano una lavorazione a coste verticali sul gambale che assicura una perfetta tenuta senza stringere il polpaccio. La pianta del piede è rinforzata internamente in morbida spugna per ammortizzare l'impatto durante la camminata o le sessioni sulla tavola da skate.\nAltezza Crew Medio-Alta Sportiva\n: Il taglio classico a metà polpaccio si adatta millimetricamente alle tendenze streetwear contemporanee, progettato per essere indossato a vista sia con sneaker basse che con scarponcini.\nIdee di Stile: Linka il Tuo Outfit\nSkate & Ride Heritage Uniform\n: Crea la perfetta combinazione street d'ispirazione australiana. Indossa i calzini a coste (lasciando svettare la patch Shield) insieme al reticolo geometrico del\ncostume uomo\nDeus Service Mesh Black o a un bermuda in denim, completando il look con una sneaker bassa da skate e una t-shirt grafica del brand.\nContemporary Utility Mix\n: Gioca con i richiami cromatici della terra per i tuoi spostamenti quotidiani. Abbina la variante verde oliva o nera di questo pack alla solidità rilassata di un\npantalone uomo\npantalaccio Lyle & Scott in nuance Military Green, inserendo una t-shirt basica chiara e una giacca Harrington.\nMetropolitan Casual Vibe\n: Per un outfit da tempo libero curato fino all'ultimo dettaglio, abbina il calzino blu cobalto sotto la precisione lineare di un pantalone chino. Completa la parte superiore con la pulizia di una delle\nt-shirt uomo\nU.S. Polo Assn. Mick o con una polo Psycho Bunny, lasciando che il dettaglio del calzino aggiunga una nota pop ricercata.\nNon lasciare al caso nessun elemento della tua espressione stilistica, partendo dalle basi del comfort quotidiano. Scegli la morbidezza spugnata, i lavaggi tinti in capo e l'inconfondibile impronta grafica del pack di calzini Multi Shield firmati Deus Ex Machina.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costume uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Calzini sportivi a coste in cotone con logo ricamato, tipici del registro streetwear e casual quotidiano.",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

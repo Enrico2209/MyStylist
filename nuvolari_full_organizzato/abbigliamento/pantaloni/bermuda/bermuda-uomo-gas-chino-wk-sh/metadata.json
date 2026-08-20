@@ -22,5 +22,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-uomo-gas-chino-wk-sh",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Gas Endri Chino Wk Sh Basic Wash Med\nreinterpreta l'estetica del pantaloncino corto attraverso un'intrigante fusione tra la struttura sartoriale del modello chino e la robustezza del denim tradizionale. Caratterizzato da un lavaggio blu medio (\"Basic Wash Med\") dall'aspetto pulito ma tridimensionale, questo capo si distingue per un'architettura raffinata con pinces, offrendo un'alternativa sofisticata e di tendenza ai classici cinque tasche in jeans.\nDesign e Caratteristiche Principali\nCostruzione Chino con Pinces Frontali\n: A differenza dei bermuda in denim standard, questo modello adotta una costruzione sartoriale caratterizzata da una doppia pince frontale che dona volume morbido sui fianchi, valorizzando la silhouette con un tocco contemporaneo e ricercato.\nLavaggio Indigo Medium Pulito\n: La tela presenta una tonalità blu indaco media ed equilibrata, impreziosita da delicate sfumature e schiariture naturali concentrate lungo le cuciture e sui profili, che evidenziano la struttura del pantalone senza eccedere in contrasti vintage aggressivi.\nTasche Frontali \"Slash\" d'Ispirazione Sartoriale\n: Il pannello anteriore è rifinito con tasche interne oblique a filetto (tasche a sbieco), tipiche dei pantaloni formali, arricchite da rivetti metallici decorativi posizionati alle estremità per coniugare eleganza e resistenza strutturale.\nDettagli Tecnici e Chiusura\n: Presenta una linea di cintura lineare e pulita con passanti robusti coordinati, completata da una chiusura frontale con patta (zip o bottoni nascosti) e un bottone a chiodo principale scuro e personalizzato posizionato al centro.\nFondo Gamba a Taglio Vivo Cucito\n: Il fondo si presenta dritto, ampio e pulito con una spessa orlatura a binario che stabilizza la vestibilità, cadendo morbido a metà coscia appena sopra il ginocchio.\nSilhouette Relaxed-Chino Fit\n: Grazie alle pinces e alla morbidezza del tessuto, offre una vestibilità leggermente più rilassata e ariosa rispetto ai tagli slim, garantendo una totale libertà di movimento e un eccellente comfort climatico durante le giornate calde.\nProposta di Outfit\nContemporary Heritage Layering\n: Indossalo abbinato a una\nt-shirt\nminimalista chiara con micro-logo sul petto e sovrapponi un\ngiubbotto\nin denim dal lavaggio stone washed scuro; il gioco di contrasti tra le diverse tonalità di blu e la pulizia del cotone struttureranno un look urban-street d'impatto.\nUrban Graphic Essential\n: Portalo in combinazione con una\nt-shirt\nbianca impreziosita da una maxi-grafica posteriore nei toni del nero o del blu; la linearità frontale del bermuda bilancerà la ricchezza visiva sul retro della maglia, definendo un outfit quotidiano fresco e moderno.\nSmart Summer Casual\n: Abbinalo a una\ncamicia\nin misto lino a righe verticali sfumate, da portare leggermente aperta sopra una canotta chiara; l'attitudine sartoriale data dalle pinces del bermuda si sposerà magnificamente con la natura fiammata del lino, per un perfetto look da aperitivo estivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in denim, seppur con costruzione chino e pinces, rimane un pantaloncino corto informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-shpv-terry-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl comfort estivo e l'anima resort si incontrano nel\nbermuda in spugna da uomo Nuvolari nella tonalità sabbia\n. Un capo morbido e avvolgente, dove il tessuto terry incontra la nuance sabbia naturale, perfetto per le giornate al mare e i momenti di relax con stile.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Spugna (Terry)\n: Realizzato in morbido tessuto di spugna dalla mano piacevole, avvolgente e assorbente, ideale per l'estate.\nTonalità Sabbia\n: Un colore neutro e caldo dal gusto mediterraneo, facile da abbinare e sempre elegante.\nVestibilità Comoda\n: Fit rilassato con coulisse in vita per la massima libertà di movimento.\nDettagli Pratici\n: Tasche laterali funzionali per portare con sé l'essenziale.\nIdee di Stile: Costruisci il Tuo Look Resort & Estivo\nResort Mood\n: Abbinalo a una\nt-shirt uomo\no a una polo in tinta per un total look estivo rilassato.\nBeach & Pool\n: Perfetto per la spiaggia e la piscina, comodo dentro e fuori dall'acqua, da completare con delle infradito.\nAperitivo Estivo\n: Indossalo con una camicia leggera aperta e delle\nsneakers\nper un look serale disinvolto.\nVivi l'estate nel massimo comfort con il bermuda in spugna Nuvolari. La tonalità sabbia è la scelta versatile per i tuoi momenti di relax con un tocco di stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "bermuda in tessuto spugna con coulisse in vita, ideale per spiaggia e resort",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

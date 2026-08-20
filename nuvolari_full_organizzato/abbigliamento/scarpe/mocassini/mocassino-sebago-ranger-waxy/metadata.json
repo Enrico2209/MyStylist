@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassino-sebago-ranger-waxy",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Sebago Dan Portland 7001HU0 è l'essenza del mocassino da barca evoluto, un modello che fonde la silhouette iconica del \"Penny Loafer\" con la funzionalità tecnica necessaria per la vita sul ponte. Parte della rinomata collezione Portland, questa calzatura rappresenta un pilastro dello stile nautico d'élite, perfetta per chi cerca un equilibrio tra formalità e attitudine rilassata.\nIl punto di forza del modello 7001HU0 risiede nella sua costruzione artigianale cucita a mano, che garantisce una flessibilità superiore e una calzata che si adatta progressivamente alla forma del piede. Realizzato in pelle pieno fiore trattata per resistere agli agenti atmosferici e alla salsedine, questo mocassino offre una versatilità rara: è capace di nobilitare un outfit casual estivo pur mantenendo una struttura solida e duratura.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica in pelle, ideale per contesti smart casual e tempo libero",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

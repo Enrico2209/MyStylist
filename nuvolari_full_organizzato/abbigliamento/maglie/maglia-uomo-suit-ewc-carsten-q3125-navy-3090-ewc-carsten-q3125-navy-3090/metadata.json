@@ -22,5 +22,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-suit-ewc-carsten-q3125-navy-3090-ewc-carsten-q3125-navy-3090",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Suit Ewc Carsten Navy\nMaglia Uomo Suit girocollo con maniche lunghe e vestibilità regular. Design minimalista con bordi a costina, perfetta per un look casual e moderno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo a coste, capo base smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/donna-proj3ct-camicia-s3-beep-sky-sky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl gusto contemporaneo e i dettagli pop di Proj3ct prendono forma nella\ncamicia da donna Proj3ct nella nuance azzurro sky\n. Un capo fresco e versatile, dove l'azzurro delicato incontra un piccolo dettaglio a cuore che regala un tocco giocoso e romantico.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Leggero\n: Realizzata in tessuto dalla mano fresca e piacevole, ideale per la bella stagione.\nAzzurro Sky\n: Una tonalità chiara e luminosa, delicata e facile da abbinare per look freschi e femminili.\nDettaglio a Cuore\n: Piccolo ricamo a cuore che dona personalità e un tocco pop al capo.\nCollo e Abbottonatura Curati\n: Colletto strutturato e chiusura frontale con bottoni per un capo ordinato e versatile.\nVestibilità Femminile\n: Linea curata che valorizza la silhouette, da indossare dentro o fuori dai pantaloni.\nIdee di Stile: Costruisci il Tuo Look Casual Chic\nCasual Chic\n: Abbina la camicia a dei\njeans donna\ne delle\nsneakers donna\nper un look quotidiano fresco e curato.\nSmart\n: Indossala con dei\npantaloni donna\nper un outfit da ufficio femminile e luminoso.\nEstate\n: Portala aperta su un top con dei bermuda o una gonna per un mood estivo disinvolto.\nAggiungi freschezza e un tocco romantico al tuo guardaroba. La camicia azzurra Proj3ct è il capo versatile perfetto per i look di stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers donna",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantaloni donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica ma con dettagli pop e ricamo a cuore che la rendono smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

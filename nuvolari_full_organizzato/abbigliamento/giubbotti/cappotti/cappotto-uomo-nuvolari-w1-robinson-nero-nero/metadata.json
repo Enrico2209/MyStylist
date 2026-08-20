@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/cappotti/cappotto-uomo-nuvolari-w1-robinson-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCappotto Uomo Nuvolari Robinson Nero\nIl\ncappotto\nNuvolari\nlungo con cappuccio e zip offre un'ottima combinazione di comfort e stile. Il design versatile e moderno, unito alla chiusura con zip, lo rende perfetto per affrontare le giornate fredde mantenendo un look elegante e pratico.\nAbbinalo ad un paio di\njeans\ne alle\nsneakers\npresenti nella collezione\nNuvolari\n, perfetti per rendere il tuo stile elegante e moderno per ogni situazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: W1 ROBINSON NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "cappotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "cappotto classico ma con pettorina e cappuccio sportivi integrati, consigliato con jeans e sneakers",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

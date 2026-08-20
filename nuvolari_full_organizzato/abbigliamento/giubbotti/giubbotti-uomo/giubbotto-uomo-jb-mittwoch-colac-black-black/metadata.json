@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-jb-mittwoch-colac-black-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo J.B. Mittwoch Colac Black\nIl giubbotto J.B. Mittwoch con cappuccio e zip è pensato per chi cerca un capo comodo e funzionale, adatto a tutte le condizioni atmosferiche. La presenza del cappuccio offre una protezione extra, mentre la zip frontale facilita la vestibilità. Caratterizzato da un design versatile e sportivo, è perfetto per un look casual e dinamico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: COLAC BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto sportivo/casual con cappuccio e zip, vestibilita regular",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

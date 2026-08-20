@@ -20,5 +20,26 @@
   "pattern": "quadri",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yosemite-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia a quadri uomo dalla vestibilità slim fit in morbido cotone realizzata da Camiceria Bellini in collaborazione con Nuvolari. E se di camicie non ne hai mai abbastanza, scopri la collezione di\ncamicie uomo firmate\nsullo store Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia a quadri uomo Bellini for Nuvolari modello Yosemite - Blu\nManiche lunghe\nFantasia check\nChiusura con bottoni\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicie uomo firmate",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia a quadri in cotone, vestibilità slim fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-reverse-ewf-vn0a5fpt-blk-duk-green-q461",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGiubbotto da uomo Vans.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nComposizione: esterno 100%nylon ; interno 100% poliestere\nCodice articolo: EWF VN0A5FPT",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "giacca coach in nylon di marchio skate/streetwear, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

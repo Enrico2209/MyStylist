@@ -27,5 +27,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giacche/giacca-nuvolari-wc-45762-frye-blu-blu-wc-45762-frye-blu-blu",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "Descrizione\nGiacca uomo Nuvolari Blu\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiacca Nuvolari modello 45762\nGiacca monopetto due bottoni\nRevers a lancia\nTasche a toppa\nMezza fodera nel tessuto fantasia\nPlacca metallica personalizzata cucita sulla tasca\nPochette interno taschino\nTessuto armaturato bi-colore\nComposizione: 70% Poliestere, 15% Viscosa, 15% Lana",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.8
+    },
+    "formality": 4,
+    "formality_perche": "giacca monopetto sartoriale con revers a lancia e pochette",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

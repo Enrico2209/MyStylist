@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/borsa-donna-maxi-bag-sw0101-lime-li",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'energia pura delle giornate estive e l'estetica pop ad alto impatto visivo si incontrano nella nuova\nBorsa F**K Maxi Bag Lime\n. Questo esclusivo accessorio oversize fa della sua accattivante colorazione acida e dello spazio generoso i suoi punti di forza, confermandosi come il perfetto statement piece da spiaggia per chi esige massima funzionalità, leggerezza e uno stile che non passa mai inosservato.\nDesign e Caratteristiche Principali\nTonalità Lime Neon Vibrante\n: La borsa è interamente declinata in un luminosissimo color verde lime/cedro, saturo e iper-vitaminico. Una sfumatura magnetica e rinfrescante progettata appositamente da F**K per risaltare sotto il sole, valorizzando splendidamente la pelle abbronzata.\nMaxi Volumi e Silhouette Spaziosa\n: Sviluppata con un design capiente a trapezio espanso (Maxi Bag), ideale per accogliere con estrema disinvoltura tutto il necessario per il mare o la piscina: teli mare, solari, riviste, occhiali da sole e un cambio d'abito.\nRaffinata Texture Plissé Tridimensionale\n: La superficie esterna del tessuto è impreziosita da una fitta plissettatura verticale elastica. Questa particolare lavorazione non solo conferisce movimento e un elegante gioco di luci e ombre alla borsa, ma permette al materiale di espandersi in modo flessibile a seconda del contenuto.\nDoppio Manico in Corda Nautica\n: Provvista di due robusti manici corti realizzati in morbida corda marittima intrecciata color panna naturale. La fune è saldamente ancorata alla struttura attraverso occhielli metallici rinforzati in finitura argento, combinando stabilità ai carichi pesanti e un perfetto tocco beach-heritage.\nTessuto Tecnico Leggero e Quick-Dry\n: Confezionata in un filato sintetico flessibile e piacevole al tatto, studiato appositamente per resistere alla salsedine, ai granelli di sabbia e per offrire un'asciugatura ultra-rapida.\nIdee di Stile: Crea la Tua Wave\nWild Contrast Beach Outfit\n: Rompi gli schemi del classico stile balneare accostando la borsa lime alle tonalità calde e terrose del costume F**K Culotte Brown. Il contrasto visivo tra la stampa jungle animalier del bikini e la scossa neon della maxi bag crea un look iper-ricercato e di grande tendenza.\nFresh Summer Pastel Match\n: Per un pranzo in terrazza o un aperitivo al tramonto, attenua la forza del lime coordinando la borsa alla delicatezza romantica degli short Ichi Ihaya Sho3 Beige/Pink con motivo Vichy rosa e a un top bianco basic.\nUrban Utility Vibe\n: Sfrutta lo spazio della borsa anche per le tue gite fuori porta metropolitane abbinandola a un look rilassato composto dai pantaloni Dickies 247 Loose Work Desert Sand e a una t-shirt basic, chiudendo il cerchio con un sandalo platform comodo.\nAccendi la tua estate con l'accessorio più fresco e vitaminico della collezione. Scegli lo spazio infinito e il carattere audace della Maxi Bag Lime firmata F**K.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "borsa mare oversize in tessuto tecnico con dettagli in peluche e logo vistoso",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

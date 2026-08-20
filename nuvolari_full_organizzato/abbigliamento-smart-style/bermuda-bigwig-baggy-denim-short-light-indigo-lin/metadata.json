@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-bigwig-baggy-denim-short-light-indigo-lin",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl fascino radicale della skate culture degli anni '90 e le geometrie sfrontate dello stile hip-hop d'archivio rivivono nei nuovi\nBermuda Uomo Obey Bigwig Baggy Denim Light indigo\n. Questo modello si distingue per i suoi volumi extra-large e per una ricerca cromatica unica, proponendosi come lo statement piece definitivo per chi vuole ridefinire le proporzioni del proprio look street.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "bermuda di jeans con vestibilita baggy, marchio street puro",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

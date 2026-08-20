@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-se-5352-fight-foresta",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "Descrizione\nPantalone dalla vestibilità tapered da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari modello 5352 Fight - Foresta\nChiusura con zip e bottone in vita\nUn tasca sul retro è chiusa da bottone\nFodera interna tasche a fantasia\nVestibilità tapered\nMade in Italy\nComposizione : 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino/tapered in cotone, ideale per smart casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

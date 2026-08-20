@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-in-maglia-es3-dapper-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Nuvolari Dapper In Maglia Blu\nridefinisce il concetto di eleganza quotidiana, fondendo la silhouette formale della camicia classica con lo straordinario comfort della lavorazione a maglia. Declinata in un blu navy profondo e versatile, questa proposta si rivela la scelta ideale per l'uomo contemporaneo che cerca un look dapper impeccabile senza rinunciare alla massima libertà di movimento.\nDesign e Caratteristiche Principali\nPregiato Tessuto in Maglia\n: Realizzata con una texture d'ispirazione knitwear leggera ed elastica, offre una flessibilità superiore rispetto ai tessuti navetta tradizionali, adattandosi naturalmente alle linee del corpo.\nCollo Italiano Strutturato\n: Il design del colletto, pulito e dalle vele proporzionate, mantiene una perfetta compostezza formale, rendendo il capo adatto a essere indossato sia aperto sia completato da una cravatta leggera.\nColorazione Blu Navy\n: Una tonalità elegante, sobria e senza tempo, capace di integrarsi con disinvoltura sia in palette cromatiche diurne che in abbinamenti per la sera.\nCostruzione Sartoriale e Dettagli Tono su Tono\n: Caratterizzata da una fustella frontale lineare con bottoni opachi perfettamente coordinati alla nuance blu del filato per un'estetica pulita e rigorosa.\nTaglio Slim/Regular Equilibrato\n: La vestibilità è studiata per valorizzare la figura maschile asciugando i volumi sui fianchi, ma sfruttando l'elasticità intrinseca della maglia per azzerare ogni sensazione di costrizione.\nPolsini Sagomati\n: I polsini classici a un bottone consentono di regolare la chiusura sul polso o di essere facilmente risvoltati per un approccio più disinvolto.\nSuggerimenti di Stile\nEcco 3 modi per interpretare questa versatile camicia in maglia nei tuoi look:\nSmart Business\n: Indossala abbottonata all'interno di un paio di\npantaloni chino\nbeige o grigio chiaro, completando l'outfit con una cintura in pelle e mocassini per un perfetto stile da ufficio estivo.\nContemporary Dapper\n: Provala sotto un abito sfoderato o un blazer strutturato color ghiaccio o tabacco, lasciando i primi due bottoni aperti per esprimere un'eleganza rilassata ma rigorosa.\nCasual Premium\n: Abbinala aperta sopra una t-shirt basic bianca in cotone leggero, in combinazione con un\njeans\ndenim scuro dal lavaggio fermo e sneakers minimali in pelle.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chino.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Camicia a maniche corte in maglia fine, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

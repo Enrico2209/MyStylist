@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-s3-gb-nayt-military-military",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Pantalone Cargo Uomo Proj3ct S3 GB Nayt rappresenta l'evoluzione del concetto utility in chiave contemporanea. Realizzato in una mischia di 98% cotone e 2% elastane, questo capo offre la solidità tattica tipica dei modelli d'ispirazione militare con l'aggiunta di una flessibilità essenziale per la vita urbana quotidiana.\nPerché sceglierlo\nIl segreto di questo modello risiede nel tessuto Cotton. La prevalenza quasi assoluta di cotone garantisce una mano naturale, traspirante e resistente alle abrasioni, mentre il 2% di elastane è quel dettaglio tecnico invisibile che permette al pantalone di non risultare rigido, adattandosi ai movimenti senza perdere la sua forma strutturata. È il compagno ideale per chi cerca un look deciso senza rinunciare alla comodità.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo:S3 GB NAYT MILITARY-MILITARY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con coulisse in vita ed elastico, stile prettamente utility e casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

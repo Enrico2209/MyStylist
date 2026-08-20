@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-thelonius-black-31",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLeggerezza e stile si fondono nel nostro\nbomber Uomo\nBaecker Primaverile. Realizzato con tessuti che permettono la traspirazione, questo bomber è progettato per affrontare le giornate più miti con eleganza. La sua versatilità lo rende adatto a molteplici situazioni, dall'ufficio al weekend.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 80% polyester, 20% Nylon\nCodice Prodotto: THELONIUS BLACK-31",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bomber Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Bomber leggero con colletto a camicia, stile pulito e sobrio adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

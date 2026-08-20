@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-s3-flint-panama-607",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNuvolari S3 Flint: L'Autenticità del Lino per un'Estate Senza Tempo\nCamicia Uomo Nuvolari S3 Flint in Lino\nEsplora il massimo della traspirabilità con la camicia S3 Flint di Nuvolari. Realizzata in fibra di lino, questa camicia è pensata per chi non scende a compromessi tra eleganza e comfort climatico. La sua caratteristica texture fiammata e il design pulito la rendono un'icona del guardaroba estivo, capace di adattarsi con naturalezza sia a contesti formali che a momenti di relax assoluto.\nPuro Comfort e Stile Naturale\nFibra di Lino Termoregolatrice\n: Il lino offre una gestione naturale del calore, mantenendo la pelle fresca e asciutta anche nelle temperature più intense.\nDesign Minimalista\n: Caratterizzata da una linea sobria ed elegante, la S3 Flint presenta un colletto classico ben proporzionato e una chiusura frontale con bottoni in tono.\nTexture Fiammata Distintiva\n: La superficie del tessuto rivela le tipiche irregolarità della fibra nobile, conferendo al capo profondità visiva e un'allure artigianale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% lino\nVestibilità regular\nCodice articolo:S3 FLINT PANAMA-607",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte in lino, adatta a contesti casual estivi e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

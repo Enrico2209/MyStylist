@@ -21,5 +21,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-m6000-nightgreen-snwht-t50",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa polo uomo Fred Perry è molto più di un semplice capo di abbigliamento; è un'icona culturale che ha attraversato decenni di stile, rimanendo fedele alla sua anima sportiva e al suo legame con le subculture urbane. Realizzata nel caratteristico piqué di cotone, rappresenta il perfetto equilibrio tra eleganza informale e resistenza.\nFred Perry Polo L'Essenza del Piqué Britannico\nPerché sceglierla\nLa polo Fred Perry si distingue per la qualità del suo piqué di cotone, una maglia alveolare che offre una traspirabilità superiore e una struttura che non perde la forma con il tempo. È il capo ideale per chi cerca un look pulito e riconoscibile, capace di adattarsi sia a un contesto lavorativo rilassato che al tempo libero.\nConsigli di Outfit\nSmart Casual:\nAbbinala da un\nPantalaccio\nper un look che unisce la tradizione del cotone alla modernità dei tessuti tecnici.\nUrban Layering\n: Indossala sotto il\nGiubbotto\nper proteggerti dal vento senza rinunciare a un tocco di classe visibile dal colletto.\nCalzature\n: Si sposa perfettamente con\nsneakers\nbianche o scarpe d'ispirazione tennistica per completare un outfit coerente con la storia del brand.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:M6000 NIGHTGREEN/SNWHT-T50",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "Giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,46 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-w3-montesacro-bianco-bianco",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLo streetwear romano e l'identità urbana di Proj3ct prendono forma nella\nt-shirt da uomo Proj3ct modello Montesacro in bianco\n. Un capo dal gusto autentico, dove il bianco pulito fa da tela alla stampa \"Monte Sacro\" sul petto, per un pezzo distintivo che racconta lo spirito del quartiere e l'anima del brand.\nDesign, Tessuti e Caratteristiche Costruttive\nPuro Cotone Confortevole\n: Realizzata in cotone dalla mano piena e morbida, garantisce comfort quotidiano, traspirabilità e una resistenza pensata per durare nel tempo.\nBianco Ottico Luminoso\n: Una base bianca pulita e versatile che valorizza la stampa ed esalta ogni abbinamento di colore.\nStampa \"Monte Sacro\"\n: Grafica dal gusto collegiate posizionata sul petto, firma distintiva del modello e omaggio all'anima romana del brand.\nGirocollo a Maniche Corte\n: Scollo a giro con costina che mantiene la forma e maniche corte dal taglio pulito.\nVestibilità Regular\n: Fit comodo e lineare, ideale per un look urbano da indossare tutti i giorni.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Daily Casual\nUrban Streetwear Look\n: Abbina la t-shirt a un paio di\njeans uomo\ne completa con delle\nsneakers uomo\nper un outfit metropolitano fedele allo spirito del brand.\nLayering & Sovrapposizioni\n: Indossala sotto una\ncamicia uomo\naperta o un\ngiubbotto uomo\nper aggiungere carattere e profondità all'insieme.\nCasual & Capi Alternativi\n: Completa con dei\npantaloni uomo\ncomodi. Scopri anche le altre\nt-shirt uomo\ndella selezione per rinnovare il guardaroba.\nPorta un frammento di Roma nel tuo guardaroba. Scegli il comfort del cotone, la pulizia del bianco e la personalità della stampa Montesacro firmata Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica stile collegiate, capo base casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/evolution-box-hald-dome-tee-nf0a8g9c-bsnvrd-evngsdpk-2el1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nThe North Face Evolution Box Half Dome: L’Essenziale per ogni Esplorazione\nT-shirt Uomo The North Face Evolution Box Half Dome Regular\nLinee pulite e versatilità senza compromessi definiscono la t-shirt Evolution Box Half Dome. Progettata per diventare il capo preferito del tuo guardaroba, questa maglia unisce il DNA outdoor di The North Face a un fit regular perfetto per ogni occasione. Che tu stia pianificando un'uscita sui sentieri o una giornata in città, la sua struttura bilanciata ti garantisce freschezza e stile in un’unica soluzione intramontabile.\nComfort Traspirante e Design Iconico\nMisto Cotone e Poliestere\n: Realizzata in una speciale miscela di fibre che combina la morbidezza naturale del cotone alla resistenza traspirante del poliestere.\nMassima Freschezza\n: Il tessuto è studiato per offrire una piacevole sensazione sulla pelle, facilitando l'evaporazione dell'umidità durante le attività all'aperto.\nFacilità di Abbinamento\n: Grazie al design sobrio e alla vestibilità regolare, si adatta facilmente a qualsiasi outfit, dai pantaloni tecnici ai jeans casual.\nDettagli Grafici\n: Presenta l'iconico logo Half Dome racchiuso nel box Evolution, un richiamo alla storica eredità del brand nel mondo dell'alpinismo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n165 g/m², 60% cotone, 40% poliestere/maglia/jersey singolo\nVestibilità regular\nCodice articolo: NF0A8G9C BSNVRD/EVNGSDPK-2EL1",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di marchio outdoor, tetto massimo di formalita per il brand",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

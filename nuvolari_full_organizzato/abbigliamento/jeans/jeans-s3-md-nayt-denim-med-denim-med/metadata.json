@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-md-nayt-denim-med-denim-med",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Proj3ct S3 MD Nayt in variante Denim Medium rappresentano l'essenza del denim autentico. Realizzati in 100% cotone, questi jeans fuggono dalle mescole sintetiche per abbracciare la robustezza e il fascino del \"denim vero\", quello che migliora col tempo e prende la forma di chi lo indossa.\nProj3ct S3 MD Nayt Autenticità Denim 100% Cotone\nPerché sceglierli\nLa scelta del puro cotone non è solo una questione di qualità, ma di stile. Senza elastane, il jeans mantiene un aspetto più strutturato e \"crudo\", tipico del vintage americano, offrendo una resistenza superiore. Il lavaggio Medium Denim è il più versatile in assoluto: né troppo chiaro, né troppo scuro, perfetto per ogni stagione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:S3 MD NAYT DENIM MED-DENIM MED",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in denim con coulisse in vita ed effetto schizzi di vernice",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

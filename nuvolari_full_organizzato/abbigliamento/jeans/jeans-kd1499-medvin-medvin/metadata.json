@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-kd1499-medvin-medvin",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantaloni adidas Firebird Adicolor Denim: L'Anima Classica incontra il Denim Vintage\r\nUn omaggio fedele agli archivi Originals, reinterpretato per le sfide dello stile urbano contemporaneo. Questi pantaloni Firebird abbandonano il classico tricot per abbracciare una finitura in denim dal lavaggio vintage medio, infondendo un carattere old-school immediato al tuo guardaroba quotidiano.\r\n\r\nIl design è definito dalle leggendarie 3 Strisce laterali, un dettaglio che firma il capo con l'inconfondibile estetica adidas senza sovraccaricare il look. La struttura a vita media e la pratica chiusura con zip assicurano una vestibilità ferma e confortevole, rendendo questo modello il compagno ideale per i weekend di relax o per le uscite casual in città dove lo stile non è un optional.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: KD1499 MEDVIN-MEDVIN",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.5,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim a taglio dritto con bande laterali sportive, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

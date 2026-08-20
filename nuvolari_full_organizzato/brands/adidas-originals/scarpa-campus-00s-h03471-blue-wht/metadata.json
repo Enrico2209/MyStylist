@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/scarpa-campus-00s-h03471-blue-wht",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nScarpe Adidas Originals Campus 00s\nDopo il loro debutto sul parquet, queste iconiche\nscarpe\nhanno abbracciato una nuova direzione, restando sempre al passo coi tempi grazie all'utilizzo di materiali innovativi e a una cura meticolosa dei dettagli. La tomaia in pelle pregiata offre un'eleganza senza tempo, mentre la fodera interna in tessuto garantisce comfort e traspirabilità.  Con una calzata regolare e una chiusura con lacci, queste scarpe assicurano una vestibilità sicura e sportiva. La suola in gomma offre un'ottima trazione e resistenza all'usura, ideale per affrontare qualsiasi attività. Che tu le indossi per un'uscita casual con gli amici o per un'appuntamento più formale, le Adidas Originals Campus saranno sempre un'aggiunta al tuo guardaroba.\nAbbina le Campus con un paio di\njeans\n, una\nt-shirt\noppure una\nfelpa\npensata per te da Nuvolari per rendere il tuo stile sportivo e perfetto in qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE Adidas Campus 00s blu\nScala taglie UK\nCalzata regolare. Chiusura con lacci. Tomaia in pelle. Fodera in tessuto\nCodice articolo: H03474 blu",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers iconiche di stampo sportivo/casual, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-es2-gb-calcutta-grigio-mel-grg-mel",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Black Rags\nIl giubbotto uomo Black Rags è un capo versatile e grintoso, ideale per affrontare le giornate con stile. Realizzato con materiali resistenti e rifiniture curate, garantisce comfort e protezione senza rinunciare al carattere urbano.\nCaratteristiche:\nDesign contemporaneo con dettagli streetwear.\nChiusura con zip robusta e pratica.\nTasche laterali funzionali per portare con sé l'essenziale.\nInterno foderato per maggiore comfort termico.\nProposta Outfit:\nPerfetto con\njeans slim fit\ne una\nt-shirt grafica\n, il giubbotto Black Rags si abbina altrettanto bene a\npantaloni cargo\ne\nsneakers alte\nper un look moderno e dinamico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo: ES2 GB CALCUTTA GRIGIO MEL-GRG MEL",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Giubbotto leggero stile overshirt con zip e tasconi, abbinato a t-shirt e cargo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

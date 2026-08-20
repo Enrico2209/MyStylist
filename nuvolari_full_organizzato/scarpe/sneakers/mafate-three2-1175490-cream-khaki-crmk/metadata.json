@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/mafate-three2-1175490-cream-khaki-crmk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nHoka Mafate Three2 Performance Senza Confini\n- Design Ibrido Iconico: Combina il comfort avvolgente dei modelli d'archivio con una piattaforma tecnologica moderna, creando una silhouette voluminosa ma estremamente funzionale.\n- Sistema di Allacciatura Quick-Lace: Dotata di un pratico sistema a trazione rapida che permette di regolare la calzata in un istante, ideale per chi è sempre in movimento.\n- Intersuola Ammortizzata: La classica struttura Hoka in EVA offre una protezione eccezionale contro gli impatti, garantendo una camminata fluida anche sulle superfici più dure.\n- Suola Vibram® Megagrip: Presenta un battistrada aggressivo con tasselli profondi, studiato per offrire un grip superiore su terreni tecnici, fango o asfalto bagnato.\n- Materiali Traspiranti: La tomaia in mesh tecnico è rinforzata da strati sintetici che proteggono il piede senza sacrificare la ventilazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nLe\nHoka Mafate Three2\nsono una fusione magistrale tra l'eredità tecnica del trail running e l'estetica moderna dello streetwear, nate dall'unione della tomaia della\nMafate 3\ne della suola della\nMafate Speed 2\n. Questa sneaker è progettata per chi non vuole scendere a compromessi tra trazione estrema e uno stile urbano d'avanguardia.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "sneaker tecnica da trail running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

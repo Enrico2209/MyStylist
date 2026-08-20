@@ -22,5 +22,27 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/hinnominate-felpa-hmabw02362-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'oscurità magnetica del nero profondo si unisce a volumi d'avanguardia urban, dando vita a un capospalla essentials che ridefinisce i canoni della felpa sportiva. La\nFelpa Donna Hinnominate Nero\nè strutturata con un taglio audace ed estremamente contemporaneo, concepito per chi vuole unire la massima attitudine streetwear a una silhouette dinamica che valorizza il punto vita.\nDesign e Caratteristiche Principali\nSilhouette Cropped con Fascione Elastico\n: Il tratto distintivo del capo è il taglio fortemente accorciato che si ferma sopra il punto vita. La struttura è sigillata sul fondo da un alto fascione elastico arricciato che stabilizza i volumi e modella la figura.\nChiusura Frontale con Zip Integrale\n: Dotata di una solida cerniera metallica centrale che scorre fino alla base del cappuccio, offrendo la massima versatilità di indosso sia completamente chiusa sia lasciata aperta in modalità layering.\nMaxi Cappuccio Avvolgente\n: Progettato con un cappuccio ampio e profondo, privo di coulisse esterne per mantenere una linea pulita e minimalista, ideale per proteggere dal vento o per enfatizzare l'estetica cozy del capo.\nManica Lunga Bombata con Spalla Scesa (Drop Shoulder)\n: Le maniche si sviluppano con un taglio rilassato e voluminoso, enfatizzato dalle spalle scese e rifinito sui polsi da polsini elastici arricciati che creano un perfetto effetto puffy.\nDettaglio Logo sulla Manica\n: Sul retro o sul profilo del polsino sinistro spicca la stampa a contrasto del lettering ufficiale del brand\n\"HINNOMINATE\"\n, posizionata in modo asimmetrico per un tocco grafico inaspettato.\nTessuto Premium in Felpa Leggera\n: Confezionata in un cotone felpato compatto e morbido al tatto, selezionato appositamente per sostenere la struttura boxy e i volumi morbidi delle maniche senza appesantire il capo.\nIdee di Stile: Crea la Tua Wave\nThe Ultimate Total Black Loungewear\n: Crea una divisa street d'impatto abbinando la felpa a un pantalone jogger oversize nero o a un pantalone della tuta a gamba dritta firmato Hinnominate, chiudendo il look con una sneaker bold.\nVolume & Texture Contrast Match\n: Sfrutta il taglio cropped e il fascione elastico indossando la felpa sopra a un top super aderente a coste o alla canotta asimmetrica infilata dentro a un\njeans\nbaggy dal lavaggio vintage chiaro.\nPreppy Street Vibe\n: Abbina il capo completamente aperto sopra a una camicia cropped a micro-righe, lasciando spuntare il colletto dal cappuccio e completando il tutto con uno short in cotone o un pantalone chino Dickies dal taglio dritto.\nStravolgi i volumi del tuo guardaroba urban. Scegli l'architettura geometrica di Hinnominate e scendi in strada pronta a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa cropped con cappuccio e zip, capo tipicamente casual e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

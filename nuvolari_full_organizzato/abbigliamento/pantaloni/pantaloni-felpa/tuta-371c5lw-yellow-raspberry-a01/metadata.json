@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-371c5lw-yellow-raspberry-a01",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPanatalone tuta da uomo Kappa x Project.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità Regular\nComposizione:  100% polietsere\nCodice articolo: 371C5LW",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta sportivo, tetto di marchio e categoria",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

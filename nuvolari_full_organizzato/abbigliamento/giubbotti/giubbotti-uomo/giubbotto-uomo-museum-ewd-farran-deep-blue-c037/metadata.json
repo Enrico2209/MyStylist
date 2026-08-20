@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-museum-ewd-farran-deep-blue-c037",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Museum Farran Deep Blue\nGiubbotto\nUomo Museum modello Farran. Dotato di cappuccio removibile e inserto in sherpa anch’esso removibile, offre una protezione versatile in ogni condizione. Presenta una chiusura centrale con zip nascosta, due tasche frontali con patta, due tasche verticali con zip sul petto e una tasca interna. Il look è completato dal patch logo sul braccio.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: EWD FARRAN DEEP BLUE-C037",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto/parka casual con cappuccio e inserto sherpa",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

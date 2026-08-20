@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/adidas-polo-kc6491-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo stile street iconico incontra l'attitudine sportiva nella\nPolo Donna Adidas Originals KC6491 in Nero\n, un capo dal taglio moderno in cotone piqué e firmato dall'inconfondibile logo trifoglio Adidas Originals.\nDesign e Caratteristiche Principali\nCotone Piqué:\ntessuto morbido e traspirante dalla texture caratteristica, piacevole sulla pelle e resistente nel tempo.\nIntramontabile Nero:\nuna tonalità piena ed elegante, la più versatile in assoluto, facile da abbinare a qualsiasi look.\nLogo Trifoglio Signature:\nl'inconfondibile trefoil Adidas Originals firma il capo, simbolo di autenticità del brand.\nColletto e Bottoni:\ncollo a polo con abbottonatura, per un aspetto ordinato dal mood sportivo.\nVestibilità Moderna:\nsilhouette pulita e attuale, perfetta per un look dinamico dal mood athleisure.\nIdee di Stile: Linka il Tuo Outfit\nStreet Casual:\nabbina la polo a un paio di\njeans donna\ne sneakers per un look urbano dinamico.\nSporty Chic:\ncompletala con una\ngonna donna\nper un total look street.\nLayering Athleisure:\nindossala sotto un\ngiubbotto donna\ndenim per uno stile comodo e attuale.\nAggiungi un tocco street iconico al tuo guardaroba con la Polo Adidas Originals KC6491 in Nero. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPOLO DONNA ADIDAS ORIGINALS BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "gonna donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/gonne.html?settore=Donna"
+    },
+    {
+      "testo": "giubbotto donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "polo sportiva in cotone piqué, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-black-rags-kb-igor-grigio-grigio",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Black Rags Igor Grigio\nIl\npantalone\nBlack Rags in stile cargo offre un design funzionale e di tendenza, perfetto per un look casual ma curato. Caratterizzato da dettagli iconici e pratici, combina comfort e stile urbano, rendendolo un capo versatile adatto a diverse occasioni.\nAbbina questi bellissimi pantaloni ad una\ncamicia\noppure ad una\nt-shirt\nper ottenere il look perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n87% poliestere, 8% nylon, 5% elastan\nCodice articolo: KB IGOR GRIGIO-GRIGIO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con coulisse ed elastico in vita",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

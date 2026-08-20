@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/ls-914-miles001-tofu-131",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'heritage tennistico degli anni '90 e l'estetica streetwear contemporanea si incontrano nelle\nsneakers da uomo Ellesse modello LS 914 nella raffinata variante Tofu\n. Caratterizzate da una silhouette court d'ispirazione retro e da una pulita tonalità panna/off-white, queste calzature rappresentano il perfetto connubio tra stile iconico, comfort e versatilità urbana.\nDesign, Tessuti e Caratteristiche Tecniche\nTomaia Multi-Materiale Strutturata\n: Realizzata con pannelli sovrapposti in pelle e materiale sintetico di alta qualità, con traforature laterali e sulla punta per garantire un'ottima traspirabilità.\nNuance Tofu / Off-White Elegante\n: Una tonalità bianco calce/panna monocromatica e sofisticata, ideale per abbinarsi con facilità a qualsiasi outfit casual o streetwear.\nSuola Spessa in Gomma ad Aderenza Elevata\n: Dotata di un'intersuola ammortizzata con texture scanalate d'ispirazione vintage e battistrada in gomma durevole per una trazione ottimale.\nDettagli e Branding Iconico Ellesse\n: Rifinita con la finestra logo Ellesse sul lato, la patch sulla linguetta e il logo impresso sul tallone, simboli storici dell'universo athleisure del brand.\nIdee di Stile: Costruisci il Tuo Look Retro Court & Streetwear\nRetro Tennis & Casual Look\n: Perfette per un outfit quotidiano pulito e ricercato, abbinale a un paio di\njeans uomo\ndal taglio dritto o tapered e a una polo o\nt-shirt uomo\nessenziale.\nUrban Streetwear Mood\n: Sfrutta i volumi d'ispirazione anni '90 indossandole con pantaloni cargo, un pantalaccio o un paio di\nbermuda uomo\nper un look estivo rilassato e dinamico.\nLayering & Capi Alternativi\n: Completa l'insieme con una giacca a vento o una felpa con zip della nostra selezione\ngiubbotti uomo\nper le giornate più fresche. Per esplorare altre proposte calzature, scopri la nostra gamma completa di\nsneakers uomo\n.\nRiscopri il fascino dello stile court anni '90. Scegli il comfort della suola strutturata, la versatilità della tonalità Tofu e il design inconfondibile di Ellesse LS 914.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Sneakers d'ispirazione retro tennis, adatte a un uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

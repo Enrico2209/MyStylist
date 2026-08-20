@@ -24,5 +24,47 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-sh-blank-blu-blu",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza sartoriale e la freschezza naturale dei tessuti estivi si esprimono al meglio nei\nbermuda da uomo Baecker modello Blank nella classica e intramontabile nuance Blu Notte\n. Realizzati in lino con un taglio pulito d'ispirazione chino, questi pantaloncini rappresentano il connubio perfetto tra stile sofisticato, traspirabilità e grande versatilità per le giornate più calde della stagione.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Tessuto in Lino\n: Confezionati in puro lino leggero e traspirante, offrono un'eccellente sensazione di freschezza sulla pelle e la tipica texture naturale e piacevolmente irregolare della fibra.\nCintura Sartoriale con Passanti e Bottone\n: Presentano un cinturino strutturato con bottone coordinato, pattina con zip e passanti per la cintura, garantendo un'estetica distinta ed elegante.\nNuance Blu Notte Versatile e Classica\n: La tonalità blu scuro dona un carattere raffinato e trasversale, ideale sia per look da giorno che per outfit serali più ricercati.\nTasche Americane e Tailored Fit\n: Dotati di pratiche tasche laterali con taglio all'americana e tasche posteriori a filetto, offrono una vestibilità regolare e bilanciata che si adatta con disinvoltura alla figura.\nIdee di Stile: Costruisci il Tuo Look Resort & Smart Casual\nSmart Summer & Evening Outfit\n: Per un aperitivo al tramonto o un evento estivo disinvolto, abbina i bermuda in lino blu a una camicia bianca o celestina in lino sbottonata e a un paio di mocassini o loafer scamosciati.\nCasual Chic Everyday\n: Per le giornate in città o i weekend fuori porta, accosta il pantaloncino alla freschezza di una\nt-shirt uomo\nessenziale o a una polo, completando il look con la pulizia di un paio di\nsneakers uomo\nbasse in pelle o tela.\nResort Mood & Layering\n: Perfetti da indossare durante le vacanze sopra la nostra selezione di\ncostumi uomo\n. Nelle serate più ventose, completa l'outfit con un capospalla leggero scelto dalla collezione\ngiubbotti uomo\n, oppure scopri i nostri\njeans uomo\nper le occasioni in cui preferisci un pantalone lungo.\nSperimenta la perfetta sintesi tra versatilità e sartorialità estiva. Scegli la traspirabilità del lino, la raffinatezza del colore Blu e l'inconfondibile qualità dei pantaloncini Baecker Blank nella nostra collezione di\nbermuda uomo\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda taglio chino in lino, ideale per contesti casual estivi e resort",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

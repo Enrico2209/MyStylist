@@ -24,5 +24,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-es3-sh-menkes-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Black Rags Menkes\nsi distingue come un capo chiave della stagione estiva, progettato per chi ricerca la massima espressione di comfort loungewear senza rinunciare a un'estetica minimale, nitida e contemporanea. Disponibile nelle varianti cromatiche assolute del bianco ottico (\"Bianco\") e del nero profondo (\"Nero\"), questo pantalone corto fa della sua particolare lavorazione tridimensionale il proprio elemento di forza visiva e strutturale.\nDesign e Caratteristiche Principali\nTessuto Plissé Microrighe Goffrato\n: Realizzato in un filato estivo leggerissimo lavorato a micro-plissé verticale. Questa caratteristica struttura increspata genera una texture mossa e tridimensionale che non aderisce completamente alla pelle, garantendo una ventilazione costante e un'elevata traspirabilità.\nCintura Elastica Lounge in Vita\n: La parte superiore presenta una spessa fascia elastica arricciata che cinge morbidamente i fianchi, assicurando una vestibilità flessibile, confortevole e totalmente priva di costrizioni.\nCoulisse Sottile con Finalini Tecnici\n: Un lungo cordoncino tondo fuoriesce dal centro della vita per regolare l'aderenza del capo; la variante bianca è arricchita da finalini gommati neri a contrasto che inseriscono un dettaglio grafico minimale e moderno.\nTasche Laterali a Scomparsa\n: Integra sui fianchi profonde tasche inserite direttamente lungo le linee di cucitura principali, una soluzione sartoriale che preserva la pulizia estetica e la linearità del bermuda.\nSilhouette Relaxed a Gamba Ampia\n: Il taglio scende fluido e dritto lungo la coscia con volumi comodi ed equilibrati che si fermano appena sopra il ginocchio, assecondando perfettamente la naturale caduta cascante del tessuto plissé.\nOrlo Inferiore con Taglio Lineare\n: Il fondo gamba presenta una finitura piatta, pulita e minimale priva di risvolti, coerente con il design monochrome ed essenziale che contraddistingue l'intera linea Menkes.\nProposta di Outfit\nTotal Menkes Texture Co-ord (Variante Bianco)\n: Indossalo in combinazione con la sua\ncamicia\nMenkes a maniche corte coordinata in tinta bianca, lasciata completamente aperta sopra una canotta chiara; l'unione della medesima micro-texture plissé creerà un completo estivo in stile resort di grande impatto ed eleganza.\nUrban Minimal Contrast (Variante Nero)\n: Abbinalo alla\ncamicia\na maniche corte Temara Beige in tessuto crepe seersucker, portata aperta sopra una t-shirt basic bianca; il netto distacco visivo tra il fondo scuro del bermuda e la luminosità superiore sabbia del layering valorizzerà la tridimensionalità dei tessuti.\nContemporary Dark Layering (Variante Nero)\n: Portalo insieme alla\ncamicia\na maniche corte Temara Grigio antracite sbottonata sopra una t-shirt chiara, sovrapponendo il\ngiubbotto\nfield leggero verde oliva scuro per strutturare un outfit utility metropolitano dai toni profondi e moderni.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda lounge in tessuto plissé con coulisse ed elastico in vita, stile resort rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

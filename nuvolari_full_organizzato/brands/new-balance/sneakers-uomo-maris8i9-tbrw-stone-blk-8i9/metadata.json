@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-uomo-maris8i9-tbrw-stone-blk-8i9",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe New Balance Fresh Foam Arishi sono sneakers progettate per offrire il massimo della versatilità, combinando prestazioni tecniche per il running leggero a un comfort ideale per l'uso quotidiano. La colorazione TBRW/Stone/Black offre un look sofisticato e neutro che si abbina facilmente a ogni outfit.\nIntersuola Fresh Foam: Caratterizzata dalla celebre ammortizzazione Fresh Foam, progettata con precisione per offrire una falcata ultra-ammortizzata e leggera.\nTomaia in Mesh Traspirante: Realizzata in tessuto a rete che favorisce il passaggio dell'aria, mantenendo il piede fresco e asciutto anche durante le giornate più intense. Suola in\nGomma Resistente: Dotata di una suola robusta che garantisce trazione e durata superiore su diverse superfici urbane.\nDesign Moderno: La silhouette pulita e i dettagli testurizzati la rendono perfetta per passare con disinvoltura dall'allenamento in palestra a un appuntamento informale.\nLeggerezza Costruttiva: Una scarpa che punta sulla riduzione del peso per minimizzare l'affaticamento del piede durante lunghe sessioni di camminata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running leggero, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

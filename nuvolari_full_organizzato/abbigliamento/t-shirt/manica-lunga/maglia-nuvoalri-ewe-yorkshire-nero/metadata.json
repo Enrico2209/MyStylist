@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/t-shirt/manica-lunga/maglia-nuvoalri-ewe-yorkshire-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione Girocollo da Uomo colore nero Yorkshire di NUVOLARI\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Nuvolari modello Yorkshire Nero\nGirocollo\nPolsi e fondo a coste\nVestibilità regular\nMade in Italy\nComposizione : 100% cotone\nEWE YORKSHIRE NERO-NERO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo basico in cotone, adatto a contesti casual e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

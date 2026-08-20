@@ -19,5 +19,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/ugg-uomo-minimel",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUGG Minimel: L’essenza dello Streetwear Sostenibile\nLe\nMinimel\nridefiniscono il concetto di sneaker low-profile, fondendo un'estetica urbana decisa con un'esperienza di camminata senza precedenti. Progettate per chi vive la città intensamente, queste scarpe puntano tutto sulla leggerezza e sulla qualità dei materiali, offrendo una soluzione versatile per ogni momento della giornata.\nDesign Innovativo e Personalizzabile\nIl punto di forza delle Minimel risiede nella loro costruzione ibrida: la tomaia alterna pregiata\npelle scamosciata\na tessuti tecnici realizzati interamente con\nfibre riciclate\n.\nCreatività ai piedi:\nGrazie al particolare sistema a\ndoppia allacciatura\ncon stringhe piatte bicolore, puoi sperimentare diversi stili di chiusura per adattare la scarpa al tuo gusto personale.\nPasso leggero:\nLa struttura poggia su un'avanzata suola in\nEVA derivata dalla canna da zucchero\n, una scelta ecologica che garantisce ammortizzazione e una leggerezza straordinaria.\nUn Impegno Etico e Sociale\nScegliere le Minimel significa anche sostenere un cambiamento concreto. Il prodotto è realizzato in fabbriche che aderiscono al progetto\nRISE (Reimagining Industry to Support Equality)\n. Questa iniziativa internazionale collabora con i brand per promuovere l'emancipazione femminile, offrendo formazione, strumenti e supporto alle donne impiegate lungo tutta la filiera produttiva.\nDettagli Tecnici (Modello 1177035)\nEsterno:\nMix di suede e mesh multistrato in poliestere riciclato al 100%.\nComfort Interno:\nSoletta sagomata in PU (50% base bio) da 6 mm e fodera del tallone in morbida microfibra.\nComponenti Eco:\nTirante posteriore e tessuto della soletta in poliestere riciclato.\nBranding:\nLogo UGG® rifinito con stampa a caldo in rilievo sia sul pannello laterale che sulla linguetta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneaker scamosciata low-profile, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

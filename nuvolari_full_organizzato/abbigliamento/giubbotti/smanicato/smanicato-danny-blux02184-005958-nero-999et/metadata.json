@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-danny-blux02184-005958-nero-999et",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo smanicato Blauer Danny è la soluzione ideale per chi cerca un capo di transizione estremamente versatile, capace di offrire calore e protezione senza limitare la libertà di movimento. Grazie alla sua struttura \"lightweight\", rappresenta l'essenza della praticità urbana firmata Blauer.\nBlauer Danny Comfort e Versatilità\nImbottitura Sostenibile\n: Realizzato con l'innovativa ovatta\nSorona® Aura\n, una fibra parzialmente a base vegetale che garantisce un isolamento termico ottimale, traspirabilità e una leggerezza sorprendente.\nTessuto Tecnico\n: Il guscio esterno è in nylon lucido con trattamento idrorepellente, progettato per proteggere dal vento e dall'umidità mantenendo una finitura brillante e resistente.\nDesign Iconico\n: Si distingue per la classica trapuntatura a onde o orizzontale, che definisce il look sportivo del brand e assicura una perfetta distribuzione dell'imbottitura.\nDettagli Distintivi\n: Presenta l'immancabile passante Blauer cucito sul petto a sinistra, segno di riconoscimento dell'autenticità del capo.\nFunzionalità\n: Dotato di chiusura frontale con zip a doppio cursore e tasche laterali con chiusura di sicurezza per un utilizzo quotidiano senza pensieri.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliammide, imbottitura 100% poliestere\nVestibilità regular\nCodice articolo: BLUX02184 005958 NERO-999ET",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "gilet smanicato imbottito in nylon lucido, uso casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

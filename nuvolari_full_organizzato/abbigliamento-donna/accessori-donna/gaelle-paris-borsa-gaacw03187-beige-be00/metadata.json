@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/accessori-donna/gaelle-paris-borsa-gaacw03187-beige-be00",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nBorsa Gaëlle Paris: Eleganza Intrecciata e Texture Naturali\nBorsa Shopping Donna Gaëlle Paris Beige & Blue Summer Edition\nCattura l'essenza dell'estate con la borsa shopping Gaëlle Paris. Questo modello unisce una struttura artigianale in paglia sintetica intrecciata a dettagli moderni, creando l'accessorio perfetto per chi cerca spazio, funzionalità e uno stile solare. Che sia per una giornata in spiaggia o per un pomeriggio di shopping in città, questa borsa aggiunge un tocco di freschezza sofisticata a ogni outfit stagionale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "da_mare": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "borsa shopping in paglia intrecciata con frange, ideale per spiaggia e tempo libero estivo",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-nuvolari-sc-justin-6117-perla-perla",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Nuvolari JUSTIN 6117\nPantalone\ncargo firmato Nuvolari modello\nJustin 6117\n, realizzato in tessuto stampato effetto armaturato tinto capo dalla vestibilità tapered. Chiusura con zip e bottone in vita, due tasconi laterali chiusi con bottone a pressione, due tasche posteriori con pattina e stretti sul fondo con polsino elastico. Dettaglio fantasia nella fodera delle tasche. 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi e polsino elastico sul fondo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

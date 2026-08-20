@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/w-stone-donna-timberland-street-boot-tb0a27yz-burgundy-eiw1",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nStivaletto Donna Timberland Stone Street Boot Burgundy\nLo\nstivale\ncon plateau Stone Street 7-Eye di Timberland, impreziosito da un dettaglio sfrangiato, unisce robustezza e stile. Realizzato con tomaia in pelle Premium Leather e fodera ReBOTL™ traspirante, contiene almeno il 50% di plastica riciclata. La soletta OrthoLite® e la suola in gomma parzialmente rigenerativa offrono comfort e aderenza ottimali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nTomaia: misto pelle Premium Leather di Timberland®. Fodera: tessuto ReBOTL™ traspirante con almeno il 50% di plastica riciclata. Soletta: OrthoLite® \r\nSuola: preformata in gomma con il 10% di gomma da aziende con pratiche di agricoltura rigenerativa.\nCodice articolo: TB0A27YZ BURGUNDY-EIW1",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "stivale",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "stivaletto stringato in pelle con suola spessa a carrarmato e plateau, stile casual e robusto",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

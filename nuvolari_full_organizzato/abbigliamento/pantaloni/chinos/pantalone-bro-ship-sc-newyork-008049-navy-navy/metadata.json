@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-bro-ship-sc-newyork-008049-navy-navy",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantaloni lunghi in cotone da uomo firmati Bro-Ship.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Bro-Ship NEWYORK\nModello: New York 008049\nColore: Navy (Blu scuro)\nMateriale: 97% cotone 3% elastane\nStile: Quattro tasche, due tasche a filo e due posteriori a filetto\nVestibilità: Slim-fit",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim-fit, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

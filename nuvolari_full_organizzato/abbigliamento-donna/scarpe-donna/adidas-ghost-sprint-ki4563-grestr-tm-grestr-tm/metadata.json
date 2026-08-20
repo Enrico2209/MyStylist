@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/adidas-ghost-sprint-ki4563-grestr-tm-grestr-tm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEstetica retro-running e mood contemporaneo si incontrano nelle\nsneakers da donna Adidas Originals modello Ghost Sprint nella colorazione Grigio con dettagli Rossi\n. Realizzate in morbido camoscio grigio antracite, con lacci rossi a contrasto e suola gum, sono un modello dallo stile vintage e distintivo, perfetto per look urbani e disinvolti.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Camoscio:\npelle scamosciata grigio antracite dalla mano pregiata, per un look morbido e ricercato.\nDettagli Rossi a Contrasto:\nlacci rossi che donano un tocco di colore e carattere sportivo.\nSuola Gum Vintage:\nsuola in gomma color caramello dallo stile retro, con buona aderenza e ammortizzazione.\nSilhouette Retro Running:\nlinea affusolata ispirata alle running anni 2000, comoda e di tendenza.\nIdee di Stile: Costruisci il Tuo Look Casual & Sporty\nCasual Everyday:\nabbinale a un paio di\njeans donna\ne a una\nfelpa donna\nper un look comodo e di tendenza.\nSporty Chic:\nperfette con leggings o pantaloni sportivi e una\nt-shirt donna\nessenziale.\nTocco Retro:\nun dettaglio vintage che aggiunge personalita anche agli outfit piu minimal.\nAggiungi un tocco retro e distintivo al tuo guardaroba. Scegli la morbidezza del camoscio, il contrasto dei dettagli rossi e lo stile inconfondibile firmato Adidas Originals Ghost Sprint.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html?settore=Donna"
+    },
+    {
+      "testo": "t-shirt donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers retro-running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

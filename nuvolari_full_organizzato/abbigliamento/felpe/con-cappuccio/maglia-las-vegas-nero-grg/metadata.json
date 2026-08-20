@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/con-cappuccio/maglia-las-vegas-nero-grg",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nFelpa in Maglia da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Maglia Uomo J.B. Mittwoch modello Las Vegas - Nero/Grigio\nCappuccio con coulisse\nPolsini e girovita con doppio bordino a contrasto di colore\nVestibilità Regular\nComposizione: 35% poliammide, 30% lana, 30% viscosa, 5% cashmere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Felpa con cappuccio, ma in maglia misto lana e cashmere che la rende leggermente più ordinata di una felpa in cotone sportiva",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

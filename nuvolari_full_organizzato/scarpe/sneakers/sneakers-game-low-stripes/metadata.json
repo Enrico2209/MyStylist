@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-game-low-stripes",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Diadora Game Low Stripes sono una variante dinamica e visivamente d'impatto della classica Game Low, caratterizzata dall'aggiunta di bande laterali che ne accentuano il carattere sportivo e rétro. Questa calzatura si ispira al mondo del tennis degli anni '70, unendo la tradizione artigianale di Diadora a un design perfetto per lo street-style moderno.\nStile Heritage e Dinamismo\nCaratteristiche Principali\nDettaglio \"Stripes\"\n: Il classico fregio laterale Diadora è messo in risalto da bordi o strisce a contrasto, che donano alla sneaker un aspetto più grafico e vivace rispetto alla versione base.\nTomaia in Pelle Premium\n: Realizzata con pellami selezionati o materiali sintetici di alta qualità, progettati per offrire morbidezza e resistenza nel tempo.\nSilhouette Low-Cut\n: Il taglio basso alla caviglia assicura una grande libertà di movimento e una linea slanciata, ideale per essere abbinata a pantaloni di diverse lunghezze.\nVentilazione Ottimizzata\n: La punta presenta i classici fori per la traspirazione, mantenendo il piede fresco anche durante l'uso prolungato.\nSuola a Cassetta Vintage\n: La suola in gomma, spesso proposta in tonalità \"off-white\" per un effetto invecchiato, garantisce un'ottima ammortizzazione e aderenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nUS\nITA\n7\n40\n8\n41\n8.5\n42\n9.5\n43\n10\n44\n11\n45\n12\n46",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers retro di marchio sportivo, livello casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,26 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/short-dickies-957-loose-tapered-dk0a885j-dark-indigo-0dd1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico heritage dell'abbigliamento da lavoro si evolve in una chiave squisitamente femminile e contemporanea nei nuovi\nJeans Donna Dickies 957 Loose Tapered Dark Indigo\n. Questo modello rilegge la solidità dei capi d'archivio Dickies attraverso volumi morbidi e rilassati, perfetti per chi esige un denim di carattere, durevole e perfettamente allineato alle tendenze streetwear metropolitane.\nDesign e Caratteristiche Principali\nLavaggio Dark Indigo Profondo\n: Il pantalone è declinato in un blu indaco scuro e intenso, caratterizzato da finiture pulite e leggerissimi contrasti sfumati lungo le linee delle cuciture. Una colorazione classica e d'impatto che massimizza la versatilità del capo, ideale sia per look da giorno che per outfit serali più ricercati.\nTaglio Loose Tapered Moderno\n: Sviluppato con l'innovativa silhouette \"957\", il jeans presenta una linea comoda e scivolata sui fianchi e sulle cosce che va a restringersi in modo graduale verso la caviglia. Una geometria equilibrata che slancia la figura offrendo al contempo la massima libertà di movimento e un'attitudine street-ready impeccabile.\nIconica Label Posteriore Dickies\n: Sul retro, posizionata sopra la tasca destra, spicca l'inconfondibile patch quadrata con il logo ufficiale a ferro di cavallo del brand. Una firma iconica che testimonia la storicità dell'abbigliamento utility americano.\nArchitettura Classica a 5 Tasche\n: Costruito secondo i canoni della tradizione del denim solido, presenta profonde tasche americane sul davanti e tasche posteriori applicate dalla linea pulita. La chiusura frontale è gestita da una patta con zip a scomparsa e bottone metallico logato in vita.\nTela Denim Heavyweight in Puro Cotone\n: Confezionato in un denim rigido e corposo di 100% cotone ad alta densità. Questo filato resistente è selezionato appositamente per mantenere perfettamente i volumi strutturati del taglio loose, garantendo una longevità eccezionale contro le abrasioni e l'usura quotidiana.\nIdee di Stile: Crea la Tua Wave\n90s Tomboy Skate Uniform\n: Esalta l'anima utility del brand abbinando il jeans 957 a una\nt-shirt\na righe orizzontali yarn-dyed o a una t-shirt grafica corta, completando il look con una sneaker bassa da skate dal profilo pulito.\nUrban Contrast Outfit\n: Gioca con i volumi creando un contrasto iper-femminile. Indossa il pantalone indaco insieme a un micro top o a un body aderente a coste color panna, sovrapponendo una camicia a maniche corte fluida lasciata completamente aperta (ottimo il modello Obey Alan Woven).\nStreet Utility Layering\n: Per le giornate di transizione, coordina il denim con una t-shirt bianca basic e una overshirt strutturata (come la variante Obey Brushed Nickel), chiudendo il cerchio con un cappello con visiera rétro e una borsa tracolla tecnica.\nRivendica uno stile solido, autentico e ricco di carattere d'archivio. Scegli il fit perfetto dei jeans 957 firmati Dickies.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim con vestibilita loose tapered, tipico capo casual quotidiano con accento streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

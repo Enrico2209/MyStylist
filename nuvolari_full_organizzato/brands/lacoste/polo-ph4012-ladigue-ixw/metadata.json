@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/polo-ph4012-ladigue-ixw",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nEsplora l'eredità di innovazione e stile della polo Lacoste, che ha rivoluzionato l'abbigliamento sportivo elegante nel lontano 1933\nQuesta polo slim fit, di colore azzurro, è caratterizzata da un colletto singolo, abbottonatura e una maglia speciale, il famoso Petit Piqué, che ne garantisce comfort e resistenza. Realizzata con cotone al 100%, questa polo offre un taglio aderente per una vestibilità elegante e sofisticata. I dettagli di lusso includono bottoni in vera madreperla e il logo ricamato del coccodrillo sul petto, un'icona di stile senza tempo. Se hai dubbi sulla taglia da scegliere, ti consigliamo di optare per una taglia più grande rispetto a quella abituale, per un comfort ottimale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità SLIM\nCodice articolo: PH4012 LADIGUE-IXW",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, vestibilità slim e bottoni in madreperla che la posizionano nello smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

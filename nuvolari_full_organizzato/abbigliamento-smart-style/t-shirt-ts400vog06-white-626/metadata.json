@@ -25,5 +25,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-ts400vog06-white-626",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'heritage sportivo britannico e la passione per la football culture si fondono nella\nt-shirt da uomo Lyle & Scott modello TS400VOG06\n. Caratterizzata da un design pulito sul davanti e da uno statement grafico d'impatto sul retro, questa maglietta rappresenta un capo essenziale per gli amanti dello stile casual, terrace e streetwear.\nDesign, Tessuti e Caratteristiche Costruttive\n100% Cotone di Alta Qualità\n: Confezionata in puro cotone morbido e traspirante, assicura la massima piacevolezza al tatto, freschezza e resistenza al quotidiano.\nGrafica Posteriore Statement \"Eat. Sleep. Football.\"\n: Il retro è impreziosito dalla maxi stampa tipografica a contrasto, tributo d'ispirazione terrace alla cultura calcistica.\nIconica Aquila Dorata Lyle & Scott\n: Il celebre logo \"Golden Eagle\" è applicato in miniatura sul lato cuore, a garanzia di autenticità e stile British.\nGirocollo e Vestibilità Regular\n: Taglio classico a maniche corte con girocollo a costine, pensato per offrire una silhouette confortevole e ben bilanciata.\nIdee di Stile: Costruisci il Tuo Look Casual & Terrace\nTerrace & Casual Matchday Look\n: Perfetta per le giornate di campionato o per il tempo libero, abbina la t-shirt a un paio di\njeans uomo\ndal taglio diritto e a delle\nsneakers uomo\nd'ispirazione retro/terrace.\nSummer Street Vibe\n: Per le giornate più calde, indossala con un paio di\nbermuda uomo\nin cotone o cargo per un outfit disinvolto e d'impatto.\nLayering & Mezze Stagioni\n: Crea un perfetto outfit a strati indossandola sotto una sovracamicia aperta o completando il look con una giacca corta dalla nostra selezione\ngiubbotti uomo\n. Per scoprire altre opzioni della collezione, esplora l'intera gamma di\nt-shirt uomo\n.\nMostra la tua passione con uno stile inconfondibile. Scegli la qualità del cotone, l'iconico Golden Eagle e l'attitudine della t-shirt Lyle & Scott TS400VOG06.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: TS400VOG06 WHITE-626",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con grafica statement sul retro, adatta a contesti casual e streetwear",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

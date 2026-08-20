@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/abbigliamento-ichidonna-ihkamina-sho-20125965-medium-blue-200339",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Ichi Donna Ihkamina Sho Medium Blue\nreinterpreta il classico fascino del denim attraverso una costruzione lounge morbida e iper-confortevole, ideale per affrontare le giornate estive con stile e disinvoltura. Caratterizzato da un lavaggio blu medio d'ispirazione rétro (\"Medium Blue\") con delicate sfumature ed effetti stone-washed lungo le cuciture, questo pantaloncino corto unisce la robustezza estetica del jeans alla leggerezza di una silhouette fluida e rilassata.\nDesign e Caratteristiche Principali\nTessuto Soft Denim Leggero\n: Realizzato in un cotone denim morbido e cascante, appositamente trattato per garantire una mano fluida che si distanzia dalla rigidità dei jeans tradizionali, offrendo freschezza e comfort assoluti.\nCintura Elastica Lounge Arricciata\n: La parte superiore è interamente strutturata con una spessa fascia elastica arricciata che cinge morbidamente il punto vita, adattandosi in modo anatomico ai fianchi senza costrizioni.\nCoulisse Piatta a Contrasto\n: Un vistoso nastro piatto in cotone intrecciato color panna/naturale fuoriesce dal centro della vita, perfetto per regolare il fitting e aggiungere un luminoso accento cromatico e marittimo al capo.\nGrandi Tasche Applicate a Toppa\n: Il pannello frontale è contraddistinto da due ampie tasche quadrate applicate a toppa con impunture a vista, che richiamano l'estetica utility e l'abbigliamento da lavoro in chiave d'avanguardia minimalista.\nSilhouette A-Line a Gamba Ampia\n: Il taglio si sviluppa con una linea svasata a trapezio (A-line) che si allarga progressivamente verso il fondo, garantendo un'eccellente libertà di movimento e valorizzando la silhouette con volumi freschi e moderni.\nOrlo Inferiore con Doppia Impuntura\n: Il fondo gamba dritto presenta una spessa bordatura con impunture orizzontali parallele a contrasto, che mettono in risalto la finitura del lavaggio delavé ed evitano che il tessuto perda la sua forma scivolata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in denim leggero con vita elastica e coulisse, stile lounge molto rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

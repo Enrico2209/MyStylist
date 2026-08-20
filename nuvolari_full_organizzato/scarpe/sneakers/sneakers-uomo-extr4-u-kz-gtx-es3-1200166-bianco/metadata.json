@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-uomo-extr4-u-kz-gtx-es3-1200166-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nSNEAKERS UOMO EXTR4 U&KZ GTX\nrappresentano l'unione definitiva tra design d'avanguardia e prestazioni tecniche elevate. Pensate per affrontare le sfide metropolitane e i percorsi outdoor più impegnativi, queste calzature offrono una protezione totale senza rinunciare a un'estetica bold e futuristica.\nDesign e Caratteristiche Principali\nMembrana GORE-TEX (GTX)\n: Dotate di tecnologia impermeabile e traspirante, garantiscono piedi asciutti e comfort termico ottimale anche in condizioni di pioggia o umidità intensa.\nSuola EXTR4 Oversize\n: La suola è caratterizzata da volumi ampi e una struttura ammortizzante che offre stabilità superiore e un ritorno di energia costante ad ogni passo.\nBattistrada High-Grip\n: Il design della suola esterna è studiato con tasselli multidirezionali per assicurare una trazione eccellente su diverse superfici, dal cemento bagnato allo sterrato.\nCostruzione Multimaterica\n: La tomaia combina tessuti tecnici antistrappo, inserti in TPU rinforzato e dettagli sintetici per una resistenza superiore all'usura.\nSistema di Allacciatura Rapida\n: Progettate per una calzata sicura e avvolgente, le stringhe tecniche permettono una regolazione precisa che mantiene il piede stabile durante il movimento.\nEstetica Urban-Tech\n: Il look è definito da linee dinamiche e una silhouette aggressiva, ideale per chi cerca una sneaker che sia un vero e proprio statement di stile.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare queste sneakers tecniche:\nTechnical City Gear\n: Abbinale ai\nBermuda\nUomo\ne una giacca a vento leggera per un outfit funzionale pronto ad affrontare qualsiasi meteo urbano.\nModern Explorer\n: Indossale con i\nBermuda Uomo Proj3Ct 2.0 West Tobacco\ne una\nt-shirt\ntecnica per un contrasto tra i toni della terra e il design futuristico della scarpa.\nStreet Stealth\n: Combinale con i\nBermuda Uomo\ne una\nfelpa\noversize con cappuccio per un look streetwear deciso e total black.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneaker tecnica da running/outdoor, tetto massimo per calzature sportive",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

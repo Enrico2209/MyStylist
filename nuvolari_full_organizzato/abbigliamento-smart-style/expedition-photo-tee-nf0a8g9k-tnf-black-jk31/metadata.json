@@ -25,5 +25,39 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/expedition-photo-tee-nf0a8g9k-tnf-black-jk31",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo The North Face Expedition Photo Tee TNF Black\nrende omaggio alla gloriosa e storica eredità alpina del brand attraverso un suggestivo connubio tra fotografia e grafica. Costruita su una solida base nera, questa maglietta celebra lo spirito d'avventura e le grandi esplorazioni d'alta quota grazie a una dettagliata stampa quadrata posizionata sul retro.\nDesign e Caratteristiche Principali\nMaxi Stampa Fotografica Posteriore\n: La schiena è dominata da un grande riquadro che ospita una splendida fotografia in bianco e nero che cattura una storica spedizione alpinistica tra i ghiacci e le vette montane più impervie, sormontata dalla scritta \"THE NORTH FACE\".\nCoordinate d'Esplorazione\n: Ai lati dell'immagine posteriore sono stampati riferimenti geografici e scritte tecniche in bianco che richiamano i diari di viaggio e la cartografia delle grandi imprese d'alta quota.\nFronte Lineare e Pulito\n: Il lato anteriore si presenta sobrio ed essenziale, decorato esclusivamente dall'iconico logo The North Face stampato in bianco sul petto a sinistra, garantendo un'immediata riconoscibilità.\nColorazione TNF Black\n: La tonalità nero profondo avvolge l'intero capo, creando uno sfondo perfetto che fa risaltare la nitidezza e il fascino rétro della fotografia e dei loghi bianchi.\nTaglio Regular Fit\n: La vestibilità classica assicura una linea confortevole e una caduta fluida sul busto, ideale sia per la vita dinamica di tutti i giorni sia per i momenti di relax outdoor.\nTessuto in Cotone Traspirante\n: Realizzata in filato di puro cotone morbido al tatto, garantisce freschezza costante sulla pelle e un'ottima resistenza ai lavaggi e all'uso prolungato.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questa t-shirt dall'attitudine heritage e gorpcore:\nTechnical Heritage Look\n: Indossala con dei\npantaloni cargo\nin tessuto ripstop color fango o beige e scarpe da trail running per richiamare fedelmente lo spirito d'esplorazione del capo.\nUrban Contrast\n: Abbinala a dei\njeans\ndenim chiaro dal lavaggio vissuto e a delle sneakers bianche in pelle per un outfit da giorno grafico, fresco e metropolitano.\nCasual Layering\n: Provala sotto una\novershirt\nleggera nera sbottonata e a degli\nshorts\ntecnici per un perfetto stile transizionale da weekend.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.6,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica di marchio outdoor, tetto massimo di formalita per il brand",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

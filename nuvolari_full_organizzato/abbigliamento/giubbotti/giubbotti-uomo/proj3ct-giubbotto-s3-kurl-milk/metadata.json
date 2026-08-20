@@ -23,5 +23,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/proj3ct-giubbotto-s3-kurl-milk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Donna Proj3Ct S3 Kurl\n, come mostrato nel file Schermata 2026-05-14 alle 14.47.05.png, è un capo spalla dal design minimalista e moderno. Caratterizzato da una silhouette pulita e una tonalità bianco panna, questo giubbotto si presta perfettamente per outfit primaverili ed estivi raffinati.\nDesign e Caratteristiche Principali\nScollo Rotondo Minimal\n: Presenta un collo senza rever, che conferisce al capo un'estetica essenziale e lineare.\nChiusura Frontale con Zip\n: Dotato di una cerniera metallica argentata che corre lungo tutta la lunghezza frontale.\nTaglio Bomber Cropped\n: La linea è corta e leggermente sblusata, rifinita con un fondo elasticizzato che definisce il punto vita.\nDettaglio Maniche\n: Le maniche sono ampie e terminano con polsini elasticizzati arricciati, richiamando lo stile sportivo ma con un tocco femminile.\nTasche Laterali a Filo\n: Include due ampie tasche laterali verticali integrate discretamente nella struttura del capo.\nMateriale Soft Touch\n: Il tessuto appare morbido e leggero, ideale per garantire comfort e una caduta fluida.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questo giubbotto:\nTotal White Contemporary\n: Indossalo sopra una\nt-shirt\nbianca e i Jeans Donna Proj3Ct Malaga per un look monocromatico pulito e di tendenza.\nUrban Contrast\n: Abbinalo ai\ncargo\nNuvolari scuri e delle\nsneakers\ncolorate per spezzare il candore del capo con un tocco streetwear.\nCasual Chic Evening\n: Provalo sopra una\ncamicia\ndi lino e dei\nchinos\nchiari per un outfit serale rilassato ma estremamente curato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto bomber cropped con elastico, stile casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

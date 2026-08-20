@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-nuvolari-se-spike-nero-nero",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "Descrizione\nGiubbotto chiodo da uomo in vera pelle certificata, sottoposta ad un trattamento di invecchiamento per creare un effetto vintage. Un giubbotto stile biker slim fit con allacciatura diagonale, bottoni automatici sul bavero, pannello interno antivento, due tasche frontali con zip, un taschino interno, gomitiera e zip sui polsi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto chiodo in vera pelle premium uomo Nuvolari modello Spike - Nero\nRealizzato in vera pelle certificata\nSottoposto a trattamento di invecchiamento\nAllacciatura diagonale\nBottoni automatici sul bavero per un'allacciatura totale\nDue tasche frontali con zip\nTaschino interno\nZip sui polsi\nGomitiera\nPannello interno per una maggiore protezione antivento\nVestibilità Slim Fit\nComposizione: 100% vera pelle\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto chiodo in pelle stile biker, capo casual quotidiano con accenti street",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

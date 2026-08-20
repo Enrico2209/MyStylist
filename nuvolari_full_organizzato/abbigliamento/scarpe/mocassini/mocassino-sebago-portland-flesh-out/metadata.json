@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassino-sebago-portland-flesh-out",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Mocassino Sebago Dan Portland 7111PTW è la celebrazione dell'estetica nautica d'élite, un modello che fonde la struttura classica del \"Penny Loafer\" con la resistenza e il grip necessari per la vita sul ponte di una barca. Parte della prestigiosa linea Portland, questa calzatura è progettata per chi non vuole rinunciare a un look formale e curato anche nei momenti di relax estivo o durante un weekend in riviera.\nIl punto di forza del modello 7111PTW risiede nella sua costruzione \"Moc-Toe\" cucita a mano, che garantisce una flessibilità eccezionale e una calzata che si modella sulla forma del piede nel tempo. Realizzato in pelle pieno fiore trattata per resistere alla salsedine e all'umidità, questo mocassino offre un'eleganza senza tempo che si distingue dai classici modelli stringati da barca per un profilo più pulito e sofisticato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "mocassino da barca in pelle scamosciata, ideale per contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/gel-nyc-1203a739-cloud-silver-401",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'iconica fusione tra le tecnologie running più amate degli anni 2000, la costante ricerca di palette cromatiche eteree e una spiccata propensione per lo streetwear d'avanguardia si incontrano nelle\nsneakers uomo Asics GEL-NYC Cloud/Silver\n. Il brand giapponese dà vita a una silhouette scultorea e dinamica che attinge direttamente agli archivi storici delle serie GEL-NIMBUS 3 e GEL-MC PLUS V, riproponendole in chiave lifestyle contemporanea per dominare il panorama urban e i look millenials-inspired.\nDesign, Tecnologie e Caratteristiche Costruttive\nLa Sofisticata Palette Cloud/Silver\n: La calzatura si sviluppa su un'elegante tonalità azzurro polvere/nuvola estremamente ariosa, accesa e ritmata da dettagli metallizzati in argento (silver). Questa combinazione cromatica pulita e futuristica dona al modello una straordinaria luminosità, perfetta per rinfrescare gli outfit della stagione estiva.\nTomaia Multimaterica Premium\n: La struttura superiore unisce la freschezza e la traspirabilità di una rete mesh a maglia fine grigio chiaro alla consistenza e alla morbidezza di inserti sagomati in suede (pelle scamosciata) azzurro. La tomaia è arricchita dalle leggendarie Stripes laterali Asics termoformate in finitura argento specchiato che conferiscono una solida tridimensionalità.\nTecnologia di Ammortizzazione GEL™ Visibile\n: Il vero e proprio fulcro del comfort risiede nel sistema di lavorazione della suola, ereditato dal design della sneaker GEL-CUMULUS 16.  L'intersuola azzurra integra iconici cuscinetti in tecnologia GEL™ posizionati sul tallone e sull'avampiede, garantendo un eccellente assorbimento degli urti e una camminata fluida per tutta la giornata.\nArchitettura della Suola e Comfort Interno\n: La scarpa poggia su una solida suola in gomma segmentata provvista di scanalature flessibili che assecondano la rullata naturale del piede. Il collarino sagomato è generosamente imbottito e rivestito in tessuto morbido per ottimizzare la calzata ed evitare frizioni sulla caviglia, completato da un sistema di allacciatura tradizionale con lacci piatti azzurri coordinati.\nIdee di Stile: Costruisci il Tuo Look Rétro-Running & Urban Smart\nMetropolitan Smart-Casual Transition\n: Sfrutta la tonalità chiara e sofisticata della scarpa per creare una combinazione geometrica pulita, ideale per il tempo libero o per un appuntamento informale. Abbina le Asics GEL-NYC alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, completando sul davanti con la ricercatezza tricot della t-shirt uomo o della maglia polo uomo Nuvolari in maglia blu navy.\nUrban Contemporary Denim Mix\n: Esalta l'anima Y2K e i volumi della calzatura inserendola in un contesto streetwear dinamico d'ispirazione anni '90. Accosta le sneakers alla silhouette generosa, dritta e rilassata dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro o bleach, lasciando che la gamba del denim si appoggi morbida sulla suola scultorea, coordinando il tutto a una t-shirt uomo grafica.\nSophisticated Riviera Transition Look\n: Rompi il rigore dell'abbigliamento prettamente sportivo giocando con i tessuti naturali di stagione. Combina la pulizia delle sneakers Cloud/Silver alla freschezza e alla morbidezza di un pantalone uomo o bermuda uomo Baecker in lino nelle sfumature del sabbia o del beige, completando l'outfit sul davanti con una camicia in lino fiammato bianco ottico lasciata sbottonata sul colletto.\nSperimenta la perfetta sintesi tra l'efficienza ingegneristica dello sport d'archivio e l'impatto visivo delle ultime tendenze dello stile urban globale. Scegli la luminosità del mix Cloud/Silver, la stabilità della tomaia multimaterica e il comfort impareggiabile delle sneakers uomo firmate Asics.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Sneakers running retro-lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

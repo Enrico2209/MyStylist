@@ -24,5 +24,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-rick-beige-beige",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa camicia Blackrugs è l'epitome dell'eleganza casual. Realizzata con tessuti di alta qualità, questa camicia offre un comfort superiore e un look impeccabile. Il design moderno e versatile la rende perfetta per ogni occasione, sia formale che informale.\nOutfit suggeriti:\nCompleta il tuo look con stile! Scopri come abbinare la camicia Blackrugs per creare l'\noutfit\nperfetto:\nSneakers:\nAggiungi un tocco di casual chic con una delle nostre\nsneakers\n.\nPantaloni:\nOpta per un look sofisticato abbinando la camicia a un paio di\npantaloni\neleganti.\nJeans:\nPer un look più rilassato, scegli tra i nostri\njeans\nalla moda.\nBermuda:\nPerfetti per le giornate più calde, i nostri\nbermuda\noffrono uno stile fresco e casual.\nScopri tutte le combinazioni possibili e trova il tuo stile ideale con la camicia Blackrugs!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 91% viscosa 9% poliestere (esterno); 100% poliestere (interno)\nCodice Prodotto: RICK BEIGE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con collo a rever e taschini, stile bowling/safari molto rilassato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

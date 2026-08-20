@@ -19,5 +19,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-hoka-bondi-7",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nLe Sneakers Hoka Bondi 7 rappresentano l'apice dell'ammortizzazione nel mondo del running e del lifestyle contemporaneo. Conosciute per la loro suola ultra-voluminosa e il comfort senza paragoni, le Bondi 7 sono progettate per ridurre l'impatto su ogni superficie, rendendole la scelta ideale sia per i runner che cercano protezione nelle lunghe distanze, sia per chi trascorre molte ore in piedi in contesti urbani.\nIl punto di forza delle Bondi 7 risiede nella loro intersuola in schiuma EVA stampata a compressione, che offre la massima ammortizzazione della gamma Hoka. Grazie alla tecnologia Meta-Rocker, la scarpa favorisce una rullata fluida e naturale, riducendo l'affaticamento muscolare. La tomaia in mesh ingegnerizzato, unita al nuovo collare in memory foam, garantisce una traspirabilità eccellente e una calzata che si adatta perfettamente alla forma della caviglia.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/gaelleparis-tracolla-gaacw03053-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa femminilità glamour di Gaëlle Paris prende forma nella\ntracolla da donna Gaëlle Paris in nero\n. Un accessorio versatile e di tendenza, dove il nero elegante incontra i dettagli firmati del brand, perfetto per completare con stile ogni look, dal giorno alla sera.\nDesign, Materiali e Caratteristiche Costruttive\nMateriale Curato\n: Realizzata in materiale dalla texture piacevole e resistente, pensato per durare nel tempo.\nNero Elegante\n: Una tinta intramontabile che si abbina con facilità a qualsiasi outfit.\nTracolla Regolabile\n: Cinghia regolabile e staccabile per indossarla a spalla o a tracolla con il massimo comfort.\nDettaglio Logo Firmato\n: La firma Gaëlle Paris che rende l'accessorio riconoscibile e distintivo.\nFormato Pratico\n: Dimensioni ideali per portare l'essenziale con ordine ed eleganza.\nIdee di Stile e Utilizzo\nDay Look\n: Abbinala a un paio di\njeans donna\ne una t-shirt per un look quotidiano femminile e curato.\nElegante\n: Completa un abito o un tailleur per una serata dal tocco glamour.\nVersatile\n: Un accessorio nero è il jolly che rifinisce e valorizza qualsiasi outfit.\nAggiungi un tocco glamour al tuo look con la firma Gaëlle Paris. La tracolla nera è l'accessorio versatile perfetto per ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "borsa a tracolla da donna versatile, adatta sia per il giorno casual sia per la sera",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

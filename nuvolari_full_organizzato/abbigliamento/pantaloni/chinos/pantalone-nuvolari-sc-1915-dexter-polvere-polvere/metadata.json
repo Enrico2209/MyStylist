@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-sc-1915-dexter-polvere-polvere",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari 1915 DEXTER\nPantalone\nchino firmato Nuvolari modello\n1915 Dexte\nr, dalla vestibilità slim presenta chiusura con zip e bottone chiodo logato in vita. Realizzato in tessuto armaturato tinto capo, con due tasche a filo e due tasche posteriori con pattina chiuse con automatico. Made in Italy 97% cotone 3% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

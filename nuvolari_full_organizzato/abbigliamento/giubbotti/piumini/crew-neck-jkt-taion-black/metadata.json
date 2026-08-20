@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/crew-neck-jkt-taion-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\ngiubbotto da uomo\ndi\nTaion\nè un capo perfetto per la stagione primaverile ed estiva.\nQuesto giubbotto nero a tinta unita ha una leggera imbottitura e è resistente all'acqua e alle macchie.\nÈ un giubbotto con girocollo, due tasche laterali con zip e una vestibilità regular.\nIl modello indossa la taglia L.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto Uomo Taion nero\nVestibilità Regular\nComposizione: 100% nylon\nCodice Prodotto: TAION-104 BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero senza collo, capo prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

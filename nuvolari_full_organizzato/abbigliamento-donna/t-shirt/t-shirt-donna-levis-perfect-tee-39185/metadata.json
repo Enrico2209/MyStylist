@@ -22,5 +22,25 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/t-shirt-donna-levis-perfect-tee-39185",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica rétro incontra la semplicità del basic quotidiano. La\nT-Shirt Donna Levi's Perfect Tee Bright White\nreinterpreta il concetto di maglietta classica strizzando l'occhio allo stile college e marinaro d'archivio. Questo modello si distingue per un pattern grafico lineare e pulito, perfetto per dare un tocco fresco, dinamico e spiccatamente urban a qualsiasi outfit estivo.\nDesign e Caratteristiche Principali\nPattern a Righe Orizzontali (Striped Design)\n: Il tratto distintivo assoluto, è la fitta trama a righe orizzontali parallele che si sviluppa all-over su tutta la superficie del capo, interrompendo la monotonia dei tessuti a tinta unita.\nDettaglio Micro Sportswear Logo\n: Sul petto a sinistra, è applicato il piccolissimo e leggendario logo \"Batwing\" di Levi's, un ricamo iconico e discreto che firma il capo con un tocco heritage inconfondibile.\nScollo a Girocollo Sottile (Crewneck)\n: Rifinita con una bordatura a coste piatte e pulite nel girovita del collo, studiata appositamente per incorniciare il décolleté mantenendo una linea morbida, flessibile e stabile nel tempo.\nTaglio Slim-Regular Proporzionato\n: La silhouette asseconda le linee del corpo con precisione ed equilibrio, evidenziando una vestibilità asciutta ma confortevole, ideale da indossare sia lasciata morbida sia infilata nei pantaloni.\nManiche Corte e Spalle Strutturate\n: La costruzione della manica corta segue la linea naturale della spalla con cuciture interne piatte, garantendo un fit nitido, leggero e un'ottima libertà di movimento.\nIdee di Stile: Crea la Tua Wave\nThe Core Denim Look\n: Il match più immediato e d'impatto. Abbinala a un\njeans\nLevi's dal taglio mom-fit o a gamba dritta (straight) e completa il tutto con una sneaker bianca bassa per un outfit daily intramontabile.\nSummer Casual Contrast\n: Indossala insieme a un bermuda in denim chiaro loose o a una gonna corta in jeans. Infila la t-shirt nel girovita per valorizzare la silhouette e dare un'impronta tipicamente rétro e vacanziera al tuo stile.\nStreet-Urban Layering\n: Utilizzala come strato base e sovrapponi una giacca in denim scuro o un blazer oversize leggero lasciato aperto sul davanti. Il pattern a righe spezzerà visibilmente la serietà del capospalla con un accento pop immediato.\nRinfresca i tuoi fondamentali con lo stile senza tempo di Levi's e scendi in strada pronta a farti notare.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a maniche corte, capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "righe"
+  }
 }

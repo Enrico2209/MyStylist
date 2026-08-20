@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-esg-27-holt-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Holt Blu\nLa\ncamicia\nNuvolari a tema fantasia unisce originalità e stile. Realizzata con materiali di alta qualità, offre una vestibilità comoda e una sensazione di leggerezza. Il design vivace e fantasioso rende questa camicia perfetta per aggiungere un tocco di personalità al tuo look, ideale per occasioni casual e informali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: ESG 27 HOLT BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con fantasia patchwork bandana molto vistosa, adatta a contesti casual e informali",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

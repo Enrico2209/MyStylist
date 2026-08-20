@@ -20,5 +20,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-nuvolari-uomo-s1-07b13-deon-menta-tbcc-ment-tbcc",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nScopri la freschezza della la\nCamicia Uomo\nNuvolari in viscosa al 100%. Realizzata con tessuti di alta qualità e una precisione artigianale impeccabile, questa camicia offre un comfort straordinario e uno stile sofisticato. La leggerezza e la morbidezza della viscosa la rendono perfetta per ogni occasione, dal lavoro alle serate fuori. Con il suo\ntaglio classico e i dettagli raffinati,\nla Camicia Uomo\nNuvolari\nè un capo essenziale nel guardaroba di ogni uomo moderno, garantendo sempre un look impeccabile e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% viscosa\nCodice articolo: S1 07B13 DEON MENTA/TBCC-MENT/TBCC",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con collo bowling e stampa all-over molto informale",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

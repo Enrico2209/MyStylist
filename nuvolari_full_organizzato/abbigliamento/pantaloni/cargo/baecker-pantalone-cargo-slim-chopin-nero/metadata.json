@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/baecker-pantalone-cargo-slim-chopin-nero",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nPantalone cargo uomo a vita regolare dalla vestibilità slim, realizzati in cotone armaturato stretch e caratterizzati da: chiusura a più bottoni; due tasconi applicati sulle gambe e patch logo cucito sul retro. Vestibilità e comfort si incontrano in questo pantalone nero dall'animo rock.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone cargo slim uomo Baecker modello 5322 Chopin - Nero\nVita Regolare\nRealizzato in cotone stretch armaturato\nChiusura con bottoni\nDue tasche laterali\nDue tasche posteriori a filetto\nDue tasconi sulle gambe con chiusura a bottone in vista\nPatch logo cucito sul retro\nVestibilità Slim\nComposizione: 98% cotone, 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi, stile workwear/rock, abbassa la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

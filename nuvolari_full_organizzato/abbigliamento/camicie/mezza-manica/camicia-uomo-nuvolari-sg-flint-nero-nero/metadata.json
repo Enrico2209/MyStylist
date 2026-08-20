@@ -22,5 +22,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-uomo-nuvolari-sg-flint-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Flint Nero\nLa\ncamicia uomo a maniche corte\nNuvolari è ideale per un look estivo elegante e casual. Realizzata con materiali leggeri e di alta qualità, offre comfort e freschezza. Perfetta per essere indossata in occasioni informali o per un tocco di stile nelle giornate calde, questa camicia unisce praticità e design raffinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: SG FLINT NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo a maniche corte",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie/mezza-manica.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.1,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte in lino/cotone leggero, adatta a contesti estivi informali",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

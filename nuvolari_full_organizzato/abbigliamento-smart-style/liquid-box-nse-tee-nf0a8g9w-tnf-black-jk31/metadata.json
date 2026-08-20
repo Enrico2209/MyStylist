@@ -20,5 +20,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/liquid-box-nse-tee-nf0a8g9w-tnf-black-jk31",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nThe North Face Liquid NSE Box: L'Evoluzione dello Streetwear Oversize\nT-shirt Uomo The North Face Liquid NSE Box Oversized\nRidefinisci il tuo concetto di relax urbano con la t-shirt Liquid NSE Box. Questo modello reinterpreta l'iconico logo The North Face attraverso una grafica fluida e dinamica, perfetta per chi cerca un look contemporaneo e rilassato. Grazie al suo taglio generoso e alla qualità del tessuto naturale, è il capo ideale per vivere i fine settimana in città con il massimo dello stile e della comodità.\nDesign Contemporaneo e Comfort Naturale\nPuro Cotone 100%\n: Realizzata interamente in cotone di alta qualità, garantisce una traspirabilità superiore e una sensazione di morbidezza costante sulla pelle.\nFit Oversize con Spalle Scese\n: Il taglio ampio e le cuciture delle spalle abbassate conferiscono una silhouette moderna e disinvolta, tipica dello stile urban d'avanguardia.\nTecnologia di Stampa Eco-Friendly\n: Le grafiche sono realizzate con stampa digitale a base d’acqua, assicurando colori brillanti, una mano morbida al tatto e un minore impatto ambientale.\nResistenza e Dettagli\n: Il girocollo rifinito a coste mantiene la forma nel tempo, offrendo una tenuta perfetta lavaggio dopo lavaggio\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n180 g/m², 100% cotone / in maglia / jersey singolo\nVestibilità regular\nCodice articolo: NF0A8G9W TNF BLACK-JK31",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.6,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt oversize di marchio outdoor/streetwear, tetto massimo di formalita' per il brand",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

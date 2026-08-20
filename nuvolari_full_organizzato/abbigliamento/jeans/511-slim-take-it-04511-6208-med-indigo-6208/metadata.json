@@ -22,5 +22,29 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/511-slim-take-it-04511-6208-med-indigo-6208",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, l'ingegneria sartoriale applicata ai tagli contemporanei e la costante ricerca della perfetta vestibilità si incontrano nei leggendari\njeans uomo Levi's 511 Slim\n. Progettati come la moderna alternativa al classico taglio dritto, i 511 rappresentano uno dei pilastri fondamentali del catalogo globale del brand, offrendo una silhouette snella e definita senza rinunciare al comfort e alla totale libertà di movimento richiesti nel quotidiano.\nDesign, Taglio e Caratteristiche Costruttive\nSilhouette Slim Fit Moderna\n: Il taglio si caratterizza per una linea asciutta che si sviluppa aderente lungo i fianchi e la coscia, scendendo poi leggermente affusolata ma dritta fino alla caviglia. Questa geometria pulita ed ergonomica è strutturata per slanciare visivamente la figura maschile, adattandosi perfettamente sia a corporature snelle che atletiche.\nVita Bassa e Comfort Calibrato\n: I Levi's 511 presentano una seduta a vita medio-bassa che si posiziona in modo naturale sotto il girovita, conferendo al pantalone un'attitudine decisamente casual, dinamica e moderna rispetto ai tradizionali modelli a vita alta.\nArchitettura Classica a 5 Tasche\n: Fedele alla secolare tradizione costruttiva di San Francisco, il jeans integra la solida configurazione a cinque tasche con l'immancabile taschino portamonete sul davanti rinforzato da rivetti metallici. Sul retro spiccano le tasche sagomate con l'iconica cucitura a doppio arco \"Arcuate\" e la celebre etichetta in pelle (Two Horse Pull) posizionata sul girovita.\nLa Leggendaria Red Tab Levi's\n: Cucita sul bordo interno della tasca posteriore destra spicca l'immancabile etichetta rossa con il logo in contrasto, vero e proprio sigillo di appartenenza culturale globale e autenticità.\nTessuti Premium e Tecnologia Stretch\n: Realizzati in denim di alta qualità, i 511 sono prevalentemente confezionati combinando il puro cotone a calibrate percentuali di fibre elasticizzate (come l'elastane o tecnologie avanzate Advanced Stretch). Questo permette alla tela di mantenere la caduta pesante e la tridimensionalità estetica del denim autentico, garantendo un'eccezionale flessibilità da mattina a sera.\nIdee di Stile: Costruisci il Tuo Look Denim & Urban Casual\nAuthentic Denim Heritage Uniform\n: Crea una combinazione classica, solida e intramontabile dello stile americano. Abbina i jeans Levi's 511 a una delle classiche\nt-shirt uomo\nbasica bianca heavyweight, completando l'outfit con una sneaker pulita in tela o uno scarponcino in pelle e una giacca di jeans coordinata.\nUrban Skate-Street Culture Mix\n: Esalta la pulizia lineare del taglio slim giocando sui contrasti volumetrici sul busto. Accosta il jeans a una delle t-shirt uomo Obey con fit relaxed o dal trattamento tinto in capo (pigment dyed), lasciando che la maglietta cada morbida sui fianchi, e chiudi il look con una sneaker da skate chunky o dal profilo low-top.\nSmart Casual Transit Layering\n: Per i tuoi impegni di lavoro informali, una serata in città o un aperitivo al tramonto, sperimenta un perfetto layering leggero e raffinato. Indossa il jeans con una polo scura o una t-shirt chiara e sovrapponi sul davanti la freschezza geometrica di una delle\ncamicie uomo\nObey a righe verticali o di una camicia Squad in lino fiammato, lasciandola aperta con le maniche leggermente arrotolate.\nSperimenta la perfetta sintesi tra la funzionalità della tela denim da lavoro d'archivio e la forza espressiva delle silhouette asciutte contemporanee. Scegli la stabilità costruttiva delle 5 tasche rivettate, il comfort della tecnologia stretch e l'attitudine inconfondibile dei jeans uomo Levi's 511 Slim.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim fit classico, capo base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

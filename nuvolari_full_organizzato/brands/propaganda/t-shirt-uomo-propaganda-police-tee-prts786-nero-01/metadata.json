@@ -22,5 +22,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/propaganda/t-shirt-uomo-propaganda-police-tee-prts786-nero-01",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLe t-shirt Propaganda rappresentano l'essenza della cultura street italiana. Caratterizzate da un design iconico e una vestibilità pensata per il massimo comfort quotidiano, sono il pilastro di ogni guardaroba urban che si rispetti.\nTessuto Premium\n: Realizzate interamente in\n100% cotone\ndi alta qualità, che garantisce morbidezza sulla pelle e una lunga durata nel tempo.\nTaglio Standard Fit\n: Una vestibilità regolare e versatile che si adatta a ogni corporatura, perfetta per essere indossata da sola o sotto una\nfelpa\n.\nDettagli Iconici\n: Ogni t-shirt presenta grafiche serigrafate ad alta resistenza, con delle bellissime stampe stagionali della nuova collezione.\nGirocollo\n: Rifinitura elastica sul collo per mantenere la forma originale anche dopo numerosi lavaggi.\nConsigli di Stile\nLa t-shirt Propaganda è estremamente facile da abbinare. Per un look d'impatto, indossala con un paio di\nsneakers\ntecniche come le\nNew Balance 9060\no le\nAsics\nGEL-NYC. Se cerchi un contrasto più ricercato, provala sotto un\ncamicia Proj3ct\nper un outfit che unisce l'anima street a un tocco vintage.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "Asics",
+      "categoria_url": "https://www.nuvolari.biz/brands/asics"
+    },
+    {
+      "testo": "camicia Proj3ct",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct?tipologia=Camicie"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt con grafica streetwear evidente, marchio street puro",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

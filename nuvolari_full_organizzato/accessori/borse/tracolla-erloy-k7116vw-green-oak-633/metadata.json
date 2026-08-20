@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/tracolla-erloy-k7116vw-green-oak-633",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nBorsa a tracolla pratica e moderna, che porta le caratteristiche tecniche e lo stile iconico di K-Way nel mondo degli accessori.\nMateriale\nTessuto Ripstop\nPrestazioni:\nImpermeabile\n,\nidrorepellente\ne\nantivento\n.\nTracolla:\nRegolabile e removibile, realizzata in nastro.\nTasche:\nTasca principale con zip K-Way, tasca frontale con zip e tasca interna.\nDettagli:\nLogo K-Way in silicone bianco.\nMisure tipiche\nCirca cm 24 x cm 16 x cm 6\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "borsello a tracolla sportivo in nylon ripstop, tetto di marchio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

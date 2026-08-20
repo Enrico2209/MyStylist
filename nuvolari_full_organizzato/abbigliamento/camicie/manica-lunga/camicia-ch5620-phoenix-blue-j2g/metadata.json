@@ -22,5 +22,50 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-ch5620-phoenix-blue-j2g",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Lacoste CH5620\nnella tonalità\nPhoenix Blue\nè un classico intramontabile che unisce la raffinatezza sartoriale all'anima sportiva del brand.\nDesign e Caratteristiche Principali\nIconico Coccodrillo\n: Il celebre logo Lacoste verde è ricamato con precisione sul lato sinistro del petto.\nTaglio Slim Fit\n: La vestibilità è sfiancata e moderna, pensata per valorizzare la silhouette senza costringere i movimenti.\nTessuto in Popeline\n: Realizzata in puro cotone popeline, offre una mano liscia, leggera e traspirante, ideale per un uso quotidiano.\nDettagli Curati\n: Presenta un colletto strutturato, una chiusura frontale con bottoni chiari a contrasto e polsini regolabili per un look sempre impeccabile.\nColore Phoenix Blue\n: Un azzurro vivido e luminoso che si presta a innumerevoli combinazioni stagionali.\nAbbinalo con\nPer un look impeccabile, ti consigliamo di coordinare questa\ncamicia\ncon:\nUn paio di\nchinos\ncolor sabbia per un perfetto stile business-casual.\nDei\njeans\nscuri e una\novershirt\nin denim per un outfit stratificato e dinamico.\nI\nbermuda\nNuvolari Loko Coloniale e delle\nsneakers\nbianche per i tuoi weekend estivi.\nSotto una giacca elegante, magari alternandola a una\npolo\nin maglia per un tocco più rilassato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia slim fit in popeline di cotone, ideale per contesti smart casual e business casual.",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

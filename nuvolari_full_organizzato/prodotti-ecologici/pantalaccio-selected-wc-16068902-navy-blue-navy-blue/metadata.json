@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "prodotti-ecologici/pantalaccio-selected-wc-16068902-navy-blue-navy-blue",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalonaccio Selected modello 16068902\nElastico in vita\nCoulisse regolabile in vita\nChiusura con zip e bottone nascosto\nDue tasche laterali\nDue tasche filetto sul retro\nTaglio cropped\nSlim fit\nComposizione: 50% Lana Riciclata, 45% Poliestere riciclato, 5% Altre fibre",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "pantalone in misto lana dal taglio classico ma con elastico in vita e coulisse",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

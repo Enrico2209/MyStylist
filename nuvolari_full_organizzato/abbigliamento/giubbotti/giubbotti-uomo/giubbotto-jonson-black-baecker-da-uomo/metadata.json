@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-jonson-black-baecker-da-uomo",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCon il nostro\nGiubbotto\nBaecker Primaverile, puoi aggiungere uno stile casuale raffinato al tuo look. Perfetto per le mezze stagioni, questo cappotto offre versatilità e comfort. Indossalo con jeans o pantaloni chino per un look informale ma sempre elegante.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 100% polyester\nCodice Prodotto: JONSON",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/giubbotti-uomo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Trench/caban doppiopetto leggero in poliestere, a metà tra casual e formale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

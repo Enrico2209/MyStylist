@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/cappello-5015-4zh-porcelain-navy-219",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Colmar Originals Porcelain/Navy\nè un classico berretto con visiera (baseball cap) strutturato, che fonde un'ispirazione sportiva tradizionale con la pulizia estetica e l'eleganza minimale proprie del brand. Caratterizzato da un raffinato contrasto in blocchi di colore, questo accessorio è perfetto per completare gli outfit estivi quotidiani, urbani o per il tempo libero all'aria aperta.\nDesign e Caratteristiche Principali\nCostruzione Classica a Pannelli\n: La corona del cappello è strutturata a pannelli uniti da cuciture interne rinforzate, che garantiscono un'ottima stabilità della forma e una vestibilità avvolgente e confortevole.\nDesign Color-Block Porcelain/Navy\n: Il berretto gioca sul contrasto cromatico tra la corona superiore in un bianco candido e luminoso (\"Porcelain\") e la visiera rigida frontale in blu scuro intenso (\"Navy\").\nIconico Logo Colmar Originals\n: Il pannello frontale ospita l'inconfondibile bollo logato rosso, bianco e blu applicato centralmente a rilievo, elemento distintivo che firma e certifica l'autenticità del capo.\nVisiera Rigida Curva\n: La visiera precurvata offre un'eccellente schermatura contro i raggi solari diretti, mantenendo il classico e intramontabile stile sportivo dei cappellini da baseball.\nOcchielli di Aerazione Ricamati\n: Sulla sommità dei pannelli Porcelain sono presenti piccoli fori rifiniti a filo blu navy che favoriscono una corretta traspirazione, aggiungendo un piccolo e ricercato dettaglio di contrasto.\nTessuto Fresco e Resistente\n: Realizzato in filato di cotone solido e duraturo al tatto, assicura una lunga resistenza all'usura quotidiana e un comfort ottimale anche nelle giornate più calde.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questo cappellino bicolor nei tuoi outfit:\nNautical Summer Sport\n: Abbinalo a una\npolo\nblu navy, a degli shorts bianchi o beige e a delle sneakers in tela per un perfetto look estivo d'ispirazione riviera.\nUrban Minimal Contrast\n: Indossalo insieme a una t-shirt basic bianca o a una maglia Colmar, a dei\njeans\nlavaggio medio e a calzature pulite in pelle per un outfit da giorno semplice e curato.\nCasual Weekend Lounge\n: Provala in combinazione con una\nfelpa\ngirocollo leggera grigia, dei pantaloncini in felpa blu e scarpe retro-running per un perfetto stile da tempo libero disinvolto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

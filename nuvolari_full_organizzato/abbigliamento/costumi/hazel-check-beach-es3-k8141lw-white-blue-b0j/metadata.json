@@ -25,5 +25,34 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/hazel-check-beach-es3-k8141lw-white-blue-b0j",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'iconica tecnicità dei materiali protettivi K-Way incontra il fascino senza tempo dello stile riviera nel\ncostume uomo K-Way modello Hazel Check Beach White-Blue\n. Pensato per l'uomo dinamico che non rinuncia all'eleganza nemmeno sul bagnasciuga, questo boxer da mare unisce un tessuto ad asciugatura ultra-rapida a una fantasia rétro raffinata, perfetta per passare con disinvoltura dal tuffo in acqua all'aperitivo in spiaggia.\nDesign, Materiali e Caratteristiche Costruttive\nLa Fantasia Gingham Rétro\n: Il costume si distingue per la classica trama a quadretti vichy (Check) nella fresca combinazione cromatica White-Blue. Questa micro-fantasia dona al capo un'allure preppy e marittima d'altri tempi, reinterpretata in chiave contemporanea.\nTessuto Tecnico Fast-Dry\n: Realizzato in poliestere o nylon tecnico estremamente leggero e resistente, il boxer garantisce un'asciugatura rapidissima e una piacevole sensazione di freschezza sulla pelle. Il materiale barriera resiste in modo ottimale al cloro, al sale e ai raggi solari, mantenendo i colori brillanti nel tempo.\nDettagli Funzionali e Branding K-Way\n: Il modello presenta una comoda vita elasticizzata regolabile tramite un cordoncino esterno (drawstring) a contrasto con terminali logati. Sul fondo della gamba sinistra, spicca l'applicazione del classico logo K-Way in silicone bianco, firma di qualità e stile.\nComfort Interno e Tasche\n: Dotato di uno slip interno in microrete traspirante e morbida per prevenire irritazioni, il costume offre un supporto ottimale. Completano la struttura le pratiche tasche laterali a filo e una tasca posteriore con chiusura di sicurezza, ideale per riporre i piccoli oggetti personali.\nTaglio Regular a Metà Coscia\n: La silhouette short-length con spacchetti laterali sul fondo gamba assicura una straordinaria libertà di movimento durante il nuoto, il beach volley o le passeggiate sul bagnasciuga.\nIdee di Stile: Costruisci il Tuo Look Beachwear & Sunset Aperitif\nYacht Club Classy Transition\n: Crea l'outfit estivo definitivo per passare direttamente dalla spiaggia a una terrazza sul mare. Abbina il costume K-Way a quadri a una\ncamicia\nin lino fiammato bianco ottico, da portare morbida e sbottonata, o a una polo azzurra a costine. Completa il look ai piedi con la freschezza e la praticità dei mocassini uomo Heydude o con lo stile classico dei mocassini uomo Sun68.\nSporty Beach Active\n: Adotta un look fresco, protettivo e funzionale per le ore più calde o per le attività sul bagnasciuga. Accosta il boxer da mare a una t-shirt in cotone leggero della linea The North Face o a una\nt-shirt basica bianca\n, proteggendoti dal sole con un cappellino con visiera coordinato. Ai piedi, opta per la comodità ammortizzata delle ciabatte slide o delle sneakers leggere.\nSunset Breeze Layering\n: Quando cala il sole e si alza la brezza serale, stratifica il look senza perdere stile. Indossa sopra il costume una t-shirt grafica Proj3ct e porta sulle spalle l'immancabile giacca a vento leggera\nK-Way Le Vrai\n, per un perfetto contrasto athleisure ideale per i momenti di relax post-spiaggia.\nSperimenta il perfetto equilibrio tra la performance dei tessuti tecnici ad asciugatura rapida e l'eleganza estiva dei micro-quadretti francesi. Scegli la freschezza del motivo White-Blue, la praticità della coulisse regolabile e l'inconfondibile firma di K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt basica bianca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "K-Way Le Vrai",
+      "categoria_url": "https://www.nuvolari.biz/brands/k-way"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.9,
+      "casual": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno, livello base di formalita",
+    "season": "estate",
+    "pattern": "quadri"
+  }
 }

@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/occhiali/occhiale-oaklyey-electronics-sun-0ow8001-800104-800104-800104",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'unione indissolubile tra scienza ottica rivoluzionaria, ingegneria dei materiali e un'estetica avveniristica fuori dagli schemi definisce l'universo degli\nocchiali Oakley\n. Fondato nel 1975 in California da Jim Jannard, il brand ha radicalmente trasformato il concetto di occhiale sportivo e lifestyle, trasformandolo da semplice accessorio a vero e proprio equipaggiamento protettivo ad altissima precisione, acclamato dai migliori atleti del mondo e dalle icone dello streetwear internazionale.\nTecnologie Ottiche e Materiali d'Avanguardia\nLenti Prizm™ per il Controllo del Contrasto\n: Il fiore all'occhiello dell'ingegneria ottica Oakley è la tecnologia Prizm™. Queste lenti speciali sono progettate per ottimizzare visivamente i singoli colori e sintonizzare i contrasti in base all'ambiente specifico (strada, trail, campo da golf o acqua), migliorando drasticamente la percezione dei dettagli e la sicurezza in movimento.\nProtezione e Nitidezza HDO® (High Definition Optics)\n: Grazie alla tecnologia brevettata HDO®, gli occhiali Oakley azzerano le distorsioni visive tipiche delle lenti curve tradizionali, offrendo una visione incredibilmente nitida, fedele e meno affaticante per gli occhi, unita a una schermatura totale contro i raggi UVA, UVB e UVC.\nMontature Ultra-Leggere in O Matter™\n: Realizzate con un polimero sintetico proprietario ultra-leggero e flessibile, le montature garantiscono una resistenza strutturale eccezionale contro gli urti e le deformazioni. Questo materiale è studiato per non cedere sotto la pressione termica o solare, mantenendo un comfort impeccabile per tutta la giornata.\nAderenza Perfetta con l'Unobtainium®\n: Posizionato strategicamente sui terminali delle aste e sui naselli, questo speciale materiale idrofilo aumenta la sua aderenza e la presa proprio quando si suda, impedendo all'occhiale di scivolare durante i movimenti più intensi o repentini.\nLe Icone del Brand: Tra Sport e Lifestyle\nLa gamma Oakley si articola su geometrie strutturali precise progettate per ogni specifica attitudine:\nPerformance e Sport-Shield\n: Modelli leggendari a mascherina monolente come i\nRadar EV\no i futuristici\nSutro\ne\nKato\n, caratterizzati da linee avvolgenti che estendono il campo visivo periferico e proteggono interamente il volto dai detriti, dal vento e dal sole.\nLifestyle e Urban Heritage\n: Icone intramontabili come gli storici\nFrogskins\n(il manifesto rétro anni '80) o i modelli\nHolbrook\n, dove il design classico squadrato d'ispirazione americana incontra la tecnicità dei materiali Oakley, perfetti per dare un'impronta bold agli outfit daily.\nIdee di Stile: Costruisci il Tuo Outfit Action-Street\nTotal California Beach Uniform\n: Crea la perfetta combinazione estiva combinando l'anima surf del brand. Abbina un occhiale da sole specchiato Frogskins o Holbrook alla freschezza ad alto contrasto di una\ncanotta uomo\nOakley Mark 3 Tank bianca, completando il look con un volley short leggero e idrorepellente.\nMetropolitan Utility Look\n: Inserisci la forza visiva delle lenti avvolgenti Sutro in un contesto street strutturato. Accosta l'occhiale alla robustezza geometrica dei\nbermuda uomo\ncargo Oakley B1B scuri, indossando una t-shirt minimalista o una overshirt per un perfetto stile industrial-utility.\nContemporary Sporty-Chic Mashup\n: Sperimenta le contaminazioni stilistiche per il tempo libero o un aperitivo all'aperto nel weekend. Coordina un occhiale lifestyle Oakley alla precisione lineare di una raffinata ed essenziale\npolo uomo\nPsycho Bunny con profili a contrasto, definendo il tutto con un pantalone chino o un bermuda Squad.\nSperimenta il perfetto punto d'incontro tra l'eccellenza della scienza protettiva, il comfort termico e un design iconico che rifiuta i compromessi. Scegli la massima nitidezza visiva e il carattere inconfondibile degli occhiali firmati Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "canotta uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.8,
+      "casual": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "occhiale sportivo tecnico a mascherina, tetto di marchio e uso performance",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

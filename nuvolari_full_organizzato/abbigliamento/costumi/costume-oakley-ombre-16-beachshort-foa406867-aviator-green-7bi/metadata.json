@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-oakley-ombre-16-beachshort-foa406867-aviator-green-7bi",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'inconfondibile attitudine active della cultura surf californiana e l'ingegneria dei materiali d'avanguardia si fondono nel nuovo\nCostume Uomo Oakley Ombre 16'' Beachshort\n. Questo pantaloncino da mare si distingue per un'estetica magnetica e dinamica, progettata per chi cerca la massima efficienza tecnica in acqua e un look di forte impatto visivo sul bagnasciuga.\nDesign e Caratteristiche Principali\nEsclusivo Effetto Sfumato Ombre con Finitura Iridescente\n: Il segno grafico distintivo di questo beachshort è la sofisticata sfumatura cromatica che dissolve verticalmente nella parte superiore fino a una tonalità più chiara sul fondo. La speciale texture della tela tecnica riflette la luce con riflessi cangianti e metallici.\nIconica Ellisse Oakley Tono su Tono\n: Sulla gamba sinistra, posizionata geometricamente vicino al bordo inferiore, spicca l'intramontabile logo a ellisse di Oakley applicato a rilievo tono su tono per una firma identitaria elegante, pulita e minimale.\nTessuto Tecnico Idrorepellente ad Asciugatura Rapida\n: Confezionato con filati polimerici ultrasottili ad alta tecnologia capaci di respingere l'acqua. Questa struttura tessile garantisce un tempo di asciugatura record fuori dall'acqua e previene la fastidiosa sensazione di umidità sulla pelle.\nGirovita Elastico Arricciato ad Alta Stabilità\n: Progettato con una fascia elastica in vita finemente arricciata che si adatta millimetricamente all'anatomia del corpo, assicurando che il costume rimanga perfettamente stabile sui fianchi durante le sessioni di beach volley, nuoto o surf.\nTaglio Corto 16 Pollici Moderno e Funzionale\n: Sviluppato con una lunghezza da 16\" (pollici) che si attesta a metà coscia, offrendo un taglio asciutto, fresco e geometrico che massimizza la libertà di movimento delle gambe sia in acqua che sulla sabbia.\nIdee di Stile: Linka il Tuo Outfit\nTotal California Surf Uniform\n: Crea un outfit balneare energico e coordinato. Abbina questo costume sfumato alla freschezza essenziale di una\nt-shirt uomo\no di una canotta Oakley Mark 3 Tank bianca con logo a contrasto sul petto, chiudendo il cerchio con un occhiale da sole lifestyle specchiato.\nMetropolitan Beachwear Transition\n: Per muoverti comodamente dalla spiaggia all'aperitivo al tramonto senza rinunciare allo stile, gioca con i volumi street. Accosta il beachshort alla struttura boxy oversize di una delle grafiche\nt-shirt uomo\nSquad in puro cotone compatto heavyweight bianco o nero.\nSmart Summer Contrast\n: Unisci la tecnicità iridescente del costume alla raffinatezza delle fibre naturali. Indossa lo short insieme a una fresca ed estiva\ncamicia uomo\nin puro lino fiammato firmata Squad con colletto alla coreana lasciata parzialmente aperta, e completa con un cappello da pescatore o con visiera.\nVivi l'estate al massimo delle prestazioni senza rinunciare a un'estetica d'avanguardia fuori dagli schemi. Scegli l'efficienza idrorepellente e lo stile magnetico dei beachshort Ombre firmati Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "da_mare": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno/beachshort, livello base di formalità",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

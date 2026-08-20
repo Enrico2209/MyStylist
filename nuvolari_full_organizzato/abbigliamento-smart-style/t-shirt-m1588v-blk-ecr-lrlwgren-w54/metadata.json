@@ -21,5 +21,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m1588v-blk-ecr-lrlwgren-w54",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nC'è una t-shirt che unisce l'attitudine retrò dello stile ringer all'essenzialità di un colore intramontabile. La\nt-shirt Fred Perry M1588 in nero\nreinterpreta il classico girocollo con i bordi a contrasto su scollo e maniche e il ricamo dell'alloro sul petto.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone jersey di qualità:\nmano compatta e morbida per un comfort quotidiano.\nGirocollo ringer:\nprofili a contrasto su scollo e bordo manica dall'estetica vintage.\nLogo alloro ricamato:\nl'iconica corona d'alloro Fred Perry firma il petto.\nTonalità nera:\ncolore essenziale e facile da abbinare.\nVestibilità regular:\nsilhouette classica e senza tempo.\nIdee di Stile: Costruisci il Tuo Look con Fred Perry\nLook Casual:\nabbina la t-shirt a dei\njeans\ne sneakers per un outfit quotidiano essenziale.\nLook Sporty:\nindossala sotto una\nfelpa\naperta per un mood urbano.\nLook Estivo:\ncompletala con dei\nbermuda\ne le tue scarpe preferite per le giornate calde.\nAggiungi un'icona dello stile britannico al tuo guardaroba con la t-shirt Fred Perry M1588: acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt classica con profili a contrasto, base casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

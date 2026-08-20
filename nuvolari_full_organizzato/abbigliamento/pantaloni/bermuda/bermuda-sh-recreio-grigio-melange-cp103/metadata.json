@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-recreio-grigio-melange-cp103",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Bermuda Rayz in 100% cotone sono il capo essenziale per l'estate di chi cerca un look fresco, dinamico e profondamente legato alla cultura urban. Realizzati interamente in fibre naturali, questi pantaloncini offrono la massima traspirabilità e una resistenza pensata per affrontare ogni avventura quotidiana.\nLa scelta del 100% cotone non è solo una questione di stile, ma di benessere: il tessuto permette alla pelle di respirare anche nelle giornate più afose, evitando irritazioni e garantendo una sensazione di leggerezza costante.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: SH RECREIO GRIGIO MELANGE-CP103",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "bermuda in felpa di cotone con coulisse e tasconi cargo, uso prettamente sportivo, domestico o tempo libero molto informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

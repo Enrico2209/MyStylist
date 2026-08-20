@@ -23,5 +23,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-slim-calvin-klein-denim-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\njeans da uomo\nfirmato\nCalvin Klein\nJeans\nè un\npantalone\ndalla vestibilità\nslim\n, con cinque tasche. Ha passante per la cinta, chiusura con zip nascosta e bottone logato.\nIl pantalone è un\ndenim\ndalla tonalità scura, con un lavaggio tendente al\nnero slavato\n.\nIl modello è alto 1.87 cm e indossa la taglia 48.\nIl pantalone con taglia 48 ha una lunghezza di 30cm.\nQuesto jeans è perfetto con questa\nt-shirt\ne questa\nfelpa!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nJeans slim da uomo Calvin Klein Jeans\nVestibilità slim\nComposizione: 99% cotone 1% elastane\nCodice articolo: J322440",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa!",
+      "categoria_url": "https://www.nuvolari.biz/felpa-calvin-klein-black.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim quotidiano, consigliato con t-shirt e felpa",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

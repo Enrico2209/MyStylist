@@ -23,5 +23,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-uomo-lacoste-red-240",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nT-Shirt Lacoste: Comfort e Stile Intramontabile\nUn'interpretazione moderna della classica t-shirt Lacoste, realizzata in un confortevole tessuto di media pesantezza da 180 g/m². Questa t-shirt è un capo essenziale e versatile, perfetto per ogni guardaroba. Caratterizzata da un taglio classico e comodo, è impreziosita dall’iconico coccodrillo ricamato sul petto, simbolo di eleganza senza tempo. La composizione in 100% cotone garantisce morbidezza e traspirabilità, rendendola ideale per ogni occasione.\nCompleta il tuo outfit!\nAbbinala a un paio di\nsneakers\nper un look casual e sportivo, a una\nmaglia\nper le giornate più fresche o scegli un paio di\npantaloni\nper un risultato semplice e raffinato.\nPerché sceglierla?\nRealizzata in cotone 100% per un comfort ottimale\nDesign classico e intramontabile\nVersatile e perfetta per creare look casual o eleganti\nUn capo essenziale per chi cerca qualità e stile in un’unica soluzione\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt classica di cotone, base per look casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

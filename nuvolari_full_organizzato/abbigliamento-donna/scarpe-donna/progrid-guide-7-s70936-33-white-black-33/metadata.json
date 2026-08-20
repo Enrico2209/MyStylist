@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/progrid-guide-7-s70936-33-white-black-33",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa tecnologia e l'heritage del running di Saucony prendono forma nelle\nsneakers ProGrid Guide 7 da uomo Saucony nella colorazione bianco/nero\n. Una scarpa dallo spirito performante e dal look pulito, dove ammortizzazione e supporto incontrano uno stile versatile adatto anche all'uso lifestyle.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Mesh Traspirante\n: Tomaia leggera e areata che garantisce comfort e freschezza al piede.\nBianco/Nero Versatile\n: Combinazione cromatica pulita e sportiva, facile da abbinare a look athleisure.\nAmmortizzazione ProGrid\n: Intersuola con tecnologia ammortizzante per assorbire gli impatti e sostenere la falcata.\nSupporto e Stabilità\n: Struttura pensata per garantire sostegno durante la corsa e nel movimento quotidiano.\nSuola Resistente\n: Battistrada in gomma per una buona aderenza e una lunga durata.\nIdee di Stile e Utilizzo\nRunning & Sport\n: Ideali per l'allenamento e la corsa, con il comfort tipico del marchio Saucony.\nAthleisure\n: Abbinale a dei\njeans uomo\no a dei joggers e una\nt-shirt uomo\nper un look sportivo quotidiano.\nEveryday Comfort\n: Perfette per le lunghe camminate e l'uso di tutti i giorni.\nUnisci performance e stile con la firma Saucony. Le ProGrid Guide 7 bianco/nero sono le sneakers versatili per la corsa e il tempo libero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running con tecnologia performante, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

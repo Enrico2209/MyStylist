@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-peter-blut02296-006801-rosa-411",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Blauer BLUT02296 Peter è una polo dal carattere essenziale e pulito, pensata per l'uomo che cerca un capo versatile in grado di bilanciare perfettamente l'anima sportiva del brand con un tocco di eleganza quotidiana.\nPerché sceglierla\nLa polo Peter è il \"passe-partout\" della stagione. Se il modello Agassiz punta sui contrasti cromatici, la Peter gioca sulla solidità del colore e sulla qualità della trama.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica a tinta unita, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/giubbotto-daniel-bluc03178-006719-nero-999",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl giubbotto Blauer Daniel nella colorazione Nero è uno dei capispalla più iconici e rappresentativi del brand, capace di coniugare l'eredità dei reparti di polizia americani con un design urbano contemporaneo.\nDesign Tecnico e Stile\nImbottitura Sorona® Aura\n: Utilizza un’imbottitura in poliestere Sorona® Aura parzialmente a base vegetale, che offre calore eccezionale, traspirabilità e leggerezza senza l'uso di piume.\nTessuto Esterno\n: Realizzato in nylon lucido o satinato (a seconda della finitura specifica) con trattamento idrorepellente, ideale per affrontare le intemperie con stile.\nTrapuntatura a Onde\n: Caratterizzato dalla tipica trapuntatura a onde orizzontali di Blauer, che non solo definisce l'estetica del capo ma ottimizza la distribuzione del calore.\nDettagli Signature\n: Presenta il leggendario passante Blauer cucito sul petto a sinistra e la patch con scudo sulla manica sinistra, simboli di autenticità e qualità.\nChiusura e Tasche\n: Dotato di una cerniera centrale a doppio cursore e tasche laterali con zip invisibili per mantenere un profilo pulito e funzionale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliammide, imbottitura 100% piumino\nVestibilità regular\nCodice articolo: BLUC03178 006719 NERO-999",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero sportivo/casual, tetto di marchio outdoor/casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-disney-stitch-breakout-backpack-910b9174nsz-breakout-breakout",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'energia travolgente e l'Anarchia aliena di Stitch si fondono con lo stile audace di Sprayground nello\nzaino Disney Stitch Breakout Backpack modello Breakout\n. Caratterizzato da una dinamica grafica in cui l'esperimento 626 sembra letteralmente rompere lo sfondo per sbucare insieme all'iconica Shark Mouth, questo accessorio in edizione limitata è perfetto per chi desidera unire pop culture, originalità ed estetica streetwear.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Realizzato in pregiata ed ecologica pelle sintetica, resistente all'acqua, alle abrasioni e all'uso quotidiano per la massima protezione del contenuto.\nGrafica Esclusiva Disney x Sprayground \"Stitch Breakout\"\n: Stampa ad alto impatto visivo con Stitch che rompe la superficie dello zaino, integrato con la celebre bocca da squalo frontale e laterale.\nOrganizzazione e Compartimenti Multifunzione\n: Equipaggiato con una tasca interna imbottita specifica per laptop fino a 15\", scomparto superiore in velluto per occhiali da sole, tasche laterali e una tasca di sicurezza nascosta con zip sullo schienale.\nComfort Ergonomico e Travel-Ready\n: Schienale in mesh traspirante con imbottitura anatomica, spallacci regolabili imbottiti e comoda fascia posteriore per il fissaggio al manico del trolley durante i viaggi.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Pop Culture\nPop Streetwear Statement\n: Rendi lo zaino l'elemento protagonista del tuo outfit abbinandolo a una\nt-shirt uomo\noversize o grafica, a un paio di\njeans uomo\nbaggy o cargo e a delle\nsneakers uomo\nd'impatto.\nCasual Everyday & Campus Look\n: Ideale per lo studio, la scuola, il lavoro o il tempo libero, indossalo con una felpa confortevole e dei\nbermuda uomo\nnei mesi più caldi.\nLayering Metropolitano\n: Nelle stagioni più fresche, accostalo a un giubbotto di pelle, un bomber o un piumino selezionato dalla nostra linea\ngiubbotti uomo\nper uno stile urbano completo.\nMostra il tuo lato irriverente con un accessorio da collezione unico e funzionale. Scegli la capienza, la praticità e il design inconfondibile dello zaino Sprayground Disney Stitch Breakout.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro con grafica vistosa",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

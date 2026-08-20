@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-w3-gb-thomas-militare-militare",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'eleganza sartoriale incontra la comodità del quotidiano nel\nPantalone Uomo Nuvolari GB Thomas in Verde Militare\n, un chino dal taglio pulito e senza tempo, realizzato in tessuto morbido e impreziosito da una calda tonalità militare versatile e mascolina.\nDesign e Caratteristiche Principali\nTessuto Cotone Elasticizzato:\nconfezionato in cotone dalla mano morbida con un tocco di elastan, garantisce comfort e libertà di movimento per tutta la giornata.\nNuance Verde Militare:\nuna tonalità verde profonda e terrosa, calda e facilissima da abbinare, ideale per look dal sapore urban e casual.\nModello GB Thomas:\nil taglio chino firma della linea Nuvolari, con tasche laterali alla francese e tasche posteriori profilate.\nVestibilità Regular:\nsilhouette dritta e pulita che valorizza la figura senza costringere, perfetta da vestire in ogni occasione.\nDettagli Curati:\nchiusura con zip e bottone, passanti per cintura e finiture eseguite con cura artigianale.\nIdee di Stile: Linka il Tuo Outfit\nSmart Casual:\nabbina il pantalone a una\ncamicia uomo\ne mocassini per un look ordinato e raffinato.\nWeekend Relax:\ncompletalo con una\nt-shirt uomo\ne sneakers per uno stile disinvolto e comodo.\nLayering Autunnale:\nindossalo con una\nfelpa uomo\ngirocollo per un outfit caldo dal mood urbano.\nScegli la versatilità sartoriale del Pantalone Nuvolari GB Thomas in Verde Militare: un capo essenziale del guardaroba maschile. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone modello chino, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

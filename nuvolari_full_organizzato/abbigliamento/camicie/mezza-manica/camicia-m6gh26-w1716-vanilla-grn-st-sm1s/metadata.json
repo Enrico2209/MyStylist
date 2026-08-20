@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-m6gh26-w1716-vanilla-grn-st-sm1s",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGUESS JEANS M6GH26: IL CLASSICO RIVISITATO\nDall'ufficio al tempo libero, questa camicia a maniche corte è pensata per l'uomo dinamico che non vuole rinunciare all'eleganza. Realizzata in un tessuto leggero e traspirante, è il capo ideale per affrontare con classe le temperature più calde.\nTonalità Neutra\n: Il color \"Vanilla\" è la base perfetta da abbinare a denim scuri, chino color sabbia o bermuda per un look Riviera-chic.\nColletto Classico\n: Il design pulito del colletto e la cura delle rifiniture riflettono l'attenzione di Guess Jeans per i dettagli sartoriali.\nVersatilità Quotidiana:\nUn capo essenziale che si adatta a ogni situazione urbana, garantendo un comfort naturale che dura tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte in tessuto leggero, adatta a contesti casual quotidiani o Riviera-chic",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

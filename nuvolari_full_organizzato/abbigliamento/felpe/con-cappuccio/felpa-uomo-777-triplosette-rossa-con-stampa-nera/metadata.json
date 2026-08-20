@@ -20,5 +20,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-777-triplosette-rossa-con-stampa-nera",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nConquista la scena con la\nfelpa da uomo 777 Triplosette\ndal vivace\ncolore rosso,\nche cattura lo sguardo con il suo\nlogo bianco\ndistintivo posizionato al centro del petto. L'audace stampa \"GANG\" nera, imponente e decisa, aggiunge un tocco di carattere ribelle. Il\ncappuccio\nregolabile con\ncoulisse\noffre versatilità e protezione, mentre i\npolsini e la vita elasticizzati\ngarantiscono una vestibilità dinamica e confortevole. Questa\nfelpa\nè il connubio perfetto tra stile e praticità.\nS\ntile Audace e Comodità Dinamica\nPer completare il tuo look audace e urbano, abbina questa felpa con\njeans\nslim fit e\nsneakers\nalte per un tocco\nstreetwear\ncontemporaneo. Per gli amanti dell'avventura, combina la\nfelpa\ncon un giubbotto\nbomber\ne un berretto da baseball per uno stile casual ma distintivo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo 777 Triplosette Rossa con Stampa Nera\nVestibilità Regular\nComposizione: 95% cotone + 5% elastan\nCodice Prodotto: TRSM702",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "streetwear",
+      "categoria_url": "https://www.nuvolari.biz/cluster/abbigliamento-streetwear.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "bomber",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafiche grandi, tipico streetwear quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

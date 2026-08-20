@@ -24,5 +24,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-s2-ness-beige-beige",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari – Leggerezza e stile in puro tencel\nLa\ncamicia Nuvolari\nè il capo ideale per affrontare la stagione calda con stile. Realizzata in\n100% tencel\n, è leggera, traspirante e dona un look naturale e rilassato. Il taglio regolare e la texture raffinata rendono questa camicia perfetta sia per un’uscita informale che per un'occasione più elegante.\nAbbinala a un\nbermuda\nper un look vacanziero, oppure a un\nchino\nper uno stile più urbano.\nCompleta l’outfit con:\nPantaloni uomo\nSneakers\n100% tencel\nVestibilità versatile\nLook estivo curato, senza sforzo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% tencel\nVestibilità regular\nCodice articolo: S2 NESS BEIGE-BEIGE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "Sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia a maniche corte in tencel, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

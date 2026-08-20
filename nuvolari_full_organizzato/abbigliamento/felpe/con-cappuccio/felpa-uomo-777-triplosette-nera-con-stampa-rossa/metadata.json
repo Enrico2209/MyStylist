@@ -21,5 +21,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-777-triplosette-nera-con-stampa-rossa",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nEsprimi il tuo stile unico con la\nfelpa uomo 777 Triplosette\n. Il suo elegante\ncolore nero\nsi fonde con l'audace\nlogo bianco\nposizionato al centro del petto, mentre la\nstampa \"GANG\" rossa\n, imponente e decisa, cattura l'attenzione. Il\ncappuccio con coulisse\naggiunge un tocco di dinamismo, mentre i\npolsini e la vita elasticizzati\noffrono comfort e vestibilità ottimale. Questa felpa è il connubio perfetto tra moda e personalità audace, ideale per chi ama lo\nstreet style\nsenza compromessi.\nF\nelpa Uomo 777\nT\nriplosette: Street Style Inconfondibile\nCompletando il look con\njeans strappati\ne\nsneakers\ndi alta qualità, creerai un outfit urbano e alla moda, perfetto per le giornate in città.  Scegli la\nfelpa\n777 Triplosette\ne immergiti nell'energia della strada, abbracciando uno stile che parla di te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo 777 Triplosette Nera Con Stampa Rossa\nVestibilità Regular\nComposizione: 95% Cotone + 5% Elastan\nCodice Prodotto: TRSM702",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "street style",
+      "categoria_url": "https://www.nuvolari.biz/cluster/abbigliamento-streetwear.html"
+    },
+    {
+      "testo": "jeans strappati",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "777 Triplosette",
+      "categoria_url": "https://www.nuvolari.biz/brands/777-triplosette"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica streetwear molto vistosa",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/tote-uomo-fredperry-bag-l7295-black-warmstone-r91",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nBorsa Uomo Fred Perry Tote Bag Black/Warmstone\nLa borsa tote della tuta Fred Perry è realizzata in resistente tela di cotone, con dettagli raffinati come la corona d'alloro tagliata al laser e uno strato sottostante in spugna per un tocco di stile. Dotata di fodera in poliestere riciclato, manici intrecciati tono su tono e un logo oversize con la corona d'alloro. Pratica e alla moda per ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: L7295 BLACK/WARMSTONE-R91",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "tote bag in tela di cotone con logo oversize, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

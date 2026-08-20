@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/hinnominate-camicia-hmabw02586-nude-ro06",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl formalismo della camiceria classica viene completamente destrutturato per abbracciare le geometrie audaci dello streetwear contemporaneo. La\nCamicia Donna Hinnominate Nude\nstravolge i canoni tradizionali grazie a un taglio cropped netto e a un motivo a micro-righe verticali bianche e rosa confetto (che vira verso una delicata tonalità nude-rosata). Questo modello è perfetto per chi cerca un capo dall'anima urban e preppy al tempo stesso, ideale per costruire giochi di layering dinamici sul punto vita.\nDesign e Caratteristiche Principali\nSilhouette Cropped Taglio Netto\n: Il vero e proprio focus strutturale del capo è lo sviluppo corto e squadrato. Il fondo si ferma sopra il punto vita con un orlo dritto e pulito, eliminando i volumi lunghi della camicia classica a favore di una linea boxy d'avanguardia.\nColletto Button-Down Classico\n: Presenta un colletto tradizionale con punte ancorate al pannello frontale tramite piccoli bottoni bianchi a contrasto. Un dettaglio sartoriale che mantiene la struttura rigida e ordinata intorno al collo.\nAllacciatura Frontale a Scomparsa (Copri-Patta)\n: La fila di bottoni anteriore è nascosta da una risvola di tessuto liscia e geometrica, che ripulisce visivamente il centro del capo mettendo in risalto la linearità del motivo gessato.\nDettaglio Logo Minimalist sulla Manica\n: Sul polsino sinistro è applicata una discreta etichetta rettangolare in tessuto che riporta il lettering ufficiale del brand\n\"HINNOMINATE\"\n, firma identitaria della selezione streetwear.\nManiche Lunghe con Polsino Strutturato\n: Progettata con maniche lineari che si chiudono in polsini rigidi dotati di bottone, ideali da portare abbottonati per un look geometrico o da risvoltare leggermente per un'attitudine più effortless.\nIdee di Stile: Crea la Tua Wave\nThe High-Waist Denim Match\n: Sfrutta il taglio corto di questa camicia abbinandola a un jeans baggy a vita alta dal lavaggio chiaro vintage o a un bermuda in denim loose (jorts). Il contrasto tra la struttura boxy superiore e i volumi ampi inferiori creerà una proporzione street perfetta.\nLayering Lounge Contrast\n: Indossa la camicia cropped completamente aperta sopra una canotta aderente o un top della linea Hinnominate in tinta unita (bianco o moka), lasciandola cadere morbida sopra un pantalone jogger oversize a gamba dritta.\nPreppy Urban Edge\n: Combina il capo con un pantalone chino Dickies dal taglio dritto o una gonna a pieghe strutturata. Chiudi il look con calze bianche a vista e una sneaker bassa da skate o una scarpa stringata bold per un outfit ricco di carattere.\nRiscrivi le regole del formalwear con l'architettura urban firmata Hinnominate e scendi in strada pronta a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.4,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia classica destrutturata con taglio cropped netto e anima urban/streetwear",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

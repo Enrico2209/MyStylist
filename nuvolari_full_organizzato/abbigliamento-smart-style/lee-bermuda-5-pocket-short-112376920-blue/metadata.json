@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/lee-bermuda-5-pocket-short-112376920-blue",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI bermuda\nLee 5 Pocket Short Blue\nsono un classico intramontabile del guardaroba estivo, che trasporta l'estetica autentica del denim Lee in un formato fresco e versatile.\nDesign e Caratteristiche\nStile 5 Tasche Classico:\nRipropone la configurazione tradizionale dei jeans con due tasche frontali, un taschino portamonete e due tasche posteriori.\nDettaglio del Risvolto:\nIl fondo è rifinito con un risvolto fisso che mette in risalto la trama interna del denim, conferendo un tocco casual e curato.\nLavaggio Blue Intenso:\nLa colorazione blu medio presenta leggere sfumature naturali sulle cosce, creando un effetto profondità che richiama il denim vissuto.\nDettagli Iconici:\nPresenta il bottone metallico dorato con logo Lee e l'etichetta nera con logo dorato sulla parte posteriore della vita.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda di jeans, capo tipicamente casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

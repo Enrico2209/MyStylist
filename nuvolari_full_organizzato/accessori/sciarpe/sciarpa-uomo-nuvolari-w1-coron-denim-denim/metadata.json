@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/sciarpe/sciarpa-uomo-nuvolari-w1-coron-denim-denim",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nSciarpa Nuvolari Coron Denim\nLa sciarpa Nuvolari è l'accessorio ideale per aggiungere un tocco di stile ai tuoi look. Con il suo design semplice ma elegante, garantisce comfort e calore durante la stagione fredda, completando ogni outfit con classe.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% cotone, 50% acrilico\nCodice articolo: W1 CORON DENIM-DENIM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa classica con frange, accessorio versatile tra il casual e lo smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

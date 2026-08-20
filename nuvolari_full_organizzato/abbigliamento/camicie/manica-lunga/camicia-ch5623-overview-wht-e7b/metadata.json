@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-ch5623-overview-wht-e7b",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nLacoste CH5623\nè un classico essenziale del guardaroba maschile, nota per il suo equilibrio tra stile formale e comfort quotidiano. Si tratta di una\ncamicia a maniche lunghe in popeline di cotone stretch\n, progettata per offrire una silhouette impeccabile senza limitare i movimenti.\nEcco i dettagli principali che la rendono un capo distintivo:\nCaratteristiche del Prodotto\nMateriale:\nRealizzata in\npopeline di cotone elasticizzato\n. La combinazione di cotone di alta qualità e una piccola percentuale di elastan rende il tessuto leggero, traspirante e flessibile.\nVestibilità (Fit):\nSlim Fit\n. È tagliata per aderire al corpo in modo naturale, definendo la figura con un look moderno e pulito.\nCollo:\nClassico collo a punte (button-down o semi-francese a seconda delle varianti stagionali), perfetto sia con la cravatta che portato aperto.\nDettaglio Iconico:\nL'immancabile\ncoccodrillo verde\nricamato sul taschino o sul petto, simbolo di eleganza sportiva dal 1933.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 4,
+    "formality_perche": "camicia slim fit in popeline di cotone, adatta a contesti formali e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

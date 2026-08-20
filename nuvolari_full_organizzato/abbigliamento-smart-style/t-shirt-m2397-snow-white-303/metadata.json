@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m2397-snow-white-303",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Fred Perry M2397\nreinterpreta l'eredità sportiva e lo stile subculturale del brand attraverso una raffinata estetica a blocchi di colore dal forte sapore rétro. Caratterizzata da una costruzione geometrica asimmetrica, questa t-shirt a maniche corte eleva il classico concetto di pannello color-block grazie a un sapiente bilanciamento cromatico, posizionandosi come un capo casual dal carattere iconico e contemporaneo.\nDesign e Caratteristiche Principali\nDesign Color-Block a Pannelli Asimmetrici\n: La superficie frontale è strutturata attraverso un audace gioco geometrico di contrasti. Il corpo centrale e la manica sinistra sono immersi in un profondo e rigoroso nero opaco, mentre la manica destra e la spalla corrispondente sono definite da un pannello a contrasto color panna/neve (\"Snow White\").\nBanda Orizzontale Rosso \"Corde\" e Dettaglio Laurel Wreath\n: Il punto di giunzione tra i blocchi di colore è evidenziato da una striscia orizzontale rosso acceso che attraversa il petto. All'interno del pannello chiaro, spicca sul petto sinistro l'inconfondibile ricamo ad alta definizione della corona d'alloro Fred Perry, realizzato in nero coordinato con il corpo principale.\nPregiato Tessuto in Jersey di Cotone\n: Confezionata interamente in un filato di puro cotone premium dalla mano morbida, compatta e liscia. La struttura assicura un'eccellente traspirabilità, un comfort prolungato e un'alta resistenza ai lavaggi, mantenendo vividi i contrasti cromatici nel tempo.\nGirocollo Flessibile Spesso a Costine\n: Lo scollo rotondo presenta una solida bordatura elastica a coste verticali in total black, che chiude la parte superiore del pannello bicolore garantendo stabilità e una vestibilità sempre pulita attorno al collo.\nSilhouette Regular-Fit Bilanciata\n: Il taglio scende dritto lungo il busto con volumi regolari ed equilibrati d'ispirazione street-casual britannica, assecondando la naturale libertà di movimento senza costringere la figura.\nFiniture e Doppie Cuciture Sartoriali\n: I sottomanica e l'orlo inferiore dritto sono sigillati da doppie cuciture piatte a binario, che stabilizzano il jersey ed evitano arricciamenti fastidiosi sul girovita.\nProposta di Outfit\nSubculture Casual Heritage\n: Abbinala a un denim regular-fit dal lavaggio indaco scuro o stone-washed medio e completa con sneakers bianche in pelle; l'asimmetria geometrica dei blocchi di colore risalterà al massimo mantenendo intatta la pulizia estetica del brand.\nContemporary Minimal Street\n: Portala sopra un paio di pantaloni cargo neri dal fit asciutto o shorts in felpa minimali neri; l'ensemble monocromatico inferiore trasformerà il pannello superiore bianco e la linea rossa nel focus visivo assoluto del look.\nSmart Casual Layering\n: Indossala sotto una giacca bomber leggera o una sovracamicia utility nera lasciata aperta; la struttura bicolore asmetrica sul petto e la corona d'alloro ricamata creeranno una cornice geometrica dinamica e ricercata sotto il capospalla.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica in cotone con logo ricamato, base casual quotidiana",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/cargo-s3-rp-nayt-sand-sand",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Pantalone Cargo Uomo Proj3ct Rp Nayt è un capo che incarna perfettamente l'estetica utility moderna, fondendo funzionalità tattica e stile urban in un'unica silhouette versatile. Caratterizzato da una vestibilità confortevole e da una colorazione neutra, questo pantalone è pensato per chi vive la città con dinamismo senza rinunciare a un look curato e identitario.\nPerché sceglierlo\nIl modello Rp Nayt si distingue per il suo design equilibrato: non è il classico cargo ingombrante, ma una versione rifinita e moderna che si adatta a diverse occasioni. La tonalità è una scelta cromatica strategica, capace di abbinarsi con estrema facilità sia a tinte scure che a nuance più chiare, rendendolo un vero pilastro del guardaroba stagionale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo: S3 RP NAYT SAND-SAND",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con coulisse ed elastico in vita, stile utility e urban",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

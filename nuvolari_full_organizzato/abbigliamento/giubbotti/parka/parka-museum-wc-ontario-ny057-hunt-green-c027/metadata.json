@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/parka/parka-museum-wc-ontario-ny057-hunt-green-c027",
-  "image_count": 10
+  "image_count": 10,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nParka Museum modello Ontario NY057\nParka 3/4 con quattro tasche\nRealizzato in tessuto Ramar super soft\nImbottitura in piuma\nApplicazioni in pelliccia sintetica nel cappuccio\nDoppia tasca interna\nApplicazione con logo sul cappuccio\nCappuccio con bordo staccabile in vera pelliccia\nFettuccia con tirante sul cappuccio\nPolsi interni antivento\nFondo a coste\nTirazip con laccio logato\nZip con doppio cursore con patta e bottoni\nVestibilità Regular fit\nComposizione: esterno 70% cotone, 30% nylon; interno 90% Piumino, 10% Piuma",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Parka pesante con bordo in pelliccia, capo spalla strutturato di media formalita",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

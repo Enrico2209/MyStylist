@@ -26,5 +26,31 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/amedee-piquet-polo-es3-k5127bw-blue-baby-121",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa freschezza delle sfumature estive, la morbidezza del cotone di alta qualità e il tocco funzionale firmato dal brand parigino si fondono nella\npolo uomo K-Way modello Amedee Piquet Blue Baby\n. Il celeberrimo marchio reinterpreta un grande classico dell'abbigliamento casual maschile attraverso una linea pulita, essenziale e ad alta traspirabilità, ideata per l'uomo che ricerca il perfetto compromesso tra comfort quotidiano ed eleganza informale.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Cotone Piquet Altamente Traspirante\n: La polo è interamente confezionata in morbido piquet di puro cotone, selezionato per offrire una mano soffice e una ventilazione costante sulla pelle. La tipica finitura a micro-rilievi della trama favorisce l'evaporazione dell'umidità, assicurando un comfort ottimale anche nelle giornate più calde.\nLa Delicatezza della Nuance Blue Baby\n: Il corpo del capo si sviluppa su una tonalità azzurro pastello (Blue Baby) estremamente fresca, luminosa e versatile. Questa colorazione morbida evoca le atmosfere marittime e si adatta con disinvoltura a qualsiasi abbinamento estivo, sia diurno sia serale.\nDettagli di Branding Tono su Tono\n: Sul petto, lato cuore, spicca l'applicazione minimalista dell'iconico logo K-Way, rifinito in una declinazione cromatica tono su tono con la base azzurra. Questa scelta di design preserva la pulizia geometrica del modello, valorizzando un'estetica raffinata e mai urlata.\nColletto Classico e Finiture Elasticizzate\n: Il tradizionale colletto a camicia e i bordi delle maniche corte sono realizzati in maglia a costine flessibile, progettata per mantenere una sagomatura perfetta nel tempo e resistere impeccabilmente all'usura e ai lavaggi frequenti.\nPatta Lineare e Vestibilità Regular\n: La chiusura frontale è definita da una patta essenziale a due bottoni coordinati. Sviluppata su una silhouette regular fit ben proporzionata, la polo scivola morbida lungo i fianchi offrendo un comfort ottimale e assecondando ogni movimento con assoluta libertà.\nIdee di Stile: Costruisci il Tuo Look Yacht Club & Smart Casual\nRiviera Classy Transition Combo\n: Struttura un outfit estivo sofisticato e d'ispirazione marittima, perfetto per un pranzo sul lungomare o un weekend fuori porta. Abbina la polo azzurra alla pulizia geometrica e al blocco di colore dei\nbermuda\nuomo K-Way Blue White. Completa il look ai piedi con la praticità estiva dei mocassini in lino o con un modello casual chic.\nSummer Breeze Layering & Contrasti Energetici\n: Sperimenta un gioco di stratificazioni tecniche e contrasti cromatici ideato per le ore di brezza serale o per un aperitivo informale sul bagnasciuga. Indossa la polo sopra la micro-fantasia del costume uomo K-Way Hazel Check Beach White-Blue e porta sulle spalle l'energia solare della giacca K-Way Jack Stretch Dot Red Jasper.\nMetropolitan Utility Uniform\n: Adotta un look streetwear solido, comodo e organizzato per i viaggi o gli spostamenti quotidiani in città. Accosta la polo piquet alla linea rilassata dei\njeans\nuomo Levi's 568 Loose Straight. Indossa sul petto il marsupio K-Way Fericy Blue Depth cross-body e rifinisci il tutto con la suola scultorea di sneakers tecniche.\nSperimenta la perfetta sintesi tra la freschezza della tradizione tessile sportiva e l'essenzialità del design contemporaneo. Scegli la traspirabilità della trama piquet, la luminosità della tonalità Blue Baby e l'inconfondibile attitudine casual della polo uomo firmata K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Polo classica in piquet, smart casual, tetto di marchio sportivo K-Way che non supera il 2-3",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

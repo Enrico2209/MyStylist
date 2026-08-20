@@ -23,5 +23,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-2-0-kb-rudy-panna-panna",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPANTALONE CARGO UOMO RAYZ RUDY JOGGER 100% Cotone\nIl pantalone\nRayz Rudy Jogger Cargo\nunisce la praticità del design\ncargo\nall'estrema comodità del taglio\njogger\n. Realizzato in\n100% cotone\n, è l'opzione ideale per un look casual e rilassato che non rinuncia allo stile.\nDesign Dinamico e Streetwear\nModello Jogger:\nPresenta una vita elastica con\ncoulisse regolabile\n(laccetto) e un fondo gamba anch'esso\nelasticizzato\n, che assicura una vestibilità\nslim\nalla caviglia, valorizzando le sneakers.\nStile Cargo:\nDotato di\ntasche laterali a soffietto\n(\ncargo pockets\n) su entrambe le gambe, che aggiungono volume, funzionalità e il tocco distintivo dello stile urbano.\nIl Tuo Alleato per il Tempo Libero\nIl pantalone Rayz Rudy è pensato per l'uomo che ama il comfort senza sacrificare il dettaglio. Abbinalo alla\nCamicia Rayz Rudy\no a una\nT-shirt\nstampata per un perfetto look\nstreet-casual\ncontemporaneo.\nNon rinunciare alla comodità: aggiungi il Pantalone Cargo Rudy Jogger al tuo guardaroba.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:2.0 KB RUDY PANNA-PANNA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia Rayz Rudy",
+      "categoria_url": "https://www.nuvolari.biz/camicia-2-0-ca-rudy-panna-panna.html"
+    },
+    {
+      "testo": "T-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo jogger con elastico in vita e alla caviglia, stile prettamente casual e street",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

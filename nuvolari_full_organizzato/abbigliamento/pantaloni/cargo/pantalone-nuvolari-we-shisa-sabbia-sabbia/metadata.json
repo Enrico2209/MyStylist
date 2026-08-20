@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-nuvolari-we-shisa-sabbia-sabbia",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nPantalone Utility da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone cargo Uomo Proj3ct modello Shisa Sabbia\nChiusura con zip e bottone brandizzato\nDue tasche ad angolo\nDue tasconi con fibbia\nTasca zip sulla gamba\nDue tasche posteriori\nVestibilità: Regular fit\nComposizione: 98% cotone, 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo utility con tasconi, fibbie e dettagli tecnici",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

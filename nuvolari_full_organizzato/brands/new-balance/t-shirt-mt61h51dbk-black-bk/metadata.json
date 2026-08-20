@@ -26,5 +26,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/t-shirt-mt61h51dbk-black-bk",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eredità storica dell'atletica leggera, la purezza del design sportivo e il comfort imbattibile della cultura urban si fondono nelle collezioni di\nt-shirt uomo New Balance\n. Diventato un pilastro fondamentale dello stile \"casual-sporty\" e della tendenza athleisure, il brand di Boston propone magliette a maniche corte capaci di muoversi con naturalezza millimetrica tra un allenamento sul campo e la quotidianità metropolitana.\nDesign, Tecnologie e Caratteristiche Distintive\nLoghi Iconici e Heritage Visivo\n: Le collezioni si dividono sapientemente tra minimalismo e forte identità grafica. Dai modelli basic caratterizzati dal classico logo \"NB\" ricamato sul punto cuore, fino alle t-shirt d'ispirazione rétro con scritte \"New Balance Athletic Clothing\" stampate sul petto in stile college anni '80 e '90.\nTessuti Tecnici e Cotone Premium\n: La forza del brand risiede nella scelta dei materiali. Per la linea lifestyle,\nNew Balance\nutilizza puro cotone pesante (heavyweight cotton) dalla mano morbida e dalla struttura compatta. Per le linee più sportive, integra la tecnologia traspirante\nNB DRY\n, progettata per allontanare rapidamente l'umidità dalla pelle e garantire freschezza assoluta.\nFit Calibrati per Ogni Stile\n: Le t-shirt sono sviluppate attraverso diverse geometrie di vestibilità. L'\nAthletic Fit\nè strutturato per sfiorare il petto e i fianchi, assecondando i movimenti del corpo senza costrizioni; il\nRelaxed/Oversize Fit\npropone invece spalle scese e tagli boxy più ampi, ideali per chi sposa i canoni estetici dello streetwear contemporaneo.\nScolpiture e Finiture di Alta Durabilità\n: Rifinite con colletti a coste rinforzati che mantengono la forma originaria anche dopo numerosi lavaggi e cuciture piatte anti-sfregamento che massimizzano il comfort quotidiano.\nIdee di Stile: Costruisci il Tuo Look Sporty-Chic\nAthleisure Metropolitan Uniform\n: Abbina una t-shirt New Balance dal taglio rilassato alla praticità strutturata dei\npantaloni uomo\ncargo o dei chino morbidi a gamba dritta. Completa l'outfit con una sneaker iconica della serie 550 o 9060 per un perfetto stile urban-casual.\nFresh Summer Comfort\n: Per le calde giornate estive o per il tempo libero, indossa la maglietta grafica insieme a freschi\nbermuda uomo\n(ottimi sia i modelli in pile/felpa per un total look sporty, sia i bermuda in twill di cotone chiaro). Eleva il tutto con un calzino bianco in spugna a vista e un\ncappello uomo\ncon visiera ricurva.\nContemporary Smart-Casual Layering\n: Crea un contrasto sofisticato inserendo una t-shirt basic New Balance color pastello o bianca sotto a una camicia di lino aperta o a una giacca overshirt utility in canvas. Questo gioco di stratificazioni smorza il rigore dei capi più formali regalando un look fresco e disinvolto.\nFai spazio alla versatilità di un brand che ha fatto della performance e dell'estetica pulita la sua firma leggendaria. Scegli il comfort senza tempo e l'attitudine iconica delle t-shirt uomo firmate New Balance.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "New Balance",
+      "categoria_url": "https://www.nuvolari.biz/brands/new-balance"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica di marchio sportivo, adatta al casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

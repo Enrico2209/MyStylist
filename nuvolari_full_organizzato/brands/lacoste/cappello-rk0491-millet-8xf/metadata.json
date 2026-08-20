@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/cappello-rk0491-millet-8xf",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl cappello Lacoste RK0491, nella tonalità Millet (un beige sabbia naturale), è un accessorio essenziale che fonde l'eleganza sportiva francese con una praticità senza tempo. Realizzato in twill di cotone organico, questo berretto è pensato per chi cerca un look pulito e sostenibile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, accessorio tipicamente casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

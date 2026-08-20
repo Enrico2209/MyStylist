@@ -27,5 +27,31 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/oh-bermuda-es3-k3136nw-blue-white-b01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa tecnicità dei materiali antipioggia, il leggendario heritage dell'outerwear francese e un design athleisure contemporaneo si fondono nei\nbermuda uomo K-Way modello K3136NW Blue White\n. Il brand parigino, celebre in tutto il mondo per aver rivoluzionato il concetto di abbigliamento funzionale e packable, applica il suo know-how tecnico a un pantaloncino corto sportivo ed elegante, ideale per affrontare le giornate estive tra sport, outdoor e tempo libero metropolitano con uno stile dinamico e inconfondibile.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Tecnico Leggero e Idrorepellente\n: Il bermuda è interamente confezionato in nylon o poliestere tecnico di alta qualità, selezionato per garantire una straordinaria leggerezza, un'asciugatura ultra-rapida e una resistenza ottimale al vento e all'umidità. La texture liscia e scattante offre un comfort eccellente sia in spiaggia sia durante le attività dinamiche in città.\nIl Contrasto Cromatico Blue White\n: Il design del capo gioca su un blocco di colore pulito e ad alto impatto visivo. La base blu navy, profonda e sofisticata, è spezzata e slanciata da bande laterali bianche verticali disposte lungo i fianchi. Questa combinazione bicolore richiama l'estetica nautica e lo stile sportswear d'archivio degli anni '80 e '90.\nVita Elastica e Dettagli Funzionali\n: Per assicurare una vestibilità impeccabile e personalizzata, il pantaloncino presenta una spessa fascia elastica in vita completata da un cordoncino interno di regolazione (drawstring). La struttura è arricchita da ampie tasche frontali a toppa con taglio ergonomico, perfette per riporre in sicurezza i piccoli oggetti personali.\nTaglio Regular Confortevole\n: Sviluppato su una silhouette regular fit rilassata, il bermuda cade morbido sopra il ginocchio senza costringere le forme. Le aperture laterali e la flessibilità del tessuto tecnico assicurano una totale libertà di movimento in qualsiasi contesto di utilizzo.\nIdee di Stile: Costruisci il Tuo Look Yacht Club & Urban Active\nActive Tech Street Uniform\n: Crea una combinazione ad alte prestazioni focalizzata sulla freschezza e sui volumi contemporanei. Abbina il bermuda K-Way a una\nt-shirt\nbasica in cotone pesante o tecnico nelle sfumature del bianco o del grigio melange. Completa l'outfit ai piedi con la tecnicità d'avanguardia delle sneakers uomo Asics GEL-NYC Cloud/Silver o con la struttura solida delle\nNew Balance\n.\nNautical Transition Look\n: Reinterpreta lo stile preppy e marittimo in chiave urban per un aperitivo al tramonto o un weekend fuori porta. Accosta il pantaloncino blu e bianco a una camicia in lino fiammato bianco ottico tenuta aperta sopra una canotta, oppure a una polo classica a costine. Rifinisci la combinazione con il tocco casual e curato dei mocassini uomo Sun68 o con la praticità estiva delle slip-on Heydude.\nTotal K-Way Match\n: Esalta l'anima outdoor e rainproof del brand strutturando un perfetto outfit da viaggio o da escursione estiva. Abbina il bermuda a una t-shirt grafica del brand e porta con te l'iconica giacca a vento packable K-Way Le Vrai ripiegata nell'apposita tasca-marsupio, creando un contrasto cromatico con accessori pop o restando fedele alla palette blu e bianca.\nSperimenta la perfetta sintesi tra l'efficacia dei tessuti barriera idrorepellenti e la pulizia delle linee geometriche d'ispirazione nautica. Scegli la versatilità della combinazione Blue White, la praticità della vita elastica e l'inconfondibile attitudine sportiva dei bermuda uomo firmati K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "New Balance",
+      "categoria_url": "https://www.nuvolari.biz/brands/new-balance"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "bermuda sportivo in nylon con elastico in vita, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

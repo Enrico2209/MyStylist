@@ -23,5 +23,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-w3-lod-milk-milk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'immaginario dei tattoo d'archivio, la forza concettuale del gaming grafico e un'attitudine street irriverente si fondono nella\nt-shirt uomo Proj3ct modello Lod\n(un chiaro riferimento alla formula acronimica\n\"Life or Death\"\n). Il brand metropolitano consolida la sua identità underground trasformando un capo basico in un manifesto visivo audace, pensato per chi ama distinguersi attraverso grafiche dal forte impatto simbolico.\nDesign, Grafiche e Caratteristiche Costruttive\nLa Grafica Frontale sul Petto\n: Sul lato sinistro del petto, la maglietta presenta una prima anticipazione del tema conduttore della linea. Un logo lettering geometrico si sovrappone all'illustrazione in miniatura di due carte da gioco, incorniciando il micro-claim del brand in un perfetto bilanciamento di proporzioni.\nIl Maxi Artwork Sulla Schiena\n: Il vero e proprio nucleo narrativo si sviluppa sul pannello posteriore. Spicca una imponente illustrazione che raffigura due carte da gioco dallo stile grafico \"neo-traditional\", le quali mettono in contrapposizione le figure speculari di un re e di uno scheletro regale, simbolo iconografico del dualismo tra la vita e la morte.\nClaim Slogan a Contrasto\n: L'artwork posteriore è arricchito da testi fortemente espressivi. In alto domina la scritta fluida in corsivo\n\"Life or Death\"\n, mentre la base dell'illustrazione è siglata dal perentorio invito\n\"PLAY YOUR TURN\"\nunito alla firma\n\"Project\"\n, che richiama le atmosfere grafiche dei poster rock e delle fanzine di cultura skate.\nPuro Cotone Strutturato e Scollo a Costine\n: Interamente realizzata in jersey di puro cotone di ottimo spessore, la t-shirt unisce una mano morbida e fresca sulla pelle a una consistenza robusta che resiste impeccabilmente ai lavaggi. Il classico scollo a girocollo è completato da una bordatura elastica a costine per prevenire la deformazione del tessuto.\nTaglio Relaxed e Fit Contemporaneo\n: La maglietta è sviluppata seguendo una linea regular/relaxed confortevole, caratterizzata da spalle calibrate e maniche corte che scivolano fluide, assecondando i canoni estetici dello streetwear contemporaneo senza costringere i movimenti.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Urban Graphic\nNineties Loose Denim Uniform\n: Valorizza l'estetica skate ed espressiva della t-shirt abbinandola a volumi d'archivio rilassati. Scegli un paio di jeans uomo Levi's 568 Loose Straight in un lavaggio medio o vintage, lasciando che il tessuto si appoggi morbido sulla tomaia scultorea di sneakers tecniche e strutturate come le Asics GEL-NYC o le ultime novità\nNew Balance\n.\nMetropolitan Cargo & Utility Look\n: Esalta l'anima underground del brand Proj3ct accostando la maglietta a un pantalone cargo multitasche o a dei\nbermuda\nin gabardina di cotone pesante. Questo abbinamento dal sapore industrial mette in risalto il carattere della maxi stampa posteriore, perfetto per le serate estive in città.\nSmart-Casual Summer Transition\n: Sperimenta un interessante gioco di contrasti materici spezzando il rigore grafico dell'artwork. Combina la t-shirt con un pantalone o un bermuda uomo Baecker in lino leggero e traspirante, completando l'outfit ai piedi con lo stile casual e contemporaneo dei mocassini uomo Sun68 o con la praticità destrutturata delle calzature Heydude.\nSperimenta la perfetta sintesi tra l'espressività della tattoo-art metropolitana e la morbidezza delle fibre naturali. Scegli la forza iconica del claim \"Life or Death\", la consistenza del cotone premium e l'attitudine inconfondibile della t-shirt uomo firmata Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: W3 LOD MILK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "New Balance",
+      "categoria_url": "https://www.nuvolari.biz/brands/new-balance"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "streetwear": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica con maxi stampa sulla schiena, estetica skate/streetwear",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

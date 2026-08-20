@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-proj3ct-we-bronx-nero-nero",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nTracktop da uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nTracktop Uomo Proj3ct\nmodello\nBronx\nChiusura full zip\nCollo alto\nLogo Ricamao sul petto\nPolsini e bordi elasticizzati\nProfili maniche a contrasto bianco su nero\nScritta \"Proj3ct\" su manica sinistra\nVestibilità Regular\nComposizione: 92% Tramati, 8% Polierstere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.2,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "tracktop sportivo con scritte e profili a contrasto, livello tuta/palestra",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

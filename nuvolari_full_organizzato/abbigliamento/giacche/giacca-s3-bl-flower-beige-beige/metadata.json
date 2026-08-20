@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-s3-bl-flower-beige-beige",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nGiacca Uomo Nuvolari Flower Beige\nreinterpreta il concetto di blazer estivo destrutturato attraverso una sofisticata chiave tessile, offrendo un perfetto equilibrio tra eleganza sartoriale e freschezza informale. Sviluppata in una luminosissima e versatile tonalità beige chiaro/sabbia, questa giacca monopetto si distingue per la sua mano operata e tridimensionale, ponendosi come lo strato superiore ideale per completare con classe i look smart-casual ed i cocktail party della bella stagione.\nDesign e Caratteristiche Principali\nCostruzione Monopetto Destrutturata\n: La giacca è completamente sfoderata e svuotata internamente sulle spalle, una scelta costruttiva pensata per garantire leggerezza assoluta, traspirabilità e una caduta morbida che asseconda le linee del corpo in modo naturale e disinvolto.\nScollo a Revers Classico e Chiusura a Due Bottoni\n: Presenta un intramontabile scollo a revers a dente dalle proporzioni bilanciate, arricchito da un'asola sul lato sinistro. La chiusura frontale è affidata a due bottoni scuri con effetto corno a quattro fori, che creano un elegante punto di contrasto cromatico sulla base beige.\nTasche Applicate a Toppa e Finiture Sartoriali\n: Equipaggiata sul davanti con due tasche a toppa d'ispirazione napoletana e un taschino sul petto tagliato a barchetta, ideali per smorzare la formalità del capospalla. Le maniche terminano con finti occhielli e bottoni coordinati, mentre l'orlo posteriore è rifinito con un doppio spacco laterale per ottimizzare la vestibilità quando si è seduti.\nFiniture Interne di Pregio\n: Tutte le cuciture interne sono accuratamente bordate con una fettuccia parasudore e di rinforzo scura, a testimonianza della cura del dettaglio e della pulizia costruttiva firmata Nuvolari.\nSilhouette Slim Fit Modellata\n: Il taglio propone una vestibilità asciutta, sciancrata in vita e proporzionata sulle spalle, capace di slanciare la figura senza costringerla, mantenendo un'attitudine contemporanea ed eclettica.\nProposta di Outfit\nSummer Gala Riviera Look\n: Indossala sopra una t-shirt o una camicia bianca leggera e abbinala al\npantalone chino\nblu notte in cotone twill; lo stacco netto tra la giacca sabbia operata e la base blu notte strutturerà un outfit spezzato classico, luminoso e sofisticato, perfetto per una cena formale o un evento estivo.\nSmart Casual Texturized Match\n: Abbinala al\npantalaccio\nmicro-strutturato bicolor azzurro-grigio con coulisse e inserisci sotto una t-shirt minimalista; l'incontro tra il micro-pattern jacquard della giacca e l'effetto mosso del pantalone leggero darà vita a un gioco di texture ricercato, fresco e perfetto per un aperitivo in riviera.\nUrban Denim Sophistication\n: Portala sopra la\nt-shirt\nfiammata blu notte con taschino e abbinala a un\njeans\nslim dal lavaggio indaco medio; la pulizia e l'intensità della maglietta scura faranno risaltare la micro-trama floreale della giacca beige, definendo un look urban-chic di grande carattere e contemporaneità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "elegante": 0.7,
+      "casual": 0.3
+    },
+    "formality": 4,
+    "formality_perche": "Blazer monopetto destrutturato, ideale per contesti smart-casual e formali estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

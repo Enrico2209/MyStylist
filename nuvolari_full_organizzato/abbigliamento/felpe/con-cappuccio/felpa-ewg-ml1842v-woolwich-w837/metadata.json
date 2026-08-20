@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-ewg-ml1842v-woolwich-w837",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe felpe da uomo sono capi comodi e alla moda, perfetti per il tempo libero. Realizzate in tessuti morbidi e disponibili in diversi stili, offrono comfort senza compromettere lo stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "sportivo": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e taschino utility, capo tipicamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

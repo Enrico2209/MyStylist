@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-jardim-blu-med-blu-med",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Rayz Jardim: L'Anima Vintage del Denim Autentico\nJeans Uomo Rayzo Jardim Blu Medio\nRiscopri il fascino del denim classico con un tocco contemporaneo. I Jeans Rayz Jardim sono definiti da un lavaggio blu medio con intensi effetti \"faded\" e baffature marcate che conferiscono al capo un aspetto profondamente vissuto. Progettati per chi ama lo stile urban con richiami vintage, questi jeans uniscono una struttura robusta a una vestibilità studiata per la massima libertà di movimento.\nEstetica Stone Washed e Dettagli Tailored\nLavaggio\nBlu Medio con Effetto Usato\n: La particolarità del modello Jardim risiede nei suoi schiarimenti strategici e nelle micro-abrasioni che simulano l'usura naturale del tempo, rendendo ogni paio unico nel suo carattere.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con lavaggio stone washed, baffature marcate ed effetto vissuto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

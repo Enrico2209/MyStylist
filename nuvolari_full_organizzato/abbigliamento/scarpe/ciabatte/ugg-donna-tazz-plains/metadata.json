@@ -18,5 +18,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/ugg-donna-tazz-plains",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUGG Tazz Plains: Elevata nel Design, Audace nello Stile\nLe\nTazz Plains\nsono molto più di una semplice evoluzione del modello Tazz II; sono una vera dichiarazione di moda. Progettate per chi non ha paura di osare, queste slip-on elevano il concetto di calzatura casual grazie a un plateau iconico e a una finitura di lusso che cattura immediatamente lo sguardo.\nPunti di Forza e Design\nTexture Animalier:\nLa tomaia è realizzata in pregiato\ncavallino\n(vera pelle di vitello) con una stampa vibrante che aggiunge un tocco selvaggio e sofisticato a ogni tuo outfit.\nAltezza e Leggerezza:\nCon un plateau di\n4,4 cm\n, queste scarpe offrono slancio alla figura senza appesantire il passo, grazie all'intersuola in EVA e alla suola esterna in\ncanna da zucchero\n.\nL'abbraccio UGGplush™: L'interno è rivestito in morbido misto lana rigenerata e\nTENCEL™ Lyocell\n, una combinazione eco-consapevole che garantisce calore e una sensazione di morbidezza impareggiabile.\nDettagli Artigianali:\nRifinite con l'esclusiva treccia\nUGGbraid\nin poliestere riciclato, che ne sottolinea l'eredità artigianale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nTaglie UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta/sabot con plateau, uso domestico o tempo libero molto informale",
+    "season": "inverno",
+    "pattern": "animalier"
+  }
 }

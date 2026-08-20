@@ -20,5 +20,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-gonna-donna-24colours-70770a-blue-04",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGonna 24Colours Blue\nLa\ngonna\n24Colours rappresenta la perfetta combinazione di stile e versatilità. Grazie al suo design curato e moderno, si adatta con facilità a molteplici occasioni, dal tempo libero agli appuntamenti più informali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n95% poliestere, 5% elastan\nCodice articolo: 70770A BLUE-04",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "gonna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/gonne.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "gonna midi in mesh stampato, adatta a contesti casual e informali",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

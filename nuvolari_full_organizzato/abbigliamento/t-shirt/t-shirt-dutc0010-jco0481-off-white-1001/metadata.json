@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-dutc0010-jco0481-off-white-1001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nDaniele Alessandrini: L'Essenziale Sofisticato\nT-shirt Uomo Daniele Alessandrini\nScopri l'equilibrio perfetto tra sobrietà e carattere con la t-shirt firmata Daniele Alessandrini. Declinata in una luminosa tonalità Off White, questa creazione ridefinisce il concetto di maglieria basic grazie all'applicazione frontale del logo in corsivo, che aggiunge una dimensione tattile e visiva ricercata. Un pezzo chiave del guardaroba maschile per chi predilige un'eleganza sussurrata ma densa di dettagli.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con logo ricamato/applicato tono su tono",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

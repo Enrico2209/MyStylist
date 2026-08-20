@@ -25,5 +25,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-li-asky-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza rilassata del design contemporaneo si fonde con il comfort assoluto nel nuovo\nPantalaccio Uomo Nuvolari Asky\n. Questo modello d'ispirazione easy-chic reinterpreta il classico pantalone estivo attraverso una silhouette fluida e una texture naturale, ideale per chi cerca un look sofisticato ma estremamente comodo per la stagione calda.\nDesign e Caratteristiche Principali\nFascione Elastico in Vita con Coulisse\n: Il vero focus sul comfort è garantito dalla spessa fascia elastica arricciata in vita, integrata da una coulisse tubolare bianca regolabile sul davanti. Una struttura ibrida che assicura un fit stabile, anatomico e personalizzabile per tutta la giornata.\nTexture Leggera in materiale Fresco\n: Confezionato in una tela fresca e altamente traspirante che sfrutta la fiammatura caratteristica della morbidezza del cotone. Il tessuto asseconda perfettamente i movimenti regalando una caduta morbida e impeccabile.\nTasche Americane e Posteriori a Filo\n: Dotato di pratiche tasche anteriori dal taglio diagonale sui fianchi e di due tasche posteriori a filo. Il retro è arricchito da un piccolo ed elegante patch logo ricamato sopra la tasca destra che sigilla il DNA del brand.\nTaglio Regular Tapered\n: Sviluppato con una gamba comoda sulle cosce che si restringe leggermente verso il fondo, definendo una silhouette moderna, slanciata e pulita.\nIdee di Stile: Crea la Tua Wave\nSummer Resort\n: Accentua l'anima nobile del lino abbinando il pantalaccio Asky a una\ncamicia\ncoreana bianca o azzurro polvere, completando l'outfit con un mocassino scamosciato morbido o un sandalo in pelle per i tuoi aperitivi al tramonto.\nUrban Chill Match\n: Per un mood street e quotidiano, smorza la formalità del pantalone indossandolo insieme a una\nt-shirt\ngrafica d'ispirazione rétro vintage nei toni del panna o del bianco ottico, chiudendo il look con una sneaker bassa in tela.\nAbbraccia l'equilibrio ideale tra rigore sartoriale e attitudine loungewear. Scegli lo stile disinvolto del pantalaccio Asky firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio estivo con coulisse ed elastico in vita, abbassa la formalità del pantalone classico",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

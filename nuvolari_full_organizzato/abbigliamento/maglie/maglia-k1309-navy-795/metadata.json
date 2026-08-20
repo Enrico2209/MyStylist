@@ -24,5 +24,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k1309-navy-795",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nMaglia Uomo Fred Perry K1309 Navy\nincarna la quintessenza dell'eleganza minimalista ed essenziale di matrice British, unendo il comfort tipico del knitwear pregiato ai dettagli iconici che hanno reso celebre il brand. Questo pullover a girocollo si distingue per una tonalità blu navy scura e profonda, arricchita da discreti elementi a contrasto che esaltano il legame indissolubile del marchio con la propria eredità storica.\nDesign e Caratteristiche Principali\nCorona d'Alloro a Contrasto\n: Il celebre stemma ricamato Fred Perry è posizionato con precisione sul lato cuore del petto. Spicca per una luminosa tonalità color oro antico/caramello, creando un raffinato contrasto cromatico con la base scura del capo.\nProfilo Interno del Colletto Rinforzato\n: La scollatura a girocollo nasconde una sofisticata finitura tessile interna lavorata in tinta con la corona d'alloro ricamata, che dona un tocco sottile di identità cromatica e strutturale.\nFilato Pregiato e Texture Compatta\n: Confezionata in una maglia di cotone fine di altissima qualità, lavorata con una trama unita e compatta che assicura morbidezza, isolamento termico leggero e una mano liscia al tatto.\nFiniture a Costine Elasticizzate\n: Il girocollo, i polsini delle maniche lunghe e l'ampia fascia sul fondo del busto sono strutturati con una solida lavorazione a costine elastiche, progettata per mantenere la stabilità della forma e far aderire ordinatamente il capo ai punti anatomici chiave.\nManica a Giro e Costruzione Pulita\n: Presenta un taglio della spalla classico con giromanica geometrico e cuciture piatte di alta precisione sartoriale, che riducono al minimo gli spessori interni garantendo una silhouette fluida e priva di arricciature.\nVestibilità Regular Fit Sofisticata\n: Propone una linea pulita e leggermente scivolata sul busto, capace di adattarsi in modo impeccabile sia sopra una t-shirt sia sopra una camicia, definendo un'estetica formale ma disinvolta.\nProposta di Outfit\nSmart British Formal\n: Indossala sopra una\ncamicia\noxford bianca o azzurra, lasciando spuntare leggermente il colletto, e abbinala a un\npantalone\nmodello chino in cotone beige; un grande classico dell'abbigliamento preppy, perfetto per contesti lavorativi o eventi formali diurni.\nContemporary Urban Layering\n: Portala in combinazione con un\njeans\ndal lavaggio scuro o nero e sovrapponi una giacca dal taglio minimalista; il contrasto tra l'oro della corona d'alloro e la base navy donerà un punto di luce discreto ma di forte personalità al sotto-giacca.\nMinimalist Weekend Casual\n: Utilizzala semplicemente sopra una t-shirt basic a girocollo, abbinandola a un\npantalone\ngrigio antracite dal taglio sartoriale e completando il tutto con un\ncappello\nper le giornate più fresche; un look pulito, comodo ed estremamente versatile per il tempo libero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: K1309 NAVY-795",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone fine, ideale per contesti smart casual sopra una camicia",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

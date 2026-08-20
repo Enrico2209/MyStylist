@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-dm18400-alchemy-gq2",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nBomber Uomo Tommy Jeans Alchemy\nQuesto capo iconico unisce lo stile distintivo di Tommy Jeans con un tocco di modernità. Realizzato con materiali di alta qualità e dettagli curati, questo bomber offre un comfort straordinario e uno stile senza tempo. Perfetto per completare il tuo look casual o aggiungere un tocco di personalità ai tuoi outfit più formali, il\nBomber Uomo\nTommy Jeans Alchemy è una scelta versatile e alla moda per ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 100% cotone\nCodice Prodotto: DM18400",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Bomber Uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "bomber stile college/varsity, capo prettamente casual e giovanile",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

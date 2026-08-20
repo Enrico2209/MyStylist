@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-proj3ct-w1-sunset-milk-milk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Proj3Ct Sunset Milk\nLa\nmaglia\nProj3ct a girocollo presenta un design semplice e pulito, con scritta sul petto. Realizzata in tessuto di alta qualità, è ideale per un look casual ma curato.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% Viscosa, 28% Elastan, 22% Nylon\nCodice articolo: W1 SUNSET MILK-MILK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa/maglia a girocollo con grafica frontale vistosa, adatta a un contesto casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

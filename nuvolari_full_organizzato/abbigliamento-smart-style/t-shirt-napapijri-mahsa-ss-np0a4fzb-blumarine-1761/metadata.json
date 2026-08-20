@@ -20,5 +20,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-napapijri-mahsa-ss-np0a4fzb-blumarine-1761",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'amore viscerale per l'esplorazione, il fascino dei grandi paesaggi nordici e l'attitudine urban si fondono nelle collezioni di\nt-shirt uomo Napapijri\n. Nato all'ombra del Monte Bianco e caratterizzato dalla celebre bandiera norvegese, il brand unisce magistralmente lo spirito dell'outerwear d'archivio al comfort dello streetwear contemporaneo, dando vita a magliette a maniche corte pensate per chi vive la quotidianità come un viaggio costante.\nDesign, Iconografia e Caratteristiche Distintive\nL'Iconica Bandiera Norvegese e il Logo Heritage\n: Il panorama estetico del brand si riconosce al primo sguardo. I modelli spaziano dalle t-shirt basiche ed essenziali, impreziosite dal classico logo Geographic stampato o ricamato sul petto, fino alle iconiche varianti della linea\nS-Box\n, dove la bandiera norvegese — simbolo di apertura, scoperta e sfide contro gli elementi — firma il capo con un forte impatto cromatico e d'identità.\nMateriali Sostenibili e Cotone Premium\n: Coerentemente con l'impegno pionieristico di Napapijri verso la tutela dell'ambiente, le t-shirt sono confezionate prevalentemente in 100% cotone biologico certificato di alta qualità. Una scelta consapevole che si traduce in tessuti dalla trama compatta, estremamente morbidi sulla pelle, traspiranti e resistenti ai lavaggi più frequenti.\nFiniture di Matrice Outdoor e Comfort\n: Ogni maglietta è progettata per offrire la massima libertà di movimento. La presenza di colletti a costine elasticizzate che mantengono perfettamente la forma nel tempo, unita a cuciture interne piatte e rinforzate sui punti di maggiore trazione (come spalle e girocollo), azzera il rischio di fastidiosi sfregamenti e irritazioni.\nVestibilità Versatili per la Città e il Viaggio\n: Le collezioni si sviluppano su fit calibrati con precisione. Si va dalle vestibilità regular lineari, ottime come basi per il layering quotidiano, fino ai tagli loose e relaxed fit con spalle scivolate d'ispirazione prettamente metropolitana, ideali per chi ama uno stile più rilassato e contemporaneo.\nIdee di Stile: Costruisci il Tuo Look Heritage Urban\nThe Outdoor Explorer Uniform\n: Esalta la natura pionieristica del brand creando un look perfetto per i weekend all'aria aperta e il tempo libero. Abbina una t-shirt Napapijri con maxi grafica S-Box frontale alla robustezza protettiva e geometrica di un paio di\npantaloni uomo\ncargo con tasconi o a un bermuda in tessuto tecnico ripstop anti-strappo.\nMetropolitan Casual Vibe\n: Per i pomeriggi in città o un aperitivo informale, gioca di contrasti bilanciati. Accosta una maglietta basica del brand in tonalità bianca, blu navy o fango alla linearità pulita e asciutta di un paio di\npantaloni uomo\nchino in cotone stretch, chiudendo il cerchio con una sneaker bassa e pulita.\nContemporary Summer Layering\n: Nelle giornate di transizione o durante le fresche serate estive, sperimenta le stratificazioni di texture. Utilizza la t-shirt in cotone biologico come base luminosa sotto a una delle freschissime\ncamicie uomo\nin puro lino fiammato (meravigliose le varianti Squad portate aperte con maniche arrotolate), completando l'outfit con un\ncappello uomo\ncon visiera.\nSperimenta la perfetta sintesi tra la solidità protettiva dell'abbigliamento da viaggio e la libertà espressiva del design street contemporaneo. Scegli il comfort senza compromessi e lo spirito d'avventura delle t-shirt uomo firmate Napapijri.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica di marchio outdoor/casual, tetto massimo di formalità per la categoria",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

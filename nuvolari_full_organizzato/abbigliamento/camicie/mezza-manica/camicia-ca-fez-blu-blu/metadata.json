@@ -23,5 +23,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-fez-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Fez Blu\nrappresenta la perfetta sintesi tra eleganza relaxed ed essenzialità cromatica, ideale per chi cerca un capo estivo dal forte carattere contemporaneo ma dalla linea pulita. Declinata in una profonda e raffinata tonalità blu notte (\"Blu\"), questa camicia a maniche corte si distingue per il suo aspetto scivolato e naturale, capace di elevare con disinvoltura sia i look da giorno che le combinazioni per la sera.\nDesign e Caratteristiche Principali\nTessuto Fluido Effetto Lino\n: Realizzata in un filato estivo leggerissimo dalla mano morbida e dalla texture finemente fiammata, che dona al capo una bellissima caduta cascante e un'ottima traspirabilità anche sotto il sole cocente.\nIconico Collo Resort (Camp Collar)\n: Il colletto dal taglio cubano con rever aperto a V profonda, privo della classica fustella sul primo bottone, conferisce una silhouette disinvolta e un'aria sofisticatamente rétro.\nEstetica Minimal Monochrome\n: Il corpo della camicia si presenta liscio ed essenziale, senza taschini applicati o interruzioni grafiche, concentrando l'attenzione sulla pulizia del taglio e sull'intensità del blu.\nBottoni Scuri Coordinati\n: La fustella frontale è scandita da bottoni scuri lucidi che si fondono tono su tono con la base del tessuto, preservando l'armonia cromatica dell'impatto visivo centrale.\nManiche Corte dal Taglio Scivolato\n: La costruzione ampia e dritta delle maniche corte asseconda i volumi fluidi del capo, garantendo freschezza e una totale libertà nei movimenti.\nFondo Squadrato con Spacchi\n: L'orlo inferiore dritto e lineare è progettato specificamente per lasciare la camicia fuori dai pantaloni, cadendo in modo impeccabile sopra i fianchi.\nProposta di Outfit\nSummer Co-ord Resort\n: Abbinala in perfetto coordinato cromatico e tessile con un\nbermuda\nfluido blu scuro, spezzando la combinazione con una canotta o t-shirt basic chiara per un look monocromatico rilassato di grande tendenza.\nUrban Riviera Contrast\n: Portala abbottonata e inserita parzialmente all'interno di un\npantalone\nin cotone crepe bianco ottico, completando l'outfit con mocassini scamosciati per un contrasto cromatico nitido, estivo e sofisticato.\nContemporary Smart Layering\n: Indossala completamente aperta sopra una t-shirt chiara, abbinandola a un\npantalaccio\nin lino verde salvia desaturato; l'incontro tra le tonalità fredde del blu e dell'oliva crea un ensemble metropolitano fresco e ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Camicia a maniche corte con collo resort, adatta a contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

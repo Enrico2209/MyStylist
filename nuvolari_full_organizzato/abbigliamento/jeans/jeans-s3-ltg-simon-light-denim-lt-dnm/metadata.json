@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-ltg-simon-light-denim-lt-dnm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nI\nJeans Uomo Nuvolari Ltg Simon Light Denim\nsintetizzano un'estetica urban contemporanea e dinamica, pensata per chi cerca un denim dal forte carattere visivo ma dalla vestibilità versatile e rilassata. Contraddistinti da un lavaggio azzurro medio-chiaro (\"Light Denim\") ed arricchiti da trattamenti vintage mirati, questi pantaloni si propongono come il fulcro ideale per outfit quotidiani grintosi, freschi e ricchi di personalità.\nDesign e Caratteristiche Principali\nTela Denim con Effetto Fiammato e Sabbiature\n: Confezionati in una solida tela di cotone che esibisce sabbiature e schiariture ad ampio raggio localizzate lungo le cosce e le ginocchia, ricreando un autentico e naturale aspetto vissuto. Il tessuto offre una mano consistente ma confortevole, ideale per un utilizzo prolungato in tutte le stagioni.\nDettagli Distress e Micro-Rotture\n: Il carattere streetwear del modello è accentuato da discreti ed eleganti trattamenti di usura, tra cui una micro-rottura parzialmente rammendata posizionata sulla coscia destra e leggeri graffi (distress) disposti sul profilo della tasca anteriore sinistra, che conferiscono al jeans un sapore heritage unico.\nCostruzione Tradizionale a Cinque Tasche\n: Il jeans rispetta la classica configurazione a 5 tasche, con tasche posteriori applicate e sagomate, tasche anteriori ad arco rinforzate da rivetti metallici nei punti di tensione e il tradizionale taschino portamonete inserito sul lato destro.\nSartorialità Interna Firmata\n: La parte interna del cinturino rivela la cura del dettaglio tipica del brand, mostrando una fodera personalizzata geometrica e l'etichetta sartoriale tessuta Nuvolari cucita centralmente, a garanzia di autenticità e qualità costruttiva.\nSilhouette Tapered Moderna\n: Il taglio presenta una linea comoda e regolare sul bacino che va a stringersi progressivamente lungo la gamba verso il fondo (tapered fit), delineando una figura slanciata, ordinata e perfettamente al passo con le tendenze stilistiche attuali.\nProposta di Outfit\nUrban Minimal Contrast\n: Abbinalo alla\nt-shirt\nfiammata blu notte con taschino; il contrasto netto tra la profondità scura del Baritone Blue superiore e la solarità sbiadita del jeans azzurro darà vita a un look casual pulito, bilanciato e di grande impatto visivo.\nPreppy Summer Vibe\n: Indossalo insieme alla\npolo\npiqué verde menta brillante con profili bianchi; la vivacità e la freschezza della tonalità pastello esalteranno la base chiara del denim, strutturando un outfit ideale per un aperitivo all'aperto o un pomeriggio nel tempo libero.\nContemporary Smart Casual\n: Portalo in abbinamento alla\ncamicia\nregular fit a righe verticali sottili bianche e azzurre; la precisione geometrica della riga smorzerà la natura graffiata e casual del jeans, offrendo un insieme coordinato ed elegante, perfetto per una cena informale o un contesto smart-working.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans 5 tasche con lavaggio chiaro, sabbiature e micro-rotture ad effetto vissuto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

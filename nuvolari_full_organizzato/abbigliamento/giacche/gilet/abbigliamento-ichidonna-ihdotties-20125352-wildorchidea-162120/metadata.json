@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/gilet/abbigliamento-ichidonna-ihdotties-20125352-wildorchidea-162120",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl gilet\nIchi Donna Ihdotties Wildorchidea\ninfonde una sferzata di energia ed eleganza contemporanea nel guardaroba stagionale, grazie a una accesa e magnetica tonalità rosa orchidea (\"Wildorchidea\"). Questo gilet in maglia smanicato unisce una struttura materica ben definita a una silhouette pulita, proponendosi come il pezzo perfetto per creare look a strati di grande impatto visivo o da indossare come sofisticato top unico.\nDesign e Caratteristiche Principali\nTessuto in Maglia a Coste Orizzontali\n: Il corpo del capo è interamente definito da una fitta e regolare lavorazione tricot a costine disposte in senso orizzontale. Questa texture mossa crea un gioco di micro-ombreggiature tridimensionali che spezzano la monocromia e donano corpo e struttura al gilet.\nGirocollo Flessibile Spesso\n: Presenta uno scollo rotondo accollato dal gusto sportivo, rifinito con un alto bordo a coste verticali elasticizzate che incornicia il collo con precisione e mantiene intatta la sua forma originale.\nGiromanica Smanicato con Profilo Elastico\n: Il taglio smanicato è evidenziato da una bordatura a costine verticali coordinata con lo scollo, studiata per aderire senza stringere e per garantire comfort, pulizia delle linee e facilità di stratificazione.\nFondo a Costine con Spacchi Laterali\n: L'orlo inferiore dritto è sigillato da una fascia a costine verticali ad alta tenuta. La presenza di piccoli spacchi laterali fluidifica la caduta del capo sui fianchi, evitando che si arricci fastidiosamente quando viene appoggiato sui pantaloni.\nSilhouette Ddritta Regular-Fit\n: Il taglio scende lineare lungo il busto senza segnare eccessivamente le forme, offrendo il perfetto equilibrio tra morbidezza casual e compostezza sartoriale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "gilet in maglia, capo versatile da stratificazione smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

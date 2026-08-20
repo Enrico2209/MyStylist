@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "prodotti-ecologici/t-shirt-tommy-hilfiger-wc-dm07067-black-bbu",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nT-shirt Tommy Jeans modello DM07067\nT-shirt girocollo\nLogo \"Tommy Hilfiger 1985\" stampato sul petto\nBandierina tommy hilfiger sul fondo manica\nRealizzata in puro cotone biologico\nRegular fit\nComposizione: 100% cotone\nIl modello è alto 1,87 e indossa la taglia L",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con logo stampato sul petto, vestibilita regular",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

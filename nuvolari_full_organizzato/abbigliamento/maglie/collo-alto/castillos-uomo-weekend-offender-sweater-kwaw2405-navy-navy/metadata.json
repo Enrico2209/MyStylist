@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/collo-alto/castillos-uomo-weekend-offender-sweater-kwaw2405-navy-navy",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Weekend Offender Castillos Navy\nMaglia\nWeekend Offender con collo alto e chiusura a bottoni. Un capo elegante e versatile, ideale per aggiungere un tocco di stile al tuo guardaroba. La sua vestibilità e il design raffinato la rendono perfetta per diverse occasioni\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n80% lana 20% nylon\nCodice articolo: KWAW2405 NAVY-NAVY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie/collo-alto.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia in misto lana con collo a bottoni, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

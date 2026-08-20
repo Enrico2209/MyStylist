@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/girocollo/maglia-we-steven-grg-atx",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione girocollo da Uomo Steven grigio\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Nuvolari modello Steven Grigio\nParicollo 5% cachemire\nLogo ricamato sul polsino\nVestibilità Regular\nComposizione: 50% lana, 50% acrilico\nMade in Italy\nWE STEVEN GRG/ATX-GRG/ATX",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana, classico capo smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

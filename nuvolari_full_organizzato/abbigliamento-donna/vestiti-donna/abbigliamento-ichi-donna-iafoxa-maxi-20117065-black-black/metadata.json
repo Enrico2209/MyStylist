@@ -26,5 +26,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/vestiti-donna/abbigliamento-ichi-donna-iafoxa-maxi-20117065-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'\nAbito Ichi Donna Iafoxa Maxi Black\nincarna un'estetica estiva raffinata e profondamente rilassata, combinando la freschezza di un taglio fluido alla versatilità intramontabile del nero totale. Questo capospalla lungo si distingue per una costruzione pulita e scivolata, pensata per offrire un comfort superiore e uno stile effortless chic impeccabile nelle giornate più calde.\nDesign e Caratteristiche Principali\nScollo a U Profondo e Spalline Ampie\n: La parte superiore dell'abito, è caratterizzata da una scollatura arrotondata e geometricamente bilanciata, sorretta da bretelle larghe che garantiscono un'ottima vestibilità e stabilità strutturale sulle spalle.\nTaglio Impero con Vita Alta\n: La silhouette si sviluppa a partire da una cucitura orizzontale posizionata subito sotto il busto, che slancia otticamente la figura e fa cadere il tessuto in modo morbido lungo i fianchi.\nGonna a Balze Fluida (Tiered Design)\n: Il corpo inferiore della veste è strutturato a pannelli orizzontali sovrapposti, con una balza inferiore che aggiunge volume, movimento e un tocco tipicamente bohémien a ogni passo.\nTessuto Leggero dalla Texture Naturale\n: Confezionato in una tela fluida e traspirante (ideale in misto cotone, lino o viscosa), lavorata con una finitura leggermente mossa che esalta la morbidezza del capo ed evita un effetto troppo rigido.\nOrlo Lineare e Lunghezza Maxi\n: La gonna si estende fino alle caviglie in un taglio dritto e sinuoso, rifinito con cuciture di precisione a profilo piatto che mantengono la stabilità e la pulizia della silhouette geometrica sul fondo.\nVestibilità Relaxed Fit ed Ariosa\n: Propone volumi generosi che non costringono le forme, garantendo una ventilazione ottimale e una sensazione di assoluta leggerezza durante tutta la stagione estiva.\nProposta di Outfit\nBoho-Chic Urban Vibe\n: Abbinalo a un giubbotto in denim dal lavaggio chiaro per le ore serali e completa il look con un cappello a tesa larga; il contrasto tra la morbidezza del maxi abito nero e la struttura del jeans creerà un perfetto set casual e contemporaneo.\nSummer Resort Layering\n: Sovrapponi all'abito un'ampia\ncamicia\nin lino bianco lasciata completamente sbottonata e arrotolata alle maniche; un outfit a strati fresco, sofisticato e perfetto per il tempo libero al mare o in città.\nMinimalist Street Style\n: Portalo da solo combinandolo semplicemente con un\ncappello\ncon visiera sportivo e occhiali da sole scuri; un abbinamento decisamente urban, essenziale e di chiara ispirazione scandinava.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Abito lungo estivo con spalline larghe e taglio a balze, stile rilassato e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

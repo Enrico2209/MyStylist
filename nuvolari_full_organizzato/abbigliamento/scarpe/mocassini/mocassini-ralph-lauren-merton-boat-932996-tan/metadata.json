@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassini-ralph-lauren-merton-boat-932996-tan",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nI Mocassini Ralph Lauren Merton Boat (Colore Tan) sono la quintessenza della calzatura nautica, reinterpretata con il rigore qualitativo e l'estetica senza tempo di Polo Ralph Lauren. Questa variante nella colorazione \"Tan\" rappresenta l'opzione più classica e versatile, capace di evocare immediatamente l'atmosfera dei porti del New England e dei club velici più esclusivi.\nIl punto di forza dei Merton Boat Tan risiede nella loro costruzione autentica. Realizzati in pelle di alta qualità che sviluppa una splendida patina naturale con il passare del tempo, questi mocassini sono progettati per essere indossati preferibilmente senza calze. La tonalità \"Tan\" (un cuoio caldo e dorato) è la scelta cromatica per eccellenza: si abbina perfettamente a qualsiasi colore, dal bianco estivo al blu navy profondo, fino alle tonalità terra.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica in pelle, ideale per contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

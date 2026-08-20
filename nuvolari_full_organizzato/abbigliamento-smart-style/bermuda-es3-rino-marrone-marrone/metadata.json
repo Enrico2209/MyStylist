@@ -25,5 +25,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-es3-rino-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Rino\nrappresentano la quintessenza del capospalla estivo informale, pensati per chi non vuole rinunciare a un look curato, fresco e dinamico durante le giornate più calde. Grazie alla morbida struttura leggera e alla pulizia dei dettagli, questi calzoncini corti coniugano alla perfezione lo spirito loungewear con le esigenze dello streetwear metropolitano.\nDesign e Caratteristiche Principali\nPregiato Tessuto\n: Realizzati in un filato di cotone morbido e traspirante con una tramatura non garzata all'interno, ideale per assicurare il massimo comfort termico e una piacevole sensazione di freschezza sulla pelle.\nCintura Elastica con Coulisse Esterna\n: La riga della vita è strutturata con una solida fascia elastica arricciata, completata da un cordoncino piatto in tinta che permette di personalizzare e regolare millimetricamente la vestibilità sui fianchi.\nTasche Laterali a Filo\n: Il fronte integra due pratiche e capienti tasche inserite lungo i fianchi, dal profilo pulito, perfette per riporre piccoli oggetti quotidiani senza alterare la silhouette del capo.\nFinitura a Taglio Vivo (Raw Cut)\n: Il fondo gamba si distingue per l'orlo lasciato volutamente non rifinito con un leggero effetto arrotolato, un dettaglio di stile contemporaneo che accentua l'attitudine rilassata e urban dei bermuda.\nTaglio Comfort Fit\n: La vestibilità comoda offre ampiezza di volume sulla coscia, garantendo una totale libertà nei movimenti e una caduta fluida che si ferma appena sopra il ginocchio.\nSuggerimenti di Stile\nEcco 3 modi per inserire questi bermuda in felpa Nuvolari Rino nei tuoi outfit estivi:\nUrban Sporty Layering\n: Abbinali alla\nmaglia Nuvolari\ne a un paio di sneakers bianche retro-running per un perfetto contrasto di texture, ideale per i pomeriggi di tempo libero.\nStreet Essential Vibe\n: Indossali insieme a una t-shirt grafica The North Face e a un\nbucket hat\ncoordinato per un look fresco, protettivo e di chiara ispirazione streetwear, perfetto per i festival estivi.\nPremium Summer Casual\n: Provali in combinazione con la\ncamicia in maglia Nuvolari\nsbottonata sopra una canotta o t-shirt basic bianca, rifinendo il tutto con slip-on in tela per un outfit da aperitivo al tramonto disinvolto e ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "bucket hat",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    },
+    {
+      "testo": "camicia in maglia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo con tasconi laterali, capo tipicamente casual e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

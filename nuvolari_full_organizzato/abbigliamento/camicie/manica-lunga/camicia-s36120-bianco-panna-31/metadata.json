@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s36120-bianco-panna-31",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa camicia uomo Sun68 è il capo ideale per chi desidera rompere la monotonia del guardaroba formale, introducendo elementi grafici semplice e primaverili e una vestibilità pensata per la vita dinamica di tutti i giorni.\nMateriali Leggeri: Realizzate in misto lino cotone di alta qualità  che garantiscono freschezza e una libertà di movimento superiore.\nConsigli di Stile\nLa camicia Sun68 si presta a molteplici avvicinamenti: indossala aperta sopra una\nt-shirt\nper un look rilassato, e sopra un\njeans\n, oppure sotto lo\nsmanicato\nper un outfit perfetto per le mezze stagioni.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n55% lino, 45% cotone\nVestibilità regular\nCodice articolo:S36120 BIANCO PANNA-31",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "smanicato",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/smanicato.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "camicia in misto lino e cotone con colletto button-down, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

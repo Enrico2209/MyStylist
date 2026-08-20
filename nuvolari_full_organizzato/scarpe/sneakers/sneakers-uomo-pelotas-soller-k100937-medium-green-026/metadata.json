@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-uomo-pelotas-soller-k100937-medium-green-026",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nSneakers Uomo Pelotas Soller Medium Green\n, reinterpretano l'iconica linea Pelotas con un design più snello e contemporaneo. Caratterizzate da una palette di colori terrosi e materiali di alta qualità, queste calzature uniscono l'eredità artigianale a un'estetica urbana e versatile.\nDesign e Caratteristiche Principali\nTomaia in Suede Medium Green\n: Realizzate in morbida pelle scamosciata in una tonalità verde oliva scuro, che offre una texture ricca e una resistenza duratura.\nDettagli Grafici Laterali\n: Il fianco è arricchito da inserti in pelle nera e panna che formano un motivo dinamico, aggiungendo contrasto e carattere alla silhouette.\nSuola in Gomma Pelotas\n: Presentano la distintiva suola arrotondata in gomma color caramello, progettata per offrire un'ottima ammortizzazione e il massimo comfort durante la camminata.\nTallone Rinforzato\n: La parte posteriore è rifinita con un inserto in pelle nera logata che garantisce stabilità e supporto strutturale.\nSistema di Allacciatura Tono su Tono\n: Le stringhe piatte riprendono la tonalità verde della tomaia per un look pulito e coerente.\nInterno Traspirante\n: La fodera è studiata per assicurare un microclima ideale per il piede, rendendole perfette per un uso quotidiano prolungato.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare queste sneakers:\nOutdoor Casual\n: Indossale con i\nBermuda\ne una\nt-shirt\npanna per un perfetto richiamo cromatico ai dettagli della scarpa.\nUrban Utility\n: Abbinale ai\nBermuda\nnella versione beige e una camicia in denim per un look ispirato all'esplorazione metropolitana.\nRelaxed Evening\n: Provale con i\nBermuda\ne una\npolo\nverde scuro per un outfit serale informale ma estremamente curato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers scamosciate quotidiane, livello base per calzature sportive/casual",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

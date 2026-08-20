@@ -27,5 +27,19 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-marble-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo con tasconi laterali, abbassa la formalità del classico chino a livello casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

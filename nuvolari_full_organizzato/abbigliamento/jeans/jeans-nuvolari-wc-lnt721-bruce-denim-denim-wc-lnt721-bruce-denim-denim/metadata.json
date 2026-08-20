@@ -23,5 +23,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-nuvolari-wc-lnt721-bruce-denim-denim-wc-lnt721-bruce-denim-denim",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nJeans Uomo Nuvolari modello LNT721 BRUCE\nModello 5 tasche\nDenim fermo\nTessuto 12 once\nLavaggio eﬀetto stone\nChiusura a scomparsa con zip e bottone chiodo in vita logato\nFodera interna tessuto resca colore panna stampata\nRivetti montati sulle tasche frontali\nVestibilità slim ﬁt\nComposizione : 100% Cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans slim fit con lavaggio stone wash, classico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

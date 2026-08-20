@@ -25,5 +25,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-terry-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Terry\nridefiniscono il concetto di abbigliamento estivo smart-casual, unendo lo spirito pratico e rilassato del pantaloncino corto a una cura sartoriale nei dettagli costruttivi. Declinati in una versatile e semplice tonalità, questi shorts leggeri sono progettati per offrire freschezza e comfort assoluti, rivelandosi il capo ideale per i weekend al mare, i viaggi o i caldi pomeriggi in città.\nDesign e Caratteristiche Principali\nCintura Elastica Comfort con Coulisse\n: La riga della vita è strutturata con una morbida fascia elastica interna arricciata che si adatta perfettamente ai fianchi, completata da un lungo cordoncino piatto con terminali metallici per regolare la vestibilità a piacimento.\nChiusura Ibrida Funzionale\n: Coniuga l'approccio easy-wear della coulisse alla formalità di una patta frontale tradizionale munita di cerniera e di un bottone scuro centrale a contrasto sulla fustella.\nTasche Americane con Dettaglio Rivetto\n: Presenta capienti tasche anteriori dal taglio obliquo, rifinite alle estremità da piccoli rivetti scuri che ne rinforzano la struttura aggiungendo una nota di carattere.\nTaschino Orologio Frontale Minimal\n: Sul lato destro anteriore, appena sotto la linea della vita, è inserito un classico e discreto taschino a filetto orizzontale, raffinato richiamo alla tradizione dei pantaloni sartoriali.\nFondo Gamba con Risvolto Lineare\n: L'orlo inferiore è valorizzato da un risvolto stirato cucito che dona peso e stabilità al tessuto sulla coscia, mantenendo una silhouette sempre in ordine.\nTessuto Leggero e Traspirante\n: Realizzati in un filato fresco e piacevole al tatto, ideale per assecondare la naturale termoregolazione corporea durante la stagione calda.\nSuggerimenti di Stile\nEcco 3 modalità per valorizzare i bermuda Terry nei tuoi abbinamenti estivi:\nSmart Summer Dapper\n: Indossali insieme alla\nCamicia Nuvolari Lioserio Blue\ncon maniche risvoltate sugli avambracci e mocassini scamosciati marroni per un perfetto outfit da aperitivo o cena informale.\nContemporary Casual Minimal\n: Abbinali direttamente a pelle con la\nMaglia Nuvolari Special Blu\ne sneakers minimali bianche per un ricercato contrasto cromatico.\nMetropolitan Street Look\n: Provali in combinazione con una t-shirt basic, il\nBomber Nuvolari Vitruvio\naperto e il\nbaseball cap Lee nero\nper un outfit da tempo libero dinamico, protettivo e di chiara impronta urban.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia Nuvolari Lioserio Blue",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Maglia Nuvolari Special Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "Bomber Nuvolari Vitruvio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "baseball cap Lee nero",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "bermuda con coulisse ed elastico in vita, capo estivo informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

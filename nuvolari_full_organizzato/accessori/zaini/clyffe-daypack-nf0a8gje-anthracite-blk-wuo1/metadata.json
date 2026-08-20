@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/clyffe-daypack-nf0a8gje-anthracite-blk-wuo1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa funzionalità outdoor e il design urbano di The North Face si incontrano nello\nzaino Clyffe Daypack di The North Face nella colorazione Anthracite/Black\n. Un daypack versatile e capiente, pensato per la città, lo studio e le escursioni leggere, dove praticità e resistenza vanno di pari passo.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Resistente\n: Costruito in materiale robusto e durevole, pensato per resistere all'uso quotidiano e alle intemperie leggere.\nAntracite con Dettagli Neri\n: Combinazione grigio antracite e nero, sobria e facile da abbinare a ogni look.\nAmpio Scomparto Principale\n: Spazio generoso per libri, laptop e l'essenziale della giornata, con tasche organizzative interne.\nSpallacci Imbottiti\n: Bretelle ergonomiche e schienale imbottito per un comfort di trasporto ottimale anche a pieno carico.\nDettagli Funzionali\n: Tasche esterne ad accesso rapido e finiture curate tipiche del marchio.\nIdee di Stile e Utilizzo\nDaily & Studio\n: Perfetto per l'università o l'ufficio, organizza laptop e materiali con ordine.\nOutdoor Leggero\n: Compagno ideale per una giornata di trekking urbano o una gita fuori porta.\nLook Urban\n: Abbinalo a capi tecnici e\ngiubbotti\noutdoor per completare lo stile The North Face.\nResistente, capiente e versatile: lo zaino Clyffe Daypack di The North Face accompagna ogni giornata, dalla città al sentiero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "zaino sportivo/outdoor, tetto di marchio e categoria",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

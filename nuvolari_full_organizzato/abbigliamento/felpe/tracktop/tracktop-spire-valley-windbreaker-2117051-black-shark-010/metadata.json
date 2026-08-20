@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/tracktop-spire-valley-windbreaker-2117051-black-shark-010",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nAffronta il vento con stile grazie alla\nTracktop Columbia Spire Valley Windbreaker\n. Questo giubbino leggero è progettato per offrire\nprotezione dal vento\ne massimo comfort nelle tue avventure all'aria aperta o nei contesti urbani. Realizzato in\ntessuto resistente e idrorepellente\n, presenta una chiusura full-zip, un cappuccio regolabile e polsini elasticizzati per una vestibilità perfetta. Il design\nBlack/Shark\naggiunge un tocco moderno e versatile, perfetto per completare ogni outfit sportivo e casual.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nshell 100% nylon, lining 100% poliestere\nVestibilità regular\nCodice articolo:2117051 BLACK/SHARK-010",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "giacca a vento sportiva, tetto di marchio outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

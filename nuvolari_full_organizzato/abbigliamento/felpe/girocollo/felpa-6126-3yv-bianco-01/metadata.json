@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-6126-3yv-bianco-01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta felpa girocollo Colmar Originals è la scelta ideale per chi cerca un capo tecnico dal look minimale, perfetto per affrontare con energia i ritmi della vita metropolitana. La sua forza risiede nel tessuto in maglia di interlock misto cotone, una lavorazione che garantisce una struttura compatta, fresca e piacevolmente elastica.\nPerché sceglierla\nA differenza delle felpe tradizionali, questo modello punta su un’estetica \"tech-sport\" grazie al particolare transfer nero effetto traforato posizionato sul petto, lato cuore. È il pezzo chiave per costruire un set coordinato: abbinandola ai pantaloni in tessuto 3YV, otterrai un outfit dal comfort assoluto e dalla linea pulita, ideale per i momenti di relax o per un tempo libero dinamico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 85% Cotone + 11% Poliestere + 4% Elastan\nVestibilità regular\nCodice articolo: 6126 3YV BIANCO-01",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo sportiva e casual, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

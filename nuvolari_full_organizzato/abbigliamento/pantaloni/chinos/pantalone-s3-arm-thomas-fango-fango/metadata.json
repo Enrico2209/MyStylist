@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-s3-arm-thomas-fango-fango",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNuvolari Arm Thomas: Il Chino Sartoriale dall'Anima Contemporanea\nPantalone Chino Uomo Nuvolari Arm Thomas\nEleva il tuo stile quotidiano con il pantalone Arm Thomas firmato Nuvolari. Questo chino rappresenta la sintesi perfetta tra eleganza formale e comfort dinamico. Grazie alla sua tonalità neutra e al taglio asciutto, si propone come il passe-partout indispensabile per l'uomo che ricerca un look curato dall'ufficio al tempo libero, senza mai rinunciare alla libertà di movimento.\nTaglio Impeccabile e Comfort Dinamico\nTessuto Stretch Premium\n: Composto al\n97% in cotone\ne al\n3% in elastane\n, il modello Arm Thomas offre una piacevole sensazione di morbidezza sulla pelle unita a un'elasticità strategica che accompagna ogni gesto.\nDesign Slim-Straight\n: La linea è studiata per seguire la silhouette in modo naturale, offrendo un fit pulito che valorizza la figura senza stringere, ideale per un uso prolungato durante la giornata.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo:S3 ARM THOMAS FANGO-FANGO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in cotone stretch, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

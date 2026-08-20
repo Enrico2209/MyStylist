@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-lee-sierra-short",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE SIERRA SHORT STAT GREY: FUNZIONALITÀ SENZA COMPROMESSI\nI bermuda Lee Sierra sono progettati per chi cerca un look pratico e robusto. Caratterizzati da un'estetica utility decisa, questi shorts cargo offrono tutto lo spazio necessario per le tue avventure quotidiane, senza rinunciare allo stile iconico del brand.\nDesign Cargo Classico:\nDotati di ampie tasche laterali a soffietto con chiusura a patta, ideali per riporre in sicurezza i propri oggetti personali.\nTessuto Resistente\n: Realizzati in un twill di cotone strutturato che garantisce massima durata e resistenza all'usura.\nTonalità Stat Grey:\nUn grigio scuro profondo e versatile che si adatta facilmente a qualsiasi combinazione di colori, dal trekking urbano alle uscite nel tempo libero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi laterali, stile utility e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

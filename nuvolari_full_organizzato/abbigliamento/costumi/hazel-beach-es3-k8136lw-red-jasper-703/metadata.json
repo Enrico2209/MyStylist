@@ -23,5 +23,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/hazel-beach-es3-k8136lw-red-jasper-703",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'iconica tecnicità dei materiali protettivi K-Way incontra la vivacità delle tinte estive nel\ncostume uomo K-Way modello Hazel Beach Red Jasper\n. Pensato per l'uomo dinamico che ricerca un perfetto equilibrio tra funzionalità e impatto estetico, questo boxer da mare unisce un tessuto ad asciugatura ultra-rapida a una nuance solida, intensa e ricca di carattere, ideale per passare con disinvoltura dalle attività in acqua al relax del post-spiaggia.\nDesign, Materiali e Caratteristiche Costruttive\nLa Tinta Unita Red Jasper\n: Il costume si distingue per una colorazione monocromatica vibrante e calda, ispirata alle sfumature minerali del diaspro rosso. Questa scelta cromatica dona al capo un'energia solare e un'allure sportiva contemporanea, perfetta per risaltare sotto il sole estivo.\nTessuto Tecnico Fast-Dry\n: Realizzato in poliestere o nylon tecnico estremamente leggero e resistente, il boxer garantisce un'asciugatura rapidissima e una piacevole sensazione di freschezza sulla pelle. Il materiale barriera resiste in modo ottimale al cloro, al sale e ai raggi solari, mantenendo l'intensità del colore inalterata nel tempo.\nDettagli Funzionali e Branding K-Way\n: Il modello presenta una comoda vita elasticizzata regolabile tramite un cordoncino esterno (drawstring) tono su tono con terminali logati. Sul fondo della gamba sinistra spicca l'applicazione del classico logo K-Way in silicone bianco a contrasto, firma di qualità e autenticità.\nComfort Interno e Tasche\n: Dotato di uno slip interno in microrete traspirante e morbida per prevenire fastidiose irritazioni, il costume offre un supporto ottimale durante ogni movimento. Completano la struttura le pratiche tasche laterali a filo e una tasca posteriore, ideale per riporre in sicurezza i piccoli oggetti personali.\nTaglio Regular a Metà Coscia\n: La silhouette short-length con piccoli spacchetti laterali sul fondo gamba assicura una straordinaria libertà di movimento durante il nuoto, il beach volley o le passeggiate sul bagnasciuga.\nIdee di Stile: Costruisci il Tuo Look Beachwear & Sunset Aperitif\nChic Riviera Transition\n: Crea un outfit estivo raffinato giocando sul contrasto tra la forza del rosso e la leggerezza dei tessuti nobili. Abbina il costume K-Way a una camicia in lino fiammato bianco ottico o azzurro pastello, da portare morbida e sbottonata. Completa il look ai piedi con lo stile casual e curato dei mocassini uomo Sun68 o con la praticità contemporanea dei mocassini uomo Heydude.\nSporty & Graphic Beach Look\n: Adotta un'estetica underground e dinamica perfetta per le ore di attività sul bagnasciuga. Accosta il boxer da mare a una t-shirt uomo Proj3ct con grafiche dal forte impatto visivo o a una t-shirt basica in cotone pesante. Proteggiti dal sole con un cappellino con visiera e indossa occhiali da sole sportivi.\nSunset Breeze Layering\n: Quando cala il sole e si alza la brezza serale, stratifica il look senza perdere stile. Indossa sopra il costume una polo a costine o una t-shirt leggera e porta sulle spalle l'immancabile giacca a vento packable K-Way Le Vrai, per un perfetto contrasto athleisure ideale per i momenti di relax o per un aperitivo in terrazza.\nSperimenta il perfetto connubio tra la performance dei tessuti tecnici ad asciugatura rapida e l'energia di una colorazione estiva audace. Scegli la vivacità della tonalità Red Jasper, la praticità della coulisse regolabile e l'inconfondibile firma di K-Way.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno tipo boxer, livello base 1",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

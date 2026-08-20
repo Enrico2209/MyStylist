@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/sneakers-adistar-xlg-2-0-adidas",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe adidas Adistar XLG 2.0 reinterpretano un classico modello da running tecnico in chiave lifestyle, puntando su proporzioni esagerate e volumi dinamici. La sigla \"XLG\" indica proprio la natura oversize della scarpa, caratterizzata da un'intersuola imponente che definisce una silhouette moderna e di grande impatto visivo.\nPerfette per chi cerca una scarpa che non passi inosservata, combinano materiali premium come mesh traspirante e sovrapposizioni in materiale sintetico o pelle, garantendo una calzata comoda e uno stile \"retro-future\" ideale per la città.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTomaia in tessuto\nSoletta in tessuto\nSuola in gomma\nAmmortizzazione adiprene\nVestibilità regular\nCodice articolo: HQ7468 FWHT/BLK/ORG-WHT/BLK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive da running/lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

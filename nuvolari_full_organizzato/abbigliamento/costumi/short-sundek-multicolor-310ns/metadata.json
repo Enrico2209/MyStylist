@@ -21,5 +21,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-sundek-multicolor-310ns",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'icona indiscussa del\nbeachwear californiano\ne della surf culture internazionale si conferma il tassello irrinunciabile di ogni estate. Gli\nShort Uomo Sundek\nrappresentano la perfetta sintesi tra resistenza tecnica e riconoscibilità estetica, nati per cavalcare le onde e diventati nel tempo il simbolo del relax e dello stile da bagnasciuga in tutto il mondo.\nDesign e Caratteristiche Iconiche\nL'Inconfondibile Arcobaleno Posteriore (Rainbow)\n: Il vero e proprio marchio di fabbrica del brand. Sviluppato con tre bande di colore accostate a contrasto sul retro, l'arcobaleno Sundek rompe la monocromia del pantaloncino, rendendolo immediatamente riconoscibile a colpo d'occhio.\nTessuto in Nylon Taffetà Storico\n: Confezionati nel celebre nylon ad altissima resistenza, i boardshort Sundek offrono una robustezza strutturale senza pari, una mano asciutta e proprietà di asciugatura ultra-rapida per garantire il massimo comfort nel passaggio dall'acqua al bagnasciuga.\nTasca Posteriore Funzionale\n: Posizionata sul lato destro sotto lo storico arcobaleno, la tasca è applicata con chiusura a strappo in velcro o bottone ed è rifinita dal classico patch logo texturizzato del brand, oltre a un pratico laccetto interno portachiavi.\nChiusura Tecnica Frontale\n: Il design d'ispirazione surf è fedele alle origini, caratterizzato da una chiusura frontale con patta in velcro e coulisse stringata regolabile, oppure rivisitato nelle versioni volley con un pratico ed elastico fascione arricciato in vita.\nCuciture a Triplo Ago\n: Progettati per resistere alle sollecitazioni della tavola da surf e del sale marino, presentano finiture interne ed esterne rinforzate che aumentano la durabilità del capo stagione dopo stagione.\nConsigli di Stile Nuvolari\nClassic Boardshort Match\n: Abbina il tuo short Sundek a una\nt-shirt\nbasic in cotone fiammato bianco o panna e a un paio di infradito in gomma per un look da spiaggia essenziale, fresco e focalizzato sui colori del costume.\nSunset Sunset Aperitif Outfit\n: Eleva l'attitudine del pantaloncino per il post-spiaggia sovrapponendo una\ncamicia\nin lino leggero con maniche risvoltate e infilando ai piedi un sandalo minimalista in pelle o una sneaker in tela vissuta.\nScegli la storia, il colore e l'inconfondibile energia della West Coast. Porta in spiaggia lo stile senza tempo degli short Sundek.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno/boardshort da mare",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

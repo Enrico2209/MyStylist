@@ -23,5 +23,26 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/canottiera-donna-levis-essential-ribbed",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'autentica estetica Nineties racchiusa in un basic d'autore che ridefinisce il concetto di minimalismo urbano. La\nCanottiera Donna Levi's Essential Ribbed Tank Anthracite\nè il pezzo fondamentale per chi cerca un capo versatile, dal carattere marcatamente street e dall'attitudine rétro. Come si può osservare nell'immagine, questo modello unisce una struttura solida a una silhouette pulita e super contemporanea, ideale per essere indossata da sola o come layer strategico sotto le tue overshirt preferite.\nDesign e Caratteristiche Principali\nStruttura a Costine Fitte (Ribbed Craftsmanship)\n: La texture del tessuto, ben visibile nell'immagine, è caratterizzata da una lavorazione a micro-costine verticali all-over. Questo dettaglio non solo dona spessore e consistenza al capo, ma garantisce un'eccellente elasticità e un fit pazzesco che asseconda le linee del corpo senza stringere.\nScollo a U Profondo ed Equilibrato (Scoop Neck)\n: Il design presenta un ampio scollo arrotondato sia sul davanti che sul retro, rifinito con una bordatura spessa e robusta che incornicia il décolleté con una linea nitida, pulita e di chiara ispirazione d'archivio.\nSpalline Larghe e Taglio Canotta Classico\n: Le spalline si sviluppano con una larghezza strutturata, visibile nell'immagine, studiata per offrire il massimo del comfort, coprire perfettamente i dettagli sottostanti e garantire stabilità durante ogni movimento in città.\nDettaglio Red Tab sul Fondo\n: Posizionata sul lato inferiore sinistro, come evidenziato nell'immagine, spicca la leggendaria etichetta rossa Levi's, un piccolissimo accento cromatico a contrasto che certifica l'autenticità e l'heritage del brand.\nTaglio Slim Fit e Lunghezza Regolare\n: La silhouette scivola sul corpo con una vestibilità asciutta e aderente, terminando con un orlo dritto e lineare sul fondo che la rende perfetta sia da portare morbida sui fianchi sia infilata nei pantaloni a vita alta.\nIdee di Stile: Crea la Tua Wave\nThe 90s Grunge Uniform\n: Il match perfetto non si discute. Abbina questa canotta a coste a un\njeans\ndal fit loose o baggy d'ispirazione rétro, lasciando cadere sulle spalle una camicia a quadri oversize completamente aperta. Chiudi il cerchio con una sneaker bassa da skate.\nMinimal Urban Uniform\n: Crea una combinazione pulita e ad alto impatto visivo indossando il capo all'interno di un pantalone cargo o di un chino Dickies dal taglio dritto. Aggiungi una cintura bold in pelle e una sneaker chunky per un perfetto look da strada.\nContemporary Smart Layers\n: Eleva l'attitudine street di questo basic utilizzandolo come strato inferiore sotto un blazer oversize destrutturato lasciato aperto. Il contrasto tra la morbidezza della canotta e il taglio sartoriale della giacca definirà un perfetto stile urban-chic.\nElimina il superfluo e punta sul vero stile d'archivio. Scegli la solidità di Levi's e scendi in strada pronta a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "canotta basic a costine, capo intimo o da spiaggia/palestra",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

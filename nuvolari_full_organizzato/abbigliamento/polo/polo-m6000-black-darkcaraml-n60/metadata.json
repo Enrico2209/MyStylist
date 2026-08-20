@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-m6000-black-darkcaraml-n60",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPolo Fred Perry: Stile Classico e Distintivo\nLa polo Fred Perry è un simbolo di eleganza sportiva e qualità senza tempo. Caratterizzata dal suo taglio impeccabile, dai materiali di alta qualità e dall'iconico logo con la corona d'alloro, è il capo ideale per chi desidera un look raffinato ma versatile.\nCrea il tuo outfit perfetto!\nIndossala con un paio di\npantaloni\no\ncargo\nper un look casual-chic, ideale per affrontare ogni occasione con stile. Completa il look con un paio di\nsneakers\nper un mix di tradizione e modernità.\nTrova ispirazione e scopri come integrare la polo nei tuoi\noutfit\npreferiti!\nPerché scegliere la polo Fred Perry?\nDesign elegante e senza tempo\nVersatilità per ogni occasione\nIconico dettaglio che fa la differenza\nUn classico intramontabile per chi ama distinguersi con stile!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE 100% cotone\nVestibilità regular\nCodice articolo:M6000",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piquet di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

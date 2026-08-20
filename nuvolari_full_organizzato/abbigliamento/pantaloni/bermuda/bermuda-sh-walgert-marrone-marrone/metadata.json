@@ -25,5 +25,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-walgert-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo J.B.Mittwoch Walgert Marrone\nreinterpreta il concetto di pantalone utility attraverso una palette cromatica calda e profonda, perfetta per chi desidera un'alternativa scura ma morbida rispetto al classico nero o al verde militare. Caratterizzato da una intensa sfumatura testa di moro (\"Marrone\"), questo shorts cargo unisce la resistenza dei materiali a un carattere urban deciso, ideale per strutturare outfit estivi versatili e di forte personalità.\nDesign e Caratteristiche Principali\nTessuto in Cotone Strutturato\n: Realizzato in un filato di cotone compatto e robusto, sottoposto a un lavaggio enzimatico che ammorbidisce le fibre e dona alle cuciture un sofisticato effetto leggermente sbiadito e vissuto.\nTasche Cargo Geometriche\n: Equipaggiato con capienti tasconi laterali applicati simmetricamente sulle cosce e dotati di patta di chiusura rettangolare, che definiscono l'estetica utility del capo.\nTasche Superiori con Dettagli a Contrasto\n: Le tasche frontali presentano un taglio diagonale ergonomico, valorizzato sul lato destro da un inserto interno scuro e coordinato a un passante nero inserito sul punto vita per un tocco di design funzionale.\nChiusura Classica e Passanti\n: La costruzione della vita prevede la tradizionale combinazione di patta, cerniera e un bottone centrale scuro, completata da passanti resistenti per accogliere cinture sportive o tecniche.\nTaglio Regular Dritto Equilibrato\n: La gamba scende lineare con volumi proporzionati che si arrestano appena sopra il ginocchio, garantendo freschezza e un'ottima libertà di movimento in ogni contesto urbano.\nImpunture di Rinforzo e Rivetti\n: La struttura è rifinita con doppie cuciture a rilievo nei punti di massima sollecitazione e piccoli dettagli metallici scuri che ne aumentano la solidità e la tenuta nel tempo.\nProposta di Outfit\nChic Earth Tone Mix\n: Abbinalo a una\ncamicia\na maniche corte a righe verticali bianche e rosa lasciata aperta sopra una canotta chiara; l'incontro tra l'attitudine utility del marrone e la freschezza del rosa crea un contrasto cromatico sofisticato e di assoluta tendenza.\nSummer Minimal Contrast\n: Portalo insieme a una\ncamicia\nbianca in tessuto crepe seersucker e a una\nt-shirt\nbasic in tinta, giocando sul netto stacco visivo tra la luminosità del bianco ottico superiore e la solidità della base scura.\nMetropolitan Layered Safari\n: Indossalo in combinazione con un\ngiubbotto\nleggero color sabbia con tasconi applicati per creare un outfit a strati monocromatico basato sui toni del deserto, completando il look con sneakers in tela.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo con tasconi, tipico capo utility e casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

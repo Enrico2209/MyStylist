@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-we-dallas-nero-nero",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nMaglione collo alto da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Nuvolari modello Dallas Nero\nCollo alto\nFilato composto da lana e acrilico in proporzioni definite\nBordi a costina\nRegualr fit\nComposizione: 50% lana, 50% acrilico",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto in misto lana, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

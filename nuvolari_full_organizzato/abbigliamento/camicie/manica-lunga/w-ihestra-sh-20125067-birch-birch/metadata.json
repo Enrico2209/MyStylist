@@ -22,5 +22,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/w-ihestra-sh-20125067-birch-birch",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nEleganza rilassata e gusto senza tempo si incontrano nella\ncamicia da donna Ichi modello Ihestra nella variante Birch\n. Caratterizzata da un delicato motivo a righe verticali bianco panna e nero, presenta una vestibilita comoda e leggermente oversize: un capo versatile e raffinato, ideale da indossare in ogni stagione, dall'ufficio al tempo libero.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Leggero e Traspirante:\nrealizzata in cotone dalla mano morbida e fresca, garantisce comfort e portabilita tutto il giorno.\nMotivo a Righe Birch:\nle sottili righe verticali bianco e nero donano un effetto slanciante ed elegante, facile da abbinare.\nVestibilita Relaxed:\ntaglio comodo e leggermente ampio con spalle scese per un look contemporaneo e disinvolto.\nDettagli Curati:\ncolletto classico, chiusura frontale con bottoni e polsini regolabili per una vestibilita ordinata.\nIdee di Stile: Costruisci il Tuo Look Effortless Chic\nSmart Casual:\nindossala dentro un paio di\njeans donna\na vita alta e completa con delle\nsneakers donna\nper un outfit curato e comodo.\nLayering di Stile:\nperfetta aperta su una t-shirt basic o annodata in vita, si abbina facilmente a pantaloni sartoriali o gonne.\nComfort Quotidiano:\nun capo jolly che completa la nostra selezione di\nabbigliamento donna\ncon classe.\nAggiungi un basico elegante al tuo guardaroba. Scegli la leggerezza del cotone, il raffinato motivo a righe e lo stile scandinavo firmato Ichi Ihestra.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "sneakers donna",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html?settore=Donna"
+    },
+    {
+      "testo": "abbigliamento donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a righe, ma con vestibilità leggermente oversize che la rende adatta allo smart casual",
+    "season": "tutte",
+    "pattern": "righe"
+  }
 }

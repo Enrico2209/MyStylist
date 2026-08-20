@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/calzini-uomo/calzini-obey-cooper-ii-wht-blk-wht-blk",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCalzini Unisex di Obey Cooper, colore bianco e nero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCalzini Uomo Obey modello Cooper II\nRealizzati in spugna di cotone\nScritta del brand a contrasto di colore\nComposizione: 85% cotone, 13% nylon, 2% spandex\nScala taglie : Unica\nCodice prodotto: COOPER II SOCKS WHT/BLK-WHT/BLK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "calzino sportivo in spugna, marchio streetwear puro",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

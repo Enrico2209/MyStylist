@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-court-antracite-93",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Uomo Black Rags realizzato in 97% poliestere e 3% elastane è un capospalla tecnico progettato per offrire protezione e flessibilità. Grazie alla sua composizione, si presenta come un capo leggero ma resistente, ideale per affrontare le stagioni di transizione con un'estetica moderna e funzionale.\nPerché sceglierlo\nLa prevalenza del poliestere conferisce al giubbotto un'elevata resistenza al vento e una naturale capacità idrorepellente, mantenendo il capo leggero e facile da piegare. L'aggiunta del 3% di elastane è fondamentale per garantire la libertà di movimento, permettendo al tessuto di seguire le linee del corpo senza costrizioni, tipico dei tessuti \"stretch\" ad alte prestazioni.\nConsigli di Outfit\nLook Coordinato Tecnico: Abbinalo al\npantalone\nBlack Rags Yaki per un set completo che richiama la stessa filosofia di comfort e tecnicità dei materiali.\nStile Urban Layering: Indossalo sopra una\nfelpa\nRayz in cotone per creare un contrasto di texture tra la naturalezza della maglia e la tecnicità del guscio esterno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% POLIESTERE 3% ELASTANE\nVestibilità regular\nCodice articolo: GB COURT ANTRACITE-93",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "giubbotto leggero con colletto a camicia e taglio pulito, a metà tra casual e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

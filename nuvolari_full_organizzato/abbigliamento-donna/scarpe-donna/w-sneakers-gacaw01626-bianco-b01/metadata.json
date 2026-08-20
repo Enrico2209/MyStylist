@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/w-sneakers-gacaw01626-bianco-b01",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nComfort e attitudine glam si incontrano nelle\nSneakers Donna Gaelle Paris in Bianco\n, un modello dal design contemporaneo realizzato in materiali di qualità e impreziosito dall'inconfondibile lettering del brand.\nDesign e Caratteristiche Principali\nTomaia di Qualità:\nmateriali selezionati dalla mano morbida, per una sneaker versatile e curata nei dettagli.\nLuminoso Bianco:\nuna tonalità candida e pulita, la più versatile in assoluto, perfetta per look freschi e luminosi.\nLogo Signature:\nl'inconfondibile lettering Gaelle Paris impreziosisce il modello, firma di stile del brand.\nSuola Comoda:\nfondo leggero e ammortizzato per il massimo comfort durante la giornata.\nChiusura con Lacci:\nallacciatura classica che assicura calzata sicura e personalizzabile.\nIdee di Stile: Linka il Tuo Outfit\nStreet Glam:\nabbina le sneakers a un paio di\njeans donna\nper un look urbano dinamico.\nSporty Chic:\ncompletale con una\ngonna donna\nper un mood giovane e attuale.\nAthleisure Mood:\nindossale con dei\npantaloni donna\nper uno stile comodo e ricercato.\nAggiungi un tocco glam al tuo guardaroba con le Sneakers Gaelle Paris in Bianco. Acquistale ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "gonna donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/gonne.html?settore=Donna"
+    },
+    {
+      "testo": "pantaloni donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneakers chunky dal design sportivo e casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

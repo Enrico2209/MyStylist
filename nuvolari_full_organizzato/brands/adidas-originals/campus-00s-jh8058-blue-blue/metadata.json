@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/campus-00s-jh8058-blue-blue",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nScopri le\nsneakers adidas JH8058 da uomo\n, un mix perfetto di stile street e DNA sportivo. Con una silhouette moderna e dettagli ispirati al basket, queste scarpe offrono un look audace senza rinunciare al comfort. La tomaia in mesh tecnico e pelle sintetica garantisce leggerezza e traspirabilità, mentre l’intersuola ammortizzata assicura una camminata fluida e reattiva.\nPerfette con jeans, cargo o tuta, sono pensate per chi vive la città con energia e stile.\nCompleta il tuo outfit:\nPantaloni Cargo\nMaglie\nAccessori Street\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nGambale: Scamosciato\nParte interna: Materiale tessile\nSuola: Materiale sintetico\nVestibilità regular\nCodice articolo: JH8058 BLUE-BLUE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantaloni Cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "Maglie",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "Accessori Street",
+      "categoria_url": "https://www.nuvolari.biz/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneakers lifestyle di marchio sportivo, adatte al casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "promo-abbigliamento/polo-a36150-fuxia-20",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa polo uomo Sun68 è un vero e proprio \"must-have\" per chi cerca un look casual ma curato, distinguendosi per il suo approccio giocoso e colorato alla moda quotidiana. Il brand italiano è celebre per l'attenzione ai dettagli e per il suo inconfondibile logo con la croce e il delta.\nPerché sceglierla\nLa polo Sun68 è estremamente versatile: è perfetta abbinata a un paio di\nbermuda\nper un pomeriggio estivo, o sotto il\nGiubbotto Blauer Daniel\nper un look urban a strati durante le mezze stagioni.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n95% cotone, 5% elastane\nVestibilità regular\nCodice articolo:A36150 FUXIA-20",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piquet di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda-sw1801itjo-jet-black-001",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza discreta dell'heritage scozzese e il massimo comfort del design lounge metropolitano si fondono nel\nPantalaccio Uomo Lyle & Scott SW1801ITJO\n. Il brand propone una declinazione cromatica scura e magnetica del suo celebre pantalone destrutturato: un'intensa colorazione nero/antracite profondo che massimizza la versatilità del capo, rendendolo il passe-partout definitivo per chi esige una silhouette pulita e rigorosa senza rinunciare alla totale libertà di movimento.\nDesign, Tessuto e Caratteristiche Distintive\nL'Inimitabile Comfort del Girovita Elastico\n: Il vero fulcro costruttivo del modello risiede nella struttura della vita. Come evidenziato nell'immagine di riferimento, il fascione è interamente elasticizzato e arricciato, arricchito da una coulisse frontale regolabile con cordoncino piatto e terminali a contrasto, una soluzione che azzera la rigidità dei bottoni tradizionali adattandosi millimetricamente ai fianchi.\nTela di Cotone Stretch Leggera Premium\n: Confezionato in un mix di cotone pettinato ad alta densità integrato con filati elastici. Questa combinazione assicura un perfetto comfort termico durante la stagione calda, un'eccellente traspirabilità e una caduta del tessuto fluida che non perde mai la piega.\nSilhouette Tapered Essenziale e Dettagli Puliti\n: Il taglio presenta volumi moderni e calibrati, scendendo morbido sul bacino per poi restringersi leggermente verso la caviglia (taglio a carota). L'architettura minimale è completata da tasche anteriori ad accesso diagonale a filo, perfettamente integrate lungo le linee dei fianchi.\nIdee di Stile: Costruisci il Tuo Outfit\nContemporary Smart Casual Uniform\n: Sfrutta la base scura per un outfit da giorno ordinato, fresco e impeccabile. Abbina il pantalaccio nero Lyle & Scott alla precisione lineare di una delle\ncamicie uomo\nSquad in lino bianco o fiammato con colletto alla coreana, completando il cerchio con un mocassino morbido scamosciato.\nPremium Streetwear Layering\n: Esalta l'anima metropolitana del brand giocando sui contrasti grafici. Accosta il pantalone alla pulizia di una\nt-shirt uomo\nU.S. Polo Assn. Mick con logo ricamato a contrasto sul petto o alla forza industrial di una t-shirt in cotone biologico firmata G-Star RAW, chiudendo il look con una sneaker bassa rétro.\nPreppy Action Break Mix\n: Per i weekend di relax o gli aperitivi al tramonto, unisci la tecnicità sportiva all'eleganza rilassata. Coordina il pantalaccio alla struttura minimale di una polo Psycho Bunny con dettagli fluo sul colletto, definendo il tutto con un occhiale da sole lifestyle Oakley e un cappello con visiera.\nRidisegna le regole del tuo abbigliamento quotidiano sperimentando un nuovo concetto di comfort tessile, dove la praticità di una tuta incontra l'estetica ordinata del design firmato dal Grifone d'Oro. Scegli la qualità premium, i lavaggi curati e la versatilità assoluta del modello SW1801ITJO firmato Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con girovita elastico e coulisse, abbassa la formalità a casual quotidiano nonostante il taglio pulito",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

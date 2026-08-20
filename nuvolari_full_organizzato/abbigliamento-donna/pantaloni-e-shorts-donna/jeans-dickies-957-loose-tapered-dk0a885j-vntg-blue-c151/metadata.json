@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-dickies-957-loose-tapered-dk0a885j-vntg-blue-c151",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'estetica rétro degli anni '90 e la solidità senza tempo dell'abbigliamento da lavoro si fondono nei nuovi\nJeans Donna Dickies 957 Loose Tapered Vintage Blue\n. Questo modello rilegge l'heritage utility del brand attraverso lavaggi nostalgici e una silhouette rilassata, proponendosi come il perfetto compromesso per chi cerca un denim di carattere, confortevole e con una forte identità street-ready.\nDesign e Caratteristiche Principali\nLavaggio Vintage Blue Autentico\n: Il pantalone è caratterizzato da una tonalità blu medio d'ispirazione rétro, arricchita da sfumature dall'aspetto vissuto e naturali schiariture lungo le cosce e le cuciture. Un trattamento délavé dall'effetto \"used\" che dona morbidezza visiva e un'allure d'archivio al capo.\nTaglio Loose Tapered d'Ispirazione Nineties\n: Sviluppato sulla silhouette \"957\", presenta una vestibilità comoda, morbida e scivolata sui fianchi e sulle cosce che va a stringersi in modo progressivo e anatomico verso la caviglia. Una geometria equilibrata che strizza l'occhio alle linee baggy ma mantiene un fondo pulito che non intralcia la scarpa.\nIconica Label Posteriore Dickies\n: Sul retro, posizionata sopra la tasca posteriore destra, spicca la classica ed inconfondibile patch quadrata con il logo ufficiale a ferro di cavallo del brand. Una firma iconica che testimonia la storicità dell'abbigliamento utility americano.\nArchitettura Classica a 5 Tasche\n: Strutturato secondo la tradizione del denim più solido, presenta tasche anteriori ad accesso laterale completate dal taschino portamonete, e tasche posteriori applicate dalla linea geometrica e pulita. La chiusura frontale è gestita da una patta con zip a scomparsa e un bottone metallico logato in vita.\nTela Denim in 100% Cotone Compatto\n: Confezionato in una robusta tela di puro cotone di medio-alto peso. Questo filato resistente è selezionato appositamente per strutturare al meglio i volumi del taglio loose e garantire un'eccezionale durata contro l'usura quotidiana, ammorbidendosi e personalizzandosi ad ogni utilizzo.\nIdee di Stile: Crea la Tua Wave\n90s Skate Tomboy Look\n: Esalta l'anima californiana e rilassata del denim abbinandolo a una t-shirt grafica nera dal sapore vintage — come la Dickies Plentywood Tee Black — lasciando che la stampa posteriore definisca il carattere dell'outfit, completato da una sneaker bassa da skate.\nRetro Pastel Match\n: Gioca con i colori della stagione accostando il lavaggio azzurrato del jeans alla raffinata t-shirt Dickies Plainville Ringer Tee Stormy Sea. Il contrasto tra i profili blu scuro della maglia slim e il volume morbido del pantalone crea una silhouette iper-contemporanea.\nCozy Urban Layering\n: Per i momenti di transizione o per la sera, indossa il jeans 957 con un top basic bianco e sovrapponi la praticità della felpa Dickies Deshler Fz Hoodie Black lasciata aperta, chiudendo il cerchio con un sandalo platform audace come il modello Ugg Goldenglow Toggle.\nRivendica la libertà di movimento del vero stile d'archivio. Scegli le sfumature rétro e il fit inconfondibile dei jeans 957 Vintage Blue firmati Dickies.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim con vestibilità loose tapered d'ispirazione anni '90 e heritage workwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

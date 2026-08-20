@@ -23,5 +23,39 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-oakley-cargo-hybrid-short-foa403013-pebble-32f",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'attitudine utility tipica del mondo outdoor e la precisione tecnica d'avanguardia si fondono nel nuovo\nBermuda Uomo Oakley Cargo\n. Questo modello multitasche ridefinisce i canoni del classico pantaloncino cargo attraverso una silhouette asciutta, geometrica e decisamente contemporanea, offrendo la massima funzionalità a chi cerca un capo robusto per le avventure all'aria aperta o per i contesti urban quotidiani.\nDesign e Caratteristiche Principali\nSofisticata Tonalità Scura e Profonda\n: Il bermuda è declinato in un'intensa colorazione blu notte/antracite scuro. Una nuance sobria, versatile ed elegante, studiata per integrarsi con facilità in qualunque palette stagionale e per minimizzare i segni dell'usura e dello sporco durante le escursioni.\nTasche Cargo Laterali a Profilo Piatto\n: Il segno distintivo del modello è la presenza dei tasconi geometrici applicati a mezza coscia con patta di chiusura e bottone a pressione a scomparsa. Progettati con una struttura a soffietto interna, offrono un'eccellente capienza per gli oggetti personali senza appesantire visivamente la linea della gamba.\nTessuto Ripstop Stretch ad Alta Resistenza\n: Confezionato in una speciale tela tecnica mista che unisce la robustezza della trama ripstop anti-strappo a una percentuale di fibra elastica. Questo materiale non solo resiste magnificamente alle abrasioni e all'usura, ma asseconda ogni movimento del corpo regalando un comfort dinamico superiore.\nChiusura Chino Pulita e Passanti Robusti\n: La parte frontale presenta un girovita rigido sagomato d'ispirazione sartoriale, completo di passanti rinforzati per la cintura, una patta con cerniera lampo e una chiusura centrale con bottone in tinta con il tessuto.\nTaglio Regular Long Fit Ergonomico\n: Sviluppato con una silhouette a gamba dritta dai volumi calibrati che scende lineare fino al ginocchio, garantendo una protezione ottimale e un fitting impeccabile sia in movimento che in posizione seduta.\nTasche Superiori e Posteriori di Servizio\n: Il design è completato da due profonde tasche anteriori ad accesso diagonale inserite lungo i fianchi e da tasche posteriori a filo con patta di protezione, per una distribuzione geometrica e ordinata degli spazi.\nIdee di Stile: Linka il Tuo Outfit\nUrban Tactical Uniform\n: Esalta la natura utility del bermuda creando un outfit street di chiara matrice tecnica. Abbina il modello B1B Cargo a una\nt-shirt uomo\nOakley con macro stampa geometrica o lettering frontale, chiudendo il cerchio con una sneaker robusta e un occhiale da sole sportivo specchiato.\nContemporary Outdoor Layering\n: Per le escursioni del weekend o i viaggi, unisci la funzionalità alla freschezza delle fibre naturali. Accosta lo short scuro a una morbida\nt-shirt uomo\nNew Balance in cotone leggero o tessuto traspirante, e sovrapponi una camicia uomo overshirt utility aperta, completando con un\ncappello uomo\nda pescatore.\nSummer Festival Vibe\n: Gioca di contrasti stilistici e sperimenta con grafiche underground e d'impatto. Indossa il cargo short insieme a una delle estrose ed eclettiche\nt-shirt uomo\na tema Mushroom (fungo) o a una t-shirt grafica Psycho Bunny, rifinendo l'outfit con un calzino di spugna a vista e una sneaker bassa.\nAffronta la stagione estiva e le tue attività outdoor con la certezza di un capo indistruttibile, elastico e ricco di carattere. Scegli la massima efficienza dei tasconi e lo stile evoluto dei bermuda B1B Cargo firmati Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "sportivo": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo corto, capo prettamente estivo e informale per outdoor e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

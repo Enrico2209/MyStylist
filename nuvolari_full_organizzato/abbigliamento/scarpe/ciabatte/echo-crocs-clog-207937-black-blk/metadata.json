@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/echo-crocs-clog-207937-black-blk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCiabatte Crocs Echo Clog Black\nLa collezione Echo unisce comfort e stile con sabot sportivi e audaci. Realizzati in Croslite™ sagomato, sono leggeri, resistenti all'acqua e galleggianti. I fori di aerazione migliorano la traspirabilità, mentre il cinturino al tallone orientabile con pad aumenta il comfort. Personalizzabili con charm Jibbitz™, offrono supporto a doppia densità grazie alla suola in Croslite™ e al plantare LiteRide™.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nstruttura in Croslite™ e il plantare in schiuma LiteRide™\nCodice articolo: 207937 BLACK-BLK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.3,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "sabot in gomma/ciabatta, livello base di formalita",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

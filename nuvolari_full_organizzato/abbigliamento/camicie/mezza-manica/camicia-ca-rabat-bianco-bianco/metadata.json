@@ -23,5 +23,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-rabat-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Rabat Bianco\nrappresenta l'emblema del minimalismo estivo e dell'eleganza rilassata, perfetta per affrontare le giornate più calde con uno stile impeccabile e senza sforzo. Caratterizzata da una tonalità bianco ottico pura e candida, questa camicia a maniche corte fa della ricchezza tattile e della leggerezza i suoi elementi distintivi, posizionandosi come un vero e proprio passe-partout per la stagione estiva.\nDesign e Caratteristiche Principali\nTessuto Crepe Seersucker Tridimensionale\n: Interamente realizzata in un cotone leggerissimo dalla caratteristica trama increspata e mossa, che mantiene il tessuto leggermente sollevato dalla pelle favorendo la traspirazione e offrendo un aspetto \"no-iron\" naturalmente stropicciato.\nIconico Collo Resort (Camp Collar)\n: Il colletto aperto con rever a punta e privo del primo bottone crea una scollatura a V pulita e disinvolta, richiamando l'estetica rétro e vacanziera degli anni '50.\nLinea Monocromatica Pulita\n: Il design minimalista ed essenziale è privo di taschini frontali o loghi a vista, esaltando esclusivamente la purezza del colore e la particolare texture del filato.\nChiusura Tono su Tono\n: I bottoni bianchi lucidi posizionati sul fronte si mimetizzano perfettamente con il tessuto, mantenendo lineare e simmetrica la parte centrale del capo.\nTaglio Regular Confortevole\n: La vestibilità scivolata e la manica corta dal taglio squadrato assicurano un fitting rilassato, ideale per assecondare la fluidità e la freschezza del materiale.\nFondo Squadrato con Spacchi Laterali\n: L'orlo inferiore dritto è studiato per cadere perfettamente sui fianchi quando la camicia viene indossata fuori dai pantaloni, facilitando il layering estivo.\nProposta di Outfit\nNatural Earth Tone Layering\n: Indossala completamente aperta sopra una t-shirt basic in combinazione con un\npantalone\ncolor fango/nocciola, completando il look con un\ngiubbotto\nleggero nella tonalità sabbia per un perfetto mix ispirato ai colori della terra.\nSmart Casual Contrast\n: Portala abbottonata e leggermente rimboccata all'interno di un\npantalaccio\nin lino verde salvia desaturato, creando un contrasto fresco, moderno e sofisticato adatto alle calde serate estive in città.\nTotal White Resort Style\n: Abbinala in coordinato con un\nbermuda\nanch'esso in tessuto crepe bianco per un look monocromatico estivo di grande impatto visivo, spezzando l'outfit soltanto con sandali o mocassini scamosciati.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo resort in tessuto seersucker, ideale per contesti casual e vacanzieri",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

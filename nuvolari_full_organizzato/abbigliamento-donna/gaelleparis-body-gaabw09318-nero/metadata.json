@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/gaelleparis-body-gaabw09318-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBody Gaëlle Paris: Sporty-Chic e Silhouette Definita\nBody Donna Gaëlle Paris Black Polo Edition\nRidisegna il tuo stile urban con il body a polo di Gaëlle Paris. Questo modello fonde l'eleganza classica del colletto a camicia con la praticità di un design stretch pensato per valorizzare la silhouette. Perfetto per chi cerca un look ordinato ma di carattere, questo body trasforma un'icona del guardaroba sportivo in un pezzo versatile e di tendenza, impreziosito dall'immancabile tocco grafico del brand.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Body in jersey stile polo, capo casual quotidiano con accento streetwear del brand",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

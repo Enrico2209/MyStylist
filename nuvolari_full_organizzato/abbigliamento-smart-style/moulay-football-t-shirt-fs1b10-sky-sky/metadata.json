@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/moulay-football-t-shirt-fs1b10-sky-sky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa t-shirt Weekend Offender Moulay in colorazione Football Sky è un vero e proprio manifesto della cultura \"Terrace\", perfetta per chi vive lo stile casual con un'attitudine legata al mondo del calcio e della musica britannica.\nPerché sceglierla\nIl modello Moulay si distingue per la sua estetica pulita ma di forte impatto. La tonalità Football Sky richiama i colori classici di alcuni dei club più iconici del calcio inglese, rendendola un pezzo da collezione per ogni appassionato. È una maglia che parla di gradinate, trasferte e stile urbano, costruita con la robustezza necessaria per affrontare ogni giornata.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: FS1B10 SKY-SKY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "maglia da calcio in poliestere, estetica terrace/sportiva",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

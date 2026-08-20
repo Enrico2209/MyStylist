@@ -23,5 +23,33 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt-donna-perfect-tee-39185-0006-white-0006",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLevi’s T-shirt Donna Iconica\nUn capo essenziale con carattere. La T-shirt Levi’s® da donna è un mix perfetto di semplicità e autenticità. Realizzata in morbido cotone traspirante, presenta una vestibilità regolare e il logo Levi’s® stampato sul petto per un tocco heritage dal gusto urban.\nPerfetta da sola o sotto una camicia aperta, è la base ideale per ogni look, da quello casual a quello streetwear.\nDettagli prodotto:\n100% cotone di alta qualità\nGirocollo a costine e maniche corte\nVestibilità regolare o slim fit (in base al modello)\nLogo Levi’s® frontale stampato o ricamato\nDisponibile in vari colori\nProposta outfit:\nCompleta il look con un paio di\njeans\n, le\nsneakers\ne il\ngiubbotto\nper uno stile timeless e senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica quotidiana",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

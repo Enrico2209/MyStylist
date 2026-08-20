@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-gas-gianp-shirt",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Gas Gianp Shirt Stone Wash Med è la celebrazione della camicia di jeans in puro stile italiano: un capo robusto, di carattere e profondamente legato all'estetica \"denim on denim\" che ha reso celebre il brand. Con il suo lavaggio medio iconico, la Gianp si posiziona come un elemento indispensabile per un layering materico e senza tempo.\nIl punto di forza della Gianp Shirt risiede nel trattamento Stone Wash Med. Questo lavaggio conferisce al tessuto un aspetto autenticamente vissuto, con schiariture naturali sulle cuciture, sulle spalle e sul colletto, rendendo il denim morbido al tatto e confortevole da indossare fin dal primo giorno. La sua struttura permette di utilizzarla sia come camicia classica, sia come \"overshirt\" leggera sopra una t-shirt, offrendo una versatilità totale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "camicia in denim lavaggio medio, estetica casual quotidiana",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,27 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/hinnominate-canotta-hmabw02480-moka-ma63",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa sfumatura calda e terrosa del moka incontra una silhouette minimalista dal taglio contemporaneo, ridefinendo l'essenza dei capi base per la stagione estiva. La\nCanotta Donna Hinnominate Moka\nesprime una wave sofisticata ed effortless, ideale per chi cerca un pezzo versatile, confortevole e fortemente calato nei trend urban attuali. Questo modello si impone come l'alleato perfetto per costruire look multistrato ricercati o per essere indossato da solo, puntando tutto su una pulizia geometrica assoluta.\nDesign e Caratteristiche Principali\nScollo a U Profondo e Squadrato\n: Il design anteriore e posteriore è valorizzato da un'ampia scollatura arrotondata che tende al geometrico. Una linea pulita e netta studiata appositamente per incorniciare il décolleté con un sapore minimalista d'ispirazione rétro anni Novanta.\nDettaglio Logo Frontale Minimalist\n: Sul lato inferiore sinistro spicca la stampa a contrasto del lettering ufficiale del brand\n\"HINNOMINATE\"\n. Il font geometrico e pulito funge da vero e proprio sigillo di autenticità, rompendo la monocromia del pannello frontale con eleganza.\nSpalline Larghe e Strutturate\n: Costruita con spalline dalla larghezza calibrata che offrono il massimo del comfort e della stabilità durante i movimenti in città, garantendo una perfetta copertura e una stabilità anatomica ottimale.\nTaglio Cropped e Silhouette Aderente\n: La silhouette si sviluppa con una lunghezza leggermente accorciata e un fit asciutto che asseconda le linee del corpo, definendo un profilo pulito, privo di volumi superflui e perfetto per i match a vita alta.\nTessuto Premium Elasticizzato Soft Touch\n: Confezionata in un jersey di cotone di alta qualità miscelato con fibre elastiche. Questa combinazione garantisce una consistenza compatta, una morbidezza estrema sulla pelle e un'eccellente memoria della forma anche dopo infiniti lavaggi.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Loungewear Combo\n: Crea una combinazione cromatica pazzesca abbinando questa canotta moka a un pantalone della tuta oversize a gamba dritta o a un jogger felpato nei toni del beige, del panna o in total tint firmato Hinnominate.\nVolume Contrast Street Uniform\n: Esalta il fit aderente del top giocando con le proporzioni inferiori. Indossalo sopra un\njeans\nbaggy dal lavaggio chiaro, un cargo multitasche o un pantalone chino Dickies dal taglio loose, chiudendo il look con una sneaker chunky.\nTailoring Utility Layering\n: Eleva il carattere street di questo basic utilizzandolo come strato inferiore sotto un blazer oversize destrutturato o una giacca utility leggera lasciata completamente aperta; la tonalità calda del moka spezzerà il capospalla con un accento pop-earth sofisticato.\nElimina il superfluo e ridefinisci la tua selezione di basic. Scegli l'architettura pulita di Hinnominate e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta cropped basic, adatta a contesti informali, loungewear o spiaggia",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

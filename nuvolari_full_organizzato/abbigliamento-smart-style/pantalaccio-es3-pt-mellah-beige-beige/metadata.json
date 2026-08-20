@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-es3-pt-mellah-beige-beige",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Black Rags Mellah\nrappresenta il perfetto connubio tra l'estetica sofisticata della lavorazione jacquard e la massima libertà di movimento offerta dal design lounge. Proposto nelle varianti colore stagionali del beige (\"Beige\") e dell'antracite scuro (\"Grigio\"), questo pantalone lungo fa della sua speciale micro-texture geometrica a rilievo l'elemento distintivo per elevare con originalità i look casual della stagione estiva.\nDesign e Caratteristiche Principali\nTessuto con Pattern Geometrico Jacquard\n: Realizzato in un filato estivo leggero e traspirante, caratterizzato da un motivo all-over a micro-quadretti o texture tridimensionale geometrica che arricchisce la mano del tessuto e dona un fascino rétro contemporaneo al capo.\nCintura Elastica Lounge in Vita\n: La parte superiore è strutturata con una spessa fascia elastica arricciata che si adatta in modo flessibile ed ergonomico ai fianchi, garantendo un fitting comodo, stabile e privo di costrizioni.\nCoulisse Cilindrica di Regolazione\n: Un lungo cordoncino intrecciato fuoriesce dal centro della vita, rifinito con finalini minimali o gommati a contrasto per personalizzare l'aderenza sul punto vita con un accento sportivo e funzionale.\nTasche Laterali Ergonomiche\n: Integra sui fianchi profonde tasche inserite con precisione sartoriale direttamente lungo le linee di cucitura principali, mantenendo la silhouette del pantalone pulita, lineare e sgombra da ingombri visivi.\nSilhouette Straight Rilassata\n: Il taglio scende fluido lungo la gamba con volumi morbidi ma perfettamente equilibrati, studiati per assecondare la naturale caduta cascante del tessuto jacquard e garantire freschezza costante.\nOrlo Inferiore con Finitura Piatta\n: Il fondo gamba dritto presenta una cucitura piana e regolare, ideale per far cadere il tessuto in modo morbido sopra le calzature o per essere arrotolato con un piccolo risvolto informale alla caviglia.\nProposta di Outfit\nTotal Mellah Geometric Co-ord (Variante Beige)\n: Indossalo in combinazione con la sua\ncamicia\nMellah a maniche corte coordinata in tinta beige, lasciandola aperta sopra una canotta chiara; la continuità del micro-pattern geometrico all-over creerà un completo estivo in stile resort di grande impatto e ricercatezza.\nUrban Safari Layering (Variante Beige)\n: Abbinalo a una t-shirt basic bianca e stratifica sopra il\ngiubbotto\nleggero Yaraka Kaki a quattro tasche; l'incontro tra la texture strutturata beige del pantalone e la solidità militare color sabbia del capospalla darà vita a un perfetto ensemble metropolitano ispirato ai toni della terra.\nContemporary Dark Minimal (Variante Grigio)\n: Portalo insieme alla\ncamicia\na maniche corte Temara Grigio antracite liscia, indossata aperta sopra una t-shirt chiara; il gioco di sovrapposizioni tra il pattern geometrico scuro del pantalaccio e l'essenzialità fluida della camicia genererà un contrasto freddo e sofisticato, ideale per le serate estive.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio lounge con vita elastica e coulisse, stile resort informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

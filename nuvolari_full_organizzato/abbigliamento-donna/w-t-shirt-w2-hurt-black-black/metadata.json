@@ -25,5 +25,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-t-shirt-w2-hurt-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPROJ3CT T-SHIRT DONNA \"EVEN ROSES CAN HURT\"\nLa T-shirt\nProj3ct \"HURT\"\nda donna incarna il perfetto equilibrio tra estetica streetwear e un messaggio di impatto. Con il suo taglio moderno e la grafica distintiva, è un capo essenziale per chi desidera esprimere un look audace e contemporaneo.\nDesign & Dettagli Chiave\nGrafica Iconica:\nLa maglietta presenta una grande stampa centrale con una\nrosa rosa vibrante\ne la scritta\n\"EVEN ROSES CAN HURT\"\n(Anche le rose possono ferire), che aggiunge un elemento visivo e concettuale forte.\nStile Crop:\nIl taglio della T-shirt è\ncorto\n(\ncropped\n), ideale da abbinare a capi a vita alta, come jeans o pantaloni cargo, per un look giovanile e di tendenza.\nComfort e Materiali\nMateriale:\nRealizzata in\n100% Cotone\ndi alta qualità.\nVestibilità:\nVestibilità comoda e strutturata, tipica del brand streetwear Proj3ct.\nSensazione:\nTessuto morbido e traspirante, perfetto per l'uso quotidiano e le stagioni calde.\nScegli il tuo stile: aggiungi subito la T-shirt Proj3ct \"HURT\" al carrello per un tocco d'impatto al tuo guardaroba casual.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: W2 HURT BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt cropped con grafica streetwear, adatta a un contesto casual quotidiano",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

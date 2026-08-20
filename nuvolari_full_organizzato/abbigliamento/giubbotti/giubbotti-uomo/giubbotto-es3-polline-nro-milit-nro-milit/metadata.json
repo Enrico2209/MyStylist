@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-es3-polline-nro-milit-nro-milit",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo Nuvolari Polline\nrappresenta il capospalla ideale per affrontare la transizione stagionale con stile, dinamismo e la massima versatilità. Contraddistinto da un'intelligente anima double-face che accosta la tonalità nera alla militare, questo giubbotto con cappuccio unisce tessuti tecnici protettivi a una linea urban e contemporanea, perfetta per l'uomo che ama ottimizzare il proprio guardaroba.\nDesign e Caratteristiche Principali\nCappuccio Fisso Avvolgente\n: Dotato di un ampio e confortevole cappuccio integrato che offre un'ottima protezione da vento e piogge improvvise, mantenendo intatta la sua linea pulita.\nChiusura Centrale con Zip Termosaldata\n: La parte frontale è percorsa da una robusta cerniera a contrasto scuro dotata di cursore singolo, che assicura una chiusura fluida e una maggiore resistenza agli agenti atmosferici.\nTasche Laterali con Cerniera\n: Integra due tasche scaldamani inserite nei fianchi, dotate di una chiusura a zip sottile e minimalista, ideali per custodire gli oggetti personali in totale sicurezza.\nBordi Elastici in Maglia\n: Il fondo del giubbotto e i polsini sono rifiniti con una morbida fascia elastica costinata in tinta, che stabilizza il capo sui fianchi e impedisce gli spifferi d'aria, sigillando il calore corporeo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento leggero con cappuccio, stile urban casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

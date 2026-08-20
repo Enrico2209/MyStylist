@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/jake-double-interlock-k8134tw-bge-grey-c84",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJake: La Giacca Reversibile Unisex per l'Urban Outdoor\nLa giacca\nJake\nè progettata per chi vive la città con ritmo e non si lascia fermare dall'imprevedibilità del meteo primaverile. Grazie al suo\ndesign reversibile\n, questo capo offre due interpretazioni stilistiche radicalmente diverse: un lato in raffinato interlock di cotone dall'effetto \"scuba\" per un look morbido e sportivo, e un lato in nylon tecnico riciclato per una protezione totale contro la pioggia.\nComfort Felpato e Barriera Tecnologica\nIl lato esterno in\n100% cotone interlock\ngarantisce una mano piena e una vestibilità strutturata, ideale per le giornate fresche e asciutte. Capovolgendola, la giacca Jake rivela la sua anima tecnica: il tessuto interno in nylon riciclato offre un'\nimpermeabilità di 3000 mm di colonna d'acqua\n, supportata da\ncuciture termonastrate\nche sigillano il capo contro le intemperie, mantenendo una traspirabilità ottimale.\nDettagli Funzionali e Design Attivo\nDual-Face Hybrid\n: Passa istantaneamente dal comfort della felpa di cotone alla resistenza del nylon waterproof con finitura opaca.\nFit Personalizzabile\n: Il cappuccio fisso e il fondo del corpo sono dotati di corde elastiche regolabili, permettendo di isolare perfettamente il calore e adattare il volume del capo.\nPraticità Intelligente\n: Progettata con una tasca a marsupio su un lato e tasche con bottoni a pressione sull'altro, garantendo spazio sicuro per i tuoi essenziali in ogni configurazione.\nSilhouette Dinamica\n: I polsini elasticizzati e la vestibilità\nSlim\ndefiniscono un profilo asciutto e moderno, perfetto sia per lui che per lei.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 100% Cotone\nFodera: 100% Recycled Nylon\nVestibilità regular\nCodice articolo: K8134TW BGE/GREY-C84",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "giacca a vento/antivento K-Way, tetto di marchio sport/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

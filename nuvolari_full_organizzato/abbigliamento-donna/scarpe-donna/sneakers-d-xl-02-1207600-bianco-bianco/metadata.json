@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-d-xl-02-1207600-bianco-bianco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUrban Performance: La Sneaker Donna tra Visione Futuristica e Ingegneria Sportiva\nEleva il tuo ritmo quotidiano con una calzatura che non accetta compromessi. Questa sneaker athleisure a taglio basso rappresenta la nuova frontiera del design funzionale: un progetto audace che fonde l'estetica\nstreet-style\ncon le più avanzate soluzioni\nrunning-oriented\n. Ogni singolo elemento è stato ripensato per trasformarsi in una performance attiva, garantendo controllo millimetrico e un’ammortizzazione costante.\nSinergia di Materiali e Precisione Strutturale\nTraspirabilità Evoluta e Supporto High-Tech\nLa struttura della calzatura è un equilibrio perfetto tra leggerezza e protezione, progettata per rispondere con reattività a ogni sollecitazione del terreno urbano.\nKnit Perforato & Suede Premium\n: Una tomaia ibrida studiata per la massima ventilazione. Il tessuto knit a trama aperta favorisce il micro-circolo dell'aria, mantenendo il piede fresco, mentre gli inserti in suede aggiungono struttura e una nota di carattere sofisticato.\nArchitettura Posteriore Termosaldata\n: Il tallone è protetto da una struttura multistrato con rinforzi termosaldati. Questa tecnologia garantisce un supporto strutturale impeccabile e una resistenza superiore alle abrasioni, senza aggiungere peso superfluo alla silhouette.\nDynamic Elastic Collar\n: Il collarino elastico assicura un’adattabilità dinamica immediata. Avvolge la caviglia come una seconda pelle, riducendo l'attrito e conferendo alla scarpa un profilo aerodinamico e ultra-moderno.\nIngegneria della Suola a 5 Componenti\n:\nTrazione Adattiva\n: Tassellatura multidirezionale per un grip totale su superfici variabili (asfalto, pavé o sterrati leggeri).\nDual Cushioning\n: Intersuola ultraleggera in EVA con cuscinetti ammortizzanti posizionati strategicamente su tallone e avampiede per dissipare gli urti.\nStabilizzatore TPU\n: Inserto centrale progettato per massimizzare la stabilità dinamica e il supporto torsionale durante il passo.\nSottopiede Rapid-Tech\n: L'integrazione di microsfere in EVA e schiuma di ultima generazione offre un ritorno di energia reattivo e un comfort \"all-day\" senza precedenti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneaker sportiva da running/athleisure, tetto di categoria per calzature sportive",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

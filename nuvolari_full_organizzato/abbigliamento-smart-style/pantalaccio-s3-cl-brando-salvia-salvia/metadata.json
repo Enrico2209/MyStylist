@@ -24,5 +24,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-cl-brando-salvia-salvia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalaccio Uomo Nuvolari Comfort Elegante, Stile Italiano\nIl\npantalaccio da uomo Nuvolari\nè la sintesi perfetta tra eleganza disinvolta e comodità quotidiana. Realizzato in tessuto morbido e traspirante, con un design moderno e dettagli curati, è pensato per accompagnarti con stile dal lavoro al tempo libero.\nCaratteristiche principali:\nTessuto\n: misto lino per una vestibilità leggera e fluida\nVestibilità\n: Comfort Fit, gamba morbida con fondo leggermente affusolato\nDettagli di stile:\nLook urbano con taglio sartoriale\nIdeale da abbinare a T-shirt o camicie per un outfit smart casual\nPerché sceglierlo:\nIl pantalaccio Nuvolari è il capo versatile che non può mancare nel guardaroba maschile. Unisce la libertà del jogger alla raffinatezza del pantalone classico, diventando la scelta giusta per ogni occasione, in città o in viaggio.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio in misto lino con coulisse ed elastico in vita, abbassa la formalità a casual quotidiano nonostante il taglio sartoriale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

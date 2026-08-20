@@ -23,5 +23,21 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-levis-468-loose-shorts",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNiente mezze misure, qui si parla di puro stile relaxed d'ispirazione anni '90. I\nBermuda Uomo Levi's 468 Loose Shorts Light\nsono il pezzo definitivo per chi vuole dare una svolta bold e street ai propri look estivi. Tagliati con volumi ampi e un lavaggio chiaro dal sapore autenticamente vintage, questi shorts portano la cultura skate e urban direttamente nel tuo guardaroba quotidiano.\nDesign e Caratteristiche Principali\nLoose Fit d'Ispirazione Nineties\n: Il taglio si sviluppa con una silhouette decisamente ampia e rilassata lungo i fianchi e le cosce, offrendo quel fit comodo e quella wave rétro che domina lo streetwear contemporaneo.\nDenim Light Wash Vintage\n: Realizzati in una tela denim resistente ma morbida, rifinita con un lavaggio chiaro ed effetto vissuto che richiama l'estetica d'archivio dei decenni d'oro del denim.\nCostruzione Classica a 5 Tasche\n: Rispetta i canoni del design Levi's con le due tasche posteriori impreziosite dalle iconiche cuciture ad arco (Arcuate Stitching) e l'immancabile Red Tab sul retro.\nVita Regolare con Chiusura a Bottone\n: Strutturati con un fascione solido dotato di passanti robusti per la cintura, patta con zip e chiusura con bottone in metallo personalizzato Levi's.\nLunghezza al Ginocchio\n: L'orlo inferiore cade perfettamente all'altezza del ginocchio, mantenendo intatte le proporzioni boxy del capo e garantendo la massima libertà di movimento.\nIdee di Stile: Crea la Tua Wave\nThe Core Skate Uniform\n: Abbina questi bermuda loose a una t-shirt grafica oversize e a un paio di sneaker basse da skate. Un look pulito, immediato e con un'attitudine street pazzesca.\n90s Hype Combo\n: Indossali insieme a una felpa boxy con logo bold sul petto o a una camicia a quadri pesante lasciata completamente aperta sopra una canotta basic.\nSummer Urban Match\n: Abbina il denim chiaro a una polo a coste o a una t-shirt a tinta unita infilata leggermente nel fascione, completando il tutto con calzini bianchi a vista e una sneaker rétro running.\nMetti in chiaro le tue regole. Scegli il fit loose di Levi's e scendi in strada con la divisa perfetta per l'estate.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim con vestibilita loose d'ispirazione skate anni 90",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

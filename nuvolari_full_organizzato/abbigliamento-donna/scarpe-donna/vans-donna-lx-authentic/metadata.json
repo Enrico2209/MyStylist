@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/vans-donna-lx-authentic",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Vans LX Classic Slip-On rappresentano l’apice della linea \"Luxury\" del brand californiano. Non sono le classiche sneakers da skate che si trovano ovunque: la sigla LX identifica la divisione Vaul,t linea premium, dove i modelli storici vengono ricostruiti con materiali di alta qualità, forme più fedeli agli originali degli anni '70 e un'attenzione sartoriale ai dettagli.\nLusso dello Skateboarding\nPerché sceglierle\nIl punto di forza delle LX Classic Slip-On risiede nell'equilibrio tra estetica iconica e materiali nobili. Rispetto alla versione standard, questo mocassino sportivo utilizza una pelle o una tela a grammatura superiore e presenta un profilo della suola (foxing) più alto e lucido, privo della classica striscia a contrasto in alcuni modelli, per un look più \"pulito\" e formale. È la scarpa perfetta per chi desidera la praticità della Slip-On ma con una struttura più solida e raffinata.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE\nEU\nUS Donna\n34.5\n5\n35\n5.5\n36\n6\n36.5\n6.5\n37\n7\n38\n7.5\n38.5\n8\n39\n8.5\n40\n9\n40.5\n9.5\n41\n10\n42\n10.5\n42.5\n11\n43\n11.5",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Sneakers in tela con effetto vissuto e dettagli destrutturati, tipiche del registro casual e street",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-smart-style/bermuda-6127-3yv-nero-99",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nQuesti bermuda firmati Colmar Originals sono il capo definitivo per chi mette il comfort e la dinamicità al primo posto durante la stagione estiva. Realizzati in un innovativo interlock di misto cotone elasticizzato, offrono una freschezza superiore e una libertà di movimento senza pari.\nPerché sceglierli\nLa particolarità di questi pantaloncini risiede nel perfetto equilibrio tra praticità sportiva e ricerca estetica. Il dettaglio che cattura l'attenzione è il lettering del logo in transfer traforato posizionato lateralmente, un elemento originale che dona carattere e un’impronta moderna al design.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 85% Cotone + 11% Poliestere + 4% Elastan\nVestibilità regular\nCodice articolo: 6127 3YV NERO-99",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "bermuda sportivi in felpa leggera con coulisse, marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

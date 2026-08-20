@@ -20,5 +20,29 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s3-craig-tabacco-1239",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Nuvolari S3 CRAIG\nRealizzata al\n100% in cotone\ndi alta qualità, questa maglia offre una sensazione di leggerezza e traspirabilità. Con il logo piccolo ricamato sul petto, aggiunge quel pizzico di stile e modernità per il tuo outfit quotidiano. Essenziale e versatile, è perfetta per ogni occasione.\nAbbinala ad un paio di\njeans\ne alle\nsneakers\npresenti nella collezione\nNuvolari\n, perfetti per rendere il tuo stile elegante e moderno per ogni situazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: S3 CRAIG TABACCO-1239",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "felpa/maglia in cotone dal taglio casual quotidiano, consigliata con jeans e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

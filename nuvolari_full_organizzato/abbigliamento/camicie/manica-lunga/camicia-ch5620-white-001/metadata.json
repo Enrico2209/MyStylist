@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-ch5620-white-001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Lacoste White CH5620\nEleva il tuo stile con la camicia da uomo\nLacoste White CH5620\n, un capo essenziale che unisce l'eleganza sportiva del brand a un design pulito e senza tempo. Questa camicia è l'alleata perfetta per ogni occasione, offrendo un look raffinato e un comfort impeccabile.\nDettagli di stile e qualità\nRealizzata con materiali di alta qualità, questa camicia si distingue per la sua attenzione ai dettagli e la sua vestibilità perfetta.\nTessuto:\nSpesso in\npuro cotone Piqué\n, lo stesso delle iconiche polo Lacoste, offre una sensazione di morbidezza e una texture distintiva, garantendo un'ottima traspirabilità.\nVestibilità:\nIl taglio\nslim fit\no regolare, a seconda del modello, valorizza la silhouette, mentre il colletto classico e i polsini regolabili ne confermano l'eleganza.\nDesign:\nLa linea essenziale è arricchita dal discreto logo del coccodrillo\nLacoste\nricamato sul petto, un simbolo di autenticità e qualità che non passa inosservato.\nVersatilità:\nPerfetta per ogni outfit, questa camicia si abbina facilmente a un paio di jeans per un look casual-chic, a dei pantaloni chino per un appuntamento di lavoro o a un completo per un'occasione più formale.\nScegli la camicia\nLacoste White CH5620\nper un capo che ti accompagnerà in ogni momento con stile e raffinatezza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:CH5620 WHITE-001",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica in cotone piqué, adatta a contesti smart casual e ufficio informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

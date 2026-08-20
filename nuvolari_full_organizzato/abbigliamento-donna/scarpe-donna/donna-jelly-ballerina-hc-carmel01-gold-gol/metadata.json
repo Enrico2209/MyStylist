@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/donna-jelly-ballerina-hc-carmel01-gold-gol",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nBallerina Donna Colors of California Jelly Gold\n, è una calzatura leggera e glamour che reinterpreta le classiche \"jelly shoes\" con un tocco di eleganza scintillante. Grazie al suo design traforato e alla finitura luminosa, è l'accessorio perfetto per aggiungere un punto luce ai look estivi, sia in spiaggia che in città.\nDesign e Caratteristiche Principali\nStruttura a Rete Intrecciata\n: La tomaia presenta un particolare design traforato a rombi che garantisce la massima traspirabilità e un gioco di trasparenze sul piede.\nFinitura Gold Glitter\n: Il materiale plastico flessibile è arricchito da una pioggia di brillantini dorati che donano una lucentezza metallica e sofisticata a tutta la scarpa.\nMateriale \"Jelly\" Flessibile\n: Realizzata in gomma morbida, si adatta alla forma del piede offrendo comfort e resistenza all'acqua.\nSuola Sottile in Tinta\n: La suola è piatta e discreta, anch'essa impreziosita da glitter dorati per mantenere la coerenza estetica del capo.\nSilhouette a Punta Arrotondata\n: Il taglio classico della ballerina assicura un'eleganza senza tempo, resa moderna dal materiale innovativo.\nFacile Manutenzione\n: Grazie alla sua composizione, è estremamente facile da pulire e resistente, ideale per l'uso estivo.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare queste ballerine:\nGolden Hour Beach Look\n: Indossale con un copricostume bianco e una borsa di paglia per un aperitivo al tramonto dove la comodità incontra lo stile.\nCity Sparkle Contrast\n: Abbinale ai Jeans Donna Proj3Ct Malaga per creare un contrasto moderno tra la robustezza del denim e la delicatezza scintillante della scarpa.\nSummer Chic Layering\n: Provale con il Giubbotto Donna Proj3Ct S3 Kurl nella versione bianco panna per un outfit luminoso e ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "da_mare": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "scarpa jelly in gomma traforata da spiaggia o tempo libero informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

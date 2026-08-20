@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/completi/completo-roswell-navy-003",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nCompleto uomo Baecker – Raffinatezza urbana, spirito contemporaneo\nLinee pulite, tagli moderni e un’attitudine tutta metropolitana: il\ncompleto uomo firmato Baecker\nè la scelta ideale per chi ama distinguersi con uno stile ricercato, ma mai eccessivo. Un capo che parla di personalità, sicurezza e buongusto, perfetto per l’uomo che vive la città con ritmo, eleganza e un pizzico di audacia.\nLa giacca si presenta con una vestibilità slim che segue armoniosamente la silhouette, valorizzando la figura senza rinunciare alla comodità. Spalle leggere, revers sottili e dettagli interni curati in ogni minimo particolare: un'eleganza essenziale che conquista al primo sguardo. I pantaloni, abbinati e coordinati, completano il look con una linea affusolata e moderna, ideale sia per un look più formale che per uno più rilassato.\nIndossalo con una camicia bianca e stringate per l’ufficio o un evento speciale. Oppure spezza con una t-shirt, sneaker pulita e occhiali da sole per un mix smart casual dal carattere deciso. Il completo Baecker è pensato per chi sa come valorizzare ogni dettaglio, trasformando un outfit in una dichiarazione di stile.\nPerfetto per la mezza stagione, per le occasioni importanti o per dare una marcia in più al tuo look quotidiano. Con\nBaecker\n, il completo da uomo si fa sinonimo di classe moderna e spirito libero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n56% cotone, 37% poliammide, 7% elastane\nVestibilità regular\nCodice articolo: ROSWELL NAVY-003",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.8
+    },
+    "formality": 4,
+    "formality_perche": "Completo formale giacca doppiopetto e pantalone, adatto per ufficio ed eventi",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,29 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/jacket-uomo-gas-basic-sw-dark",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo Gas Tar Jacket Basic Sw Dark\nrappresenta la quintessenza del denim d'ispirazione heritage, reinterpretato attraverso il filtro contemporaneo e l'accurata manifattura del brand italiano. Questo giubbino di jeans (trucker jacket) si distingue per un lavaggio blu medio-scuro dall'effetto vissuto naturale, posizionandosi come un capospalla versatile, robusto e senza tempo, indispensabile per stratificare i look casual in ogni stagione.\nDesign e Caratteristiche Principali\nLavaggio Stone Washed Dark Autentico\n: La base in denim blu è arricchita da sfumature e schiariture mirate lungo le cuciture, sulle tasche e sui profili, che conferiscono al capo una profondità cromatica tridimensionale e un fascino vintage autentico.\nDettaglio Collo con Effetto \"Distressed\"\n: Il classico colletto a punta presenta una ricercata finitura a vivo leggermente sfilacciata sul retro, un dettaglio di carattere che sottolinea l'attitudine street, grunge e rilassata del modello.\nIconica Architettura Trucker a Quattro Tasche\n: Il pannello frontale è scandito dalle tradizionali cuciture verticali di rinforzo e ospita due taschini quadrati sul petto con patta e bottone a pressione. A queste si aggiungono due tasche a filetto laterali, inserite verticalmente lungo i fianchi per unire pulizia estetica e funzionalità.\nChiusura Centrale e Finiture in Metallo\n: La giacca è completata da bottoni a chiodo metallici con finitura lucida argentata personalizzati dal brand, presenti sulla linea centrale, sui polsini e sulle regolazioni del girovita posteriore. Sul taschino sinistro spicca la mini-etichetta con il ricamo del logo GAS nei toni del giallo.\nFodera Interna a Righe\n: L'interno del carré rivela una raffinata fodera in tessuto leggero a micro-righe verticali bianche e grigie, che aggiunge un tocco sartoriale nascosto e migliora il comfort durante l'indosso.\nSilhouette Regular Fit Strutturata\n: Il taglio scende dritto e asciutto sul busto, definendo le spalle in modo nitido senza stringere, ideale sia per essere portato chiuso sopra una t-shirt, sia aperto sopra felpe o maglie leggere.\nProposta di Outfit\nHeritage Contrast Match\n: Indossalo aperto sopra la polo a righe arancioni e marroni\nIchi Ihmira\ne abbinalo a un pantalone chino color beige o khaki; l'intenso blu stone washed del giubbotto Gas farà risaltare le tonalità calde e rétro della polo, creando un perfetto contrasto visivo per il tempo libero.\nUrban Graphic Streetwear\n: Portalo sopra la t-shirt bianca con maxi-stampa posteriore\nFred Perry\ne un paio di pantaloni jogger o cargo neri; la pulizia frontale della t-shirt valorizzerà il denim, mentre la rimozione del giubbotto svelerà l'anima grafica del look.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Ichi Ihmira",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "Fred Perry",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto di jeans classico (trucker jacket) con vestibilita regular, capo iconico del casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

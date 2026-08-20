@@ -25,5 +25,39 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-sh-agadir-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Black Rags Agadir Marrone\nsi inserisce nel guardaroba estivo come un elemento chiave dal design minimale e sofisticato, ideale per chi cerca una valida alternativa ai toni chiari senza rinunciare alla freschezza. Caratterizzato da una intensa e profonda colorazione testa di moro (\"Marrone\"), questo shorts lounge unisce un fit straordinariamente confortevole a una caduta fluida, prestandosi a dinamici giochi di sovrapposizione urban-resort.\nDesign e Caratteristiche Principali\nTessuto Estivo Leggero e Cascante\n: Realizzato in un filato fresco dalla finitura opaca e dalla consistenza morbida, selezionato per assicurare un'elevata traspirabilità e una caduta impeccabile che asseconda i movimenti.\nVita Elasticizzata Comfort\n: La parte superiore è definita da una spessa fascia elastica interna finemente arricciata, progettata per stabilizzare il posizionamento sui fianchi eliminando ogni punto di pressione.\nCoulisse Funzionale a Contrasto\n: Un lungo e sottile cordoncino intrecciato in tonalità panna/naturale, completato da punte metalliche minimali, fuoriesce dalla vita creando un netto punto di luce e un perfetto accento estetico casual.\nTasche a Filo Verticali\n: Integra sui lati due profonde tasche inserite lungo la linea delle cuciture, che preservano l'essenzialità geometrica del fronte senza alterare i volumi del capo.\nSilhouette Relaxed Lounge Fit\n: La gamba scende fluida con un taglio dritto e confortevole di ispirazione street-wear, offrendo una libertà di movimento ottimale durante le giornate più afose.\nOrlo Inferiore con Cucitura Lineare\n: Il fondo gamba presenta una finitura piatta, pulita e geometrica, che stabilizza la struttura e valorizza la natura scivolata del tessuto.\nProposta di Outfit\nVintage Geometric Contrast\n: Abbinalo a una\ncamicia\na maniche corte con colletto resort e pattern a zig-zag anni '70 per un perfetto richiamo cromatico tono su tono con le sfumature della terra.\nUrban Minimal Summer\n: Portalo insieme a una\ncamicia\nbianca in tessuto crepe seersucker lasciata completamente aperta sopra una canotta chiara, completando il look con una\nt-shirt\nbasic a contrasto e sneakers in tela.\nChic Riviera Candy\n: Crea un accostamento audace e sofisticato abbinandolo a una\ncamicia\na righe bold bianche e rosa; la solidità del marrone scuro sul fondo smorzerà con eleganza la luminosità del pannello superiore.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda lounge con vita elasticizzata e coulisse a contrasto, taglio rilassato di ispirazione street-wear",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-cc-rudy-uomo-black-rags-panna-panna",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Black Rags Cc Rudy Panna\nLa\ncamicia\nBlack Rags con colletto alla coreana è un capo essenziale che dona un tocco di eleganza. Con il suo design pulito e moderno, si adatta a diversi contesti, dal casual all'elegante, per uno stile versatile e raffinato.\nAbbina la camicia ad una\ngiacca\nper un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di\npantaloni di chino\nche\nNuvolari\nha pensato per te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n95% poliestere, 5% elastan\nCodice articolo: CC RUDY PANNA-PANNA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantaloni di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia con colletto alla coreana in tessuto operato, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

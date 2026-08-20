@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-sc-james-1920-salvia-62",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Nuvolari JAMES 1920\nPantalone\ncon\npences\nNuvolari modello\nJames 1920\n, in trama blu con chiusura zip e bottone in vita logato. Due tasche a filo anteriori, due posteriori a filetto a due profili chiuse da bottone. Fodera sacco tasca in doppio tessuto chambray e PTX. Cuciture in tono e cappiola sulla cinta anteriore. Vestibilità slim-regular. Made in Italy 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con pences, taglio smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,23 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-pine-canyon-shirt-2037171-safari-rouge-va-348",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\ncamicia uomo Columbia\nè la scelta perfetta per chi cerca un capo versatile, comodo e dallo stile outdoor. Realizzata in  100% cotone un\ntessuto traspirante e resistente\n, che assicura freschezza e comfort per tutto il giorno, anche nelle attività all’aperto. Il design classico con\ncolletto, bottoni frontali e tasche funzionali\nla rende ideale sia per un look casual che per un outfit più tecnico. Perfetta per escursioni, viaggi o semplicemente per aggiungere un tocco avventuroso al tuo guardaroba quotidiano.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: 2037171 SAFARI ROUGE VA-348",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.5,
+      "streetwear": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con stampa camouflage e taglio safari, marchio outdoor",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

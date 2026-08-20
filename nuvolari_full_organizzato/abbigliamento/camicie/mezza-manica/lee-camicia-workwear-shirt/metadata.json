@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/lee-camicia-workwear-shirt",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE WORKWEAR SHIRT: L'ESSENZA DEL DESIGN UTILITY\nLa Lee Workwear Shirt in blu è un omaggio alla tradizione dell'abbigliamento da lavoro, reinterpretata con un taglio moderno e finiture di alta qualità. Questa camicia a maniche corte combina robustezza e stile, rendendola un capo versatile per il tempo libero o per un look urban curato.\nDesign Funzionale:\nPresenta due tasche ampie applicate sul petto con chiusura a bottone, ideali per riporre piccoli oggetti e per richiamare l'estetica utility originale.\nDettagli Heritage\n: Sopra la tasca sinistra è presente l'iconica etichetta logo Lee in giallo e nero, che sottolinea l'autenticità del brand.\nColletto Classico\n: Il colletto a punta è ben strutturato, conferendo alla camicia un aspetto ordinato anche in contesti casual\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte in denim stile workwear con vestibilità boxy/relaxed",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

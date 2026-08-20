@@ -21,5 +21,31 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/cargo-es3-woon-tabacco-622",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Pantalone Cargo Uomo Nuvolari in 51% lyocell, 27% lino e 22% cotone è un capolavoro di ingegneria tessile per la stagione calda. Questa composizione \"triple blend\" è studiata per offrire una freschezza estrema e una leggerezza senza pari, reinterpretando il classico pantalone cargo in una chiave più sofisticata e naturale.\nPerché sceglierlo\nIl segreto di questo pantalone risiede nel perfetto equilibrio delle sue fibre naturali e sostenibili: Lyocell (51%): Garantisce una caduta fluida, una mano setosa e una gestione dell'umidità superiore al cotone.\nLino\n(27%): Apporta la sua inconfondibile freschezza e quella texture leggermente fiammata che definisce il look estivo. Cotone (22%): Dona struttura e robustezza al capo, assicurando che mantenga la forma pur essendo leggerissimo.\nConsigli di Outfit\nSummer Explorer: Abbinalo alla\nCamicia\nLyle & Scott a righe (indossata aperta con le maniche arrotolate) per un look che unisce il preppy alla praticità dell'utility.\nSoft Contrast: Portalo con la\nPolo\nFred Perry M3600 in un colore chiaro per far risaltare la ricca tonalità marrone del pantalone.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n51% lyocell, 27% lino, 22% cotone\nVestibilità regular\nCodice articolo: ES3 WOON TABACCO-622",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo, modello utility con tasconi laterali",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

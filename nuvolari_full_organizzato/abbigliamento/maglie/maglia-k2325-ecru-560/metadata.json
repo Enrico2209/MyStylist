@@ -24,5 +24,46 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k2325-ecru-560",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza sportiva della maglieria d'archivio e l'estetica impattante del branding audace si fondono nella\nmaglia da uomo Fred Perry modello K2325\n. Realizzata con una pregiata lavorazione in maglia, questa proposta girocollo cattura l'attenzione grazie alla grande grafica intarsiata sul petto e alle fasce a contrasto, offrendo una sintesi perfetta tra tradizione British, attitudine streetwear e comfort d'altissimo livello.\nDesign, Tessuti e Caratteristiche Costruttive\nFilato Fino in Misto Cotone Premium\n: Confezionata in un morbido e traspirante filato Misto Cotone, la maglia assicura una mano calda ma leggera, perfetta per i cambi di stagione e per un layering versatile.\nGrafica Intarsiata \"Fred Perry\" e Righe Multi-Colore\n: Il punto focale del design è la grande scritta logo intarsiata al centro del busto, incorniciata da fasce e righe orizzontali a contrasto che proseguono con continuità anche lungo le maniche.\nIconica Corona d'Alloro Ricamata\n: Posizionata sul petto, lato cuore, spicca la leggendaria Corona d'Alloro ricamata ad alta definizione, immancabile sigillo d'autenticità del brand.\nGirocollo e Bordo in Costina Spessa\n: Il collo girocollo, i polsini e l'orlo inferiore sono rifiniti con una corposa lavorazione a costine elasticizzata, studiata per garantire una tenuta di forma impeccabile e una silhouette strutturata.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nBritish Streetwear Statement\n: Rendi la maglia protagonista assoluta del tuo outfit quotidiano. Accostala alla semplicità di un denim classico o dal lavaggio scuro, scegliendo il fit più adatto nella nostra selezione di\njeans uomo\n. Completa lo stile ai piedi con il design pulito e contemporaneo presente nell'assortimento\nsneakers uomo\n.\nSmart Casual Layering\n: Nelle giornate più fredde, indossa la maglia come strato intermedio d'impatto sopra una basica della linea\nt-shirt uomo\ne sotto un capospalla strutturato, selezionando il tuo modello preferito tra i\ngiubbotti uomo\n.\nMid-Season Transition\n: Per un aperitivo serale o un weekend informale durante la mezza stagione, gioca con i contrasti abbinando la maglia alla freschezza dei modelli disponibili nella categoria\nbermuda uomo\n, oppure tienila con te sopra un capo della collezione\ncostumi uomo\nper proteggerti dal fresco della sera.\nSperimenta il perfetto incontro tra l'eredità della maglieria sportiva e il carattere deciso del branding d'archivio. Scegli la morbidezza del filato, il design a fasce a contrasto e l'inconfondibile stile della maglia K2325 firmata Fred Perry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone, stile smart casual con accenti sportivi/streetwear dati dal brand e dalle bande",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

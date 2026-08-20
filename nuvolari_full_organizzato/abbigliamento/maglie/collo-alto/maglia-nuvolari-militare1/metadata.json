@@ -19,5 +19,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-nuvolari-militare1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl maglione da uomo Nuvolari Kyle verde militare è un maglione con\ncollo alto, polsini e girovita a costina elasticizzata, una cucitura a righe e piccolo logo di Nuvolari davanti in basso a sinistra\nIl modello è alto 1.91 e indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione da uomo Nuvolari Kyle militare\nVestibilità regular\nComposizione: 100% cotone\nCodice articolo: WF KYLE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione a collo alto in maglia strutturata, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

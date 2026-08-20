@@ -20,5 +20,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglione-girocollo-uomo-fred-perry-dark-caramel",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\nmaglione da uomo Fred Perry\nè un'icona di stile e comfort. Con il suo\ngirocollo\nclassico, offre un look sobrio e versatile che si adatta a molteplici occasioni. Il colore\ndark caramel\naggiunge un tocco di calore e raffinatezza al tuo guardaroba, perfetto per l'autunno e l'inverno. Le\nrifiniture a coste\nsull'orlo, sui polsini e sul collo donano al\nmaglione\nuna vestibilità aderente e un aspetto curato.\nI\nl Comfort del Girocollo e l'Eleganza del Colore Dark Caramel\nIl\nlogo\ndisegnato in bianco sulla manica destra\naggiunge un tocco distintivo a questo capo, segno della qualità e dell'eleganza di\nFred Perry\n. Questo\nmaglione\nsi abbina perfettamente a\njeans\no\npantaloni eleganti\n, ideale per un look casual o formale. Per un outfit completo, aggiungi una\ncintura in pelle\ne un paio di\nscarpe classiche\n. Sia che tu stia andando al lavoro, a un incontro d'affari o a una serata fuori, questo\nmaglione\nti farà sempre apparire impeccabile e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Girocollo Uomo Fred Perry Dark Caramel\nVestibilità Regular\nComposizione: 50% Lana 25% Acrilico 25% Acrilico Riciclato\nCodice Prodotto: K6516",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Fred Perry",
+      "categoria_url": "https://www.nuvolari.biz/brands/fred-perry"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantaloni eleganti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "cintura in pelle",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cinture.html"
+    },
+    {
+      "testo": "scarpe classiche",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/stringate.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Maglione girocollo classico in misto lana, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

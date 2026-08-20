@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-uomo-napapijri-ealis-ss-np0a4h8b-brightwhite",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa Polo Napapijri Ealis Regular Fit è un pilastro del guardaroba maschile, capace di coniugare la formalità sportiva della polo con l'anima \"voyage\" del brand. Questo modello si distingue per una semplicità raffinata e una scelta cromatica che richiama i paesaggi nordici e le distese d'acqua, offrendo un'alternativa fresca e luminosa alle tonalità più scure.\nComfort Sartoriale e Spirito d'Avventura\nPerché sceglierla\nIl punto di forza della Ealis risiede nella sua vestibilità Regular Fit, che garantisce un comfort superiore senza rinunciare a una linea pulita. Realizzata in piqué di cotone elasticizzato di alta qualità, questa polo offre una flessibilità naturale che asseconda ogni movimento, rendendola ideale per le giornate più lunghe e dinamiche, sia in ufficio che durante il tempo libero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:NP0A4H8B BRIGHTWHITE-0021",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

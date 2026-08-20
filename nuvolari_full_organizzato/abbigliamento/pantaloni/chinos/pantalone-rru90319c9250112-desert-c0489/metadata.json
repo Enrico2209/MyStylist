@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-rru90319c9250112-desert-c0489",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nPantalone Uomo Roy Roger's Desert\nè l'incarnazione del classico stile chino, rivisitato con l'autenticità e la qualità artigianale che contraddistinguono lo storico brand italiano. Realizzato in un robusto ma confortevole\ntwill di cotone elasticizzato\n, questo pantalone è progettato per offrire una vestibilità impeccabile e una durata superiore, adattandosi con naturalezza a ogni contesto, dall'ufficio al tempo libero.\nRoy Roger's Desert L'Icona dei Pantaloni Chino\nPerché sceglierlo\nIl punto di forza del modello Desert risiede nella sua versatilità senza tempo. Il tessuto in twill di cotone offre una mano fresca e traspirante, ideale per le stagioni intermedie e l'estate, mentre la componente elasticizzata assicura una libertà di movimento ottimale. La tonalità beige neutra e calda lo rende un capo base indispensabile, capace di abbinarsi con estrema facilità a una vasta gamma di colori e stili.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino classico in twill di cotone, ideale per smart casual e ufficio informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-selected-wc-16069173-andorra-andorra",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Selected Andorra\nMaglia Selected modello 16069173 da uomo, girocollo con fantasia norvegese e bordi a costina. In puro cotone, garantisce una vestibilità regular fit confortevole.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: WC 16069173 ANDORRA-ANDORRA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone con fantasia jacquard, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

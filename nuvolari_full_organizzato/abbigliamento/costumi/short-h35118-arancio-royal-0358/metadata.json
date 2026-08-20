@@ -20,5 +20,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-h35118-arancio-royal-0358",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCostume Uomo Sun68 Short Swimwear\nI costumi SUN68 Sono l'espressione massima del divertimento e dello stile italiano in spiaggia. Conosciuti per le loro grafiche audaci e la velocità di asciugatura, trasformano ogni giornata al mare in un'esplosione di colore.\nTessuto Quick-Dry\n: Realizzati in nylon leggero di alta qualità che si asciuga in tempi record, permettendoti di passare rapidamente dal bagno in mare al relax al bar.\nDesign Iconico\n: Caratterizzati dall'inconfondibile logo con la croce e il delta ricamato sulla gamba sinistra, spesso in colori fluo o a contrasto.\nMassimo Comfort\n: Dotati di uno slip interno in rete morbida e traspirante e di un girovita elasticizzato con coulisse esterna per una regolazione sicura e personalizzata.\nPraticità Urban\n: Presentano tasche laterali a filo e spesso una tasca posteriore con chiusura a velcro o bottone, ideale per piccoli oggetti.\nTaglio Moderno\n: Una lunghezza \"short\" contemporanea che favorisce l'abbronzatura e garantisce totale libertà di movimento durante il beach volley o il nuoto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere; lining: 95% poliestere, 5% elastane\nVestibilità regular\nCodice articolo:H35118 ARANCIO/ROYAL-0358",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno short con coulisse",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

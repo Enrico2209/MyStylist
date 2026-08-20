@@ -23,5 +23,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s2-dk-norman-dark-denim-dark-dnm",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nEssenziali, versatili e curati nei dettagli: i\njeans uomo Nuvolari\nsono il punto fermo di ogni guardaroba maschile. Realizzati con denim di alta qualità, offrono una vestibilità comoda e uno stile senza tempo, adatto sia ai look casual che a quelli più sofisticati. Disponibili in diversi lavaggi, dal chiaro al più scuro, si adattano a ogni stagione e occasione.\nPer un outfit completo, abbinali a una\ncamicia Nuvolari\nper uno stile raffinato o scegli una\nfelpa\nper un mood più rilassato. Da completare con un paio di\nsneakers\nper un tocco contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S2 DK NORMAN DARK DENIM-DARK DNM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html?manufacturer=NUVOLARI"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a cinque tasche, base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giacca-a-vento-blauer-uomo-nastro-rosso",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nAggiungi un tocco di stile audace al tuo guardaroba con la\nGiacca a Vento Blauer da uomo nastro rosso\n. Questo\ncappotto rosso\nvibrante catturerà sicuramente l'attenzione di tutti. Dotato di tasche laterali con\nzip nera\n, questa giacca offre un design moderno e funzionale.\nS\ntile e Funzionalità in un'unica giacca\nLa\nchiusura con zip a contrasto\nconferisce un tocco di originalità, mentre la patch dello\nstemma del logo\nsul petto aggiunge un dettaglio distintivo. Grazie al\ncappuccio anti-vento\n, sarai protetto durante le giornate più ventose. La\ngiacca a vento Blauer\nè perfetta per affrontare le avversità del clima in grande stile.\nCombinando\ncomfort e stile\n, questa\ngiacca a vento\nsi presta a molteplici abbinamenti. Indossala con un paio di\njeans\ne una\nt-shirt\nper un look casual ma alla moda. Per un outfit più elegante, puoi abbinarla a\npantaloni chino\ne una\ncamicia\nbutton-down\n. Completa il tuo look con un paio di\nscarpe sportive\no\nsneakers\nper un tocco di versatilità.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiacca A Vento Blauer Da Uomo Nastro Rosso Con Cappuccio\nVestibilità Regular\nComposizione: 100% Poliammide\nCodice Prodotto: ESG BLUC11115 006007",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giacca a vento sportiva/antivento in nylon, tetto di categoria e marchio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

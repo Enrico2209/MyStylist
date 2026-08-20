@@ -24,5 +24,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/hinnominate-pantalone-hmabw02541-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza assoluta del nero profondo si unisce a volumi imponenti d'ispirazione sartoriale, dando vita a un capo d'avanguardia che ridefinisce il concetto di pantalone casual. Il\nPantalone Donna Hinnominate Nero\nsi distingue per una silhouette fluida a gamba larghissima, pensata per chi esige il massimo comfort senza rinunciare a un'attitudine street-chic fortemente contemporanea.\nDesign e Caratteristiche Principali\nSilhouette Wide Leg Extra Ampia\n: Il vero focus strutturale del pantalone è il taglio dritto e larghissimo della gamba (palazzo style). Una geometria bold che crea un movimento fluido, arioso e fortemente scenografico a ogni passo.\nFascione Elastico Minimal con Logo Center-Stage\n: Progettato con una fascia elastica liscia in vita che accarezza i fianchi garantendo un fit perfetto. Centralmente sul davanti, spicca la micro-stampa bianca del lettering ufficiale del brand\n\"HINNOMINATE\"\n, posizionata come un raffinato sigillo grafico.\nInterno Fascione a Contrasto\n: Un sofisticato dettaglio di design nascosto rivela un profilo interno bianco a contrasto lungo la linea della vita, richiamando l'estetica della camiceria e dei completi sartoriali classici rivisitati in chiave urban.\nTasche Laterali Scomparsa\n: Integrate in modo pulito e invisibile lungo le cuciture dei fianchi, le tasche garantiscono praticità e funzionalità quotidiana senza alterare la caduta e la pulizia delle linee geometriche del capo.\nTessuto Premium Caduta Fluida\n: Confezionato in una tela compatta ma leggera di altissima qualità, selezionata appositamente per sostenere il volume imponente delle gambe e assicurare un perfetto aplomb che non si stropiccia.\nIdee di Stile: Crea la Tua Wave\nThe Tight-Fit Proportions Game\n: Esalta la monumentale ampiezza del pantalone giocando di contrasto con la parte superiore. Abbinalo a un top super aderente a coste, alla canotta asimmetrica o a una canotta cropped bianca firmata Hinnominate per un outfit street super bilanciato.\nTotal Black Urban Uniform\n: Crea un look monocromatico e d'impatto combinando il pantalone wide leg alla felpa nera cropped aperta o a un top boxy, chiudendo il cerchio con una sneaker chunky bold o una scarpa platform scura.\nPreppy Street Layering\n: Inserisci una nota di formalità destrutturata abbinando il pantalone a una camicia cropped a micro-righe lasciata aperta sopra un micro top basic, completando il look con una borsa a tracolla tecnica per un perfetto mood metropolitano.\nRiscrivi le regole dei volumi quotidiani con l'architettura fluida di Hinnominate e scendi in strada pronta a dettare le regole dello stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone wide leg con elastico in vita e logo, stile street-casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

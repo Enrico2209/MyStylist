@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihova-to-20125465-birch-130905",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl top\nIchi Donna Ihova To Birch\nesprime la quintessenza dell'eleganza estiva e del romanticismo rétro, reinterpretando la classica canotta smanicata attraverso una sofisticata e leggera lavorazione a maglia. Declinato in una luminosa e naturale tonalità crema/panna (\"Birch\"), questo capo fa del gioco geometrico tridimensionale della sua trama il proprio punto di forza, rivelandosi perfetto per valorizzare con delicatezza i look della stagione calda.\nDesign e Caratteristiche Principali\nTessuto in Maglia Pointelle Traforata\n: Realizzato in un filato estivo leggerissimo lavorato a maglia tricot con un raffinato motivo traforato geometrico (stile pointelle o effetto uncinetto) composto da piccoli rombi e micro-righe verticali. Questa struttura traforata crea un delicato gioco di semitrasparenze e garantisce una traspirabilità e una freschezza costanti sulla pelle.\nScollo Tondo Profilato a Costine\n: Presenta uno scollo rotondo classico ed equilibrato, rifinito con una sottile bordatura elastica a maglia costina in tinta che incornicia il decolleté e assicura una tenuta della forma impeccabile.\nGiro Spalla Largo Bon-Ton\n: La costruzione smanicata a spalla larga offre un'ottima copertura della biancheria intima ed è sigillata da una rifinitura in maglia compatta, pensata per non cedere e garantire il massimo comfort per tutta la giornata.\nFinitura Ondulata Scallop sull'Orlo\n: Il fondo del busto si congeda con un dolcissimo bordo smerlato (o a onde naturali), un prezioso dettaglio sartoriale derivato direttamente dalla lavorazione a maglia che accentua la femminilità del top.\nSilhouette Lineare Regular-Fit\n: Il taglio scende dritto sul busto assecondando le linee del corpo in modo morbido ma accostato, offrendo una vestibilità versatile e fluida che non stringe sul punto vita.\nEstetica Monochrome Minimale\n: L'assenza di grafiche stampate o loghi a vista mette in risalto esclusivamente la ricchezza materica del traforo e la luminosità naturale del colore crema.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "top smanicato in maglia traforata stile uncinetto, informale e leggero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

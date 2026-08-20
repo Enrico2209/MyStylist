@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/lee-stella-short-donna-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGli Shorts Lee Stella White sono la versione estiva dell'iconico fit Stella, amato per la sua capacità di coniugare un'estetica rétro anni '70 con un taglio ultra-contemporaneo. Questi pantaloncini a vita altissima non sono solo un capo fresco per le giornate calde, ma un vero e proprio strumento di stile per definire la silhouette con un tocco di eleganza effortless.\nIl punto di forza degli Shorts Stella risiede nella loro vestibilità a vita altissima (Ultra High Rise). Questo dettaglio non solo valorizza il punto vita, ma slancia otticamente le gambe grazie a un taglio che si appoggia morbido sui fianchi. La colorazione \"White\" in denim compatto offre una coprenza eccellente e una luminosità che trasforma un semplice paio di shorts in un capo versatile, adatto anche a contesti più curati rispetto al classico jeans strappato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "shorts in denim, capo casual estivo quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

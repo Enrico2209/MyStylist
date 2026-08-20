@@ -27,5 +27,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-shpv-terry-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nBermuda Uomo Nuvolari Shpv Terry\nrappresenta la reinterpretazione in chiave contemporanea dello short estivo, pensato per unire dinamismo urbano, comfort assoluto ed elementi sartoriali distintivi. Perfetto per muoversi in città durante le calde giornate estive o per i momenti di relax nel tempo libero, questo modello ibrido si distingue per un design pulito ed estremamente versatile.\nDesign e Caratteristiche Principali\nCintura Elasticizzata Comfort con Coulisse Integrata\n: Il girovita è strutturato per offrire il massimo benessere, grazie a un inserto elastico flessibile che assicura una vestibilità adattiva e confortevole lungo i fianchi. La regolazione è potenziata da lunghi cordoncini piatti che fuoriescono sul davanti per un fit personalizzato.\nChiusura e Dettagli Formali\n: Nonostante lo spirito rilassato, il fronte mantiene un rigore ordinato grazie alla presenza dei passanti per cintura e a una chiusura centrale tradizionale con patta e bottone a vista tonale, arricchito da una finitura incisa personalizzata.\nConfigurazione delle Tasche a Filo\n: Sul davanti presenta tasche laterali inclinate inserite a filo lungo il fianco, rifinite alle estremità da un piccolo inserto metallico circolare con logo che aggiunge un punto luce tecnico e discreto al capo.\nRetro Strutturato con Pattine geometriche\n: Il retro si distingue per una costruzione pulita e ricercata, caratterizzata da due tasche posteriori rifinite con patte geometriche a punta che donano struttura e un richiamo d'ispirazione utility alla silhouette.\nTaglio Moderno Sopra il Ginocchio\n: Propone una vestibilità regolare e bilanciata, con una lunghezza della gamba calibrata che si ferma appena sopra il ginocchio per slanciare la figura e garantire la massima libertà di movimento.\nProposta di Outfit\nSophisticated Summer Resort\n: Indossalo insieme ad una\ncamicia\nportata aperta sopra una canotta essenziale;\nQuiet Luxury Layering\n: Abbinalo alla\npolo in maglia\ncon scollo a V; il connubio tra l'estetica morbida e rétro della polo e il taglio contemporaneo dello short comporrà un outfit casual-chic rilassato, perfetto per un pranzo estivo all'aperto o un aperitivo al tramonto.\nUrban Casual Vibe\n: Portalo con la\nt-shirt Uat\ncaratterizzata dalla maxi stampa automotive frontale; la ricchezza della grafica d'epoca bianca spezzerà la linearità del bermuda, definendo un perfetto look streetwear metropolitano, ideale per il weekend.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "polo in maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt Uat",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda estivo con coulisse e cordoncini, ma con dettagli formali come passanti e bottone",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

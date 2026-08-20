@@ -26,5 +26,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-es3-ca-mellah-grigio-grigio",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Mellah\nreinterpreta il concetto di camicia resort attraverso un'estetica geometrica d'ispirazione vintage, perfetta per infondere dinamismo e originalità ai look estivi senza perdere in raffinatezza. Proposta nelle varianti colore stagionali del beige (\"Beige\") e dell'antracite scuro (\"Grigio\"), questo modello a maniche corte fa del suo pattern jacquard strutturato a micro-quadretti o texture geometrica a rilievo l'elemento focale del suo design.\nDesign e Caratteristiche Principali\nPattern Geometrico Strutturato\n: Il pannello frontale e le maniche sono impreziositi da un sofisticato motivo geometrico all-over (un intreccio jacquard o micro-quadrettato) che rompe la monotonia del monochrome, regalando un aspetto ricercato e squisitamente rétro.\nTessuto Estivo ad Alta Ventilazione\n: Realizzata in un filato leggero dalla mano morbida e dalla texture leggermente mossa, una scelta strutturale che impedisce al tessuto di aderire completamente al corpo, massimizzando la freschezza e la traspirabilità nelle giornate più afose.\nIconico Collo Resort (Camp Collar)\n: Presenta il tradizionale colletto cubano con rever aperto piatto a V e privo del primo bottone superiore, elemento che delinea uno scollo naturale, informale e tipico della moda vacanziera.\nFustella Frontale con Bottoni Coordinati\n: La chiusura centrale lineare è scandita da piccoli bottoni lucidi coordinati alla palette di base del capo (chiari sulla variante beige, scuri lucidi sulla variante grigia), preservando l'armonia cromatica dell'intero pattern.\nManiche Corte dal Taglio Squadrato\n: La costruzione delle maniche corte è ampia e dritta, studiata per favorire una caduta fluida e scivolata che asseconda i volumi rilassati e disinvolti propri della camicia.\nOrlo Inferiore Squadrato da Fuori-Pantalone\n: Il fondo dritto e lineare è progettato specificamente per indossare il capo sopra la cintura, rendendolo ideale sia portato completamente abbottonato sia aperto sopra una t-shirt come leggerissimo sopracamicia.\nProposta di Outfit\nTotal Linen Resort (Variante Beige)\n: Indossala aperta sopra una canotta chiara e abbinala al\npantalaccio\nKasbah coordinato in lino beige; l'unione tra il pattern geometrico della camicia e la texture fiammata del pantalone darà vita a un outfit rilassato e monocromatico di grande classe.\nUrban Safari Contrast (Variante Beige)\n: Portala in combinazione con una t-shirt basic bianca e un\npantalaccio\ncargo in cotone fiammato verde oliva scuro, completando il look con il\ngiubbotto\nleggero Yaraka Kaki a quattro tasche per un perfetto layering ispirato ai toni della terra.\nContemporary Dark Minimal (Variante Grigio)\n: Abbinala aperta sopra una t-shirt chiara a contrasto insieme al\nbermuda\nfluido nero Temara dotato di coulisse panna, giocando sull'accostamento tra le tonalità scure della camicia e del fondo per un look da aperitivo moderno, comodo e d'impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte stile resort con collo cubano, pensata per un uso estivo e informale fuori dai pantaloni",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

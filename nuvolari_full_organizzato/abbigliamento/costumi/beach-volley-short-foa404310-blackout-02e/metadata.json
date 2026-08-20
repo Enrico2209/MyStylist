@@ -23,5 +23,39 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/beach-volley-short-foa404310-blackout-02e",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa perfetta sintesi tra l'anima action-sport californiana e l'estetica urban-balneare si esprime nel nuovo\nCostume Uomo Oakley Beach Volley Short Blackout\n. Progettato espressamente per chi esige il massimo in termini di dinamismo, resistenza e rapidità d'asciugatura sulla sabbia così come nel surf, questo short unisce una tecnologia tessile avanzata a un design minimalista e intramontabile.\nDesign e Caratteristiche Principali\nSartoriale Tonalità Blackout\n: Il costume è interamente declinato in una profonda colorazione nero opaco (\"Blackout\"). Una scelta estetica essenziale, elegante e di carattere, studiata per integrarsi con versatilità assoluta in ogni contesto beachwear e per non passare mai di moda.\nLogo Oakley Geometrico a Contrasto\n: Sulla parte inferiore della gamba sinistra spicca il leggendario logo \"Oakley\" stampato a contrasto. Un dettaglio visivo pulito e bold che richiama immediatamente la storica eredità sportiva e l'innovazione tecnica del brand.\nGirovita Comfort con Coulisse Bicolore\n: Il focus funzionale è l'ampio fascione elastico piatto arricciato in vita, che assicura stabilità perfetta sui fianchi durante i movimenti più intensi. Integra un cordino tecnico intrecciato bianco e nero con punte logate per una regolazione millimetrica del fit.\nTaglio Volley Short Leggero e Dinamico\n: Sviluppato con una silhouette atletica a gamba dritta dai volumi calibrati che azzerano gli attriti. La lunghezza d'ispirazione surf si ferma a metà coscia per garantire un'eccellente freschezza e la massima libertà d'azione durante i tuffi o le partite.\nTessuto Tecnico Idrorepellente Premium\n: Confezionato in una speciale tela polimerica ultrasottile ma estremamente robusta. Il trattamento idrorepellente superficiale riduce drasticamente l'assorbimento dell'umidità, permettendo al pantaloncino di rimanere leggerissimo e di asciugarsi in pochissimi minuti una volta fuori dall'acqua.\nTasche Laterali e Slip in Rete Interno\n: Completato lungo i fianchi da pratiche tasche verticali inserite a filo per riporre piccoli oggetti sul bagnasciuga, e rifinito internamente da uno slip in morbido mesh (rete) traspirante che massimizza il supporto e il comfort quotidiano.\nIdee di Stile: Linka il Tuo Outfit\nMetropolitan Surf Core Uniform\n: Esalta l'anima urban e la forza grafica dello streetwear d'avanguardia. Abbina lo short nero a una\nt-shirt uomo\nObey dal taglio boxy oversize con maxi grafica posteriore, chiudendo il look con una sneaker bassa in tela e un calzino di spugna.\nSunset Beach Party Mix\n: Trasforma il costume in un perfetto outfit da aperitivo o da falò al tramonto. Indossa lo short insieme a una pregiata\nt-shirt uomo\nPsycho Bunny in cotone Pima con logo ricamato, e sovrapponi una camicia di lino chiara lasciata completamente aperta per un look fresco e disinvolto.\nAthleisure Outdoor Break\n: Per le calde giornate dedicate agli sport sulla sabbia o alle gite in barca, unisci la tecnicità di Oakley al comfort sportivo. Coordina il costume a una fresca\nt-shirt uomo\nNew Balance con logo heritage, definendo il tutto con un\ncappello uomo\ncon visiera ricurva.\nSperimenta l'unione perfetta tra performance d'atleta e stile minimalista metropolitano. Scegli la robustezza, l'asciugatura rapida e il carattere deciso degli short da spiaggia Blackout firmati Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.1,
+      "da_mare": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno tipo beach volley short, livello base",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

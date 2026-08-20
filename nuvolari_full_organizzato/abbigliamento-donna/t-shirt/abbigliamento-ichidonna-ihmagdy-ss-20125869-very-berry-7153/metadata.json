@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihmagdy-ss-20125869-very-berry-7153",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Ichi Donna Ihmagdy Ss Very Berry\ninfonde energia e freschezza nel guardaroba estivo femminile, grazie a un'accattivante tonalità accesa e a un ricamo dal forte sapore vacanziero. Caratterizzata da una vibrante sfumatura fucsia ciclamino (\"Very Berry\"), questa maglietta a maniche corte si distingue per il suo trattamento materico dall'attitudine vintage e per i suoi volumi morbidi e rilassati, perfetti per i look casual quotidiani o per il tempo libero in spiaggia.\nDesign e Caratteristiche Principali\nTessuto in Cotone con Lavaggio Acid Wash\n: Realizzata in un filato di cotone morbido e leggero, sottoposto a un trattamento di lavaggio minerale o delavé che dona al colore una texture finemente mossa, irregolare e squisitamente rétro lungo le cuciture.\nRicamo Testuale Frontale a Rilievo\n: Il pannello anteriore è valorizzato dalla scritta centrale \"DRINKS AND SUNSET AT THE BEACH\" ricamata a contrasto con un filato bianco ottico, caratterizzata da un font giocoso e leggermente irregolare che richiama le atmosfere spensierate dei tramonti estivi.\nGirocollo a Costine con Finitura Delavé\n: Presenta uno scollo rotondo classico rifinito con una spessa bordatura elastica a costine, che evidenzia l'effetto schiarito del lavaggio in capo donando robustezza e carattere alla struttura.\nSilhouette Boxy Oversize\n: Il taglio della t-shirt è ampio, squadrato e rilassato, studiato per non segnare le linee del corpo e offrire la massima libertà di movimento e una ventilazione ottimale nelle giornate più calde.\nManiche Corte con Spalla Scesa (Drop Shoulder)\n: La linea di attaccatura delle maniche corte è nettamente ribassata rispetto alla spalla naturale, accentuando il fit casual e cascante del capo.\nOrlo Inferiore con Taglio Dritto e Pulito\n: Il fondo lineare e dritto presenta una finitura piatta con doppia cucitura parallela, ideale per lasciare la t-shirt morbida sopra i fianchi o per infilarla parzialmente all'interno della cintura.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt casual con grafica ricamata, vestibilità oversize e lavaggio acido",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

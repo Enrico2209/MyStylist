@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-donna-lee",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Lee Resort Shirt Sea Blue è l'essenza dello stile rilassato e vacanziero, progettata per chi cerca un capo leggero capace di evocare immediatamente atmosfere mediterranee. Caratterizzata da un taglio ampio e una mano fluida, questa camicia si allontana dal rigore formale per abbracciare un’estetica \"effortless\" che funziona perfettamente sia come pezzo centrale di un outfit, sia come copricostume raffinato.\nIl punto di forza della Resort Shirt risiede nel suo tessuto leggero e traspirante. La colorazione \"Sea Blue\" è una tonalità di azzurro vibrante ma naturale, studiata per riflettere la luce estiva e abbinarsi armoniosamente ai toni del bianco e del denim chiaro. Il taglio boxy (squadrato) e le maniche ampie assicurano una ventilazione costante, rendendola il capo ideale per affrontare le temperature più alte senza rinunciare a un tocco di stile sartoriale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.4,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte taglio boxy e rilassato, stile resort/vacanziero",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

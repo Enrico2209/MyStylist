@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/bomber/bomber-dujg0027-li0053-verde-4002",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBomber Daniele Alessandrini: L'Evoluzione Contemporanea della Field Jacket\nRiscopri il concetto di capospalla leggero con questo bomber firmato Daniele Alessandrini. Una reinterpretazione sofisticata della giacca da lavoro, dove la texture materica incontra un taglio moderno e pulito. Ideale per le stagioni di transizione, questo capo è pensato per l'uomo che cerca un'alternativa di classe al classico guscio sportivo.\nDesign Strutturato e Dettagli d’Autore\nTexture Premium\n: Realizzato con un tessuto dalla trama visibile e naturale che richiama l'estetica del lino, questo bomber offre una freschezza visiva unica unita a una mano compatta e strutturata, tipica della maglieria di alta gamma.\nArchitettura delle Tasche\n: Il fronte è dominato da due ampie tasche a toppa dal design arrotondato, un dettaglio che fonde estetica funzionale e gusto retrò. La chiusura delle tasche con bottoni a contrasto richiama la bottoniera centrale, creando un ritmo visivo armonioso e deciso.\nTaglio \"Boxy\" Moderno\n: La silhouette corta in vita e il colletto a camicia conferiscono al bomber una linea pulita che si adatta perfettamente sia a look stratificati che a outfit minimalisti. I polsini chiusi e il fondo dritto completano una geometria impeccabile.\nDettagli Signature\n: I bottoni in corno sintetico con venature naturali aggiungono un tocco organico al colore verde salvia/oliva, una tonalità versatile capace di esaltare sia i toni della terra che quelli più freddi dell'asfalto urbano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Giacca leggera strutturata con colletto a camicia e bottoni, a meta tra smart casual e casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

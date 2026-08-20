@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt-lee-donna-good-day",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Donna Lee Good Day White\nesprime una vibrante attitudine rétro d'ispirazione californiana, unendo la pulizia di una base chiara a messaggi grafici positivi e di forte impatto visivo.Questa maglia si distingue per volumi contemporanei e scivolati, perfetta per arricchire la proposta streetwear ed estiva quotidiana.\nDesign e Caratteristiche Principali\nLogo Script Frontale Minimale\n: Il pannello anteriore,  presenta sul lato sinistro il classico logo del brand ricamato o stampato con un elegante font corsivo a contrasto, mantenendo la facciata pulita ed essenziale.\nMaxi Grafica Posteriore Vintage\n: Sul retro del capo, spicca la grande scritta tipografica \"make TODAY a GOOD Day\" disposta su quattro linee. Il font arrotondato stile anni '70 è arricchito da una texture dall'effetto delavato e vissuto.\nTessuto in Jersey Leggero\n: Confezionata in un jersey di cotone morbido e fresco, sottoposto a trattamenti di finissaggio che donano al tatto una mano vellutata e assicurano un'ottima traspirabilità nelle giornate più calde.\nScollatura a Girocollo e Spalle Calate\n: Presenta un ampio scollo a girocollo rifinito con una sottile bordatura tessile. La struttura delle maniche corte è caratterizzata da una linea con spalla scesa (drop shoulder), che accentua la natura rilassata del capo.\nOrli Lineari e Costruzione Pulita\n: Il fondo del busto e i terminali delle maniche sono definiti da doppie cuciture parallele di precisione a profilo piatto, che evitano arricciature mantenendo la silhouette geometrica ed essenziale.\nTaglio Cropped Boxy Fit\n: Propone una vestibilità squadrata e leggermente accorciata in vita, strutturando volumi ariosi e moderni che non costringono le forme e donano freschezza al design.\nProposta di Outfit\nNostalgic Denim Match\n: Abbinala a un\njeans\na vita alta dal lavaggio chiaro o con dettagli decorativi e completa il look con un cappello; il taglio cropped della t-shirt bilancerà le linee ampie del pantalone, esaltando la maxi grafica posteriore in un perfetto set rétro.\nCasual Resort Utility\n: Indossala insieme a uno\nshorts\nin denim scuro e sovrapponi un'ampia\ncamicia\nleggera lasciata completamente sbottonata; un abbinamento a strati dinamico, informale e perfetto per il tempo libero.\nStreetwear Summer Balance\n: Portala in combinazione con un\npantalone\nmodello chino dal taglio rilassato, completando il tutto con un\ncappello\ncon visiera; un outfit urban pulito, comodo e di chiara ispirazione skater anni '90.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt cropped con vestibilità boxy e maxi grafica posteriore vintage, tipico capo casual quotidiano",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

@@ -26,5 +26,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-s3-gb-thomas-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nPantaloni Uomo Nuvolari Gb Thomas NERO\nfondono il rigore formale del taglio sartoriale con l'attitudine rilassata del pantalone casual, proponendosi come un pezzo chiave estremamente versatile per il guardaroba maschile moderno. Sviluppati in una tonalità blu notte profonda e uniforme, questi pantaloni stile chino si adattano con naturalezza sia ai contesti lavorativi smart casual sia alle occasioni serali più informali, garantendo un'immagine sempre curata, sobria e lineare.\nDesign e Caratteristiche Principali\nTessuto in Cotone Twill Confortevole\n: Confezionati in un twill di cotone di alta qualità arricchito da una componente elastica. Questa struttura tessile garantisce un'ottima resistenza e una consistenza morbida al tatto, assicurando al contempo la flessibilità necessaria per assecondare agevolmente ogni movimento quotidiano.\nArchitettura Chino Essenziale\n: Il design si distingue per la pulizia delle linee, caratterizzato sul davanti da tasche laterali inserite a filo lungo il fianco e sul retro da tasche a filetto lineari, prive di patte, che mantengono i volumi del bacino piatti e ordinati.\nDettagli Metallici e Finiture di Carattere\n: La chiusura tradizionale in vita è affidata a un bottone a chiodo centrale brunito e a una patta con zip nascosta. Il rigore del modello è ingentilito da piccoli rivetti metallici decorativi posizionati all'estremità delle tasche anteriori, che introducono un sottile richiamo visivo d'ispirazione urban.\nCinturino Sartoriale Personalizzato\n: L'interno della vita rivela la cura costruttiva del brand Nuvolari, integrando una fodera scura impreziosita dal branding tessuta cucito centralmente, che assicura stabilità strutturale al girovita e ne testimonia l'autenticità.\nSilhouette Slim-Fit Slanciata\n: Propone una vestibilità asciutta e pulita che segue in modo armonioso la linea della gamba senza stringere, definendo una silhouette contemporanea e slanciata che cade perfettamente sopra la calzatura.\nProposta di Outfit\nBusiness Casual Geometrico\n: Abbinalo alla\ncamicia\nregular fit a righe verticali sottili bianche e azzurre; l'incontro tra il rigore della riga e la pulizia del pantalone chino blu darà vita a un look da ufficio classico, luminoso e impeccabile.\nSummer Preppy Contrast\n: Indossalo insieme alla\npolo\npiqué bianca con profili neri e grigi sul colletto; lo stacco cromatico netto tra la luminosità superiore della polo e la base blu notte strutturerà un outfit fresco, sportivo ma ordinato, perfetto per un pranzo formale o un weekend fuori porta.\nSmart Urban Monochrome\n: Portalo in abbinamento alla\nt-shirt\nfiammata blu notte con taschino; il gioco di sfumature tono su tono tra il jersey fiammato della maglietta e il twill pulito del pantalone creerà un outfit monocromatico minimale, sofisticato e decisamente contemporaneo per un aperitivo serale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone modello chino in cotone twill, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

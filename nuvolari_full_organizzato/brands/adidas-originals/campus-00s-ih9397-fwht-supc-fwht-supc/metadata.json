@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/campus-00s-ih9397-fwht-supc-fwht-supc",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nAdidas Originals Campus 00s\nsono l'evoluzione contemporanea di un'icona del basket degli anni '80, reinterpretata con le proporzioni audaci e voluminose tipiche della cultura skate degli anni 2000.\nDesign e Nuove Proporzioni\nSilhouette Oversize:\nRispetto alla Campus classica, la versione \"00s\" presenta un'imbottitura generosa sulla linguetta e sul collarino, donando un look più massiccio e confortevole.\nTomaia in Suede Premium:\nRealizzata in morbido camoscio color grigio fumo, una tonalità neutra ed elegante che esalta la texture del materiale.\nDettagli Bold:\nLe iconiche tre strisce laterali sono più ampie e realizzate in pelle bianca a contrasto, coordinate con i lacci piatti extra-large (chunky laces) che caratterizzano il modello.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers chunky di stampo skate, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

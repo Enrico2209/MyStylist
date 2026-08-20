@@ -24,5 +24,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-woven",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Lee Woven Label Tee Mer Green\nrappresenta l'essenza del basic di qualità in chiave streetwear, unendo una palette cromatica profonda e d'ispirazione militare a un dettaglio iconico d'archivio. Questa maglia a maniche corte punta tutto su un'estetica pulita, minimale e solida, ideale per fungere da pilastro versatile all'interno dei look urban e casual quotidiani.\nDesign e Caratteristiche Principali\nIconica Woven Label Frontale\n: Il vero e proprio punto focale del design, è la patch quadrata in tessuto bianco applicata sul lato cuore. Questa etichetta intrecciata racchiude il logo vintage del brand e la dicitura heritage, creando un netto ed elegante contrasto grafico sulla base unita della maglia.\nTessuto Premium in Jersey di Cotone\n: Realizzata in un jersey di cotone di alta qualità, leggero ma dalla trama compatta e resistente. La lavorazione assicura una mano piacevolmente liscia al tatto, un'eccellente traspirabilità e una grande stabilità strutturale che resiste all'usura e ai lavaggi frequenti.\nScollatura a Girocollo Flessibile\n: Presenta un classico scollo a girocollo rifinito con un bordo a costine sottili elasticizzato, progettato per aderire in modo anatomico e confortevole mantenendo intatta la sua forma nel tempo.\nFiniture e Doppie Impunture Lineari\n: Il fondo del busto e gli orli delle maniche corte sono rifiniti con doppie cuciture parallele piatte, che garantiscono una pulizia visiva minimale e prevengono lo sfilacciamento del tessuto.\nTaglio Regular Fit Calibrato\n: La silhouette propone una vestibilità regolare e dritta lungo i fianchi, con spalle ben proporzionate che assecondano le linee del corpo in modo naturale, offrendo un perfetto compromesso tra comfort ed estetica contemporanea.\nProposta di Outfit\nUrban Utility Contrast\n: Indossala abbinata a un\nbermuda\nmulti-tasche in cotone robusto e completa l'outfit con un cappello; il contrasto visivo tra la patch bianca frontale della t-shirt e la struttura utility del pantaloncino definirà un look street solido e di tendenza.\nSmart Casual Layering\n: Portala come base sotto una\ncamicia\naperta e abbinala a un\npantalone\ndal taglio chino con risvolto sul fondo; la linearità della t-shirt farà risaltare la sovrapposizione dei tessuti, creando un perfetto ensemble da giorno.\nUnderground Denim Vibe\n: Abbinala a un\njeans\ndal lavaggio chiaro e dall'estetica vissuta, completando il look con una\novershirt\nleggera lasciata sbottonata; un abbinamento essenziale e di chiara ispirazione anni '90, ideale per le serate in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a girocollo con piccolo logo applicato sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

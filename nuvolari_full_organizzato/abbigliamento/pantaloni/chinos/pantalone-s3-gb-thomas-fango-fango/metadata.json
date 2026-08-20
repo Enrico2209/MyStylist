@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-s3-gb-thomas-fango-fango",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Pantalone Chino Uomo Nuvolari GB Thomas è il pilastro del guardaroba smart-casual. Grazie alla sua composizione in 97% cotone e 3% elastane, questo modello riesce a coniugare l'aspetto raffinato di un pantalone classico con la flessibilità e il comfort necessari per affrontare una giornata dinamica, dal lavoro all'aperitivo.\nIl Chino dal Taglio Sartoriale e Dinamico\nPerché sceglierlo\nIl modello GB Thomas è progettato per chi cerca una vestibilità moderna e pulita. La piccola percentuale di elastane è il segreto della sua comodità: permette al tessuto di seguire i movimenti del corpo senza deformarsi, mantenendo la piega e la silhouette asciutta per tutto il giorno. È un capo estremamente versatile, capace di adattarsi a contesti formali se abbinato correttamente, o di restare rilassato in situazioni quotidiane\nConsigli di Outfit\nBusiness Casual\n: Abbina il chino a una camicia azzurra o bianca infilata nei pantaloni e una cintura in pelle coordinata a una scarpa stringata. È il look standard per l'ufficio che trasmette professionalità e cura.\nUrban Weekend\n: Indossalo con una t-shirt di alta qualità e una sneaker bianca minimale. Sopra, un bomber leggero o una overshirt aperta completeranno un outfit perfetto per il tempo libero.\nElegant Evening:\nProvalo con un mocassino scamosciato e una polo scura. La pulizia del pantalone GB Thomas esalterà la semplicità degli altri capi, creando un'immagine sofisticata senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo:S3 GB THOMAS FANGO-FANGO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino classico in cotone, perfetto per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

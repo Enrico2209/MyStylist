@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-k9601-navy-aubergine-264",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglione girocollo da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Fred Perry modello K9601 - Navy/Aubergine\nRealizzato in misto lana merino e cotone\nGirocollo con doppia riga interna\nCollo, polisini e girovita a costina\nLogo ricamato sul petto\nVestibilità Regular\nComposizione: 54% Lana 46% Cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo classico in misto lana merino, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

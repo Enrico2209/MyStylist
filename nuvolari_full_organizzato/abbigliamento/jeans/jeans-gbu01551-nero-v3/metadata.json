@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-gbu01551-nero-v3",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nI jeans da uomo sono un elemento essenziale del guardaroba maschile. Disponibili in vari tagli, lavaggi e vestibilità, offrono comfort e versatilità per look casual o più elaborati.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans nero con dettagli effetto schizzi di vernice, prettamente casual e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-itx226n001-nero-9000",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'ironia minimale, il fascino della cultura pop cinematografica e un'estetica underground d'élite ridefiniscono la linea degli accessori estivi nel\nCappello Uomo \"I Told Ya\" Nero\n. Ispirato al celebre tormentone grafico che ha conquistato lo streetwear globale e le icone della moda internazionale, questo cappellino con visiera fonde un messaggio bold e anticonformista a una struttura classica e robusta, progettata per chi ama completare il proprio outfit con un'attitudine rilassata, misteriosa e intellettuale.\nDesign, Dettagli e Caratteristiche Distintive\nL'Iconico Ricamo Testuale \"I TOLD YA\"\n: Il vero e proprio fulcro visivo del cappello risiede nella celebre scritta \"I TOLD YA\" (\"Te l'avevo detto\") ricamata ad alta densità sul pannello frontale. Il contrasto cromatico tra il testo chiaro e la base scura esalta il minimalismo geometrico della grafica senza bisogno di loghi sovraccarichi.\nStruttura Total Black in Twill di Cotone\n: Confezionato in robusta tela di puro cotone twill traspirante e resistente. La finitura nera profonda ed opaca conferisce un aspetto pulito e lineare, rendendo l'accessorio estremamente versatile e facile da abbinare a qualsiasi palette cromatica.\nCostruzione Classica a Pannelli con Occhielli\n: Sviluppato sulla silhouette intramontabile del baseball cap a 6 pannelli, presenta una corona strutturata che mantiene la forma ideale nel tempo. Ciascun pannello è rifinito con occhielli ricamati per favorire la ventilazione e garantire la massima freschezza nelle giornate più calde.\nVisiera Ricurva e Regolazione Custom sul Retro\n: Dotato di una visiera rigida pre-curvata con cuciture geometriche in tinta, ideale per schermare perfettamente il viso dal sole. Sul retro, la chiusura regolabile con fibbia metallica o cinturino permette di adattare millimetricamente la vestibilità alla testa, assicurando massima stabilità.\nIdee di Stile: Costruisci il Tuo Look Pop-Street\nTotal Pop Culture Uniform\n: Massimizza il legame di tendenza e l'anima ironica di questo accessorio cult. Abbina il cappello nero alla precisione grafica di una delle\nt-shirt uomo\ndella linea \"I Told Ya\" o a una felpa con cappuccio grigio melange, completando il look con un bermuda in felpa e una sneaker bassa.\nContemporary Ride & Surf Mix\n: Gioca di contrasti inserendo l'understatement del lettering in un contesto underground e d'impatto. Accosta il cappellino alla forza geometrica del\ncostume uomo\nDeus Ex Machina Service Mesh o a una camicia resort a maniche corte aperta sopra una canotta basica chiara.\nMetropolitan Utility Casual Look\n: Per i tuoi spostamenti quotidiani o i weekend di viaggio, sperimenta le stratificazioni di texture e colori della terra. Coordina il cappello nero alla robustezza di un\npantalone uomo\nchino Lyle & Scott in nuance Military Green o a un pantalaccio in velluto a coste, chiudendo il cerchio con una giacca Harrington dal taglio pulito.\nDefinisci il carattere del tuo stile estivo fin nei minimi dettagli, unendo la pulizia di un accessorio iconico alla forza comunicativa di un trend globale celebrato in tutto il mondo. Scegli la versatilità minimale, la resistenza dei materiali e l'attitudine inconfondibile del cappello uomo nero firmato \"I Told Ya\".\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "costume uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, accessorio tipicamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

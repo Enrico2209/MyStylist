@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/abbigliamento-ichidonna-ihestama-sh-20120355-bel-air-blu",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Donna Ichi Ihestama Sh Bel Air Blu\nevoca le atmosfere spensierate e i panorami californiani attraverso un'estetica rétro d'ispirazione bowling e una struttura fresca e leggera. Sviluppata su una base azzurro polvere tenue e luminosa (\"Bel Air Blu\"), questa camicia a maniche corte si distingue per i suoi ricchi contrasti grafici a tema floreale-paesaggistico, ponendosi come un capo versatile, fresco e di grande personalità per i look estivi.\nDesign e Caratteristiche Principali\nMaxi-Stampa Posteriore \"Bel Air Beach Club\"\n: Il vero nucleo stilistico risiede sul retro, dominato da una grande grafica d'ispirazione vintage che raffigura un hotel o una tenuta circondata da palme. La stampa gioca sui toni caldi del rosso mattone, dell'arancio bruciato e del marrone cioccolato, sormontata dal lettering curvo \"Bel Air Beach Club\" e completata in basso dal claim \"Sun-kissed memories\".\nPannello Frontale Bilanciato\n: Il davanti mantiene un'estetica pulita e minimale sulla base azzurra, ospitando sul petto sinistro una piccola scritta a contrasto marrone che riprende il nome della linea \"Bel Air\".\nTessuto Fluido e Scivolato\n: Realizzata in un filato estivo leggerissimo e cascante dalla mano liscia, studiato per scivolare con morbidezza sul corpo e garantire il massimo comfort, traspirabilità e freschezza anche nelle giornate più afose.\nColletto a Campagna Aperto (Cuban Collar)\n: Presenta uno scollo a V fluido con colletto a revers dritto (stile bowling o cubano), che slancia otticamente il decolleté e accentua l'attitudine rilassata e vacanziera del modello.\nChiusura Centrale con Bottoncini in Tinta\n: Il davanti è scandito da piccoli bottoni piatti che si fondono cromaticamente con il tessuto, consentendo di portarla sia completamente chiusa sia aperta a mo' di leggero coprispalle.\nSilhouette Dritta e Rilassata\n: Le maniche corte scendono ampie sul braccio senza costringere, mentre il fondo dritto con piccoli spacchi laterali permette al capo di adagiarsi in modo fluido sui fianchi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Camicia classica a maniche lunghe in tinta unita, vestibilità leggermente rilassata/oversize che la rende adatta a contesti smart casual.",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

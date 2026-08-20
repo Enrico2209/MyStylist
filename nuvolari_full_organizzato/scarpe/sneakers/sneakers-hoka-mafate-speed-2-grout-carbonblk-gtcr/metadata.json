@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-hoka-mafate-speed-2-grout-carbonblk-gtcr",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nSneakers Uomo Hoka Mafate Speed 2\nsono calzature d'eccellenza progettate per offrire supporto e ammortizzazione d'alto livello sui percorsi di trail più impegnativi e tecnici. Grazie alla combinazione di una struttura protettiva e della leggendaria tecnologia geometrica del brand, questa scarpa garantisce prestazioni straordinarie e un comfort duraturo per gli amanti della corsa fuoristrada e dello stile utilitaristico.\nDesign e Caratteristiche Principali\nIntersuola a Doppia Densità\n: La combinazione di una base leggera in EVA e di uno strato superiore ammortizzato offre un eccellente assorbimento degli urti, riducendo l'affaticamento durante le lunghe distanze.\nSuola Vibram® Megagrip\n: Il battistrada è dotato di tasselli profondi e scolpiti da 5 mm per assicurare una trazione superiore e un'aderenza impeccabile su rocce, fango e superfici scivolose.\nGeometria Meta-Rocker\n: Il profilo curvo della suola è studiato per agevolare una transizione fluida dal tallone alla punta, ottimizzando l'efficienza della falcata sia in salita che in discesa.\nTomaia Protettiva Leggera\n: Realizzata in mesh traspirante con tecnologia monofilamento SpeedFrame senza cuciture, riduce il rischio di sfregamenti interni e protegge il piede dai detriti esterni.\nStruttura di Supporto Esterna\n: Presenta un contrafforte esterno sul tallone in TPU che stabilizza la parte posteriore del piede, garantendo una calzata sicura sui terreni sconnessi.\nPalette Cromatica Tecnica\n: Il design unisce una tomaia grigio chiaro e nera a pannelli grafici rosa confetto, rifinita con dettagli riflettenti e il logo del brand impresso sul fianco e sulla suola.\nSuggerimenti di Stile\nEcco 3 modi per integrare queste sneakers tecniche nei tuoi outfit quotidiani:\nTechnical Outdoor\n: Coordinatale con dei\npantaloncini\nin nylon idrorepellente e una t-shirt tecnica per un perfetto equipaggiamento da escursionismo leggero o corsa in natura.\nUrban Utility Contrast\n: Abbinale a dei\npantaloni cargo\ndal taglio dritto neri e a una felpa minimalista per far risaltare i dettagli rosa e grigi della calzatura.\nCasual Weekend\n: Indossale con dei\njeans\nlavaggio scuro e una\novershirt\naperta sopra una t-shirt bianca per un look street d'ispirazione gorpcore.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloncini",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da trail running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

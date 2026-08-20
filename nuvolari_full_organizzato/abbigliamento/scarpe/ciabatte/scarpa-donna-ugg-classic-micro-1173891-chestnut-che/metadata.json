@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/scarpa-donna-ugg-classic-micro-1173891-chestnut-che",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nSCARPA DONNA UGG CLASSIC MICRO\nIl modello\nClassic Micro\nè la versione con il gambale più basso (micro) dello stivaletto Classic UGG. Offre il massimo del comfort e del calore tipico del brand in una silhouette ridotta e versatile.\nMateriali e Comfort\nTomaia:\nCamoscio\n(Suede) trattato, spesso con un\ntrattamento idrorepellente\napplicato per una maggiore resistenza all'acqua (sebbene non siano completamente impermeabili).\nFodera e Soletta:\nRealizzate in\nautentico montone\n(o lana UGG\nupcycled\n) spesso con uno spessore di\n17 mm\nsulla soletta e sulla mascherina, noto per la sua capacità di regolare naturalmente la temperatura, mantenendo i piedi caldi in inverno e freschi in climi più miti.\nSuola:\nSuola leggera in EVA\n(Etilene Vinil Acetato) derivata da canna da zucchero, che fornisce ammortizzazione, flessibilità e un'impronta ambientale ridotta rispetto alle suole tradizionali in EVA derivata dal petrolio.\nDettagli Aggiuntivi\nDettagli Eco-Friendly:\nIl bordo in tessuto è spesso realizzato con\nfibre di poliestere riciclato\n.\nBranding:\nEtichetta UGG in pelle goffrata sul tallone.\nVestibilità:\nCalzata regolare.\nQuesto modello è la scelta ideale per chi cerca l'inconfondibile calore e comodità delle UGG, ma preferisce una scarpa più corta e meno ingombrante del modello Classic tradizionale.\nTaglie UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "sabot/pantofola da casa e tempo libero ultra-casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

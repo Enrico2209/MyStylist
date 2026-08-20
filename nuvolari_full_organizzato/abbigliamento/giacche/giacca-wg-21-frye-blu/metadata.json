@@ -20,5 +20,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-wg-21-frye-blu",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nGiacca Uomo Nuvolari\nLa\ngiacca\nNuvolari da abito è un capo elegante, perfetto per occasioni formali. Presenta un design classico con una vestibilità confortevole e dettagli semplici, ideale per completare un look raffinato.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nVedi Pantalone coordinato a questa giacca\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "Vedi Pantalone coordinato a questa giacca",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-uomo-nuvolari-w1-manik-blu-blu.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "elegante": 0.9
+    },
+    "formality": 4,
+    "formality_perche": "Giacca da abito classica e sartoriale, adatta a contesti formali e d'ufficio",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

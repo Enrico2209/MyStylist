@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-jorge-blu-chiaro-blu-chi-2",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Rayz Jorge: L’Evoluzione Urban del Denim Cargo\nJeans Uomo Rayz Modello Jorge Blu Chiaro\nRiscrivi le regole del denim con i Jeans Rayz Jorge. Questo modello non è un semplice jeans, ma un ibrido audace che fonde la resistenza del denim con il design funzionale dei cargo pants. Caratterizzato da una vestibilità rilassata e un lavaggio blu chiaro dall'anima vintage, il modello Jorge è progettato per chi cerca un look distintivo, tecnico e senza compromessi.\nDesign Multi-Pocket e Comfort Extra\nEstetica Utility-Core\n: Il tratto distintivo dei Rayz Jorge è il sistema di maxi-tasche cargo posizionate sulle cosce, arricchite da dettagli tecnici come zip a contrasto e cordini di regolazione. Una soluzione che unisce stile \"esploratore urbano\" a una praticità senza precedenti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in denim con coulisse vistosa, elastico in vita e maxi-tasche",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

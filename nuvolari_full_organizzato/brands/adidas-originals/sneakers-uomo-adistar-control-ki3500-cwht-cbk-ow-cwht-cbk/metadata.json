@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/sneakers-uomo-adistar-control-ki3500-cwht-cbk-ow-cwht-cbk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nAdidas Adistar Control\nL'Ingegneria del Running al servizio dello Stile\nCaratteristiche Principali\nDesign Stratificato\n: La tomaia è un mix complesso di mesh a trama larga per la traspirabilità e sovrapposizioni in materiale sintetico e pelle che garantiscono supporto e una profondità visiva tipica del design Y2K.\nTecnologia di Ammortizzazione\n: Spesso dotata di sistemi come\nAdiprene\no inserti in EVA a densità differenziata nell'intersuola, progettati per assorbire gli impatti e offrire un comfort superiore durante tutto il giorno.\nSupporto e Stabilità\n: Il sistema \"Control\" si riflette nella struttura mediale rinforzata, studiata originariamente per correggere la falcata e oggi perfetta per garantire una camminata sicura su ogni superficie urbana.\nEstetica Heritage\n: Le iconiche tre strisce Adidas sono integrate lateralmente, spesso con finiture riflettenti o texture gommate che sottolineano l'anima tecnica della scarpa.\nSuola ad alta trazione\n: Il battistrada in gomma resistente presenta un disegno articolato che assicura un grip eccellente, fedele alle sue radici da scarpa da allenamento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running/lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

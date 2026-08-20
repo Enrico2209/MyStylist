@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-we-medley-jeans",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nCamicia Jeans da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Nuvolari modello Medley - Jeans\nCollo coreano\nMotivo puntinato\nAbbottonatura centrale\nPolsini con bottoni\nVestibilità Regular\nTessuto denim\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Camicia con collo alla coreana in tessuto denim, a meta tra casual e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

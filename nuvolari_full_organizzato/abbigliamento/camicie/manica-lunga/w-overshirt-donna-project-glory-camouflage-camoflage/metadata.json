@@ -19,5 +19,30 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/w-overshirt-donna-project-glory-camouflage-camoflage",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nOvershirt Donna Proj3Ct Glory Camouflage\nL'overshirt da donna Proj3ct in verde militare è caratterizzata da un design pratico e contemporaneo, con due ampi tasconi frontali che aggiungono funzionalità e stile. Perfetta per un look casual dal tocco deciso, è un capo versatile adatto a diverse occasioni.\nAbbinala ad un paio di\nsneakers\ne ad una\nborsa\nper completare il tuo oufit con stile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: GLORY CAMOUFLAGE-CAMOFLAGE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    },
+    {
+      "testo": "borsa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/accessori-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "overshirt con fantasia camouflage e tasconi, stile prettamente casual e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "camouflage"
+  }
 }

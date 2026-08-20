@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-ts-joy-grg-chiaro-grg-chi-3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nRayz Ts Joy: L'Essenziale Urban dal Carattere Vintage\nT-Shirt Uomo Rayz Ts Joy\nRiscopri il piacere della semplicità con la T-shirt Rayz Ts Joy. Progettata per chi predilige un'estetica pulita ma ricercata, questa maglia si distingue per il suo particolare trattamento di tintura \"Garment Dye\", che conferisce al tessuto un aspetto autentico e leggermente vissuto. Un capo versatile, capace di adattarsi con naturalezza a ogni stratificazione del tuo outfit quotidiano.\nMorbidezza Superiore e Design Timeless\nCotone Premium Tintura in Capo\n: Realizzata in morbido cotone di alta qualità, la Ts Joy subisce un processo di tintura a capo finito che crea sfumature uniche, specialmente in prossimità delle cuciture, garantendo al contempo un tocco estremamente piacevole sulla pelle.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con vestibilita rilassata e lavaggio vintage",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

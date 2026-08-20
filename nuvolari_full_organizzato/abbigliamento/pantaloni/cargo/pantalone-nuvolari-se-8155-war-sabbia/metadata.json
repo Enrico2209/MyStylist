@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-nuvolari-se-8155-war-sabbia",
-  "image_count": 9
+  "image_count": 9,
+  "descrizione_completa": "Descrizione\nPantalone cargo da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Cargo Nuvolari modello 8155 War - Sabbia\nChiusura con zip e bottone\nVita media\nDue tasche frontali\nDue tasconi sulle gambe\nDettaglio tascone gamba sinistra con chiusura zip\nDue tasche posteriori di cui una con chiusura zip\nPatch logo cucita sulla tasca posteriore\nSalpa logata sul retro vita\nVestibilità Regular-Cropped\nComposizione 100% Cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali e dettagli zip, stile workwear/casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

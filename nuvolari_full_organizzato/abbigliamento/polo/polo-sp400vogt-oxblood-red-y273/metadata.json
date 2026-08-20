@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-sp400vogt-oxblood-red-y273",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'heritage scozzese e l'eleganza sportiva senza tempo si fondono nella nuova\nPolo Uomo Lyle & Scott SP400 in Oxblood Red\n, un grande classico del guardaroba maschile riproposto in una calda e profonda tonalità rosso vinaccia. Questo capo incarna la quintessenza dello stile casual-chic britannico, con la sua iconica aquila d'oro ricamata sul petto.\nDesign e Caratteristiche Principali\nPregiato Piquet di Cotone:\nconfezionata in cotone piquet dalla texture strutturata e resistente, garantisce traspirabilità e una mano corposa che mantiene la forma nel tempo.\nNuance Oxblood Red Profonda:\nuna tonalità rosso vinaccia intensa e sofisticata, estremamente versatile e capace di aggiungere carattere sia ai look neutri che a quelli più decisi.\nAquila Ricamata Signature:\nl'inconfondibile logo dell'aquila dorata Lyle & Scott campeggia ricamato sul petto, firma di autenticità del brand.\nColletto e Polsini a Costine:\ncollo con abbottonatura a due bottoni e bordi in maglia a costine che rifiniscono con precisione colletto e maniche.\nTaglio Regular Fit:\nsilhouette classica e comoda che asseconda le linee del corpo senza costrizioni, per una vestibilità versatile e senza tempo.\nIdee di Stile: Linka il Tuo Outfit\nHeritage Smart-Casual:\nesalta l'anima british della polo abbinandola a dei\npantaloni uomo\nchino e mocassini in pelle, per un outfit curato da aperitivo o ufficio informale.\nWeekend Denim Mood:\ngioca sulla versatilità del rosso vinaccia accostandolo a un paio di\njeans uomo\ne a una sneaker bianca pulita, per un look quotidiano rilassato ma ordinato.\nSummer Layering:\nper le giornate più calde indossala con dei\nbermuda uomo\nin tinta neutra, completando con un\ncappello uomo\ncon visiera per un tocco sportivo.\nScegli l'eleganza intramontabile e il fascino heritage della Polo Lyle & Scott SP400 in Oxblood Red: un capo iconico che non passa mai di moda. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo: SP400VOGT OXBLOOD RED-Y273",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piquet di cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

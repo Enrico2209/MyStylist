@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/evolution-box-hald-dome-tee-nf0a8g9c-tnf-black-jk31",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo The North Face Evolution Box Half Dome Tee TNF Black\nesprime l'anima urban del brand attraverso un design grafico pulito e simmetrico. Costruita su una base nera solida, questa maglietta reinterpreta il classico immaginario The North Face mettendo in primo piano un contrasto visivo netto e geometrico posizionato centralmente sul petto.\nDesign e Caratteristiche Principali\nGrafica Frontale \"Evolution Box\"\n: Il fronte del capo è caratterizzato da un grande riquadro bianco pieno al cui interno è intagliato, in nero a contrasto negativo, il celebre logo Half Dome a mezza cupola.\nClaim Iconico Centrato\n: Subito sotto la stampa del box geometrico trova spazio la scritta in lettere maiuscole \"NEVER STOP EXPLORING\", che sottolinea la storica filosofia del brand dedicata all'avventura.\nColorazione TNF Black\n: La tonalità nero profondo della maglietta funge da sfondo perfetto per far risaltare la purezza e la luminosità della stampa centrale bianca.\nTaglio Regular Fit\n: La vestibilità classica assicura una linea versatile e comoda sul busto, rendendo il capo adatto sia per l'uso quotidiano in città sia per i momenti di tempo libero all'aria aperta.\nGirocollo a Costine Elasticizzato\n: Il colletto presenta una finitura flessibile studiata appositamente per resistere ai lavaggi frequenti e mantenere la struttura originaria senza deformarsi.\nTessuto in Puro Cotone\n: Realizzata interamente in filato di cotone morbido e traspirante, garantisce una sensazione di freschezza costante sulla pelle anche durante le giornate più calde.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questa t-shirt grafica dall'attitudine street:\nUrban Monochrome\n: Indossala con dei\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica di marchio outdoor, tetto massimo di formalita pari a 2",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

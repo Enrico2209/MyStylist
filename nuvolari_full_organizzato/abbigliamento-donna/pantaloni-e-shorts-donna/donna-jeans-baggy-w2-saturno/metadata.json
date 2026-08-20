@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/donna-jeans-baggy-w2-saturno",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans da Donna Proj3ct - Stile Baggy a Vita Alta\nAggiungi un tocco di stile contemporaneo al tuo guardaroba con questi jeans da donna Proj3ct. Perfetti per chi ama la comodità senza rinunciare al design, offrono un taglio moderno e rilassato, ideale per ogni giorno.\nIl design è caratterizzato da una\nvita alta\ne una\ngamba ampia\nche scende dritta per una silhouette audace e di tendenza. La finitura in denim scuro con leggere sfumature dona un look vissuto e versatile. Un dettaglio distintivo sono le cuciture orizzontali sulla parte frontale, che aggiungono un tocco originale al modello.\nLa composizione del tessuto è pensata per unire comfort e durata: la miscela di\ncotone\ngarantisce traspirabilità, il\npoliestere\nassicura resistenza, la\nviscosa\nrende il tessuto morbido al tatto, mentre l'\nelastane\naggiunge quel tanto di elasticità necessario per una vestibilità perfetta.\nCon le classiche cinque tasche e la chiusura con bottone e zip, questi jeans sono un capo essenziale da abbinare a crop top, maglioni oversize o sneakers per un look casual ma ricercato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n60% cotone, 31% poliestere, 8% viscosa, 1% elastane\nVestibilità regular\nCodice articolo: W2 SATURNO DNM MEDIO-DNM MEDIO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Jeans denim con vestibilità baggy e cuciture particolari, abbassano la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

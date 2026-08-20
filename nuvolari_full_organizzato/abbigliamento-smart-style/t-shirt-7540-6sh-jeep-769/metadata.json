@@ -20,5 +20,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-7540-6sh-jeep-769",
-  "image_count": 3
+  "image_count": 3,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica in jersey di cotone, marchio sportivo/casual",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

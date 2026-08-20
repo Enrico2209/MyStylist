@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-ch5620-abysm-hde",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'eleganza sportiva francese incontra la raffinatezza del quotidiano nella\nCamicia Uomo Lacoste CH5620 in Blu Abysm\n, un capo dal design pulito realizzato in cotone di qualità e impreziosito dall'iconico coccodrillo verde ricamato sul petto.\nDesign e Caratteristiche Principali\nCotone di Qualità:\ntessuto compatto e piacevole al tatto, resistente e facile da indossare in ogni occasione.\nNuance Blu Abysm:\nuna profonda tonalità blu abisso, elegante e versatile, perfetta per look formali e casual.\nCoccodrillo Ricamato Signature:\nl'inconfondibile logo del coccodrillo Lacoste spicca ricamato sul petto, firma di autenticità del brand.\nColletto Classico:\ncollo curato con abbottonatura frontale, per un aspetto ordinato e raffinato.\nTaglio Regular Fit:\nvestibilità comoda e pulita, ideale da indossare dentro o fuori dai pantaloni.\nIdee di Stile: Linka il Tuo Outfit\nSmart Casual:\nabbina la camicia a un paio di\npantaloni uomo\nchino e mocassini per un look ordinato e raffinato.\nLayering Sportivo:\nindossala sotto una\nfelpa uomo\ngirocollo lasciando il colletto in evidenza per un tocco preppy.\nWeekend Denim:\ncompletala con dei\njeans uomo\ne sneakers per un outfit disinvolto ma curato.\nAggiungi versatilità ed eleganza al tuo guardaroba con la Camicia Lacoste CH5620 in Blu Abysm. Acquistala ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia classica regular fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

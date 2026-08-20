@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-terry-kaky-kaky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Terry\nsono la versione short dell'omonimo pantalone, pensati per chi cerca la stessa libertà di movimento e praticità in un taglio estivo sopra il ginocchio.\nDesign e Comfort\nTessuto Elasticizzato\n: La composizione al\n97% in cotone\ne\n3% elastane\nassicura un'ottima traspirabilità e una flessibilità che si adatta dinamicamente ai movimenti.\nVita Ibrida\n: Presentano una fascia elastica in vita per il massimo comfort, integrata con una chiusura classica a bottone centrale scuro.\nCoulisse Regolabile\n: I lacci esterni sottili permettono di modulare la chiusura in vita, aggiungendo un tocco casual e funzionale al design.\nFondo con Risvolto\n: La finitura della gamba con risvolto cucito dona struttura al capo, mantenendo un look ordinato e contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo:S3 SH TERRY KAKY-KAKY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda casual con coulisse e vita elastica, abbassato a 2 per la struttura sportiva/relax",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

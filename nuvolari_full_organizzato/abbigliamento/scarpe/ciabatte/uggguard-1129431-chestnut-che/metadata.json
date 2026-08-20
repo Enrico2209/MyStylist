@@ -16,5 +16,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/uggguard-1129431-chestnut-che",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.2,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta/sabot in gomma, calzatura da spiaggia o casa",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/lacoste/polo-lacoste-slim-fit-navy-blue",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa\npolo da uomo\nfirmata\nLacoste\nè un capo di abbigliamento che, nonostante gli anni, rimane un’invariabile certezza di cui non riusciamo mai a fare a meno.\nQuesta\nmaglietta\na\nmanica corta\nblu navy si chiude con due bottoni e ha il colletto.\nE’ una\nmaglietta\na\ntinta unita\n, un modello semplice, un capo slim fit realizzato in cotone.\nSe sei amante del brand Lacoste dai un'occhiata su\nNuvolari\nai suoi\ncapi di abbigliamento!\nIl modello indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPolo da uomo di Lacoste slim fit blu navy\nVestibilità slim\nComposizione: 100% cotone\nCodice Prodotto: PH4012 NAVY BLUE-166",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi di abbigliamento!",
+      "categoria_url": "https://www.nuvolari.biz/brands/lacoste"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica, la vestibilità slim alza leggermente il tono smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

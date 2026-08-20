@@ -23,5 +23,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-oasis-skimpy-pant-0vowsw-bone-3021",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura surf internazionale, l'innovazione tecnologica applicata ai materiali acquatici e il design solare australiano si incontrano nelle collezioni di\nCostumi Donna Rip Curl\n. Fondato nel 1969 a Torquay, nella leggendaria Bells Beach, il brand \"The Ultimate Surfing Company\" ha ridisegnato il concetto di beachwear femminile, creando bikini e costumi interi che fondono una vestibilità ad alte prestazioni atletiche a un'estetica fresca, colorata e di grande tendenza.\nDesign, Tecnologie e Linee Principali\nLa Linea Mirage (The Ultimate Swimwear)\n: Vero e proprio fiore all'occhiello tecnologico del brand. Questi costumi sono realizzati con tessuti premium stretch multidirezionali ed elasticizzati in ordito, progettati per rimanere perfettamente stabili sul corpo anche durante le sessioni di surf, kitesurf o nuoto più intense, eliminando qualsiasi fastidioso scivolamento.\nEconyl® e Materiali Sostenibili\n: In sintonia con l'amore per l'oceano, Rip Curl utilizza ampiamente filati in nylon rigenerato Econyl® ricavati dal recupero di reti da pesca e plastiche oceaniche. Tessuti ecologici che offrono un'eccellente resistenza al cloro, alle creme solari e ai raggi UV, mantenendo l'elasticità inalterata nel tempo.\nMix & Match e Tagli Versatili\n: Le collezioni bikini offrono la massima libertà di personalizzazione, permettendo di combinare top (a triangolo, brassière sportiva, balconcino o crop-top protettivo) e slip (da tagli cheeky e brasiliani a sgambature rétro a vita alta) per adattarsi millimetricamente a ogni silhouette e livello di copertura desiderato.\nStampe Tropicali e Palette Rétro-Vibe\n: L'estetica del brand celebra la libertà del viaggio. Le grafiche spaziano da romantici micro-floreali d'ispirazione vintage anni '70 a macro stampe botaniche hawaiane, fino a blocchi di colore neon e textures geometriche dal sapore preppy e californiano.\nIdee di Stile: Costruisci il Tuo Look Beach & Lounge\nAuthentic Surfer Girl Look\n: Esalta l'anima tecnica e sportiva del brand per le tue giornate attive sul bagnasciuga. Coordina un bikini top a brassière della linea Mirage a uno slip sportivo, completando la protezione con un cappello con visiera ricurva, un occhiale da sole lifestyle specchiato Oakley e un calzino a coste spugnato Deus Ex Machina per gli spostamenti in skate.\nMetropolitan Beachwear Transition\n: Per muoverti fluidamente dalla spiaggia a un pool party o a un aperitivo al tramonto, gioca sui contrasti strutturati dello streetwear d'élite. Utilizza un costume intero Rip Curl a fantasia tropicale come se fosse un body, abbinandolo alla morbidezza e alla freschezza di un pantalone modello pantalaccio in lino leggero.\nSmart Summer Lounge Mix\n: Smorza l'impronta puramente sportiva del bikini unendo l'eclettismo del nylon alla nobiltà delle fibre naturali. Indossa il tuo due pezzi Rip Curl sotto la precisione lineare e ariosa di una delle freschissime camicie in puro lino fiammato bianco, lasciandola completamente aperta per un'aria disinvolta e chic.\nVivi l'estate e il richiamo delle onde senza scendere a compromessi tra funzionalità sportiva e stile. Scegli la resistenza dei materiali eco-consapevoli, la stabilità strutturale dei tagli e l'inconfondibile energia solare dei costumi donna firmati Rip Curl.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "slip bikini da donna, capo intimo/mare di livello 1",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

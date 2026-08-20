@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/hinnominate-short-hmabw02608-nude-ro06",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica loungewear d'ispirazione menswear viene completamente riscritta per dare vita a un capo estivo fresco, audace e di assoluta tendenza. Gli\nShort Donna Hinnominate Nude\nsi appropriano del classico design del boxer maschile in cotone, trasformandolo in un pezzo chiave dello streetwear daily. Caratterizzato da un motivo a micro-righe verticali bianche e rosa confetto (che vira verso una delicata tonalità nude-rosata), questo modello unisce un comfort impareggiabile a un'attitudine effortless ed estremamente cool.\nDesign e Caratteristiche Principali\nSilhouette Boxer Cut d'Ispirazione Maschile\n: Il tratto distintivo del pantaloncino è il taglio rilassato e la gamba corta e svasata, che richiama l'intimo d'archivio maschile adattandolo perfettamente alle forme e alle esigenze dello stile urban femminile.\nFascione Elastico Arricciato in Vita\n: Progettato con una spessa fascia elastica arricciata che si poggia morbida sui fianchi o sul punto vita, garantendo un fit super flessibile, confortevole e stabile per tutta la giornata.\nEtichetta Logo Frontale Center-Stage\n: Posizionata centralmente sul davanti lungo il fascione elastico, spicca l'etichetta rettangolare con il lettering ufficiale\n\"HINNOMINATE\"\n, che firma il capo con un accento grafico minimale e identitario.\nFinta Patta Anteriore con Bottoni\n: Il pannello frontale è arricchito da una finta apertura verticale dotata di due piccoli bottoni bianchi a contrasto, un dettaglio sartoriale che sottolinea l'estetica rétro e accattivante del boxer.\nTessuto Leggero in Cotone Popeline\n: Confezionato in una tela di cotone fine, fresca e incredibilmente traspirante, ideale per mantenere la massima leggerezza e fluidità sulla pelle anche durante le giornate più calde.\nIdee di Stile: Crea la Tua Wave\nThe Preppy Summer Coordinates\n: Abbina gli short alla sua camicia cropped gessata in coordinato per un total look di grande impatto visivo. Completa l'outfit con calze bianche a vista e una sneaker bassa da skate o un mocassino bold.\nVolume Contrast Basic Uniform\n: Bilancia la silhouette svasata del boxer indossandolo con un top super aderente a coste o una canotta della linea Hinnominate (in tinta unita moka o bianco ottico) infilata nel fascione, chiudendo il cerchio con una sneaker chunky.\nStreet Layering Attitude\n: Crea un outfit multistrato perfetto per il tempo libero abbinando il pantaloncino a una t-shirt cropped oversize o lasciando cadere sulle spalle una felpa leggera aperta, aggiungendo una borsa a tracolla tecnica.\nSperimenta nuove geometrie e fai tuo il trend più forte della stagione. Scegli l'attitudine d'avanguardia di Hinnominate e scendi in strada pronta a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "Design stile boxer intimo/loungewear con elastico arricciato, livello massimo di informalità",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

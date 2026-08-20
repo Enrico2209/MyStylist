@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-rru90059cq310102-bleach-denim-c0999",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Roy Roger's Bleach Denim\nè l'essenza del casual americano reinterpretato con la maestria sartoriale italiana. Caratterizzata da un lavaggio \"bleach\" chiaro e luminoso, questa camicia in denim leggero è un pezzo iconico e senza tempo, perfetto per chi cerca un look rilassato ma estremamente curato nei dettagli.\nRoy Roger's Bleach Denim L'Anima Blue Jeans in Versione Light\nPerché sceglierlo\nIl punto di forza di questa camicia è la versatilità del suo lavaggio. Il trattamento\nbleach\ndona al tessuto una morbidezza superiore e una tonalità di azzurro etereo che si abbina perfettamente a ogni stagione. È il capo ideale per creare contrasti materici interessanti, funzionando egregiamente sia come camicia tradizionale sia come \"over-shirt\" leggera sopra una t-shirt bianca.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "camicia in denim lavaggio bleach, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

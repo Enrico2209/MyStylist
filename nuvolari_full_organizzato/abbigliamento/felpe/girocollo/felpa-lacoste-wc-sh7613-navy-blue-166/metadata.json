@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/girocollo/felpa-lacoste-wc-sh7613-navy-blue-166",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo Lacoste Sport modello SH7613\nGirocollo\nMisto cotone\nPatch logo coccodrillo verde ricamato sul petto\nVestibilità regular fit\nComposizione : 83% cotone 17% poliestere Poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo classica, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

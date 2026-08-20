@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-lw2207v-white-626",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Camicia Uomo Lyle & Scott in 70% cotone e 30% lino mostrata nell'immagine è l'epitome dell'eleganza estiva. Questa miscela di tessuti nobili è stata selezionata per offrire un capo che unisca la struttura pulita della camicia classica alla freschezza inconfondibile delle fibre naturali.\nPerché sceglierla\nIl mix 70/30 è considerato il \"gold standard\" per l'estate: il cotone (70%) assicura che la camicia mantenga la sua forma e sia più facile da stirare rispetto al lino puro, mentre il lino (30%) aumenta drasticamente la traspirabilità e dona quella texture leggermente fiammata e opaca che definisce lo stile vacanziero raffinato.\nConsigli di Outfit\nChic Estivo\n: Abbinala al Pantalone Cargo Nuvolari color tabacco (51% lyocell, 27% lino, 22% cotone) per un outfit che gioca con le fibre naturali e i toni della terra.\nSmart Business:\nIndossala sotto la Maglia Lyle & Scott Dark Navy per un contrasto cromatico classico; il colletto button-down rimarrà perfettamente in posizione sotto il girocollo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n70% cotone, 30% lino\nVestibilità regular\nCodice articolo: LW2207V WHITE-626",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.4,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Camicia button-down in misto cotone e lino, ideale per contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-coari-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBermuda Uomo Rayz – 100% Cotone\nAffronta l'estate con la leggerezza e la freschezza naturale dei bermuda Rayz. Realizzati interamente in puro cotone, questi pantaloncini sono il pilastro fondamentale del guardaroba maschile per il tempo libero: un mix perfetto di resistenza, traspirabilità e stile casual senza tempo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: SH COARI SABBIA-SABBIA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo in felpa di cotone con coulisse, capo prettamente casual per il tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

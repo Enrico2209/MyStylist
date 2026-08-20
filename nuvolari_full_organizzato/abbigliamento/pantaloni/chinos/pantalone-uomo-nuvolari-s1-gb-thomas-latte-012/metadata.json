@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-s1-gb-thomas-latte-012",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Nuvolari Gb Thomas Latte\nIl\npantalone\nuomo del brand\nNuvolari\noffre un perfetto equilibrio tra comfort e flessibilità. Questo capo moderno ed elegante è ideale per ogni situazione, che si tratti di un incontro formale o di un'uscita casual. Il design versatile e raffinato rende questi pantaloni un must-have nel guardaroba di ogni uomo attento allo stile.\nAbbinalo ad un paio di\nsneakers\ne ad una\nt-shirt\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione Pantalone Uomo Nuvolari S1 GB THOMAS\nVestibilità Regular\nComposizione: 98%COTONE - 2%ELASTAN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in cotone elasticizzato, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

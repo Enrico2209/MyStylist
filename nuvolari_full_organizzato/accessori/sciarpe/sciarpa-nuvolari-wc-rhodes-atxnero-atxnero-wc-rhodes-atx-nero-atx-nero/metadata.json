@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/sciarpe/sciarpa-nuvolari-wc-rhodes-atxnero-atxnero-wc-rhodes-atx-nero-atx-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nSciarpa Uomo Nuvolari modello Rhodes\nComposizione : 100% acrilico",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa classica con frange, adatta a contesti smart casual e quotidiani",
+    "season": "inverno",
+    "pattern": "stampato"
+  }
 }

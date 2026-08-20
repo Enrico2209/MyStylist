@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-abit0-hmabw02517-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nFemminilità contemporanea e attitudine urban si fondono nell'\nAbito Donna Hinnominate HMABW02517 in Nero\n, un capo dal taglio moderno e versatile, firmato dall'inconfondibile lettering del brand italiano.\nDesign e Caratteristiche Principali\nTessuto Morbido:\nmateriale confortevole ed elastico che avvolge la silhouette con naturalezza, piacevole da indossare tutto il giorno.\nIntramontabile Nero:\nuna tonalità piena ed elegante, la più versatile in assoluto, perfetta dal giorno alla sera.\nLogo Signature:\nl'inconfondibile lettering Hinnominate impreziosisce il capo, firma di stile del brand.\nLinea Moderna:\ndesign pulito e attuale dal mood urban chic, che valorizza la figura con eleganza disinvolta.\nVestibilità Versatile:\nsilhouette contemporanea, ideale da reinterpretare in mille occasioni.\nIdee di Stile: Linka il Tuo Outfit\nUrban Chic:\nabbina l'abito a delle sneakers e un\ngiubbotto donna\nper un look street dinamico.\nSera Elegante:\ncompletalo con accessori raffinati e décolleté per un outfit serale d'effetto.\nLayering Casual:\nindossalo con una\nfelpa donna\nper uno stile comodo dal mood athleisure.\nAggiungi un tocco urban chic al tuo guardaroba con l'Abito Hinnominate HMABW02517 in Nero. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Abito in jersey/costina dal taglio sportivo/urban con piccolo logo, adatto a un uso quotidiano informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

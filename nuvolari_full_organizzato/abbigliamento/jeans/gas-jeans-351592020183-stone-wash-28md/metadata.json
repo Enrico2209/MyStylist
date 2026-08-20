@@ -23,5 +23,29 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/gas-jeans-351592020183-stone-wash-28md",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nJeans Uomo Gas Stone Wash\nrappresentano un pilastro fondamentale del guardaroba denim maschile, riassumendo in un'unica soluzione lo spirito autentico del brand e la versatilità di un lavaggio intramontabile. Trattati con un lavaggio indaco medio-scuro sfumato ad effetto pietra (\"Stone Wash\"), questi jeans si distinguono per baffature e chiaroscuri naturali localizzati sulle cosce e sulle ginocchia, che donano al tessuto un aspetto vissuto ma estremamente curato, ideale per assecondare sia i look casual da tempo libero sia gli abbinamenti smart-casual urbani.\nDesign e Caratteristiche Principali\nTela Denim di Cotone Strutturata e Confortevole\n: Confezionati in una robusta tela denim di cotone di alta qualità arricchita da una leggera componente elastica. Questo intreccio assicura la massima resistenza all'usura nel tempo senza rinunciare alla flessibilità necessaria per garantire un comfort ottimale nei movimenti quotidiani.\nLavaggio Stone Wash con Dissolvenze Naturali\n: Il trattamento di lavaggio a pietra crea un contrasto cromatico graduale, schiarendo la base indaco profonda lungo le zone di naturale sfregamento. Le cuciture color tabacco a contrasto evidenziano l'architettura classica del pantalone, richiamando la tradizione del denim heritage.\nCostruzione Classica a Cinque Tasche\n: Il modello rispetta il design iconico a 5 tasche, con due tasche posteriori sagomate, due tasche frontali arrotondate e il caratteristico taschino porta-monete sul lato destro. Quest'ultimo è personalizzato con l'applicazione della micro-etichetta in tessuto con il logo GAS a doppia freccia.\nChiusura Tradizionale e Salpa Posteriore\n: Presenta una chiusura frontale affidata a una patta con zip metallica e un bottone a chiodo personalizzato in vita con finitura ramata opaca. Sul retro, il cinturino è rifinito con la classica salpa logata in pelle sintetica bianca che certifica l'autenticità della linea Gas Denim.\nSilhouette Slim Fit Moderna\n: Il pantalone è caratterizzato da un taglio asciutto che segue le linee della gamba in modo armonioso dal bacino fino al fondo, definendo una silhouette slanciata e pulita senza risultare eccessivamente aderente o costrittiva.\nProposta di Outfit\nDouble Denim Heritage Style\n: Abbinalo alla\ngiacca di jeans\nin tela vissuta coordinata e indossa sotto una t-shirt bianca essenziale; il contrasto materico tra le diverse sfumature di lavaggio stone wash strutturerà un total look in denim intramontabile, grintoso e di ispirazione street-workwear.\nSmart Casual Office\n: Indossalo insieme alla\ncamicia\na righe bianche e azzurre dal taglio regular e completa il look con una scarpa stringata scamosciata o un mocassino; la pulizia delle righe sottili bilancerà perfettamente l'attitudine casual del jeans sfumato, definendo un outfit impeccabile per il venerdì informale in ufficio o un incontro di lavoro diurno.\nPreppy Summer Casual\n: Portalo in abbinamento alla polo azzuro polvere con profili bianchi a contrasto; la delicatezza della sfumatura pastello della polo esalterà i chiaroscuri della tela indaco dello stone wash, creando un insieme fresco, luminoso e perfetto per un aperitivo o una passeggiata serale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca di jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim fit con lavaggio stone wash, classico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

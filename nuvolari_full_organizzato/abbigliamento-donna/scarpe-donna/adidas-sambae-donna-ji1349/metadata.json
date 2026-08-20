@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/adidas-sambae-donna-ji1349",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe adidas Sambae JI1349 portano l'iconico design delle Samba a nuove vette, letteralmente. Questa versione rivisita la silhouette classica del calcio indoor con una suola platform in gomma naturale che aggiunge altezza e un tocco di modernità senza tradire il DNA originale del brand.\na tomaia è realizzata in pelle premium con l'immancabile punta a T in suede, garantendo un look pulito e sofisticato. La colorazione \"Wonder White\" offre una tonalità di bianco calda e versatile, perfetta per chi cerca un'alternativa raffinata al bianco ottico tradizionale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComponente\nDettaglio\nCaratteristica\nTomaia\nPelle di alta qualità con rinforzi in suede\nDurata e finitura di lusso\nSuola\nPlatform in gomma naturale (Gum)\nAltezza extra e grip eccellente\nFodera\nTessuto morbido\nComfort duraturo per tutto il giorno\nChiusura\nLacci piatti\nStile classico e regolazione sicura",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers classiche da donna, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

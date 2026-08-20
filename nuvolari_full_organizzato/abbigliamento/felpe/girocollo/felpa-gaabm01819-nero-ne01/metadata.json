@@ -25,5 +25,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-gaabm01819-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Gaëlle Paris: Stile Audace e Comfort Streetwear\nLa felpa da uomo\nGaëlle Paris\nè l'espressione perfetta di un'estetica streetwear che non ha paura di osare. Combinando materiali di alta qualità con design audaci e un'estetica distintiva, queste felpe sono molto più di un semplice capo casual: sono una dichiarazione di stile e personalità.\nDesign Unico e Riconoscibile:\nLe felpe Gaëlle Paris si distinguono per il loro design d'impatto. Le stampe grafiche, i loghi oversize, le scritte in rilievo e i dettagli metallici rendono ogni capo unico. L'uso audace del colore e l'attenzione ai particolari trasformano un capo sportivo in un elemento di moda.\nMateriali di Alta Qualità:\nRealizzate in\ncotone felpato\n, le felpe sono morbide e confortevoli sulla pelle, ideali per le giornate più fresche. I tessuti sono selezionati per garantire durabilità e per mantenere la vivacità dei colori e la nitidezza delle stampe nel tempo.\nVestibilità e Comfort:\nCon vestibilità che spaziano dal\nregular fit\nal\noversize\n, le felpe Gaëlle Paris offrono un comfort eccezionale e una silhouette moderna. I polsini e il fondo a costine assicurano una vestibilità stabile e pulita, mentre il cappuccio e le tasche a marsupio (nei modelli con cappuccio) aggiungono un tocco di praticità.\nVersatilità Streetwear:\nQuesta felpa non è solo un capo da indossare in casa. Abbinala a dei\njeans\ndistressed o a dei pantaloni\ncargo\nper un look streetwear completo. È perfetta anche per un outfit a strati, da indossare sopra una t-shirt e sotto un\ngiubbotto in pelle\no un\nbomber\n.\nLa felpa Gaëlle Paris è l'accessorio chiave per chi vuole distinguersi con uno stile contemporaneo e di carattere.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n90% cotone, 10% poliestere\nVestibilità regular\nCodice articolo: GAABM01819 NERO-NE01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "giubbotto in pelle",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/giacche-in-pelle-uomo.html"
+    },
+    {
+      "testo": "bomber",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo con grafica logo grande a contrasto, abbinata a cargo e bomber",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

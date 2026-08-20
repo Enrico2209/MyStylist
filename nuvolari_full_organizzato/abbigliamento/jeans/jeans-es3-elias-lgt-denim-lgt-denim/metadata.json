@@ -26,5 +26,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-es3-elias-lgt-denim-lgt-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nJeans Uomo Nuvolari Elias Lgt Denim\nincarna l'essenza del denim autentico e rilassato, perfetto per la stagione estiva grazie al suo lavaggio chiaro e alla silhouette contemporanea. Caratterizzato da sfumature naturali ed equilibrate, questo modello a cinque tasche si propone come un pilastro fondamentale per i look daily e per il tempo libero, unendo un'attitudine street a un comfort d'uso superiore.\nDesign e Caratteristiche Principali\nTela Denim in Cotone di Alta Qualità\n: Realizzato in un denim di cotone resistente ma morbido al tatto, trattato per garantire un'ottima flessibilità e una piacevole sensazione di freschezza sulla pelle, ideale per affrontare con disinvoltura le giornate più calde.\nLavaggio Light Blue con Effetto Delavé\n: La finitura cromatica azzurro chiaro presenta sabbiature e schiariture naturali concentrate lungo le cosce e sul retro, simulando una scoloritura d'ispirazione vintage che dona tridimensionalità e carattere al tessuto senza l'uso di vistose rotture.\nTaglio Regular Tapered Contemporaneo\n: Offre una vestibilità aggiornata che mantiene un volume comodo e morbido sui fianchi e sulle cosce, per poi stringersi in modo graduale e pulito lungo la gamba fino al fondo, valorizzando la figura in modo naturale.\nDettagli Sartoriali e Risvolto al Fondo\n: Presenta una classica costruzione a 5 tasche con cuciture a contrasto color tabacco, passanti in vita rinforzati e una chiusura centrale con bottone metallico e patta. Il fondo gamba è rifinito con un risvolto stirato che accorcia la linea alla caviglia, ideale per evidenziare le calzature stagionali.\nLabel Posteriore e Pulizia Visiva\n: La parte interna della cintura ospita l'etichetta bianca Nuvolari. Il design sul retro è pulito e privo di ricami eccessivi sulle tasche, mantenendo l'attenzione sulla qualità del lavaggio.\nProposta di Outfit\nUrban Heritage Streetwear\n: Abbinalo alla\nt-shirt Uat blu\ncon maxi stampa automotive frontale; il contrasto netto tra la base blu notte della maglietta e la tonalità chiara del jeans valorizzerà la grafica d'epoca bianca, creando un look casual di forte impatto e personalità.\nSmart Summer Knitwear Match\n: Portalo in abbinamento alla\npolo in maglia Karl beige\n; l'eleganza rilassata dello scollo a V senza bottoni e la morbidezza del filato crema eleveranno istantaneamente la natura informale del denim chiaro, definendo un perfetto outfit casual-chic per gli aperitivi estivi.\nMinimal Essential Contrast\n: Indossalo con la\nmaglia rasata Piranesi\n; le linee pulite e la texture liscia e uniforme della maglieria fine si sposeranno alla perfezione con il taglio tapered del jeans, dando vita a un look minimalista, ordinato ed estremamente confortevole per le fresche serate primaverili ed estive.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt Uat blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo in maglia Karl beige",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "maglia rasata Piranesi",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Jeans 5 tasche con lavaggio chiaro ed effetto delavé, tipico capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

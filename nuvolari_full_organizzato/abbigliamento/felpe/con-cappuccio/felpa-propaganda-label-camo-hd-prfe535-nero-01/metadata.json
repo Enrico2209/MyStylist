@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-propaganda-label-camo-hd-prfe535-nero-01",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nEssenza della Street Culture\n100% Cotone Premium: Prodotte integralmente in cotone di alta qualità, offrono una consistenza corposa ma traspirante, ideale per garantire isolamento termico e comfort superiore.\nComfort e Volumi: Progettate con una vestibilità comoda, spesso ispirata ai tagli oversize, che permette una totale libertà di movimento e uno stile rilassato.\nDettagli Iconici: Arricchite dalle celebri grafiche serigrafate, come l'iconico logo \"Snake\", che rimangono nitide e vibranti anche dopo numerosi lavaggi.\nFiniture di Qualità: Dotate di polsini e fondo a costine elasticizzate per mantenere la forma, oltre a cappucci foderati e coulisse robuste nei modelli Hoodie.\nDesign Funzionale: La classica tasca a marsupio aggiunge praticità e calore, completando la silhouette iconica del brand.\nLa felpa Propaganda è il capo perfetto da stratificare. Per un look invernale e primaverlie completo, indossala sotto un\nGiubbotto\nse invece cerchi un outfit prettamente sportivo, abbinala a delle\nsneakers\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: PRFE535 NERO-01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, capo casual quotidiano e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

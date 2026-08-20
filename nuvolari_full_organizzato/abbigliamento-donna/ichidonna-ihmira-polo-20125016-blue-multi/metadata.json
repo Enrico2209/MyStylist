@@ -25,5 +25,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/ichidonna-ihmira-polo-20125016-blue-multi",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Ichi Donna Ihmira Blue Multi\nreinterpreta lo stile preppy e la classica estetica sportiva d'ispirazione tennis vintage attraverso una palette fresca, eterea e spiccatamente estiva. Costruita su una fitta sequenza di righe orizzontali multicolore, questa polo a maniche corte combina linee pulite e comfort casual, confermandosi un capo versatile e ricco di carattere per i look quotidiani della bella stagione.\nDesign e Caratteristiche Principali\nFantasia a Righe Orizzontali Multicolore\n: Il corpo del capo è caratterizzato da un pattern geometrico a righe sottili e alternate, dominato dalle tonalità fredde e rilassanti del blu cielo, dell'azzurro e del glicine/lilla pastello, stese su una luminosissima base bianca che esalta la freschezza complessiva del design.\nColletto Classico in Tinta Unita Azzurro\n: In perfetto contrasto con la dinamicità delle righe del busto, il tradizionale colletto a polo dritto è realizzato in maglia compatta a costine in una solida tinta azzurro cielo, definendo con precisione e rigore la linea del collo.\nScollo con Chiusura a Tre Bottoni\n: Il pannello anteriore presenta la classica patta verticale rinforzata, completata da una chiusura lineare a tre bottoni chiari che consente di modulare l'apertura dello scollo, variando l'attitudine del capo da formale a squisitamente casual.\nTessuto in Maglia Leggera e Traspirante\n: Confezionata in un filato leggero di alta qualità lavorato a maglia tricot dalla texture morbida, flessibile e piacevole sulla pelle, studiata appositamente per offrire un comfort ottimale e un'eccellente traspirabilità durante le giornate calde.\nManiche Corte Lineari Regolari\n: Le maniche corte presentano un taglio dritto e proporzionato che accompagna la naturale linea della spalla, rifinite al fondo da orli piatti puliti con doppie cuciture invisibili per non interrompere la continuità della fantasia a righe.\nSilhouette Regular-Fit e Fondo Dritto\n: Il taglio scivola lineare lungo i fianchi senza costringere, assicurando una vestibilità flessibile che si presta sia a essere portata morbida sopra i capi inferiori, sia a essere inserita all'interno della cintura per evidenziare il punto vita.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 3,
+    "formality_perche": "polo classica a righe, smart casual quotidiano",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

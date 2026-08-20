@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-sh-dom-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nBermuda Rayz SH DOM: Il Denim che ridefinisce il Comfort Urban\nBermuda Cargo Denim Uomo Rayz SH DOM\nScopri l'equilibrio perfetto tra la resistenza del denim e la libertà di movimento. Il modello SH DOM di Rayz reinterpreta il classico bermuda cargo in chiave contemporanea, utilizzando un morbido tessuto 100% cotone dall'effetto stonewashed. È il capo ideale per chi cerca un look di carattere senza rinunciare alla comodità assoluta durante le sfide quotidiane.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: SH DOM BLU-BLU",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo in denim con coulisse ed elastico in vita",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

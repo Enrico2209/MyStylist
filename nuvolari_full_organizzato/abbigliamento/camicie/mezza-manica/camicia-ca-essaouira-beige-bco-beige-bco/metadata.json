@@ -26,5 +26,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-essaouira-beige-bco-beige-bco",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Essaouira Beige\nesprime un'eleganza estiva rilassata e un'attitudine resort-wear contemporanea, perfetta per le giornate calde e i momenti di tempo libero metropolitano. Caratterizzata da una delicata palette cromatica sui toni del beige fiammato e del sabbia, questa camicia a maniche corte reinterpreta il classico motivo a righe verticali attraverso un design fluido, fresco e dal forte impatto grafico minimalista.\nDesign e Caratteristiche Principali\nTessuto Leggero in 100% Poliestere\n: Confezionata in un tessuto tecnico purissimo, leggero e dalla texture finemente fiammata che imita la freschezza e l'aspetto del lino. Questa composizione garantisce un'asciugatura rapidissima, un'eccellente resistenza alle pieghe e una fluidità strutturale che scivola sul corpo senza aderire, ideale per mantenere un aspetto impeccabile anche con temperature elevate.\nPattern a Righe Verticali Heritage\n: La superficie è impreziosita da una fitta alternanza di righe verticali bianche di spessore variabile su fondo beige, un motivo classico che slancia otticamente la silhouette e dona un tocco di ricercatezza retrò al capo.\nColletto a Camporella (Cuban Collar)\n: Dotata di un colletto aperto d'ispirazione cubana con revers accennati, che lascia scoperto il collo in modo naturale e rilassato, definendo lo stile disinvolto e vacanziero tipico della linea.\nChiusura Lineare e Pulita\n: La patta frontale è rifinita con bottoni bianchi a quattro fori posizionati a passo regolare, che si fondono cromaticamente con le righe verticali della camicia, preservando l'armonia visiva del pannello centrale.\nTaglio Regular Fit Fluido\n: Il design propone una vestibilità regolare e squadrata con fondo dritto, pensata per essere indossata rigorosamente fuori dai pantaloni per assecondare un look easy e disimpegnato.\nProposta di Outfit\nResort Texture Contrast\n: Indossala al suo coordinato\nbermuda\n.\nUrban Casual Monochrome Match\n: Portala abbottonata insieme a un\npantalaccio in misto lino\nbeige o khaki; la continuità cromatica tono su tono tra la camicia e il pantalone lungo strutturerà un outfit fresco, minimale e bilanciato, perfetto per un aperitivo al tramonto.\nStreetwear Denim Vibe\n: Abbinala a un\njeans loose fit chiaro\nslavato con coulisse in vita; l'incontro tra le righe dall'attitudine sartoriale della camicia e lo spirito urban del denim azzurro darà vita a un mix underground contemporaneo e di grande tendenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: CA ESSAOUIRA BEIGE/BCO-BEIGE/BCO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/bermuda-sh-essaouira-beige-bco-beige-bco.html"
+    },
+    {
+      "testo": "pantalaccio in misto lino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans loose fit chiaro",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo cubano, stile resort/vacanziero, pensata per uso disimpegnato fuori dai pantaloni",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

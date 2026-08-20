@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/levis-back-pocket-tote-elevetation-005fv-0000-ocean-indigo-0000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del denim americano, la funzionalità degli accessori urban e la destrutturazione dei simboli storici del brand si fondono armoniosamente nella\nborsa Levi's Back Pocket Tote\n. Da sempre pioniere nell'universo del jeanswear, il marchio reinterpreta il concetto di borsa di tela quotidiana prendendo in prestito l'elemento più iconico e riconoscibile dei suoi pantaloni: la tasca posteriore. Questo accessorio unisce un'estetica fortemente nostalgica a una straordinaria versatilità metropolitana.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "borsa tote in denim, accessorio quotidiano molto informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

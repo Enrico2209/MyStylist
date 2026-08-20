@@ -25,5 +25,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-malachi-beige-beige",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl giubbotto Malachi Baecker è l'essenza del \"guscio tecnico\" contemporaneo, un capo che unisce la protezione dagli agenti atmosferici a un'estetica urbana estremamente pulita e sofisticata.\nMalachi: La Protezione Tecnica Urbana\nPerché sceglierlo\nQuesto giubbotto è progettato come risposta moderna alle esigenze della vita in città. La sua forza risiede nel Nylon Tecnico, un materiale che offre uno scudo contro vento e pioggia senza compromettere la traspirabilità. È il capospalla ideale per chi cerca un look minimale ma pretende prestazioni elevate.\nFocus Materiale e Dettagli\nNylon Tecnico High-Performance\n: Un tessuto leggero e resistente che garantisce idrorepellenza e protezione dal vento, mantenendo una mano liscia e opaca.\nDesign \"Guscio\"\n: La silhouette è asciutta e scattante, con un colletto rialzato che protegge la gola e finiture elasticizzate su polsini e fondo per una tenuta termica ottimale.\nUtility Smart\n: Presenta una tasca verticale sul petto con zip termosaldata e tasche laterali a filo, dettagli che sottolineano la fusione tra funzionalità e design contemporaneo.\nColori Disponibili\n: Proposto in\nBlu\ne\nNero\n, le due tonalità cardine del guardaroba maschile moderno.\nConsigli di Outfit\nTotal City Tech\n: Abbinalo al\nPantalaccio Nuvolari\ne a una sneaker tecnica come la\nAsics Gel-Kayano\nper un outfit metropolitano dinamico e confortevole.\nSmart Business\n: Indossalo sopra la\nCamicia Lyle & Scott a righe\ne la\nMaglia Dark Navy\nin cotone e merino. Il giubbotto Malachi smorza la formalità del look senza risultare fuori luogo.\nOutdoor Weekend\n: Portalo con il\nPantalone Cargo Nuvolari\ncolor tabacco e una\nPolo Lyle & Scott\nnera per un perfetto equilibrio cromatico e funzionale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo:MALACHI BEIGE-BEIGE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto guscio in nylon tecnico con finiture elasticizzate, stile casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

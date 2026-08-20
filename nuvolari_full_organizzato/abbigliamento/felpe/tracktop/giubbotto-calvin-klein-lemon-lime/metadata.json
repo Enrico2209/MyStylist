@@ -21,5 +21,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/tracktop/giubbotto-calvin-klein-lemon-lime",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\ngiubbotto\nWindbraker\nda uomo\ndi\nCalvin Klein Jeans\nè una giacca effetto bagnato.\nG\niacca gialla effetto bagnato\nQuesta giacca a vento gialla è realizzata in nylon. Ha il cappuccio con coulisse elasticizzata, delle tasche sul petto e laterali con chiusura a scatto.\nInternamente, ha un'altra tasca con chiusura a scatto e è foderata in rete mentre i polsini sono elasticizzati con linguette in velcro.\nSe vuoi un look completo, abbina questa giacca a vento gialla con questi\njeans Calvin Klein.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto Uomo giallo effetto bagnato\nVestibilità regular\nComposizione: 100% Nylon riciclato\nCodice Prodotto: J320268 LEMON LIME-LRE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans Calvin Klein.",
+      "categoria_url": "https://www.nuvolari.biz/jeans-calvin-klein-denim-medium.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giacca a vento sportiva/casual in nylon con cappuccio e coulisse",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

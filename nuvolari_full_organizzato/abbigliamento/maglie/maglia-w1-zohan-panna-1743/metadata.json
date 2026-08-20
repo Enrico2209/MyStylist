@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-w1-zohan-panna-1743",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari per Ogni Occasione\nEsalta il tuo guardaroba con la maglia uomo firmata Nuvolari, un capo versatile e di alta qualità pensato per garantire comfort e stile in ogni situazione. Realizzata con materiali pregiati e una cura artigianale nei dettagli, questa maglia è perfetta per completare look casual o smart-casual con un tocco di eleganza moderna.\nCaratteristiche:\nDesign minimal e raffinato per un look senza tempo\nMateriali morbidi e traspiranti per il massimo comfort\nFacile da abbinare a diversi capi del tuo guardaroba\nCrea il tuo outfit perfetto\nAbbina questa maglia con i nostri pantaloni cargo per un look casual e contemporaneo, disponibili qui:\nPantaloni Cargo\n. Per completare il tuo stile, scegli un paio di sneakers alla moda, disponibili qui:\nSneakers\n, e aggiungi un giubbotto versatile per affrontare ogni clima con stile, disponibile qui:\nGiubbotti\n.\nSia per il lavoro che per il tempo libero, la maglia uomo Nuvolari sarà la base ideale per outfit pratici e sempre impeccabili.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE 76% viscosa, 24% cotone\nVestibilità regular\nCodice articolo: W1 ZOHAN PANNA-1743",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantaloni Cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "Sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "Giubbotti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in maglia a coste, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

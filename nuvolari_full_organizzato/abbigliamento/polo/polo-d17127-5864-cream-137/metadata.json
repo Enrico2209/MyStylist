@@ -21,5 +21,18 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-d17127-5864-cream-137",
-  "image_count": 1
+  "image_count": 1,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica a maniche corte, base smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

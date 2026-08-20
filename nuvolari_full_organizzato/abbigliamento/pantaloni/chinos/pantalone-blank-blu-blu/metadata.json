@@ -25,5 +25,43 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-blank-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza rilassata del lino incontra la versatilità del design contemporaneo nel\npantalone chino da uomo Baecker modello Blank nella profonda sfumatura Blu Notte\n. Progettato per offrire il massimo equilibrio tra comfort e raffinatezza, questo capo in tessuto naturale presenta una costruzione con retro elasticizzato e risvolto al fondo, rendendolo l'alleato ideale per affrontare la stagione calda con uno stile impeccabile.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Tessuto\n: Realizzato in fibra leggera e ad alta traspirabilità, garantisce una sensazione costante di freschezza e la tipica, affascinante texture slub della fibra naturale.\nCintura Comfort con Retro Elasticizzato\n: Unisce la pulizia frontale di una cintura sartoriale con bottoni e passanti alla comodità della fascia elastica posteriore, assicurando una vestibilità flessibile e sempre confortevole.\nFondo con Risvolto e Taglio Tapered\n: La gamba affusolata si conclude con un elegante risvolto preimpostato sul fondo, aggiungendo un tocco sartoriale moderno all'intero design.\nTonalità Blu Notte Intramontabile\n: Il colore blu scuro regala estrema facilità di abbinamento, perfetto sia per occasioni casual da giorno che per outfit serali più sofisticati.\nIdee di Stile: Costruisci il Tuo Look Smart Casual & Resort\nSmart Casual & Evening Outfit\n: Per un aperitivo estivo o una cena informale, abbina il chino in lino a una camicia bianca o carta da zucchero sbottonata e a un paio di mocassini scamosciati o loafer leggeri.\nEveryday Urban Look\n: Crea uno stile metropolitano fresco e dinamico indossando il pantalone con una\nt-shirt uomo\nessenziale o una polo, completando il tutto con la pulizia di un paio di\nsneakers uomo\nbasse in pelle o tela.\nLayering & Modelli Alternativi\n: Durante le serate più ventose, sovrapponi al tuo outfit un capospalla leggero dalla linea\ngiubbotti uomo\n. Nelle giornate più calde o nei contesti informali, scopri anche la nostra selezione di\nbermuda uomo\n, o scegli la grinta dei\njeans uomo\nper le tue uscite serali.\nSperimenta la perfetta sintesi tra leggerezza e cura sartoriale. Scegli la fresca traspirabilità del lino, la comodità della vita elasticizzata e la raffinatezza del pantalone chino Baecker Blank.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in lino con retro elasticizzato, perfetto per contesti smart casual e resort",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

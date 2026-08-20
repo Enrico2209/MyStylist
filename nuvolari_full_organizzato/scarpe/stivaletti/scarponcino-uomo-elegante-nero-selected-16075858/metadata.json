@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stivaletti/scarponcino-uomo-elegante-nero-selected-16075858",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nChelsea boot da uomo in pelle con suola carro armato e inserti elasticizzati per un modello classico reso moderno e ideale per look eleganti ma anche casual.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nStivaletti Uomo Selected modello Chelsea Boot 16075858 Nero\nStilvaletto alla caviglia\nTomaia in pelle\nSuola carro armato in gomma\nLinguetta sul retro\nPannelli elasticizzati ai lati\nPlantare foderato in pelle\nScala taglie EU",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Chelsea boot in pelle, la suola carro armato lo rende piu casual/smart casual rispetto a un modello classico",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

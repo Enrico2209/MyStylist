@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/gilet/abbigliamento-ichidonna-ihdotties-20125352-cloud-dancer-114201",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl gilet\nIchi Donna Ihdotties Cloud Dancer\nesprime la quintessenza dello stile raffinato e della versatilità stagionale, declinando il concetto di maglieria leggera in una luminosa e candida sfumatura panna/crema naturale (\"Cloud Dancer\"). Questo gilet smanicato in tricot si distingue per la sua ricca trama geometrico-lineare e per la sua silhouette pulita, proponendosi come un vero e proprio passe-partout per illuminare i look a strati o da indossare come sofisticato pezzo unico.\nDesign e Caratteristiche Principali\nTessuto in Maglia a Coste Orizzontali\n: Il corpo principale è interamente lavorato con una fitta ed elegante trama tricot disposta in senso orizzontale. Questa particolare texture crea un delicato gioco di micro-rilievi tridimensionali che arricchiscono la mano del tessuto e donano movimento alla superficie monocromatica.\nGirocollo Flessibile Spesso\n: Presenta uno scollo rotondo accollato d'ispirazione contemporanea, rifinito con un alto bordo a costine verticali elasticizzate che incornicia il collo con precisione geometrica e assicura una tenuta ottimale della forma.\nGiromanica Smanicato Profilato\n: Il taglio smanicato è valorizzato da una spessa bordatura a coste verticali perfettamente coordinata con il colletto, studiata per adagiarsi morbidamente sulla spalla, garantire la massima libertà di movimento e facilitare la stratificazione.\nFondo a Costine con Spacchi Laterali\n: L'orlo inferiore dritto è sigillato da una fascia elastica a costine verticali ad alta tenuta. La presenza di piccoli spacchi laterali alleggerisce la struttura sui fianchi, consentendo al gilet di cadere in modo fluido e naturale sopra i pantaloni senza arricciarsi.\nSilhouette Dritta Regular-Fit\n: Il taglio scende lineare lungo il busto con volumi accostati ma confortevoli, offrendo un perfetto equilibrio tra morbidezza rilassata e rigore sartoriale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Gilet in maglia tricot con finiture curate, ideale per look smart casual a strati",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -26,5 +26,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-genesis-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiubbotto da Uomo Baecker in 100% Vera Pelle\nStile Sofisticato e Qualità Artigianale\nQuesto giubbotto in pelle da uomo di\nBaecker\nrappresenta la perfetta fusione tra l'eleganza intramontabile e la robustezza della vera pelle. Progettato per l'uomo che apprezza i dettagli e la qualità dei materiali, è un capo versatile che aggiunge un tocco di classe a qualsiasi outfit.\nMateriale Pregiato\n: Realizzato al\n100% in vera pelle\ndi alta qualità, offre una sensazione di morbidezza al tatto e una durata eccezionale nel tempo. La pelle invecchierà magnificamente, acquisendo un carattere unico.\nDesign Minimalista\n: Con una linea pulita e essenziale, si adatta a ogni occasione, dal look casual quotidiano a un abbinamento più formale.\nDettagli Funzionali\n: Chiusura frontale con cerniera a contrasto, tasche laterali con zip, e un collo a fascia con bottone a pressione per un tocco di stile in più.\nFodera Interna\n: L'interno è rivestito con una fodera in tessuto poliestere, che garantisce comfort e copertura per stagioni fredde.\nComposizione Esterna\n: 100% Vera Pelle\nVestibilità\n: Regular Fit\nManutenzione\n: Pulizia professionale specializzata per capi in pelle.\nPerché scegliere il Giubbotto in Pelle Baecker?\nÈ più di un semplice capo d'abbigliamento: è un investimento in stile e qualità che ti accompagnerà per anni. La sua versatilità e il design senza tempo lo rendono un elemento essenziale del tuo guardaroba.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno 100% vera pelle, Fodera 100% poliestere\nVestibilità regular\nCodice articolo: GENESIS NERO-NERO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "bomber in vera pelle dal design pulito e minimalista, eleva il casual quotidiano a smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

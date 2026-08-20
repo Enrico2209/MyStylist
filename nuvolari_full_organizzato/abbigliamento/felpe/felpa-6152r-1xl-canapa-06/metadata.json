@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-6152r-1xl-canapa-06",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta felpa Colmar Originals si distingue per l'utilizzo di un tessuto con finitura millerighe, una scelta stilistica che conferisce profondità e carattere al classico design sportivo. È il capo ideale per chi cerca un look casual ricercato senza rinunciare alla praticità di una full zip.\nPerché sceglierla\nLa particolare texture a micro-costine eleva la felpa oltre il concetto di semplice abbigliamento sportivo, rendendola un pezzo distintivo del tuo guardaroba. Grazie alla sua struttura essenziale, si presta a essere indossata come strato esterno nelle giornate miti o sotto la giacca softshell Colmar quando il clima si fa più rigido.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 53% Cotone + 44% Poliammidica + 3% Elastan\nVestibilità regular\nCodice articolo:6152R 1XL CANAPA-06",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa sportiva con zip, marchio sportivo, tessuto a micro-costine",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

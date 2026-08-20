@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpa-ellesse-alba-amy002-off-white",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Sneaker Ellesse Alba nella colorazione Off White (Codice AMY002) rappresenta l'essenza dello stile \"court\" d'ispirazione vintage, ma con un tocco di eleganza contemporanea. Rispetto ai classici modelli in bianco ottico, la tonalità Off White (panna/crema) conferisce alla scarpa una finitura più calda e sofisticata, perfetta per chi cerca una sneaker versatile che si discosti dal design puramente sportivo per avvicinarsi a un'estetica più curata.\nIl punto di forza della Ellesse Alba risiede nel suo design pulito e minimalista. La tomaia, realizzata in materiale sintetico di alta qualità che imita la grana della pelle, offre un look premium e una grande resistenza all'usura. Il colore Off White è una scelta strategica: è più facile da abbinare rispetto al bianco puro e tende a nascondere meglio i piccoli segni dell'uso quotidiano, mantenendo un aspetto impeccabile più a lungo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "sneaker sportiva d'uso quotidiano, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

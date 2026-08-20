@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/girocollo/maglia-nuvolari-wc-nampa-bdxpanna-bdxpanna-wc-nampa-bdx-panna-bdx-panna",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nampa\nNuvolari\nPanna Bordeaux\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari modello NAMPA\nTessuto misto lana\nGirocollo\nMaglia jacquard disegno Norvegese\nVestibilità slim ﬁt\nComposizione : 60%PC 40%WO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "maglione in misto lana con vestibilità slim fit, adatto a contesti smart casual",
+    "season": "inverno",
+    "pattern": "stampato"
+  }
 }

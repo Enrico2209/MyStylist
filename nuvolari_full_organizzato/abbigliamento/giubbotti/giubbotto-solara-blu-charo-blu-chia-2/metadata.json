@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotto-solara-blu-charo-blu-chia-2",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nRayz Solara Jacket: L'Icona Denim dal Carattere Vintage\nGiubbotto Uomo Rayz Solara Blu Chiaro\nRiscopri il fascino intramontabile della Harrington Jacket reinterpretata nel denim più autentico. Il giubbotto Rayz Solara è il pezzo essenziale per chi cerca un capospalla di transizione che unisca la robustezza del jeans a una silhouette pulita e moderna. Con il suo lavaggio \"Stone Washed\" blu chiaro, è progettato per dare un tocco di luce e personalità ai tuoi look primaverili.\nDesign Essenziale e Dettagli Signature\nDenim Premium Blu Chiaro\n: Il lavaggio chiaro, caratterizzato da sfumature naturali, conferisce al capo un aspetto vissuto e iconico, tipico dei grandi classici del workwear americano degli anni '90.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto in denim stile harrington, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -26,5 +26,36 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/mark-3-tank-foa404013-white-black-104",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'anima autentica degli action-sport e lo spirito laid-back della cultura californiana si fondono nella nuova\nCanotta Uomo Oakley Mark 3 Tank White/Black\n. Questo modello smanicato rappresenta la quintessenza della freschezza estiva, combinando un'estetica bold ad alto contrasto visivo con materiali leggeri, ideali per affrontare il caldo in città, le sessioni in palestra o il tempo libero sul bagnasciuga.\nDesign e Caratteristiche Principali\nMaxi Grafica Frontale Mark 3\n: Il vero e proprio protagonista del design è il leggendario logo \"Oakley\" stampato in nero profondo ad alta definizione sul petto. Il caratteristico font geometrico ed esteso del brand crea un contrasto cromatico netto e pulito sullo sfondo chiaro, regalando una forte impronta streetwear e d'ispirazione rétro anni '90.\nSfumatura White Ottica e Luminosa\n: La canotta è interamente declinata in una tonalità bianca pura e vibrante. Una scelta estetica fresca e prettamente estiva, progettata per riflettere i raggi solari, far risaltare l'abbronzatura e integrarsi con estrema facilità in qualunque outfit casual.\nScollatura a Girocollo e Giromanica Rinforzati\n: Sviluppata con una scollatura rotonda classica e ampi tagli smanicati studiati per assecondare la naturale estensione delle spalle e delle braccia. I bordi sono rifiniti con profili a costine sottili che mantengono la struttura tesa ed evitano sformature dovute all'uso o ai lavaggi frequenti.\nRegular Fit Ergonomico\n: La silhouette presenta una geometria lineare che accarezza il busto senza costrizioni, assicurando una ventilazione ottimale. Le cuciture interne sono piatte e rifinite con precisione per azzerare fastidiosi sfregamenti o irritazioni sulla pelle durante i movimenti più dinamici.\nTessuto in Puro Cotone Traspirante\n: Confezionata in un filato di puro cotone di alta qualità, leggero, morbido e compatto. Questo materiale assicura un'eccellente traspirabilità e una piacevole sensazione di freschezza sulla pelle per tutta la giornata.\nIdee di Stile: Linka il Tuo Outfit\nTotal California Surf Uniform\n: Esalta la natura balneare del brand creando un perfetto look da spiaggia. Abbina la canotta bianca alla tecnicità idrorepellente dei\nbermuda uomo\nda spiaggia o volley short (come i modelli Oakley Beach Volley Short in variante Blackout). Chiudi l'outfit con un occhiale da sole specchiato e un cappello con visiera.\nUrban Utility Contrast\n: Inserisci la freschezza dello smanicato in un contesto prettamente street e metropolitano. Accosta la canotta bianca alla robustezza strutturata dei\nbermuda uomo\ncargo con tasconi laterali (ottimi i modelli Nuvolari SH Fury in tinta sabbia). Completa con una sneaker bassa da skate e un calzino di spugna a vista.\nSophisticated Summer Layering\n: Gioca con le sovrapposizioni e le diverse consistenze tessili per gli aperitivi al tramonto. Utilizza la canotta grafica come base luminosa sotto a una delle freschissime\ncamicie uomo\nin puro lino fiammato (meravigliose le varianti salvia o azzurre), da portare rigorosamente sbottonata e con le maniche arrotolate.\nSperimenta la perfetta unione tra libertà di movimento, leggerezza tessile e impatto grafico d'autore. Scegli lo stile grintoso e la versatilità senza tempo della canotta Mark 3 Tank bianca firmata Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.4,
+      "streetwear": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta grafica di marchio sportivo/streetwear",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

@@ -20,5 +20,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s1-randy-antracite-antracite",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nImmergiti nell'eleganza senza tempo e nel comfort impeccabile con la maglia Nuvolari, un capo versatile e sofisticato che si adatta perfettamente a ogni occasione\nRealizzata al 100% in morbido cotone, questa maglia offre una sensazione di comfort e leggerezza, garantendo una vestibilità perfetta in ogni situazione. Il suo colore antracite conferisce un tocco di raffinatezza e versatilità al capo, rendendolo adatto ad essere indossato in qualsiasi contesto. Grazie al suo design classico e alla sua vestibilità regolare, questa maglia è perfetta sia per un'uscita informale con gli amici che per una giornata in ufficio. Puoi abbinarla a un paio di\njeans\ne\nsneakers\nper un look casual e rilassato, oppure a un\npantalone chino\ne\nscarpe\nconsigliate per te da\nNuvolari\nper un outfit più formale ed elegante. Con la maglia\nNuvolari\n, sarai sempre impeccabile e alla moda, indipendentemente dall'occasione. Aggiungi un tocco di stile italiano al tuo guardaroba e lasciati trasportare dalla bellezza e dalla versatilità di questo capo essenziale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo:S1 RANDY ANTRACITE-ANTRACITE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica in cotone, adatta a contesti smart casual e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

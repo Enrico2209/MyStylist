@@ -22,5 +22,34 @@
   "pattern": "camouflage",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-s2-ruin-camouflage-camo",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nShort Uomo\nNuvolari\nComfort e Stile per Ogni Occasione\nGli\nshort uomo Nuvolari\nsono il perfetto mix di\npraticità e design contemporaneo\n. Realizzati in\ntessuti leggeri e resistenti\n, offrono una vestibilità confortevole e uno stile casual adatto a ogni situazione, dalle giornate in città alle vacanze estive. I dettagli distintivi del brand aggiungono un tocco di originalità, rendendoli un capo essenziale nel guardaroba maschile.\nCome abbinarli?\nPerfetti con una\npolo\nper un look curato e rilassato, oppure con una\nt-shirt\nper un outfit più sportivo. Completa il tutto con delle\nsneakers\nper un tocco dinamico e moderno.\nScopri altre combinazioni tra i nostri\noutfit\ne trova il look perfetto per ogni occasione!\nPerché scegliere gli short Nuvolari?\nMateriali leggeri e traspiranti\nper il massimo comfort\nStile versatile\n, ideale per look casual o sportivi\nDettagli curati\nper un tocco di originalità\nUn capo must-have per affrontare la stagione con stile!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: S2 RUIN CAMOUFLAGE-CAMO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno/short mare con coulisse elastica",
+    "season": "estate",
+    "pattern": "camouflage"
+  }
 }

@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/polo-in-maglia-es3-karl-beige-beige",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo in Maglia Uomo Nuvolari Karl Beige\nridefinisce il concetto di polo classica attraverso l'uso di un filato nobile e leggero, posizionandosi come un perfetto ibrido tra maglieria pregiata e abbigliamento sportivo d'élite. Sviluppata in una nuance beige crema (o sabbia chiaro) estremamente calda, luminosa e naturale, questa polo è studiata per l'uomo contemporaneo che desidera sostituire la classica camicia o la t-shirt con un pezzo superiore dal carattere raffinato, morbido e rilassato, ideale per le calde giornate estive e le serate in riviera.\nDesign e Caratteristiche Principali\nPregiato Tessuto in Maglia di Cotone Rasato\n: Confezionata in un filato di puro cotone a maglia finissima, caratterizzato da una mano liscia, fresca e cascante. La lavorazione a maglia rasata assicura un'eccellente traspirabilità e un comfort termico superiore, donando al capo una caduta fluida e naturale sul corpo.\nColletto a V in Stile \"Johnny Collar\" senza Bottoni\n: Il dettaglio stilistico principale risiede nello scollo aperto a polo d'ispirazione rétro, rifinito con un colletto a camicia unito a una profonda apertura a V sul davanti completamente priva di bottoni o patte. Questa costruzione slancia otticamente il collo e conferisce un'immediata attitudine disinvolta e chic.\nBordi e Costine ad Alta Densità\n: Sia il fondo del capo sia il giromanica delle maniche corte sono strutturati con alti bordi elastici lavorati a costine sottili. Questa finitura accosta delicatamente il tessuto ai muscoli delle braccia e alla vita, mantenendo la polo salda in posizione ed evitando deformazioni con l'uso.\nCostruzione e Labeling Minimale\n: La pulizia visiva è assoluta: il fronte è completamente liscio, privo di taschini o loghi ricamati, celebrando un'estetica quiet luxury. All'interno del collo è applicata la label bianca tessuta Nuvolari che ne garantisce l'identità.\nSilhouette Regular-Fit Modellata\n: Propone una vestibilità regolare che accarezza il busto senza stringere, sfruttando la naturale elasticità della maglia per sagomarsi in modo impeccabile sia sulle spalle sia sui fianchi.\nProposta di Outfit\nSartorial Riviera Spezzato\n: Indossala in abbinamento al\npantalone chino\nblu notte in cotone twill; la combinazione tra la morbidezza crema della maglia e la struttura geometrica scura del pantalone darà vita a un look casual-chic iconico, perfetto per eventi formali diurni o cene estive.\nSummer Resort Comfort\n: Abbinala al\npantalaccio\nleggero azzurro-grigio con coulisse; l'accostamento cromatico tra la tonalità sabbia della polo e la micro-texture Light Blu inferiore esalterà lo spirito loungewear e vacanziero del look, ideale per un aperitivo al tramonto o una passeggiata in barca.\nSmart Casual Monochrome Layering\n: Portala sotto la\ngiacca jacquard\nbeige e completa il look con un denim scuro; il layering tono su tono tra le calde sfumature del beige della polo e la micro-trama della giacca creerà un sofisticato gioco tridimensionale di grande classe urbana.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "giacca jacquard",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia fine stile Johnny collar, ideale per smart casual e contesti estivi raffinati",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

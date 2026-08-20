@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-workwear-worker-112378769-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE WORKWEAR WORKER TEE: L'ANIMA AUTENTICA DEL BRAND\nQuesta t-shirt non è solo un capo d'abbigliamento, ma un tributo alla storia manifatturiera di Lee. Con grafiche che richiamano l'archivio storico \"The H.D. Lee Co.\", rappresenta la scelta ideale per chi ama lo stile vintage autentico combinato con la freschezza del cotone bianco.\nMessaggio sul Fronte\n: Il petto riporta la scritta minimalista \"Workwear is our soul\", un manifesto che dichiara l'identità e le radici del marchio.\nGrafica Storica sul Retro:\nLa schiena presenta una stampa artistica in stile vintage che ritrae operai al lavoro, accompagnata dai riferimenti storici delle sedi americane originali (Kansas City, San Francisco, Trenton).\nStile Vintage-Used\n: La stampa posteriore in blu polvere ha un effetto leggermente sbiadito che conferisce al capo un fascino vissuto e senza tempo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt grafica di cotone, base casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/gaelleparis-borsa-gaacw03183-rosa-ro01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa femminilità glamour di Gaëlle Paris prende forma nella\nborsa da donna Gaëlle Paris nella tonalità rosa\n. Un accessorio fresco e di tendenza, dove il rosa delicato incontra i dettagli firmati del brand, perfetto per aggiungere un tocco di colore e femminilità a ogni look.\nDesign, Materiali e Caratteristiche Costruttive\nMateriale Curato\n: Realizzata in materiale dalla texture piacevole e resistente, pensato per durare nel tempo.\nTonalità Rosa\n: Un rosa luminoso e romantico che dona carattere e rende la borsa un accessorio di stile.\nTrasporto Pratico\n: Manici e tracolla comodi per indossarla a mano o a spalla con la massima versatilità.\nDettaglio Logo Firmato\n: La firma Gaëlle Paris che rende l'accessorio riconoscibile e distintivo.\nFormato Pratico\n: Dimensioni ideali per portare l'essenziale con ordine ed eleganza.\nIdee di Stile e Utilizzo\nPop di Colore\n: Abbinala a un look neutro con\njeans donna\nper far risaltare il rosa.\nRomantico\n: Perfetta con un abito floreale o pastello per un mood dolce e femminile.\nVersatile\n: Un accessorio ideale per dare un tocco di allegria ai tuoi outfit di stagione.\nAggiungi colore e femminilità al tuo look con la firma Gaëlle Paris. La borsa rosa è l'accessorio di tendenza per la bella stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "borsa shopper in tessuto con frange e maxi logo ricamato, adatta a contesti quotidiani e informali",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/sciarpe/sciarpa-stone-island-wc-n09d3-arancio-0032",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nSciarpa Uomo Stone Island modello N09D3\nRealizzata in lana d'agnello e lana garzata\nRicamo con logo Stone Island a specchio, realizzato con diverse tecniche di cucitura e applicazione.\nComposizione : 80% lana, 20% poliammide",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "sciarpa in lana con maxi logo jacquard a contrasto, registro casual/streetwear",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

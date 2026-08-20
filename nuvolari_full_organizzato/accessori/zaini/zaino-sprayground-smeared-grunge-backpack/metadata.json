@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-smeared-grunge-backpack",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo Zaino Sprayground Smeared Grunge Backpack Brown rappresenta la massima espressione dell'estetica \"distressed\" applicata allo streetwear di lusso. Questo modello prende il classico DNA di Sprayground e lo trasforma attraverso una lente punk e artistica, dove l'iconica bocca di squalo e il pattern a scacchi sembrano emergere da colpi di vernice dinamici e grafiche \"rovinate\".\nIl punto di forza di questa versione è il contrasto materico e cromatico. La base marrone con pattern a scacchi scuri viene \"tagliata\" da pennellate diagonali nere e bianche che distorcono la Shark Mouth, creando un effetto visivo di movimento e ribellione. È lo zaino perfetto per chi vuole un accessorio che rompa la monotonia del design pulito, preferendo un look che richiami l'arte urbana e i graffiti delle metropoli.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nDIMENSIONI 27 X 45 X 15 (cm)",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro (Sprayground), tetto massimo di formalità pari a 1",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

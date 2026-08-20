@@ -26,5 +26,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-xh8869-navy-blue-166",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'iconica eleganza sportiva francese si fonde con la massima praticità quotidiana nel\npantalone da tuta da uomo Lacoste modello XH8869\n. Un capo essenziale del guardaroba athleisure, progettato per offrire un comfort imbattibile durante l'attività sportiva, il relax o il tempo libero in città.\nDesign, Tessuti e Caratteristiche Costruttive\nMorbido Felpato In Cotone e Poliestere\n: Realizzato in un blend di cotone di alta qualità, offre un tocco soffice sulla pelle, un'ottima traspirabilità e una struttura resistente ai frequenti lavaggi.\nCintura Elasticizzata con Coulisse Interna\n: La fascia elastica in vita garantisce un fit sempre personalizzato e una vestibilità confortevole che asseconda ogni movimento.\nFondi Gamba con Costina Saldata\n: L'orlo elasticizzato a costine alle caviglie regala una silhouette definita e slanciata, perfetta per mettere in risalto le sneakers.\nIconico Coccodrillo Lacoste Applicato\n: Rifinito con lo storico logo in silicone ricamato a contrasto sul lato superiore, simbolo inconfondibile di stile e autenticità.\nIdee di Stile: Costruisci il Tuo Look Sporty & Athleisure\nFull Sporty & Athleisure Mood\n: Crea un outfit casual dinamico ed essenziale abbinando il pantalone a una\nt-shirt uomo\nbianca e completando il tutto con un paio di\nsneakers uomo\nd'ispirazione tennis o running.\nUrban Casual & Leisurewear\n: Per un approccio streetwear rilassato, indossalo con una felpa abbinata, con o senza cappuccio, inserendo accessori minimal per un tocco curato nei dettagli.\nLayering & Modelli Alternativi\n: Durante le giornate più fredde o ventose, completa l'insieme sovrapponendo una giacca sportiva dalla nostra collezione\ngiubbotti uomo\n. Se vuoi esplorare altre soluzioni per il tuo tempo libero, scopri anche la selezione di\nbermuda uomo\no i nostri\njeans uomo\n.\nVivi il perfetto connubio tra heritage sportivo e comfort contemporaneo. Scegli la qualità dei tessuti, la vestibilità impeccabile e lo stile senza tempo di Lacoste.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in felpa con elastico in vita e alle caviglie",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

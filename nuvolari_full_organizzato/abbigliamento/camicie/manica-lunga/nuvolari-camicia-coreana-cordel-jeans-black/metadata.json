@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/nuvolari-camicia-coreana-cordel-jeans-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nCamicia alla coreana da uomo a maniche lunghe dalla vestibilità slim realizzata in denim di cotone.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia alla coreana uomo Nuvolari modello Cordel Jeans - Black\nManiche lunghe\nRealizzata in denim di cotone\nVestibilità Slim\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia slim fit ma in tessuto denim, si colloca nello smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

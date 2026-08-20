@@ -19,5 +19,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-uomo-guess-activewear-z2bb05-fl04q-4g-aop-jet-blk-p9qc",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Tuta Uomo Guess Activewear 4G Aop Jet\nPantalone tuta\nuomo Guess, realizzato in tessuto morbido e confortevole. Design casual con vita elasticizzata e coulisse per una vestibilità regolabile, tasche laterali e un look sportivo. Ideale per il tempo libero e un comfort quotidiano.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n57% Poliestere, 43% Cotone.\nCodice articolo: Z2BB05 FL04Q 4G AOP JET BLK-P9QC",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalone tuta",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con coulisse ed elastico in vita",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

@@ -27,5 +27,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-pl-wagga-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo J.B.Mittwoch Wagga Blu\nreinterpreta la versatilità del pantalone lounge utility in una colorazione scura, elegante e rigorosa, offrendo un'eccellente alternativa metropolitana al classico verde militare. Declinato in una profonda tonalità blu notte (\"Blu\"), questo capo unisce la massima libertà di movimento offerta dalla coulisse a un tessuto dalla texture ricca e tridimensionale, perfetto per strutturare look estivi casual di grande tendenza.\nDesign e Caratteristiche Principali\nTessuto in Cotone Fiammato Vintage\n: Realizzato in un solido filato di cotone caratterizzato da una trama finemente fiammata, sottoposto a un lavaggio tinto in capo che genera bellissime sfumature e leggeri effetti schiariti rétro in corrispondenza delle cuciture e degli orli.\nCintura Elastica Ibrida Comfort\n: La parte superiore presenta una spessa fascia elastica arricciata che si adatta in modo flessibile ai fianchi, integrando sul fronte una chiusura tradizionale con patta, cerniera e fustella con bottone scuro centrale.\nCoulisse Regolabile Tono su Tono\n: Un cordoncino piatto intrecciato nella medesima tonalità blu notte fuoriesce dal centro della vita, rifinito con finalini metallici scuri per personalizzare il fitting con un accento sportivo e funzionale.\nTasche Ergonomiche Profonde\n: Integra sui fianchi pratiche tasche ad apertura obliqua inserite perfettamente lungo le linee di cucitura principali, a cui si aggiungono le tasche posteriori applicate a toppa per completare l'estetica utility.\nSilhouette Tapered Rilassata\n: Il taglio presenta volumi morbidi e confortevoli sul bacino e sulle cosce per poi stringersi in modo graduale verso il fondo, definendo una linea slanciata, moderna e pulita.\nOrlo Inferiore Adatto al Risvolto\n: Il fondo gamba presenta una finitura piana e regolare, strutturata per cadere in modo impeccabile sulle calzature o per essere arrotolata con un risvolto informale per un'aria più estiva.\nProposta di Outfit\nUrban Monochrome Field Layering\n: Indossalo abbinato al\ngiubbotto\nleggero field blu coordinato, spezzando la combinazione con una\nt-shirt\nbasic chiara per un outfit a strati monocromatico scuro, moderno e di forte impatto urbano.\nNautical Riviera Chic\n: Portalo insieme a una\ncamicia\na maniche corte in lino a righe sottili azzurre e bianche lasciata completamente sbottonata sopra una canotta chiara; l'incontro tra le diverse intensità di blu regala un look estivo fresco e sofisticato.\nBright Summer Contrast\n: Abbinala a una\ncamicia\na maniche corte bianca in cotone seersucker crepe per creare un netto e luminoso contrasto visivo, ideale per una passeggiata serale in città o sul lungomare.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con coulisse ed elastico in vita, tessuto fiammato lavato dall'aspetto informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

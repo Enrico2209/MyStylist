@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-lee-5-pocket-short",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Lee 5 Pocket Short Sun Chill\ncelebrano la tradizione del denim americano più autentico, riproponendo il classico jeans a cinque tasche in una versione corta estiva dal carattere fresco e disinvolto. Come visibile nel file \"Schermata 2026-06-01 alle 12.57.59_2.jpg\", questo modello si distingue per un aspetto naturale, arricchito da sfumature che infondono al capo una forte attitudine vintage, ideale per i look casual della bella stagione.\nDesign e Caratteristiche Principali\nStruttura Classica a 5 Tasche\n: Rispetta fedelmente l'iconico design heritage, caratterizzato da due tasche posteriori sagomate, due tasche frontali curve e il tradicional taschino portamonete sul lato destro, rifinito con rivetti metallici di rinforzo sugli angoli.\nTessuto Denim Effetto Lavato\n: Realizzato in una tela denim resistente e confortevole, sottoposta a un trattamento di lavaggio che crea schiariture graduate e naturali sul pannello frontale e lungo le cuciture, donando una piacevole morbidezza al tatto e un aspetto vissuto.\nChiusura Tradizionale con Bottone Logato\n: L'allacciatura è definita da una patta con zip a scomparsa e da un bottone metallico centrale posizionato sul punto vita, personalizzato con il branding del marchio impresso a rilievo.\nCintura Con Passanti e Salpa Posteriore\n: Il girovita rigido integra robusti passanti per l'inserimento della cintura. Nella parte interna posteriore spicca la classica etichetta patch tessile del brand applicata sul bordo, che certifica l'autenticità del capo.\nFondo Gamba con Risvolto Lineare\n: La silhouette è completata da un risvolto stirato sul fondo che accorcia la linea sopra il ginocchio, mostrando la trama interna del denim e accentuando l'estetica rilassata e vacanziera dello short.\nVestibilità Slim-Regular Balance\n: Il taglio propone linee pulite e leggermente accostate lungo la coscia senza stringere, garantendo un perfetto equilibrio tra aderenza sartoriale e comfort nei movimenti quotidiani.\nProposta di Outfit\nResort Graphic Match\n: Abbinalo a una\ncamicia\naperta sopra una t-shirt e completa il look con un cappello; le linee dello short si integreranno perfettamente con il pattern estivo del completo, strutturando un outfit fresco e ideale per il tempo libero.\nUrban Utility Layering\n: Indossalo insieme a una t-shirt e sovrapponi un'ampia\novershirt\naperta; l'incontro tra la texture ruvida del capospalla e la natura disinvolta dello short in denim creerà un contrasto di volumi dinamico e d'ispirazione streetwear contemporanea.\nCasual Street Vibe\n: Portalo in combinazione con una felpa e completa il tutto con un\ncappello\n; un look ottimale per le serate estive in città, informale e dal forte accento urban.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda di jeans a cinque tasche, classico capo casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

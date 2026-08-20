@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/scarpe-donna/w-stivale-donna-windsorsmith-found-black-blk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nStivale Donna Windsorsmith Found Black\nStivale Windsor Smith nero a metà polpaccio in materiale sintetico, con logo Bullhead sul tallone. Design elasticizzato alla caviglia, tacco grosso di 10,5 cm e plateau.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie EU\nGomma e pelle\nCodice articolo: FOUND BLACK-BLK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Stivale con plateau e tacco grosso molto vistoso, stile streetwear/grunge",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

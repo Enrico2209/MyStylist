@@ -19,5 +19,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-w1-gb-thomas-tiziano-2-tiziano-2",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Nuvolari Gb Thomas Tiziano 2\nPantalone\nuomo Nuvolari in misto cotone ed elastan, ideale per un comfort ottimale e una vestibilità perfetta. Il tessuto combinato offre una leggera elasticità, garantendo libertà di movimento e mantenendo un aspetto elegante e raffinato. Adatto per ogni occasione, dal lavoro al tempo libero.\nAbbinalo ad un\ngiubbotto\ne ad un paio di\nscarpe\nscelte per te e per il tuo look invernale!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n98% cotone, 2% elastan\nCodice articolo: W1 GB THOMAS TIZIANO 2-TIZIANO 2",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone modello chino in cotone, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

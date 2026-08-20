@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-hamlet-nero-19",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Uomo Black Rags realizzato in 80% viscosa e 20% poliammide è un capospalla che punta tutto sulla qualità tattile e sulla lucentezza naturale dei materiali. Questa particolare combinazione di fibre crea un tessuto \"luxury tech\", che si distingue dai classici modelli sportivi per una caduta più fluida e un aspetto decisamente più ricercato.\nPerché sceglierlo\nLa predominanza della viscosa (80%) conferisce al capo una mano estremamente morbida, simile alla seta, e una traspirabilità eccellente che lo rende piacevole a contatto con la pelle. Il 20% di poliammide (nylon) è l'elemento strutturale fondamentale: aggiunge la necessaria resistenza all'usura, aiuta il capo a mantenere la forma e conferisce una leggera protezione contro l'umidità.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n80% viscosa, 20% poliammide\nVestibilità regular\nCodice articolo:GB HAMLET NERO-19",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile denim jacket in tessuto tecnico fluido, casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -28,5 +28,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/tom-multicolor-z36106-bianco-01",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'estetica giocosa e anticonformista dello streetwear contemporaneo, il design di matrice retro-running e la straordinaria vivacità cromatica si fondono armoniosamente nella collezione di\nsneakers uomo SUN68\n. Fondato nel 2005, il brand italiano contrassegnato dall'iconico logo\nΔX\n(delta per il cambiamento, X per il futuro) ha rivoluzionato il panorama delle calzature casual, trasformando la scarpa sportiva quotidiana in un manifesto di originalità, comfort assoluto e stile urban-pop.\nDesign, Materiali e Caratteristiche Distintive\nSintesi Materica Premium\n: La tomaia delle sneakers SUN68 è il risultato di una calibrata architettura tessile. Il brand accosta la morbidezza del camoscio (suede) accoppiato a nylon ad alta densità, canvas robusto o inserti in mesh traspirante. Questa combinazione assicura una calzata leggera, flessibile e un'eccellente termoregolazione in ogni stagione.\nGeometrie Retro-Running e Comfort Strutturale\n: Ispirate alle leggendarie silhouette da corsa degli anni '80, queste scarpe presentano un'intersuola spessa in EVA fresata a mano, progettata per assorbire gli urti e garantire un ammortizzamento ottimale. Il battistrada in gomma scanalata offre un grip impeccabile sui terreni urbani.\nIl Linguaggio dei Colori e del Logo ΔX\n: Vero segno di riconoscimento del marchio è l'uso audace del color-blocking. Dettagli fluo sul tallone, stringhe a contrasto e spoiler geometrici spezzano la base della tomaia. L'inconfondibile logo ΔX è ricamato ad alta densità sul fianco, siglando l'originalità del brand.\nDettagli Interni ed Ergonomia\n: L'interno è rivestito in morbido tessuto spugnato o mesh traspirante, completato da un plantare interno estraibile e rialzato che migliora la postura e assicura una comodità prolungata anche dopo molte ore di utilizzo.\nIdee di Stile: Costruisci il Tuo Look Urban-Pop\nUrban Utility Uniform\n: Esalta l'anima dinamica e la silhouette retro delle calzature creando un outfit da giorno solido e ricco di contrasti. Abbina una sneaker SUN68 con dettagli cromatici vivaci alla robustezza geometrica di un\npantalone uomo\ncargo Lyle & Scott verde militare o a un denim premium scuro, completando il look con una t-shirt heavyweight coordinata.\nMetropolitan Lounge Transition\n: Per un perfetto equilibrio tra eleganza smart-casual e attitudine street durante i tuoi impegni quotidiani, gioca di sottrazione. Accosta una variante di sneaker dalle tonalità più neutre alla precisione lineare di un pantalone chino chiaro e indossa sopra una polo uomo G-Star RAW scura dal fitting strutturato.\nContemporary Pop-Street Mix\n: Inserisci l'energia delle sneakers in un contesto estivo leggero, ironico e dal comfort assoluto. Combina le scarpe con la morbidezza di un\nbermuda uomo\ne completa il cerchio con la freschezza lineare e ariosa di una delle\ncamicie uomo\nin lino fiammato bianco portata completamente aperta.\nSperimenta la perfetta sintesi tra la funzionalità della calzatura sportiva tradizionale e la forza espressiva del design casual italiano. Scegli la consistenza dei materiali premium, la stabilità strutturale della camminata e l'attitudine inconfondibile delle sneakers uomo firmate SUN68.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nCodice articolo:Z36106 BIANCO-01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers stile retro-running, calzatura casual quotidiana",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/accessori-donna/gaelle-paris-pochette-gaacw03181-beige-be00",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPochette Gaëlle Paris Beige: Eleganza Materica e Soft Design\nPochette Donna Gaëlle Paris Beige Natural\nRendi unico il tuo stile estivo con la pochette Gaëlle Paris nella raffinata tonalità beige. Questo modello si distingue per la sua silhouette morbida e arricciata, che richiama le tendenze più attuali del design internazionale. La particolare lavorazione a intreccio del tessuto dona al capo una profondità tattile esclusiva, rendendolo l'accessorio perfetto per chi cerca un'eleganza naturale ma di forte impatto visivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "borsa morbida in tessuto intrecciato estivo con logo ricamato, adatta a contesti casual e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

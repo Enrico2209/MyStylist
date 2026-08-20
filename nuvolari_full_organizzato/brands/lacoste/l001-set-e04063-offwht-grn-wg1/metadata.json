@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/l001-set-e04063-offwht-grn-wg1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Nuovo Classico del Tennis Style\nCaratteristiche Principali\nCostruzione Multistrato\n: La tomaia si distingue per un raffinato gioco di sovrapposizioni in pelle di alta qualità, arricchita da inserti in materiale sintetico o suede che aggiungono profondità al design.\nDesign Ispirato agli Archivi\n: Le linee pulite e la silhouette low-top rendono omaggio ai modelli storici da competizione, reinterpretati con volumi più attuali.\nDettagli di Branding: Il logo del coccodrillo è posizionato con eleganza sul tallone o sul lato, completato dal nome Lacoste sulla linguetta per un tocco di prestigio.\nComfort e Traspirabilità\n: La fodera interna in tessuto tecnico favorisce la circolazione dell'aria, mantenendo il piede fresco anche dopo un utilizzo prolungato.\nSuola in Gomma Preformata\n: Assicura un'ammortizzazione ottimale e una resistenza superiore, perfetta per affrontare le sfide quotidiane in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers low-top di ispirazione tennis, perfette per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

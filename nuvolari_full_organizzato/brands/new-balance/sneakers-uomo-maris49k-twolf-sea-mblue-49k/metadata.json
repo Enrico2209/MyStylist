@@ -21,5 +21,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-uomo-maris49k-twolf-sea-mblue-49k",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nSneakers Uomo New Balance Maris49K\nsono progettate per offrire un equilibrio perfetto tra performance sportiva e stile quotidiano. Caratterizzate da una costruzione leggera e ammortizzata, queste calzature sono ideali per chi cerca il massimo comfort durante le sessioni di running leggero o per affrontare con dinamicità le lunghe giornate in città.\nDesign e Caratteristiche Principali\nTecnologia Fresh Foam\n: L'intersuola è realizzata con l'avanzata schiuma Fresh Foam, progettata per offrire un'ammortizzazione ultra-morbida e una sensazione di leggerezza eccezionale ad ogni passo.\nTomaia in Mesh Traspirante\n: La struttura esterna combina ampie zone in tessuto a rete per una ventilazione ottimale e inserti sintetici per garantire supporto e durata nei punti di maggiore sollecitazione.\nPalette Cromatica Neutra\n: Il design si sviluppa su tonalità panna e beige, arricchite dall'iconica \"N\" laterale in blu navy con contorno bordeaux, creando un contrasto classico e sportivo.\nSuola Esterna in Gomma\n: Il battistrada scuro offre una trazione affidabile su diverse superfici urbane, assicurando stabilità e resistenza all'usura.\nCalzata Avvolgente\n: Il collare imbottito e il sistema di allacciatura tradizionale permettono una tenuta sicura e confortevole, adattandosi alla forma del piede.\nLogo Distinctivo\n: Il branding New Balance e il dettaglio \"Fresh Foam\" sull'intersuola sottolineano l'identità tecnica e la qualità costruttiva della scarpa.\nSuggerimenti di Stile\nEcco 3 modi per integrare queste sneakers nel tuo abbigliamento quotidiano:\nActive Training\n: Abbinale a dei\nshorts\ntecnici e una maglia traspirante per un look focalizzato sulla performance e sulla libertà di movimento.\nCasual Sporty\n: Indossale con dei\njeans\ndal taglio slim e una\nt-shirt\nbianca basic per far risaltare i dettagli cromatici blu e bordeaux della scarpa.\nUrban Transition\n: Provale con dei\npantaloni chino\nscuri e una\nfelpa\nleggera per un outfit versatile che ti accompagna con stile dall'ufficio al tempo libero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chino.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

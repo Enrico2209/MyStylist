@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-nuvolari-wc-shepard-neroamaranto-neroa-wc-shepard-nero-amaranto-nero-a",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto uomo Nuvolari modello SHEPARD\nPiumino reversibile in tessuto sofshell e nylon lucido\nTasche esterne con zip spalmate e tira zip personalizzato\nImbottitura in ecopiuma\nZip frontale spalmata con tirazip personalizzato\nCappuccio con allacciatura alta antivento\nPlacca metallica personalizzata montata sulla manica sinistra\nVestibilità slim ﬁt\nComposizione: tessuto esterno 88% nylon 12% elastane, tessuto interno 100% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "piumino reversibile in softshell e nylon con cappuccio, vestibilità slim",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

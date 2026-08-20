@@ -24,5 +24,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/mark-ii-tee-2-0-foa404011-flame-red-4ch",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'eredità iconica degli action-sport, la ricerca costante dell'innovazione ingegneristica e l'estetica grintosa della cultura urban e surf si fondono nelle collezioni di\nt-shirt uomo Oakley\n. Nate per assecondare il dinamismo degli atleti e diventate un pilastro fondamentale dello streetwear contemporaneo, queste magliette a maniche corte combinano materiali all'avanguardia a grafiche bold, pensate per chi vive la quotidianità con attitudine attiva ed esplosiva.\nDesign, Tecnologie e Caratteristiche Distintive\nGrafiche Iconiche ed Eredità Heritage\n: Le collezioni spaziano con disinvoltura dal minimalismo all'impatto visivo puro. Accanto ai modelli basic con l'essenziale \"O\" ellittica (O-Bark logo) ricamata o stampata sul petto, si fanno spazio t-shirt arricchite da macro stampe geometriche posteriori, lettering d'ispirazione tech-wear ed elementi grafici che celebrano la cultura del surf e della mountain bike.\nTessuti Idrorepellenti e Cotone Premium\n: Il DNA tecnico del brand si riflette nella scelta dei filati. Oltre al puro cotone heavyweight compatto e morbido, ideale per i look lifestyle quotidiani, Oakley integra avanzate tecnologie proprietarie come il sistema di gestione dell'umidità\nHydrolix\n, che mantiene la pelle fresca, asciutta e protetta anche durante le giornate estive più afose.\nFit Ergonomici e Struttura Anti-Sfregamento\n: Le t-shirt sono progettate seguendo schemi geometrici studiati per muoversi in armonia millimetrica con il corpo. La presenza di cuciture piatte posizionate strategicamente azzera il rischio di irritazioni e sfregamenti, mentre le vestibilità — dal regular fit all'oversize d'ispirazione skate — assicurano stabilità strutturale e freschezza.\nIdee di Stile: Costruisci il Tuo Look Action-Street\nUrban Skate Core Uniform\n: Esalta la forza grafica e la natura urban delle collezioni del brand. Abbina una t-shirt Oakley con macro logo frontale alla robustezza geometrica dei\npantaloni uomo\ncargo in tela spessa o a un jeans loose fit scuro. Completa il cerchio con una sneaker bassa e uno zaino tecnico multifunzionale.\nSurf Culture Summer Vibe\n: Per i weekend sul bagnasciuga, le giornate di relax e il tempo libero estivo, crea un outfit fresco e disinvolto. Indossa la maglietta grafica insieme ai tecnologici ed essenziali\nbermuda uomo\nda spiaggia o volley short del brand (come i modelli Oakley Beach Volley Short in tessuto idrorepellente), completando il look con un\ncappello uomo\nda pescatore o con visiera ricurva.\nContemporary Utility Layering\n: Nelle giornate di transizione o durante le serate all'aperto, gioca con le stratificazioni di texture. Utilizza la t-shirt in tonalità neutra o pastello come base luminosa sotto a una camicia uomo overshirt utility aperta, oppure indossala sotto a una felpa full-zip pesante, lasciando che il design sul petto firmi l'outfit con carattere.\nSperimenta il perfetto equilibrio tra la precisione dell'ingegneria tessile sportiva e la libertà espressiva del design metropolitano. Scegli il comfort senza compromessi e l'attitudine coraggiosa delle t-shirt uomo firmate Oakley.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica di marchio sportivo/streetwear, adatta a contesti casual quotidiani",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

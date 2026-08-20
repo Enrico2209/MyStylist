@@ -20,5 +20,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-m6gh73-w1991-sweet-mint-a834",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nFreschezza estiva e dettagli ricercati si incontrano nella\ncamicia da uomo Guess Jeans a manica corta nella nuance Verde Menta\n. Un modello dal colletto aperto in stile bowling, impreziosito da delicati ricami floreali bianchi all-over: un capo dal mood vacanziero e raffinato, perfetto per le giornate calde e le serate estive.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Fresco e Traspirante:\nmano leggera e morbida per il massimo comfort nelle giornate calde.\nColletto Bowling Aperto:\ncollo a revers in stile camp che dona un tocco retro e rilassato.\nRicami Floreali:\npiccole margherite bianche ricamate all-over e bordi ricamati sulle maniche per un dettaglio prezioso.\nChiusura con Bottoni:\nabbottonatura frontale e maniche corte per una vestibilita fresca e ordinata.\nIdee di Stile: Costruisci il Tuo Look Estivo\nSummer Vibes:\nabbinala a dei bermuda o a un paio di\njeans uomo\nchiari e a delle\nsneakers uomo\nper un look fresco e curato.\nLayering Leggero:\nperfetta aperta su una\nt-shirt uomo\nbianca per un outfit estivo disinvolto.\nSerate Estive:\nideale con pantaloni in lino per un look vacanziero ed elegante.\nAggiungi un capo dal mood estivo al tuo guardaroba. Scegli la freschezza del tessuto, i delicati ricami floreali e lo stile inconfondibile firmato Guess Jeans.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.1,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte stile bowling con ricami, adatta a contesti estivi informali e vacanzieri",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

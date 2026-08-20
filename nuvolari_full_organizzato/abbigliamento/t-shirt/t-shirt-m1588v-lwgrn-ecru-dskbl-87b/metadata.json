@@ -26,5 +26,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-m1588v-lwgrn-ecru-dskbl-87b",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Fred Perry M1588V\nincarna perfettamente lo stile British preppy e l'eredità subculturale che contraddistinguono lo storico brand della corona d'alloro. Questo modello a maniche corte si presenta in una raffinata tonalità verde oliva/militare, riprendendo i dettagli iconici della celebre polo Fred Perry per trasferirli su una silhouette a t-shirt versatile, pulita e dallo spiccato gusto rétro.\nDesign e Caratteristiche Principali\nCorona d'Alloro Ricamata\n: L'inconfondibile simbolo del brand spicca sul lato cuore del petto. Il ricamo è realizzato in filo bianco ad alta densità, garantendo un netto contrasto grafico con la base verde.\nBordi con Doppia Riga (Twin Tipped)\n: Il vero e proprio marchio di fabbrica Fred Perry profila elegantemente sia il girocollo sia i bordi delle maniche corte. Le due sottili strisce parallele a contrasto bianco e grigio chiaro spezzano la monocromia del capo infondendogli un'immediata identità heritage.\nTessuto in Jersey di Cotone Leggero\n: A differenza della classica struttura in piqué delle polo, questo modello è confezionato in un jersey di puro cotone di alta qualità, lavorato per assicurare una mano liscia, una straordinaria morbidezza al tatto e un'ottima freschezza durante le giornate estive.\nGirocollo e Polsini a Costine\n: La scollatura e i terminali delle maniche sono rifiniti con una trama a costine elasticizzata e robusta, studiata per mantenere la tensione elastica originaria e definire una linea ordinata che aderisce anatomicamente al corpo.\nCostruzione e Finiture Lineari\n: Il fondo del busto presenta un taglio dritto e pulito, rifinito internamente ed esternamente con doppie cuciture parallele piatte a tono, che minimizzano lo spessore dell'orlo impedendo arricciature.\nVestibilità Regular Fit Slanciata\n: Propone un taglio dritto e minimamente asciutto sul torace che valorizza la figura maschile senza costringerla, offrendo un comfort ottimale e un'estetica casual sempre sofisticata.\nProposta di Outfit\nClassic Preppy Heritage\n: Abbinala a un\npantalone\nmodello chino in cotone beige o khaki e completa il look con una cintura in pelle; un abbinamento intramontabile e pulito, ideale per un aperitivo informale o per il tempo libero.\nUrban Casual Layering\n: Indossala sotto una\novershirt\nleggera in denim o in tela lasciata aperta, abbinandola a un\njeans\ndal lavaggio scuro; la doppia riga del colletto rimarrà visibile creando un dinamico punto di luce geometrico nel sotto-giacca.\nSummer Street Vibe\n: Portala insieme a uno\nshorts\nin felpa o in cotone tecnico nero, completando l'outfit con un\ncappello\ncon visiera; un look decisamente sportivo, fresco e perfetto per le giornate più calde in città.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: M1588V LWGRN/ECRU/DSKBL-87B",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "sportivo": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica in jersey di cotone, con dettagli preppy che la mantengono nel casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

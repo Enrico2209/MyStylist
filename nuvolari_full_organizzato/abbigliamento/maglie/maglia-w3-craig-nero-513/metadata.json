@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-w3-craig-nero-513",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nEleganza essenziale e comfort quotidiano si incontrano nella\nmaglia da uomo Nuvolari modello Craig nella nuance Nera\n. Un girocollo in filato leggero dalla mano morbida, impreziosito dal piccolo logo firma ricamato sul petto: un capo pulito e versatile, perfetto da indossare da solo o in layering in ogni stagione.\nDesign, Tessuti e Caratteristiche Costruttive\nFilato Leggero e Morbido:\nmaglina di qualita dalla mano piacevole, traspirante e confortevole tutto il giorno.\nScollo Girocollo a Costine:\ncollo, polsini e fondo rifiniti a costine per mantenere la forma e una vestibilita ordinata.\nLogo Ricamato:\nil discreto monogramma Nuvolari sul petto aggiunge un tocco di raffinatezza.\nVestibilita Regular:\ntaglio comodo e versatile, ideale sia da solo sia sotto una giacca o un capospalla.\nIdee di Stile: Costruisci il Tuo Look Smart Casual\nSmart Casual:\nabbinala a un paio di\njeans uomo\ne a delle\nsneakers uomo\nper un look curato e rilassato.\nLayering di Stile:\nperfetta sopra una camicia con colletto a vista o sotto un\ngiubbotto uomo\nnelle giornate piu fresche.\nComfort Quotidiano:\nil nero total la rende un jolly facilissimo da abbinare in ogni occasione.\nAggiungi un basico elegante al tuo guardaroba. Scegli la leggerezza del filato, la pulizia del girocollo e lo stile inconfondibile firmato Nuvolari Craig.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo basica in filato leggero, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

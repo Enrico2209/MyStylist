@@ -23,5 +23,39 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/lino/bermuda-s3-sh-tony-perlage-perlage",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza senza tempo della tradizione sartoriale italiana e la massima freschezza estiva si incontrano nel nuovo\nBermuda Uomo Nuvolari SH Tony 100% Lino\n. Questo modello rappresenta la quintessenza dello stile casual-chic per la stagione calda, progettato appositamente per chi desidera unire la nobiltà di un filato naturale a un taglio moderno, confortevole e di chiara ispirazione contemporanea.\nDesign e Caratteristiche Principali\nPregiato Tessuto 100% Lino Fiammato\n: Il bermuda è interamente confezionato in puro lino di altissima qualità, un filato celebre per le sue proprietà termoregolatrici, l'eccellente traspirabilità e la caratteristica texture mossa e irregolare. Un tessuto leggerissimo sulla pelle che garantisce una freschezza insuperabile anche durante le giornate estive più afose.\nSofisticata Nuance Salvia Desaturata\n: Caratterizzato da una raffinata colorazione verde salvia spento/fango, una tonalità neutra, polverosa e di grande tendenza. Questa scelta cromatica si sposa magnificamente con l'allure rilassata del lino, risultando incredibilmente facile da abbinare.\nArchitettura Ibrida con Coulisse e Passanti\n: Il vero e proprio punto di forza strutturale del modello SH Tony è il girovita. La parte posteriore integra un fascione elastico arricciato per garantire un comfort totale e un fit dinamico; la parte frontale mantiene un aspetto formale con chiusura a bottone scuro a contrasto, patta con zip, passanti per la cintura e un sottile cordino in lino coordinato per regolare la calzata.\nTaglio Tailored Regular Fit\n: Sviluppato con una silhouette sartoriale pulita che accarezza i fianchi e scende fluida lungo la coscia. La lunghezza equilibrata si ferma perfettamente appena sopra il ginocchio, culminando con un elegante risvolto cucito sul fondo che dona stabilità alla caduta del tessuto.\nTasche Sartoriali Funzionali\n: Rifinito lateralmente da due tasche a filo ad accesso diagonale che seguono la linea dei fianchi in modo pulito e lineare, e completato sul retro da tasche inserite a filetto, mantenendo l'estetica del bermuda essenziale e geometrica.\nIdee di Stile: Linka il Tuo Outfit\nMediterranean Smart-Casual Uniform\n: Esalta la natura nobile del lino creando un perfetto look da resort o da aperitivo sul bagnasciuga. Abbina il bermuda SH Tony a una\ncamicia uomo\na maniche lunghe in lino bianco o a righe verticali sottili. Indossa le maniche leggermente arrotolate e completa il look con un mocassino in camoscio morbido.\nContemporary Urban Layering\n: Smorza il rigore classico del modello inserendolo in un contesto decisamente più street e metropolitano. Accosta lo short salvia a una\nt-shirt uomo\nNew Balance o Obey dal taglio boxy minimale, definendo il tutto con una sneaker bassa e un\ncappello uomo\ncon visiera.\nFestival Texture Contrast\n: Gioca con accostamenti visivi inediti e di carattere per i tuoi weekend estivi. Indossa il bermuda insieme a una\nt-shirt uomo\ngrafica o a tema botanico e aggiungi sopra una overshirt leggera utility lasciata completamente aperta, richiamando le tonalità della terra.\nRiscrivi le regole del guardaroba estivo unendo la leggerezza imbattibile della fibra naturale alla precisione dei dettagli sartoriali firmati Nuvolari. Scegli la freschezza e l'eleganza disinvolta dei bermuda SH Tony in puro lino.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo: S3 SH TONY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in lino con coulisse ed elastico, capo estivo informale ma con dettagli curati",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

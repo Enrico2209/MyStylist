@@ -20,5 +20,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-dutc0025-jco0480-bianco-1000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nDaniele Alessandrini Archive: Il Fascino del Design senza Tempo\nT-shirt Uomo Daniele Alessandrini White Pocket Archive\nRendi omaggio alla storia del design italiano con la T-shirt \"2007 Archive\" di Daniele Alessandrini. Questo capo essenziale in jersey di cotone bianco non è solo una maglia, ma un pezzo di storia contemporanea che unisce la semplicità di una t-shirt premium a un'estetica grafica ricercata. Perfetta per chi cerca un look minimalista ma distintivo, capace di raccontare un'identità stilistica consolidata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica in cotone con taschino e grafica d'archivio, tipico casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

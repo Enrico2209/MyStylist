@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-colmar-wc-8235-navy-botanical-68",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nFelpa Uomo Colmar modello 8235\nDettaglio su entrambe le maniche/cappuccio in nylon con impunture ad ultrasuoni\nChiusura con zip e doppio puller\nDue tasche frontali\nCappuccio con coulisse\nPolsi e fondo a costine\nPatch logo applicato sulla manica sinistra\nMade in Italy\nComposizione : Esterno 100% cotone, Interno 100% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, capo casual quotidiano con dettagli sportivi",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

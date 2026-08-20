@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-boho-perla-506",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nQuesta maglia Black Rags incarna un'estetica minimalista e sofisticata, perfetta per l'uomo che apprezza la semplicità elegante. Realizzata con una maglia a trama sottile, offre un look pulito e raffinato, ideale per essere indossata da sola o sotto una giacca elegante.\nIl design presenta un discreto collo simulato (Mock Neck) che aggiunge un tocco moderno e garantisce maggiore calore. La qualità del tessuto, un misto, assicura morbidezza al tatto e una vestibilità che si adatta con naturalezza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n54% poliestere, 20% nylon, 20% acrilico, 6% lana\nVestibilità regular\nCodice articolo: BOHO PERLA-506",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia a trama sottile con collo mock neck, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,20 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/kway-arsene-cotton-double-k8135pw-bge-glichen-b0l",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nArsene: L'Icona Reversibile che Sfida il Meteo\nLa giacca\nArsene\nè la risposta definitiva alla variabilità delle stagioni intermedie.\nCaratterizzata da un innovativo\ndesign reversibile\n,\nquesto capospalla racchiude due anime distinte in un unico capo:\nun lato esterno in raffinato misto cotone \"soft touch\" per un look urbano e materico,\ne un lato interno in nylon tecnico ad alte prestazioni per le giornate di pioggia.\nIngegneria Tessile e Protezione Totale\nNon lasciarti ingannare dal suo aspetto leggero:\nArsene è un concentrato di tecnologia.\nIl lato in nylon riciclato vanta un'\nimpermeabilità di 3000 mm di colonna d'acqua\n,\nsupportata da\ncuciture termonastrate\nche impediscono qualsiasi infiltrazione.\nIl trattamento WR (Water Repellent) antigoccia e antimacchia assicura che la giacca rimanga asciutta e pulita,\nmantenendo una traspirabilità eccellente per un comfort termico costante.\nDettagli Tecnici di Rilievo\nDual-Face Design\n:\nPassa istantaneamente da un look opaco e tecnico a uno stile casual in cotone increspato.\nCostruzione Antipioggia\n:\nCuciture sigillate e tessuti waterproof per una protezione certificata contro gli elementi.\nFit Anatomico\n:\nVestibilità\nSlim\ncon bordi e polsini a costine che sigillano il calore e definiscono la silhouette sportiva.\nDettagli Signature\n:\nDoppia logatura (silicone e stampa) per mantenere l'identità del brand su entrambi i lati.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 30% Cotone, 70% Recycled Nylon\nFodera: 100% Recycled Nylon\nVestibilità regular\nCodice articolo: K8135PW BGE/GLICHEN-B0L",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento sportivo/casual, tetto di marchio K-Way",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

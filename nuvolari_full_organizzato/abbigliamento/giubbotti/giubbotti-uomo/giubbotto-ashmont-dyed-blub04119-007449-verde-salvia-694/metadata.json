@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-ashmont-dyed-blub04119-007449-verde-salvia-694",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta giacca firmata Blauer USA è un omaggio al design militare d'archivio, reinterpretato con un trattamento di tintura in capo che le conferisce un fascino autentico e piacevolmente vissuto. È il capospalla definitivo per chi desidera un'estetica vintage e non convenzionale, ideale per distinguersi con un look di forte personalità.\nIl segreto di questo modello risiede nella sua capacità di unire uno stile \"used\" a una costruzione tecnica impeccabile. Grazie alla sua struttura multitasche, è perfetta per chi vive la città con spirito d'avventura e cerca un capo unico, capace di migliorare con il passare del tempo e dell'usura. La sua anima robusta la rende ideale per essere sovrapposta alla felpa Colmar millerighe o a un maglione in cotone bio per un look a strati di alta qualità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giacca stile militare/field jacket in cotone tinto in capo, uso prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

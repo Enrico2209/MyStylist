@@ -18,5 +18,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/goldencoast-uomo-ugg-strap-slide-1142730-black-blk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCiabatte Uomo Ugg Goldencoast Strap Slide Black\nLe ciabatte Ugg sono un'ottima scelta per comfort e stile. Realizzate in morbida pelle scamosciata vellutata, offrono un'infinità di possibilità di abbinamento. Con cinturini regolabili e chiusure in velcro, assicurano una calzata personalizzabile. La suola ultraleggera offre ammortizzazione e supporto, rendendole perfette per tutto il giorno.\nAbbinale ad un paio di\njeans\noppure ad una\nt-shirt\npensata per te e per arricchire il tuo look nelle giornate primaverili\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie US\nTomaia in pelle scamosciata, Bordo in microfibra, Fodera in tessuto realizzato con poliestere riciclato (45%) e poliestere (55%), Suola in EVA, Soletta in microfibra, \r\nSuola interna in schiuma\nCodice articolo: 1142730 BLACK-BLK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.1,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta aperta con cinturini in velcro, calzatura da spiaggia o tempo libero informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-branco-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Rayz Branco: Il Massimo del Comfort in un Design Cargo\nJeans Uomo Rayz\nSperimenta la perfetta fusione tra libertà di movimento e stile utility. I Jeans Rayz Branco Blu sono progettati per l'uomo contemporaneo che rifiuta la rigidità del denim classico senza rinunciare alla sua estetica intramontabile. Grazie alla vita elasticizzata e ai dettagli cargo, questo modello diventa il nuovo standard per l'abbigliamento urban quotidiano.\nDettagli Tecnici e Comfort Superiore\nDenim Soft-Touch\n: Realizzati con un denim selezionato per la sua morbidezza e resistenza, i Rayz Branco offrono un look autentico ma con una piacevolezza al tatto che ricorda i capi athleisure.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in denim con vita elasticizzata e coulisse vistosa",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

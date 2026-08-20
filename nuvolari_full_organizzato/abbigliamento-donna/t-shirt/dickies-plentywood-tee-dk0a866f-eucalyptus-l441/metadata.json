@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/dickies-plentywood-tee-dk0a866f-eucalyptus-l441",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico heritage workwear, la solidità strutturale che ha fatto la storia delle culture underground e una spiccata attitudine street minimale si fondono nella collezione di\nt-shirt donna Dickies\n. Il brand texano, pilastro dell'abbigliamento da lavoro americano trasformato in icona globale dello stile skater e urban, propone una linea di magliette a maniche corte essenziali, robuste e versatili, progettate per diventare la base perfetta di ogni guardaroba quotidiano.\nDesign, Materiali e Caratteristiche Costruttive\nPuro Cotone Heavyweight di Alta Qualità\n: Fedele alla sua secolare reputazione di robustezza, Dickies confeziona le sue t-shirt in jersey di puro cotone pesante (heavyweight). Questo tessuto denso non solo garantisce un'altissima resistenza all'usura e ai lavaggi frequenti, ma offre anche una struttura impeccabile che mantiene la forma nel tempo.\nL'Iconico Ox Collar Logo\n: Elemento distintivo e immediato di riconoscimento è il celeberrimo logo Dickies (il \"ferro di cavallo\" o Ox Collar bicolore). A seconda dei modelli, si presenta come un piccolo ricamo minimalista sul petto, un'etichetta tessuta cucita sull'orlo inferiore o una maxi stampa grafica d'ispirazione rétro posizionata al centro del petto o sulla schiena.\nSilhouette Boxy e Tagli Contemporanei\n: La collezione spazia dai tagli classici regular-fit alle silhouettes boxy dal sapore anni '90, caratterizzate da lunghezze leggermente crop o squadrate, spalle scivolate e maniche ampie. Questa varietà di volumi assicura il massimo comfort e si adatta con disinvoltura alle ultime tendenze streetwear.\nFiniture e Costruzione Rinforzata\n: Lo scollo a girocollo presenta una spessa bordatura a costine elasticizzate progettata per non cedere o deformarsi. Le cuciture rinforzate su spalle, maniche e orli riducono al minimo le torsioni del tessuto, assicurando una longevità straordinaria tipica dell'abbigliamento utility.\nUna Palette Cromatica Intramontabile\n: Oltre ai classici e immancabili pilastri neutri come il nero, il bianco ottico, il grigio melange e il verde militare, la gamma cromatica si arricchisce stagionalmente di tonalità pastello e accenti pop, ideali per illuminare gli outfit della bella stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt crop di cotone, taglio boxy e brand streetwear/workwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

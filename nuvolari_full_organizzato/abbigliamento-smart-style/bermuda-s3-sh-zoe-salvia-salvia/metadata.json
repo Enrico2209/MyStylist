@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-zoe-salvia-salvia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl fascino sartoriale dell'estate incontra il comfort del quotidiano nel\nBermuda Uomo Nuvolari S3 Zoe in Verde Salvia\n, un capo dal taglio pulito e versatile realizzato in tessuto leggero e impreziosito da una delicata tonalità salvia dal sapore mediterraneo.\nDesign e Caratteristiche Principali\nTessuto Cotone Leggero:\nconfezionato in cotone dalla mano morbida e traspirante, ideale per affrontare le giornate più calde con eleganza.\nNuance Verde Salvia:\nuna raffinata tonalità verde tenue e polverosa, calda e facilissima da abbinare per look estivi rilassati.\nModello Zoe:\nil taglio chino firma della linea Nuvolari, con tasche laterali alla francese e tasche posteriori profilate.\nLunghezza al Ginocchio:\nvestibilità regular con lunghezza equilibrata che valorizza la figura in ogni contesto.\nDettagli Curati:\nchiusura con zip e bottone, passanti per cintura e finiture eseguite con cura artigianale.\nIdee di Stile: Linka il Tuo Outfit\nSummer Casual:\nabbina il bermuda a una\npolo uomo\ne sneakers per un look estivo fresco e disinvolto.\nCoastal Chic:\ncompletalo con una\ncamicia uomo\nin lino e mocassini per un tocco da riviera raffinato.\nWeekend Relax:\nindossalo con una\nt-shirt uomo\nin tinta unita per uno stile comodo e curato.\nScegli la versatilità estiva del Bermuda Nuvolari S3 Zoe in Verde Salvia: un capo fresco ed elegante. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo/chino in cotone leggero, capo prettamente estivo e informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

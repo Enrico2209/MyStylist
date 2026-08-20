@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-ewe-raven-asfalto",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Velluto da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari modello Raven - Asfalto\nChiusura con zip e bottone\nVita Regular\nDue tasche laterali\nDue tasche posteriori\nMotivo a costina\nPatch logo cucito sul retro\nVestibilità Slim\nComposizione: 98% cotone, 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in velluto a costine, vestibilita slim che alza il tono a smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

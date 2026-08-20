@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-superdry-m7010994a-blue-bottle-92n",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Superdry Blue Bottle\nPantalone cargo\nSuperdry con tasche multiple, realizzato in tessuto resistente. Caratterizzato da una vestibilità regolare e dettagli funzionali, come le tasche laterali e posteriori con patta. Ideale per un look casual e pratico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: M7010994A BLUE BOTTLE-92N",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalone cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta in felpa con coulisse in vita e sul fondo, stile cargo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

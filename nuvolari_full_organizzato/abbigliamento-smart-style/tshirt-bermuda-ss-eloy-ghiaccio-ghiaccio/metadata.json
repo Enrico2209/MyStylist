@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/tshirt-bermuda-ss-eloy-ghiaccio-ghiaccio",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nLo spirito streetwear estivo di Rayz prende forma nel\ncompleto t-shirt e bermuda da uomo Rayz nella tonalità ghiaccio\n. Un coordinato fresco e versatile, dove la nuance azzurro ghiaccio dona luminosità e crea un total look pronto da indossare per la bella stagione.\nDesign, Tessuti e Caratteristiche Costruttive\nCompleto Coordinato\n: Set composto da t-shirt e bermuda in tinta, per un outfit già pronto e armonioso.\nCotone Comodo e Fresco\n: Realizzato in cotone dalla mano morbida, garantisce comfort e traspirabilità nelle giornate calde.\nTonalità Ghiaccio\n: Un azzurro chiarissimo e luminoso, delicato e facile da abbinare, perfetto per l'estate.\nT-Shirt Girocollo\n: Maglia a maniche corte con scollo a giro dal taglio pulito.\nBermuda Comodo\n: Short dalla vestibilità rilassata, per la massima libertà di movimento.\nIdee di Stile: Costruisci il Tuo Look Estivo & Streetwear\nTotal Look Coordinato\n: Indossa t-shirt e bermuda insieme per un outfit estivo pronto e dal gusto street.\nMix & Match\n: Abbina i singoli capi con basic a contrasto e delle\nsneakers\nper rinnovare il look.\nBeach & City\n: Perfetto per una giornata al mare o in città, da completare con infradito o sneakers leggere.\nVivi l'estate con la freschezza del ghiaccio e l'energia streetwear di Rayz. Il completo t-shirt e bermuda è la soluzione comoda e coordinata per la stagione calda.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Completo t-shirt e bermuda in cotone, tipico abbigliamento casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

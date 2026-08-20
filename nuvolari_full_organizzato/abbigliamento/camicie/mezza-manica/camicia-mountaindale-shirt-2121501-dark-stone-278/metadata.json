@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-mountaindale-shirt-2121501-dark-stone-278",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\ncamicia uomo Columbia\nè la scelta perfetta per chi cerca un capo versatile, comodo e dallo stile outdoor. Realizzata in  100% cotone un\ntessuto traspirante e resistente\n, che assicura freschezza e comfort per tutto il giorno, anche nelle attività all’aperto. Il design classico con\ncolletto, bottoni frontali e tasche funzionali\nla rende ideale sia per un look casual che per un outfit più tecnico. Perfetta per escursioni, viaggi o semplicemente per aggiungere un tocco avventuroso al tuo guardaroba quotidiano.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: 2121501 DARK STONE-278",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte stile outdoor/tecnico con tasche a zip, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

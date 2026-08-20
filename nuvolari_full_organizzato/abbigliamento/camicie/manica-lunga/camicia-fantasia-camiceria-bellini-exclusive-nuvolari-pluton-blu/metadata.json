@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-pluton-blu",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia fantasia uomo modello Pluton a maniche lunghe con micro fantasia geometrica blu e rossa a contrasto. Camicia alla francese slim fit in puro cotone realizzata in esclusiva da Camiceria Bellini x Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia fantasia uomo Bellini for Nuvolari modello Pluton - Blu\nCollo alla francese\nManiche lunghe\nTessuto con micro fantasia geometrica all over a doppio contrasto di colore\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% Cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia slim fit con micro fantasia geometrica, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

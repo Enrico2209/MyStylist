@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-we-5370-douglas-coccio",
-  "image_count": 7
+  "image_count": 7,
+  "descrizione_completa": "Descrizione\nPantalone Chinos da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari modello 5370 Douglas - Coccio\nChinos\nChiusura con zip e bottone\nDue tasche laterali\nDue finte tasche posteriore\nMicro taschino sul retro\nSalpa logata sul retro\nLogo apòòicato sulla tasca\nTapered\nVestibilità Slim\nComposizione: 97% cotone, 3% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con vestibilita slim, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

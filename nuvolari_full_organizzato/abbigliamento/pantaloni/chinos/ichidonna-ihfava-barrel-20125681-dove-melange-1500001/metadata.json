@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/ichidonna-ihfava-barrel-20125681-dove-melange-1500001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nPantaloni Chino Ichi Donna Ihfava Barrel Dove Melange\nconiugano magistralmente il rigore sartoriale del classico pantalone chino con le geometrie d'avanguardia dello street-style contemporaneo. Declinati in una sofisticata sfumatura grigio-tortora chiaro finemente calata in trama (\"Dove Melange\"), questi pantaloni si distinguono per il caratteristico taglio a palloncino, offrendo un'alternativa chic, rilassata e di grande carattere per i look da ufficio o per il tempo libero.\nDesign e Caratteristiche Principali\nSilhouette a Palloncino (Barrel Fit)\n: Il vero nucleo stilistico del capo risiede nei suoi volumi scultorei: la gamba si sviluppa ampia e morbidamente arcuata sui fianchi e sulle cosce per poi convergere in modo graduale verso la caviglia, creando una linea stondata iper-moderna.\nTessuto Tecnico-Sartoriale Melangiato\n: Realizzati in un filato leggero ma strutturato dalla finitura opaca, caratterizzato da una micro-tessitura melange che intreccia fibre chiare e scure. Questa lavorazione dona una bellissima multidimensionalità al colore e un'eccellente resistenza alle pieghe.\nCintura Regolare High-Waist Pulita\n: La vita alta e definita slancia otticamente la figura, strutturata sul davanti con una patta pulita a scomparsa e rifinita lateralmente da passanti per inserire cinture sia sottili sia di medie dimensioni.\nTasche Anteriori ad Chino Sbieco\n: Presenta pratiche tasche laterali inserite in diagonale (apertura a sbieco) che seguono l'anatomia del bacino, valorizzando la svasatura nativa del taglio barrel senza alterare la pulizia del pannello frontale.\nPinces Strutturali sul Fondo Gamba\n: L'orlo inferiore è sagomato da piccole riprese o cuciture verticali interne che forzano il tessuto a stringersi sopra la caviglia, sigillando la tipica forma a \"botte\" e permettendo al pantalone di poggiare perfettamente sopra sneakers o sandali.\nDettaglio Posteriore Minimale\n: Il retro è rifinito con tasche a filetto posizionate strategicamente per sollevare otticamente la linea dei fianchi e preservare il rigore minimalista del design svedese.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino sartoriale con pinces, taglio barrel contemporaneo adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

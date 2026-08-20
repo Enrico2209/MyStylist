@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/newbalance-530-donna-sneakers",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nSneakers New Balance: L'Equilibrio Perfetto tra Stile e Comfort\nLe sneakers New Balance non sono solo scarpe, sono una dichiarazione di stile. Con una storia che affonda le radici nel mondo del running, il brand ha saputo trasformare l'eccellenza funzionale in un'estetica iconica, diventando un punto di riferimento per chi cerca comfort, qualità e un design inconfondibile.\nSia che tu preferisca un look retrò o uno più audace e moderno, New Balance offre una gamma di modelli che si adattano a ogni personalità, pur mantenendo sempre la stessa promessa: la calzata perfetta.\nPerché Scegliere le Sneakers New Balance\nDesign Iconico:\nL'inconfondibile logo con la \"N\" laterale è un simbolo di autenticità e di un'estetica senza tempo. Ogni modello ha una sua personalità, ma tutti sono uniti da un design pulito e immediatamente riconoscibile.\nComfort e Performance:\nNate per la corsa, le sneakers New Balance integrano tecnologie di ammortizzazione avanzate come\nFresh Foam\ne\nENCAP\n, che offrono un supporto eccezionale per il tuo piede, rendendole perfette per affrontare la giornata con il massimo del comfort.\nQualità dei Materiali:\nNew Balance seleziona materiali di alta qualità come\nsuede, mesh e pelle\n, per garantire durata e traspirabilità. Molti modelli sono prodotti negli Stati Uniti e nel Regno Unito, testimoniando un impegno costante per la qualità artigianale.\nVersatilità:\nDalle silhouette classiche e minimali a quelle più audaci e contemporanee, le sneakers New Balance si abbinano a qualsiasi look, dal casual al semi-formale.\nModelli Popolari\n574:\nIl modello più iconico e amato del brand. Con una silhouette semplice e un design che ha superato la prova del tempo, è il perfetto \"everyday sneaker\".\n530:\nUn'estetica che richiama i modelli da running degli anni '90 e '00. Leggera e traspirante, è l'opzione ideale per chi cerca un look sportivo e di tendenza.\n990:\nUn vero e proprio classico, sinonimo di comfort e qualità superiore. Spesso prodotto negli Stati Uniti, è il fiore all'occhiello del marchio, scelto da appassionati di sneaker e celebrità.\n9060:\nUn design audace e futuristico che unisce elementi classici a una silhouette massimalista e una suola oversize. È il modello perfetto per chi vuole osare con un look contemporaneo.\n327:\nUn'altra icona con un'estetica vintage ma moderna, ispirata ai design da running degli anni '70. La sua suola dentellata e il logo oversize la rendono unica e di carattere.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nDesign Ispirato ai Primi Anni '90:\nLa 530 presenta una tomaia in\nmesh traspirante\ncon rivestimenti in\nmateriale sintetico\n, che le conferiscono un look distintivo e tecnico.\nAmmortizzazione ABZORB:\nL'intersuola integra la tecnologia\nABZORB\nnel tallone, un sistema di ammortizzazione che assorbe efficacemente gli impatti, garantendo comfort e protezione per tutto il giorno.\nComfort e Vestibilità:\nPur non essendo progettate per il running ad alte prestazioni di oggi, le 530 offrono un'ottima ammortizzazione e sono leggere, rendendole ideali per camminare e per l'uso casual. Molti recensori consigliano di prendere la misura abituale, sebbene alcuni preferiscano una mezza taglia in più per una vestibilità più comoda.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running retrò, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

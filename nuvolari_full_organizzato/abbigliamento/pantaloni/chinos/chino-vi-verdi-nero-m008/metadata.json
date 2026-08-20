@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/chino-vi-verdi-nero-m008",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Pantalone Chino Uomo Baecker, realizzato in un ricercato mix di 77% viscosa e 23% poliammide, rappresenta l'evoluzione del classico pantalone maschile verso una dimensione di comfort e fluidità senza precedenti. È un capo pensato per chi cerca un'estetica formale ma desidera una sensazione di leggerezza e morbidezza superiore sulla pelle.\nPerchè Sceglierlo\nLa combinazione di questi due materiali crea un tessuto unico: la viscosa (spesso definita \"seta vegetale\") conferisce al pantalone una caduta impeccabile, una lucentezza naturale e una freschezza termica imbattibile. Il poliammide interviene come rinforzo strutturale, garantendo che il capo mantenga la sua forma, resista alle pieghe e sia molto più durevole rispetto a un capo in viscosa pura. Il risultato è un chino estremamente confortevole, ideale per lunghe giornate in ufficio o eventi estivi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n77% viscosa 23% polammide\nVestibilità regular\nCodice articolo: VI VERDI NERO-M008",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in viscosa fluida, taglio pulito smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

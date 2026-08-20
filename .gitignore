@@ -22,3 +22,24 @@ __pycache__/
 # notebook v1/v2 superati dallo scraper definitivo (scrape_with_attributes.py)
 Untitled-1.ipynb
 nuvolari pics scraper.ipynb
+
+# chiave API Gemini: mai nel repo
+.env
+outfit_images_log.jsonl
+
+# Dati della pipeline. Nel repo va solo cio' che serve a ricostruire il
+# risultato: le immagini degli outfit vivi. Il pool e i suoi backup sono
+# oltre i 100 MB e GitHub li rifiuta fuori da LFS, che qui copre solo le
+# immagini; i parquet e le revisioni si rigenerano.
+nuvolari_db/*
+!nuvolari_db/outfit_images/
+!nuvolari_db/outfit_thumbs/
+
+# Immagini di outfit non piu' validi: tenute in locale, non pubblicate.
+*_superate/
+
+# Backup di lavorazione (.prima_qualcosa.bak): storia locale, non codebase.
+*.bak
+
+# miniature generate per l'export Excel: artefatto, si rigenera
+.xlsx_thumbs/

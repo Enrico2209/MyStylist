@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "promo-abbigliamento/polo-vallei-sabbia-sabbia",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPolo Uomo Baecker\nLa polo uomo Baecker è un capo essenziale per chi ama lo stile casual ma curato. Realizzata con tessuti di alta qualità, garantisce comfort e freschezza durante tutta la giornata. Il design sobrio e moderno la rende perfetta per ogni occasione, sia per un look informale che per eventi più eleganti.\nCaratteristiche:\nVestibilità regolare per il massimo comfort.\nColletto a coste con chiusura a bottoni per un tocco classico.\nTessuto traspirante, ideale per le giornate più calde.\nDisponibile in diverse tonalità, facili da abbinare a jeans o pantaloni chino.\nProposta Outfit:\nAbbina la polo Baecker a un paio di\npantaloni chino\nper un look raffinato o a\njeans\nslim-fit\nper un outfit casual. Completa il tutto con\nsneakers\nbianche\nper un tocco fresco e moderno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n97% cotone, 3% elastane\nVestibilità regular\nCodice articolo: VALLEI SABBIA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone, adatta a contesti smart casual e abbinabile a chino",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

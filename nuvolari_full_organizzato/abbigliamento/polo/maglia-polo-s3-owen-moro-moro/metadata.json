@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/maglia-polo-s3-owen-moro-moro",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nL'iconico connubio tra la raffinatezza della maglieria classica italiana, la funzionalità dei filati contemporanei e un'estetica urban evoluta si fondono nella collezione di\nmaglie polo uomo Nuvolari in maglia\n. Pensata per chi desidera elevare il concetto di polo basica in piqué, questa proposta unisce l'understatement sartoriale alla versatilità dello streetwear metropolitano, trasformando un classico dell'abbigliamento maschile in un manifesto di stile contemporaneo e senza tempo.\nDesign, Texture e Caratteristiche Costruttive\nFilato Tecnico Premium (60% Cotone, 40% Poliestere)\n: Il vero e proprio fulcro di questa maglia polo risiede nella composizione bilanciata del suo tessuto. Il 60% di cotone assicura la massima freschezza, morbidezza naturale e traspirabilità a contatto con la pelle. Il 40% di poliestere infonde al capo un'elevata stabilità strutturale, resistenza alle pieghe e un'asciugatura rapida, permettendo alla maglia di mantenere una caduta scultorea e impeccabile per tutta la giornata.\nLa Nobiltà della Lavorazione in Maglia\n: Rispetto alle polo tradizionali, la texture tricot a maglia fine dona al capo una tridimensionalità opaca e una mano ricca, tipica dei capi sartoriali estivi. Questa particolare finitura geometrica incarna alla perfezione la tendenza del quiet luxury, adattandosi con fluidità e precisione alle linee del corpo.\nDettagli Sartoriali e Chiusura Pulita\n: L'architettura del capo si distingue per il classico colletto a polo in maglia strutturata, completato da una pulita patta frontale che può presentarsi sbottonata in stile \"french collar\" o provvista di bottoni sottili coordinati. I bordi delle maniche e il fondo del capo sono rifiniti a coste robuste per garantire una silhouette stabile e definita.\nVestibilità Calibrata Modern Regular\n: Il taglio è progettato per valorizzare la figura maschile in modo naturale, offrendo la giusta ampiezza sul busto e una linea scivolata lungo i fianchi, perfetta per essere indossata sia sopra che all'interno dei pantaloni.\nIdee di Stile: Costruisci il Tuo Look Knitwear & Smart-Casual\nMetropolitan Smart-Casual Uniform\n: Sfrutta la texture sofisticata della lavorazione tricot per creare un perfetto look estivo da ufficio o per un appuntamento informale. Abbina la polo in maglia Nuvolari alla precisione geometrica e alla nuance minerale dei bermuda uomo Nuvolari Marble in cotone stretch, completando l'outfit con un mocassino scamosciato leggero.\nUrban Contemporary Contrast\n: Inserisci la ricercatezza della maglieria in un contesto streetwear solido, dinamico e di carattere. Accosta la polo alla silhouette generosa e rilassata dei jeans uomo Levi's 568 Loose Straight, chiudendo il cerchio con un paio di sneakers dal design rétro e pulito.\nSophisticated Riviera Layering\n: Per un aperitivo al tramonto o per il tempo libero nei weekend, gioca con i materiali nobili e le tonalità della terra. Abbina la maglia polo alla freschezza e alla morbidezza di un\npantalone uomo\no bermuda uomo Baecker in lino nelle sfumature del sabbia o del kaki, siglando il tutto con un occhiale da sole rétro.\nSperimenta la perfetta sintesi tra il comfort termico delle fibre naturali e l'efficienza strutturale del filato tecnico. Scegli la consistenza della lavorazione tricot, la stabilità del mix cotone-poliestere e l'attitudine inconfondibile delle maglie polo uomo in maglia firmate Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n60% cotone, 40% poliestere\nVestibilità regular\nCodice articolo: S3 OWEN MORO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia tricot fine, piu formale del piqué classico, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

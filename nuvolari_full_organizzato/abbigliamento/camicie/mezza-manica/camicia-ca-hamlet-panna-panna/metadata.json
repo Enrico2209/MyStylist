@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-ca-hamlet-panna-panna",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa camicia uomo Black Rags realizzata in 80% viscosa e 20% poliammide rappresenta un'alternativa sofisticata e fluida alle classiche proposte tecniche del brand. Questa particolare miscela di fibre è studiata per offrire un indosso estremamente piacevole, unendo la naturalezza della viscosa alla resistenza della poliammide.\nPerché sceglierla\nIl punto di forza di questo capo è la sua caduta impeccabile. La prevalenza della viscosa (spesso definita \"seta artificiale\") conferisce alla camicia una lucentezza discreta e una mano incredibilmente morbida e fresca sulla pelle. La poliammide (20%) agisce come rinforzo strutturale, migliorando la resistenza all'usura e aiutando il tessuto a mantenere la forma originale senza cedere eccessivamente.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n80% viscosa, 20% poliammide\nVestibilità regular\nCodice articolo: CA HAMLET PANNA-PANNA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia a maniche corte in tessuto fluido di viscosa, adatta a contesti smart casual estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

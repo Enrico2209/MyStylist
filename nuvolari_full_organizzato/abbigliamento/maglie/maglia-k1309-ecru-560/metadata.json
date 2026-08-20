@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k1309-ecru-560",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesto maglione girocollo è un capo 100% Fred Perry: di ispirazione sportiva e in perfetto stile streetwear. Realizzato nello stesso piqué di cotone ad alte prestazioni delle polo iconiche, presenta una morbida finitura in cotone pettinato. È un essential versatile, che unisce la qualità del tessuto a una vestibilità relaxed.\nPerchè acquistarlo\nTessuto Piqué Iconico:\nRealizzato nello stesso\npiqué\ndelle polo Fred Perry, è un materiale traspirante, resistente e confortevole.\nComfort e Sensazione:\nLa finitura in\ncotone pettinato\ngarantisce morbidezza e una sensazione piacevole.\nDettagli Sportivi:\nGirocollo\ndal taglio confortevole.\nRifiniture a coste\nsu polsini e orlo, che assicurano una vestibilità stabile e pulita.\nBranding Ricamato:\nIl\nLogo con Corona d'Alloro\nè finemente ricamato sul petto a sinistra, un dettaglio di stile inconfondibile.\nIdeale per:\nUn look sportivo ma curato. Perfetto da abbinare a jeans scuri e sneakers.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: K1309 ECRU-560",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone piqué, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

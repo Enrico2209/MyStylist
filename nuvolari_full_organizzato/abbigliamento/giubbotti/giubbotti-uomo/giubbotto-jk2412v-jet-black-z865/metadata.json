@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-jk2412v-jet-black-z865",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUn capospalla essenziale dal look pulito e contemporaneo: il\nGiubbotto Uomo Lyle & Scott JK458 in Nero Jet Black\ncombina l'inconfondibile eleganza sportiva del brand scozzese a una tonalità nera profonda e versatile, firmato dall'iconica aquila d'oro ricamata sul petto.\nDesign e Caratteristiche Principali\nTessuto Tecnico Idrorepellente:\nconfezionato in materiale leggero e resistente, protegge dalle intemperie senza rinunciare al comfort.\nIntramontabile Nero Jet Black:\nuna tonalità nera piena ed elegante, la più versatile in assoluto, facile da abbinare a ogni look.\nAquila Ricamata Signature:\nil celebre logo dell'aquila dorata Lyle & Scott spicca ricamato sul petto, firma inconfondibile del brand.\nChiusura Zip Full:\nzip frontale integrale e tasche laterali, per un capo pratico e funzionale.\nTaglio Regular Fit:\nvestibilità comoda e moderna, perfetta da indossare in layering nelle mezze stagioni.\nIdee di Stile: Linka il Tuo Outfit\nSporty Casual:\nabbina il giubbotto a un paio di\njeans uomo\ne sneakers per un look urbano dinamico.\nSmart Layering:\nindossalo sopra una\nfelpa uomo\ngirocollo per un outfit rilassato ma curato.\nWeekend Active:\ncompletalo con dei\npantaloni uomo\nchino per uno stile pratico e versatile.\nAffronta le mezze stagioni con stile grazie al Giubbotto Lyle & Scott JK458 in Nero Jet Black. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto leggero stile harrington/bomber, uso casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

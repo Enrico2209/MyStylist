@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-1861n-6wv-jeep-769",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta giacca firmata Colmar Originals è la sintesi perfetta tra design tecnico e stile urbano, ideale per chi desidera un guscio protettivo ma estremamente dinamico. Realizzata in softshell leggero, è progettata per accompagnarti con disinvoltura durante le giornate uggiose o ventose.\nGiacca Softshell Colmar Originals Essenzialità e Protezione\nPerché sceglierla\nA differenza dei classici piumini, questa versione\nsenza imbottitura\npunta tutto sulla leggerezza e sulla libertà di movimento. È il capospalla ideale per le stagioni intermedie, capace di offrire una barriera affidabile contro la pioggia leggera senza appesantire la figura. Il suo look pulito la rende incredibilmente versatile: puoi indossarla sopra una\npolo Sun68\nper un outfit casual-chic o abbinarla a un look più sportivo.\nDettagli Tecnici e Funzionali\nStruttura Protettiva\n: Il cappuccio fisso e il tessuto softshell lavorano in sinergia per schermarti dalle intemperie quotidiane.\nPraticità Intelligente\n: Dotata di una zip a doppio cursore che permette di regolare l'apertura a piacimento e di diverse tasche (laterali e interna) tutte protette da zip per la massima sicurezza dei tuoi oggetti.\nFiniture di Qualità\n: I polsi e il fondo sono rifiniti con un nastro elastico logato che assicura una perfetta aderenza al corpo, impedendo agli spifferi d'aria di entrare.\nSegni Distintivi\n: Presenta l'iconico logo Colmar Originals sulla manica sinistra e l'esclusiva patch \"C\" applicata sul retro, simboli di autenticità e ricerca stilistica.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nTessuto esterno: 92% Poliestere + 8% Elastan\nVestibilità regular\nCodice articolo: 1861N 6WV JEEP-769",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto softshell leggero non imbottito, tetto di marchio sportivo/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

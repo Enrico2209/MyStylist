@@ -24,5 +24,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-ln-nathan-salvia-salvia",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Baecker Eleganza Urban, Stile Contemporaneo\nQuando la sartorialità incontra il comfort quotidiano, nasce il pantalone firmato\nBaecker\n. Pensato per l’uomo moderno che cerca stile senza rinunciare alla praticità, questo capo è il perfetto equilibrio tra linee pulite e spirito metropolitano.\nDalla silhouette slim ma confortevole, è ideale per accompagnarti in ogni momento della giornata: dall’ufficio agli aperitivi, dai viaggi ai weekend in città. Realizzato con tessuti di qualità  morbidi, resistenti e piacevoli sulla pelle, assicura una vestibilità impeccabile e un tocco sempre curato.\nDisponibile in tonalità neutre e versatili, è il passepartout perfetto per costruire look raffinati o più casual, a seconda degli abbinamenti. Indossalo con una camicia per un mood più formale, oppure con una t-shirt e\nsneakers\nper uno stile urban e rilassato.\nUn capo must-have, pensato per chi ama distinguersi con discrezione e carattere. Con Baecker, ogni dettaglio conta.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n55% cotone, 44% lino, 1% elastane\nVestibilità regular\nCodice articolo: LN NATHAN SALVIA-SALVIA/li>",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in misto lino e cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

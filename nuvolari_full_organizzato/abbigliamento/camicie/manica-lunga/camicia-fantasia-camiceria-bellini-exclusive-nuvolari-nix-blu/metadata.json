@@ -22,5 +22,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-blu",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nCamicia blu da uomo a maniche lunghe con micro stampa geometrica all over a contrasto di colore bianco che va a creare un particolare effetto ottico. Camicia slim fit in cotone di massima qualità, realizzata in collaborazione da Camiceria Bellini x Nuvolari, per uno stile contemporaneo, moderno e raffinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia fantasia uomo Bellini for Nuvolari modello Nix - Blu\nCollo alla francese\nTessuto con micro fantasia geometrica all over\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia slim fit con micro fantasia, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

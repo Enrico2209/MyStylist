@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-kinney-woven-black-multi-bkm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa camicia da uomo Obey unisce il design classico a un’estetica contemporanea, perfetta per chi cerca un look casual ma curato nei dettagli. Realizzata in tessuto di alta qualità, garantisce comfort e vestibilità ottimale. Il taglio versatile la rende ideale sia per outfit formali che per combinazioni più rilassate.\nAbbinala a un paio di\njeans\nper un tocco urbano o a un\npantalone chino\nper un’eleganza senza sforzo. Completa il look con delle\nsneakers\nper un perfetto equilibrio tra stile e comodità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.5,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo a rever e grafica psichedelica, marchio streetwear puro",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

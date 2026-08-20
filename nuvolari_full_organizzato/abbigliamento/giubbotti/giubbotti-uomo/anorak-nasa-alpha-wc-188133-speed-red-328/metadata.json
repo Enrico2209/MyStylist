@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/anorak-nasa-alpha-wc-188133-speed-red-328",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "Descrizione\nGIACCA A VENTO NASA ALPHA INDUSTRIES SPEED RED\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nAnorak Alpha Industries modello Nasa 188133\nTasca centrale sul davanti con zip laterali\nImbottitura interna in pile\nCappuccio e fondo regolabili\nPatch sul petto e sulle maniche\nTaschina con zip sulla manica\nTasca interna\nVesitbilità regular\nComposizione esterno: 100% nylon, composizione interno: 100% poliestere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "giacca a vento anorak con patch NASA vistose, stile streetwear/casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

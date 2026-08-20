@@ -22,5 +22,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-es2-trinidad-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari 100% Lino\nLa\nCamicia Uomo Nuvolari in lino 100%\nè il capo perfetto per chi cerca eleganza, freschezza e comodità nelle stagioni più calde. Tessuta con fibra naturale, garantisce leggerezza, traspirabilità e un’estetica sofisticata, rendendola un must per l’estate.\nCaratteristiche principali\nTessuto naturale\n: lino al 100%, ideale per mantenere la pelle fresca e asciutta\nVestibilità regular\n: comoda e morbida, perfetta per essere indossata aperta o abbottonata\nDettagli accurati\n: colletto classico, maniche lunghe rifinibili anche a tre quarti, bottoni ton sur ton\nProposta di Outfit\nPer un look estivo elegante e raffinato:\nIndossa la\ncamicia in lino\ncon un paio di\npantaloni chinos\nleggeri.\nScegli un modello estivo come i\nbermuda\nse preferisci un look più casual.\nCompleta con le\nsneakers\nper un tocco moderno o con sandali in pelle per un’estetica più ricercata.\nPer le serate estive o eventi informali:\nAggiungi una giacca destrutturata leggera in lino o cotone per il raffreddamento notturno, mantenendo stile e naturalezza.\nLa\ncamicia in lino Nuvolari\nè l’essenza dello stile estivo maschile: naturale, elegante e sorprendentemente versatile. Perfetta per l’ufficio, il weekend o le occasioni speciali… sempre con una freschezza a misura d’uomo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% lino\nVestibilità regular\nCodice articolo:ES2 TRINIDAD NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Camicia in lino a collo coreana, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

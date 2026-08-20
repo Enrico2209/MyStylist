@@ -24,5 +24,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-galantis-white-sand-2g",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nNuvolari Galantis: L’Eleganza del Lino, senza rinunciare alla Praticità\nCamicia Uomo Nuvolari Galantis 55% lino\nTrovare l'equilibrio perfetto tra il fascino autentico del lino e la resistenza alle pieghe è finalmente possibile. La camicia Galantis di Nuvolari è progettata per l'uomo dinamico che non vuole scegliere tra l'eleganza sartoriale e la comodità della vita quotidiana. Con la sua texture naturale e il fit contemporaneo, è il capo d'elezione per le giornate estive più lunghe, garantendo un look impeccabile dalla mattina alla sera.\nInnovazione Tessile: Lino e Performance\nBlend Tecnico 55% Lino / 45% Poliestere\n: La fibra naturale di lino dona traspirabilità, leggerezza e l'inconfondibile \"mano\" fresca, mentre la componente in poliestere è stata sapientemente inserita per ridurre drasticamente la formazione delle pieghe, rendendo la camicia facile da gestire anche in viaggio.\nTonalità Naturale ed Versatile\n: Il colore neutro, ispirato alle sfumature della terra, la rende una base perfetta per ogni abbinamento, sia con colori accesi che con toni più sobri.\nDesign \"Easy-Chic\"\n: Il colletto semi-francese e i bottoni in tono conferiscono un'allure pulita e moderna. La struttura del capo è pensata per cadere in modo naturale, offrendo un comfort che dura tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n55% lino, 45% poliestere\nVestibilità regular\nCodice articolo: S3 GALANTIS WHITE/SAND-2G",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in misto lino con collo alla coreana, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

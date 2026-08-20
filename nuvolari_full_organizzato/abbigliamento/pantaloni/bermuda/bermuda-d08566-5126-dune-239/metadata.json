@@ -22,5 +22,19 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-d08566-5126-dune-239",
-  "image_count": 1
+  "image_count": 1,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo stile utility e militare, capo prettamente casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

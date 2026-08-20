@@ -26,5 +26,30 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-marble-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'equilibrio perfetto tra il rigore sartoriale del design italiano, il comfort dinamico dei tessuti moderni e un'estetica urban raffinata si fondono nei\nbermuda uomo Nuvolari modello Marble\n. Pensati per affrontare la stagione calda con la massima disinvoltura, questi pantaloncini corti reinterpretano il classico chino-short attraverso una silhouette pulita e una sofisticata palette cromatica minerale, confermandosi un pilastro essenziale per i look smart-casual dell'estate metropolitana.\nDesign, Texture e Caratteristiche Costruttive\nTessuto Premium in Cotone Stretch\n: Il vero e proprio punto di forza del bermuda risiede nella composizione del suo filato, che unisce il\n98% di cotone e il 2% di elastane\n. Questa calibrata armonia garantisce tutta la freschezza, la traspirabilità e la robustezza strutturale del cotone a fibra lunga, arricchita dalla flessibilità dell'elastane che asseconda in modo naturale ogni movimento del corpo.\nLa Sfumatura Neutra e Minerale Marble\n: La colorazione \"Marble\" (marmo) si sviluppa su un'elegante tonalità neutra e gessosa, estremamente versatile e facile da abbinare. Questa sfumatura organica dona al capo una straordinaria luminosità, ideale per staccare con decisione dai classici toni scuri e accendere gli outfit estivi.\nSartorialità Chino-Short e Linee Pulite\n: La silhouette del modello Marble riprende le geometrie essenziali del pantalone formale riproposto in versione corta. Presenta tasche laterali a filo inserite con precisione lungo le cuciture dei fianchi e tasche posteriori a filetto, assicurando un'architettura lineare e priva di eccessi volumetrici.\nGirovita Strutturato e Finiture di Qualità\n: La costruzione della cintura rivela un'attenzione artigianale ai dettagli, provvista di passanti robusti per la cintura, una patta con zip di alta qualità e una chiusura formale sul davanti con bottone in tinta.\nIdee di Stile: Costruisci il Tuo Look Urban & Summer Smart-Casual\nMetropolitan Smart-Casual Transition\n: Crea una combinazione pulita, geometrica e di grande personalità per la vita in città o per un appuntamento di lavoro informale. Abbina il bermuda Marble alla freschezza lineare e ariosa di una delle nostre\ncamicie uomo\nin puro lino fiammato bianco o azzurro, completando il cerchio con un mocassino morbido o una stringata scamosciata leggera.\nUrban Contemporary Pop Uniform\n: Smorza il rigore formale del taglio chino short inserendolo in un contesto streetwear fresco ed energico. Accosta il pantaloncino alla struttura pesante e al taglio rilassato di una delle\nt-shirt uomo\ngrafiche o a pigmento firmate Obey, chiudendo l'outfit con una sneaker dal design retro-running.\nCasual Summer Layering\n: Sperimenta il massimo del comfort per un aperitivo al tramonto o per un weekend fuori porta giocando con le stratificazioni leggere. Indossa il bermuda Nuvolari con una t-shirt uomo Levi's o K-Way basica chiara e sovrapponi sul davanti una camicia a maniche corte aperta con pattern a righe verticali, siglando il tutto con un paio di occhiali da sole rétro.\nSperimenta la perfetta sintesi tra l'understatement del design essenziale e la straordinaria flessibilità della tela comfort stretch. Scegli la luminosità della nuance Marble, la precisione dei dettagli sartoriali e l'attitudine inconfondibile dei bermuda uomo firmati Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 SH MARBLE BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda cargo con tasconi laterali, capo prettamente casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

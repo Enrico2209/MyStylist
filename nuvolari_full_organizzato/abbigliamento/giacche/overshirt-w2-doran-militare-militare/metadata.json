@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/overshirt-w2-doran-militare-militare",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nOvershirt Uomo Nuvolari: Versatilità e Stile in un Solo Capo\nL'overshirt uomo Nuvolari è la soluzione perfetta per chi cerca un look pratico e alla moda. Un capo versatile, ideale da indossare come giacca leggera nelle mezze stagioni o come strato aggiuntivo nei mesi più freddi. Realizzata con materiali di qualità, offre una vestibilità comoda e un design contemporaneo.\nCome abbinarla?\nPortala sopra una\nmaglia\nper un look casual e rilassato, oppure sopra una\ncamicia\nper un tocco più sofisticato. Completa l’outfit con un paio di\nsneakers\nper un look dinamico e moderno.\nScopri altre idee per i tuoi\noutfit\ne trova la combinazione perfetta!\nPerché scegliere l’overshirt Nuvolari?\nDesign versatile adatto a ogni stagione\nMateriali di alta qualità per un comfort duraturo\nPerfetta per creare look casual o più ricercati\nUn must-have per uno stile senza compromessi!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n63% cotone, 31% nylon, 6% elastane\nVestibilità regular\nCodice articolo: W2 DORAN MILITARE-MILITARE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "overshirt stile militare/workwear con tasconi, adatta a un contesto casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-misto-lino-nuvolari-brian-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantaloni misto lino uomo in tessuto armaturato tinto capo militare dalla vestibilità slim fit, dotato di 5 tasche, chiusura con zip e bottone chiodo in vita con doppio passante lato destro. Un modello perfetto per la stagione estiva, per un look casual chic da completare con le iconiche\nsneakers white supercourt Adidas\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone misto lino uomo Nuvolari modello 7075 BRIAN - Militare\nTessuto armaturato tinto capo\nChiusura con zip e bottone chiodo in vita con doppio passante lato destro\nDue tasche a filo con aggiunta di piccolo taschino\nDue tasche posteriori a filetto a due profili chiuse da bottoni\nTessuto in contrasto di colore nella fodera/vita.\nComposizione: 70% cotone, 30% lino\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers white supercourt Adidas",
+      "categoria_url": "https://www.nuvolari.biz/supercourt-adidas-originals-wd-ee6037-white-white.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit in misto lino, perfetto per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

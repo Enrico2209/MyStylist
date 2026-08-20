@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-w3-finesse-milk-milk",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nProj3ct S3 Finesse: L'Attitudine Streetwear incontra la Purezza del Cotone\nT-Shirt Uomo Proj3ct\nEsprimi il tuo stile urbano con la T-shirt Proj3ct S3 Finesse. Un capo nato dall'intersezione tra cultura street e ricerca della qualità, dove il nome \"Finesse\" non è un caso, ma una promessa di stile pulito e attitudine autentica. Realizzata in puro cotone 100%, è la base indispensabile per chi vive la città con consapevolezza e carattere.\nDettagli Signature e Comfort Naturale\n100% Cotone Premium\n: La fibra naturale garantisce una traspirabilità superiore e una sensazione di morbidezza costante sulla pelle. Un tessuto fresco e resistente, progettato per mantenere la forma e il comfort anche dopo numerosi lavaggi.\nGrafica \"Tag\" Iconica\n: Caratterizzata da una stampa grafica nera in stile \"tag\" sul petto sinistro, questa t-shirt incarna perfettamente l'estetica Proj3ct: funzionale, tecnica e di grande impatto visivo. Un dettaglio minimal ma potente che comunica istantaneamente un'identità street.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:W3 FINESSE MILK-MILK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con grafica tag in stile streetwear, vestibilita regular",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/girocollo/maglione-uomo-proj3ct-jacquard-simons-denim-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Proj3Ct Jacquard Simons Denim/Nero\nMaglione fantasia jacquard da uomo in blu denim e nero, in morbido e caldo tessuto misto lana. Il girocollo, i polsini e il fondo sono enfatizzati dalla lavorazione a coste larghe. Trova anche il\npantalone\ngiusto per completare il tuo look!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% Lana, 30% Acrilico, 10% Poliammide, 5% Alpaca, 5% Viscosa\nCodice articolo: WC SIMONS DENIM/NERO-DENIM/NER",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana con lavorazione jacquard, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "quadri"
+  }
 }

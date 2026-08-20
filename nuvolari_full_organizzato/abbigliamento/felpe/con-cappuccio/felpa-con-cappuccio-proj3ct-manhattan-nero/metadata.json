@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-con-cappuccio-proj3ct-manhattan-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nFelpa nera con cappuccio da uomo realizzata in 100% cotone e dalla vestibilità oversize, per uno stile streetwear moderno e alla moda. Completa il tuo look con un altro capo imperdibile firmato Proj3ct, il\npantalone shark bordeaux\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa uomo con cappuccio Proj3ct modello Manhattan - Nero\nCappuccio con coulisse\nTasca marsupio sul davanti\nLogo ricamato sul davanti\nBordi a costina\nFit oversize\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone shark bordeaux",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-project-ewc-shark-bordeaux-04.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio oversize, capo casual quotidiano con accento street",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

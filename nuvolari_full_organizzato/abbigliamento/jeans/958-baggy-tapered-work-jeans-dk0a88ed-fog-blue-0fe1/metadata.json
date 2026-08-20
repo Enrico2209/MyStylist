@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/958-baggy-tapered-work-jeans-dk0a88ed-fog-blue-0fe1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autenticità workwear americana di Dickies prende forma nei\njeans 958 Baggy Tapered da uomo Dickies nella lavatura Fog Blue\n. Un capo dal fit ampio e affusolato, dove il denim blu chiaro incontra la robustezza e la funzionalità che hanno reso celebre il marchio.\nDesign, Tessuti e Caratteristiche Costruttive\nRobusto Denim Workwear\n: Realizzati in denim di cotone resistente, garantiscono struttura, durata e comfort per l'uso quotidiano.\nLavaggio Fog Blue\n: Una tonalità blu chiaro nebbioso, moderna e versatile, dal gusto vintage-contemporaneo.\nFit Baggy Tapered\n: Vestibilità ampia su cosce e gamba con fondo affusolato, per un look streetwear attuale e comodo.\nStruttura Multi-Tasche\n: Design funzionale con tasche capienti, dettaglio pratico e iconico dello stile utility.\nDettagli Firma Dickies\n: Finiture curate e patch logo che testimoniano l'heritage del brand.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Workwear\nStreetwear Look\n: Abbina i jeans a una\nt-shirt uomo\noversize e delle\nsneakers uomo\nchunky per un outfit urbano attuale.\nWorkwear Autentico\n: Completa con una sovracamicia o un\ngiubbotto uomo\nutility per un look funzionale e coerente.\nCasual Quotidiano\n: Indossali con una felpa e le tue sneakers preferite per un mood easy tutti i giorni.\nScegli il carattere baggy e l'autenticità workwear di Dickies. I jeans 958 in Fog Blue sono il capo giusto per un look streetwear comodo e di tendenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "jeans denim con vestibilita baggy, abbassato da fit ampio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

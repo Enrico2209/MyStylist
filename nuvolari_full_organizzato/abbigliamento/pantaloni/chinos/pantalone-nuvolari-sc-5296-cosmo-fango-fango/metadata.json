@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-sc-5296-cosmo-fango-fango",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari 5296 COSMO\nPantalone\nchino\nfirmato Nuvolari modello\n5296 COSMO\n, dalla vestibilità tapered in tessuto armaturato filo nero. Chiusura con zip e doppio bottone in vita, due tasche a filo e due posteriori a filetto. Tessuto in contrasto di colore nella fodera/ vita. Made in Italy 97.5% cotone 2.5% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con vestibilita tapered, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

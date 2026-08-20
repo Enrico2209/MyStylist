@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/piumino-esg-skipper-vulcan",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\ngiubbotto da uomo\ndi\nColmar Originals\nè un giubbotto primaverile realizzato in tessuto opaco con un trattamento idrorepellente.\nQuesta giacca da uomo blu ha una vestibilità regular, chiusura con zip, tasche laterali e tasca interna con zip. In più, ha un nastro elastico su polsi, sul cappuccio e sul fondo.\nIl giubbotto ha cappuccio fisso e imbottitura leggera in piuma naturale.\nIl logo del brand è applicato sul braccio sinistro.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto da uomo Colmar Originals Skipper/Vulcan\nVestibilità Regular\nComposizione: 100% nylon\nCodice Prodotto: ESG 1277P 8VX SKIPPER/VULCAN-182",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero sportivo/casual, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

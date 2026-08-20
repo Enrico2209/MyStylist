@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/nuvolari-uomo-giubbotto-we-maddox-militare-militare",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Nuvolari Maddox Militare\nGiubbotto\nUomo Nuvolari modello Maddox, in colore militare. Dotato di cappuccio e chiusura full zip, presenta un fondo regolabile con elastici e polsini elasticizzati per una vestibilità ottimale. Il collo alto aggiunge protezione, mentre le due tasche frontali con zip offrono praticità. Questo giubbotto è impermeabile e ha una vestibilità slim, realizzato in 100% cotone cerato per garantire comfort e resistenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone cerato\nCodice articolo: WE MADDOX  MILITARE-MILITARE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto casual in cotone cerato con cappuccio e dettagli elastici",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

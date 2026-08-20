@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-glacier-view-boonie-dk0a4y4n-black-blk1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Dickies Glacier View Boonie Black\nè un berretto stile militare/pescatore ad ampia tesa, progettato per offrire la massima protezione dagli elementi e un'estetica utility decisa e contemporanea. Caratterizzato da una struttura robusta e da una colorazione total black, questo modello unisce la storica resistenza del workwear Dickies alla funzionalità necessaria per le avventure all'aria aperta e i festival estivi.\nDesign e Caratteristiche Principali\nStruttura Boonie Classica\n: Presenta una tesa larga e flessibile a 360 gradi che assicura un'eccellente schermatura contro i raggi solari e la pioggia leggera per viso, occhi e nuca.\nNastro Passante Esterno (Daisy Chain)\n: La corona è circondata dal classico nastro in tessuto cucito a intervalli regolari, un dettaglio funzionale di ispirazione militare originariamente nato per inserire elementi di camuffamento o piccoli accessori.\nIconico Logo Dickies\n: Il fronte è personalizzato dalla celebre etichetta quadrata del brand cucita sul nastro passante, che certifica l'autenticità e lo spirito street-workwear dell'accessorio.\nCordino Sottomento Regolabile\n: Dotato di un laccetto tecnico nero con cursore (toggle) regolabile, ideale per mantenere il cappello saldamente in posizione anche in caso di vento forte o durante movimenti dinamici.\nTesa Rinforzata con Impunture\n: La falda è rifinita da cuciture concentriche parallele che ne aumentano la rigidità strutturale, impedendo che si afflosci sugli occhi.\nTessuto Resistente e Ripiegabile\n: Realizzato in un materiale solido e duraturo, il cappello può essere facilmente schiacciato o ripiegato all'interno di uno zaino, tornando in forma non appena indossato.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questo boonie hat Dickies nei tuoi look di stagione:\nPure Utility Street\n: Indossalo con una t-shirt basic oversize, dei\npantaloni cargo\ncolor verde oliva e degli scarponcini o sneakers robuste per un perfetto outfit gorpcore.\nFestival Casual Vibe\n: Abbinala a una t-shirt grafica The North Face e a degli\nshorts\nin felpa neri o grigi per un look da tempo libero comodo e protettivo.\nTotal Black Metropolitano\n: Provalo in combinazione con una\novershirt\nleggera tecnica nera aperta, jeans scuri e accessori minimali per un'estetica urban-utility pulita e d'impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "cappello stile boonie/pescatore, accessorio prettamente casual e streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

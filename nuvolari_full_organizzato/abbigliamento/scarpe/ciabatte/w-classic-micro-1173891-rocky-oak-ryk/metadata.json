@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/w-classic-micro-1173891-rocky-oak-ryk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLo Stile Iconico, Perfetto per Ogni Momento\nIl brand\nUGG\nè sinonimo di morbidezza ineguagliabile e comfort avvolgente. I suoi articoli sono progettati per trasformare il tuo guardaroba, unendo la praticità\ncasual\nall'eleganza rilassata.\nLa collezione donna\nUGG\ncelebra l'arte di sentirsi bene, offrendo capi e accessori che coccolano i tuoi sensi senza rinunciare allo stile\nPer la donna che non vuole scegliere tra benessere e bellezza, UGG è la risposta.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGUIDA ALLE TAGLIE UGG\nDONNA\nUS\n5\n6\n7\n8\n9\n10\nEU\n36\n37\n38\n39\n40\n41\nCM\n22\n23\n24\n25\n26\n27",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "ciabatta/sabot da casa e tempo libero informale",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

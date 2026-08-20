@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-uomo-husky-nvlr-ewf-hyde-pa149-black-c002",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSmanicato Uomo Husky X Nvlr Black\nSmanicato\nuomo, ideale per un look casual e versatile. Perfetto da indossare sopra una\nfelpa\no una\ncamicia\n, offre libertà di movimento e uno strato aggiuntivo di calore senza appesantire.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: EWF HYDE PA149 BLACK-C002",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Smanicato",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/smanicato.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "smanicato imbottito trapuntato, capo prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

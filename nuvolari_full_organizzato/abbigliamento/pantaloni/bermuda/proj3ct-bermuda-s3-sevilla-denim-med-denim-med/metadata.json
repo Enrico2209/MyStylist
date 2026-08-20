@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/proj3ct-bermuda-s3-sevilla-denim-med-denim-med",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Donna Proj3Ct Sevilla Denim Med\n, raffigurati nel file Schermata 2026-05-14 alle 14.46.13.jpg, rappresentano una fusione perfetta tra estetica vintage e volumi contemporanei. Questo modello \"jorts\" si distingue per la sua linea ampia e rilassata che richiama la cultura street e lo stile baggy degli anni '90.\nDesign e Caratteristiche Principali\nLavaggio Medium Stone Wash\n: Il denim presenta una tonalità blu media con evidenti schiariture centrali e un effetto sfumato che dona al capo un'allure autentica e vissuta.\nSilhouette Wide Leg\n: Caratterizzati da una gamba molto larga e dritta che termina appena sopra il ginocchio, offrono un fit estremamente comodo e di tendenza.\nCostruzione Classica Denim\n: Struttura a cinque tasche con rivetti metallici, passanti per la cintura e chiusura tradizionale con zip e bottone argentato.\nDettagli di Qualità\n: Le cuciture a contrasto e la rifinitura pulita dell'orlo sottolineano l'attenzione per i dettagli tipica della collezione Proj3Ct.\nBranding Distintivo\n: L'etichetta interna nera \"PROJECT ROMA\" identifica il brand, posizionata centralmente all'interno della vita.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questi bermuda:\n90s Revival\n: Indossali con una\nt-shirt\ncropped o aderente per bilanciare i volumi ampi del pantalone, completando il look con delle\nsneakers\nplatform.\nSkater Style\n: Abbinali a una\novershirt\naperta sopra un top basic e un cappello Proj3Ct Lunix Vintage per un'estetica urban coerente.\nCasual Summer Mix\n: Provali con una\ncamicia\ndi lino a maniche corte portata sbottonata e dei sandali sportivi per un outfit estivo fresco e dinamico.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda jorts in denim con vestibilita baggy e stile skater, tipico capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

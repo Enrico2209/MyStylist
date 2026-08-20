@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpa-ellesse-alba-amy002-olive-078",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Sneaker Ellesse Alba nella colorazione Olive (Codice AMY002) è una variante di grande carattere che si allontana dai classici canoni del tennis bianco per abbracciare un’estetica \"earthy\" e urban. Questa tonalità verde oliva trasforma la silhouette rétro della Alba in un accessorio versatile, perfetto per chi ama i colori della terra e desidera una calzatura che unisca l'heritage sportivo di Ellesse a un gusto più vicino allo stile militare e outdoor.\nIl punto di forza della Ellesse Alba Olive è la sua capacità di distinguersi con discrezione. Il verde oliva è considerato il \"nuovo neutro\": è facile da abbinare come il blu o il nero, ma aggiunge una nota di personalità e ricercatezza all'outfit. La tomaia sintetica di alta qualità è robusta e resistente, ideale per affrontare la città con una calzatura che mantiene la sua forma e il suo colore anche con un uso frequente.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneaker sportiva di stampo running/lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

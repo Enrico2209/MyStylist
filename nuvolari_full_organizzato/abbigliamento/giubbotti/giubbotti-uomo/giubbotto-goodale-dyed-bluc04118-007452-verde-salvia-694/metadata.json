@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-goodale-dyed-bluc04118-007452-verde-salvia-694",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl modello Blauer BLUC04118 è una rivisitazione contemporanea della classica field jacket di ispirazione militare, un capo che incarna perfettamente il DNA del brand: robustezza, funzionalità e un'estetica senza tempo.\nPerché sceglierlo\nIl giubbotto BLUC04118 è la scelta perfetta per l'uomo che cerca un capospalla \"da battaglia\" ma curato nei minimi dettagli. È estremamente trasversale: abbastanza sobrio per essere indossato sopra una polo Colmar in piqué per andare in ufficio, ma sufficientemente grintoso per un weekend fuori porta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile field jacket militare, capo quotidiano informale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-uomo-u7405i7-metallic-sil-5i7",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nNew Balance 740 Il Ritorno del Classico Running\nUn modello che riprende le linee pulite e veloci delle scarpe da corsa tradizionali, aggiornato con materiali moderni per la città.\nProfilo Slanciato\n: Ideale per chi preferisce una sneaker meno voluminosa ma ricca di carattere sportivo.\nFiniture Metalliche\n: La versione\nMetallic Silver-5I7\ncattura la luce ed enfatizza le linee dinamiche della tomaia.\nGrip Resistente\n: Suola in gomma progettata per durare nel tempo e offrire trazione su diverse superfici.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da corsa tradizionali, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

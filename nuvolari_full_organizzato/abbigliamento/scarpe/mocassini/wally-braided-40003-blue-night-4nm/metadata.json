@@ -25,5 +25,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/wally-braided-40003-blue-night-4nm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'emblema del comfort ultraleggero, la massima libertà di movimento e una spiccata attitudine artigianale e rilassata si fondono nei\nmocassini uomo Heydude modello Wally Braided Blue Night\n. Il brand, punto di riferimento globale per la progettazione di calzature destrutturate da giorno, reinterpreta l'iconica silhouette estiva attraverso una texture ricca di carattere e materiali freschi, offrendo una scarpa slip-on ideale per chi cerca leggerezza assoluta senza rinunciare a uno stile urban versatile e di tendenza.\nDesign, Materiali e Caratteristiche Costruttive\nLa Texturizzazione Intrecciata Blue Night\n: La tomaia si distingue per una speciale lavorazione a intreccio fiammato (braided) nei toni del blu notte e del grigio scuro. Questa trama tridimensionale non solo dona alla calzatura un'estetica rustica e sofisticata, ma assicura anche un'eccellente traspirabilità durante le giornate più calde.\nL'Innovativo Sistema Easy-On con Lacci Elastici\n: Il modello Wally è provvisto del classico sistema di allacciatura elastica regolabile in una tonalità corda/beige chiaro con finali annodati. Questa soluzione costruttiva permette di calzare la scarpa istantaneamente come una slip-on, adattandosi in modo flessibile alla forma del collo del piede.\nDettagli Cuciti a Mano ed Effetto Heritage\n: Sulla parte laterale della vaschetta anteriore spicca un ricercato dettaglio di cucitura spessa a contrasto in filo beige. Sul fianco posteriore è inoltre presente una piccola impuntura ricamata a forma di \"X\" in un vivace verde lime, che aggiunge un tocco pop tipico del brand.\nSuola Ultralight e Dettagli in Sughero\n: La scarpa poggia su una leggerissima suola flat in schiuma EVA flessibile in una colorazione beige/crema dall'effetto leggermente materico. L'interno rivela un colletto sagomato arricchito da una fodera con pattern zebrato/etnico e un patch sul tallone in finta pelle marrone con logo impresso.\nCostruzione Destrutturata e Ripiegabile\n: L'architettura complessiva della calzatura è totalmente priva di irrigidimenti interni, il che consente alla scarpa di flettere assecondando la rullata naturale del piede e di essere riposta comodamente in borsa o in valigia occupando uno spazio minimo.\nIdee di Stile: Costruisci il Tuo Look Urban Casual & Smart-Riviera\nAuthentic Riviera Linen Uniform\n: Esalta la natura estiva e l'estetica intrecciata della calzatura creando una combinazione fresca dal sapore sartoriale disinvolto. Abbina i mocassini Wally Braided alla silhouette fluida e traspirante di un pantalone uomo o di un bermuda uomo Baecker in lino nelle sfumature naturali del sabbia o del beige, completando l'outfit con una camicia in lino fiammato bianco ottico.\nMetropolitan Smart-Casual Transition\n: Crea un look pulito, bilanciato e ricco di comfort per i tuoi impegni quotidiani o per un aperitivo al tramonto in città. Accosta le calzature alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, indossando sulla parte superiore la ricercatezza tricot di una delle nostre maglie polo uomo Nuvolari in maglia blu navy o grigia.\nUrban Contemporary Denim Mix\n: Inserisci la praticità della scarpa in tela in un contesto streetwear solido, rilassato e d'ispirazione anni '90. Combina il modello Wally alla linea generosa, dritta e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro o bleach, lasciando che l'ampiezza del denim si appoggi con morbidezza sulla calzatura, e coordinando il look a una\nt-shirt uomo\ngrafica.\nSperimenta la perfetta sintesi tra l'essenzialità del design destrutturato e lo straordinario comfort delle suole ultraleggere di ultima generazione. Scegli la ricchezza materica della trama Blue Night, la comodità della calzata elastica e l'attitudine inconfondibile dei mocassini uomo firmati Heydude.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Mocassino in tela ultraleggero e destrutturato, assimilabile a una slip-on estiva informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

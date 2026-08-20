@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-norton-wc-mark-dark-brown-898-wc-mark-dark-brown-898",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto in pelle Nuvolari modello Mark\nChiusura frontale con zip\nCollo a camicia\nPolsini con zip e bottone\nTasche multiple\nFodera a quadri\nEffetto vintage\nCompisizione : 100% pelle\nVestibilità regular fit",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto in pelle stile biker con effetto vintage, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

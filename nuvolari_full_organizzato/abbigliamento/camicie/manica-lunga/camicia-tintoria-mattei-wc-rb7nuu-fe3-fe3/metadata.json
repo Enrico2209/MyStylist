@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-tintoria-mattei-wc-rb7nuu-fe3-fe3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Tintoria Mattei modello RB7NUU\nMotivo a fantasia\nCollo alla coreanna\nChiusura con bottoni\nRegular fit\nComposizione: 100% viscosa",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "camicia con collo alla coreana e micro-fantasia, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

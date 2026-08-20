@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-uomo-rdd-cocoa",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo\nsmanicato\nuomo\nRDD\ncocoa, è un capo di estrema qualità sempre al passo con i tempi.\nSmanicato marrone con chiusura centrale a zip e due tasche laterali con chiusura a bottone.\nModello semplice e pratico, a tinta unita.\nIl modello indossa la taglia L.\nSe anche tu sei un fan sfegatato del brand\nRDD\n, dai uno sguardo qui agli altri\ncapi d'abbigliamento\ndel marchio, selezionati ad hoc per te da\nNuvolari\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nsmanicato uomo RDD cocoa\nVestibilità regular\nComposizione: 100% poliestere\nCodice articolo: 12225868 COCOA-COCOA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi d'abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/rdd"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "smanicato imbottito in poliestere, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/gaelleparis-t-shirt-gaabw09367-bianco-bi01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-Shirt Gaëlle Paris: Purezza Geometrica e Design Asimmetrico\nT-Shirt Donna Gaëlle Paris White Asymmetric Drape\nEleva il concetto di t-shirt basica con questa creazione firmata Gaëlle Paris. Caratterizzata da un taglio asimmetrico e un fondo a punta incrociato, questa maglia trasforma la semplicità del bianco ottico in una struttura architettonica da indossare. Il delicato gioco di drappeggi sulla spalla e il mini logo ricamato la rendono il pezzo chiave per chi cerca un'eleganza moderna, dinamica e profondamente femminile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica ma con taglio asimmetrico e drappeggio che la eleva leggermente rispetto a una t-shirt classica",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

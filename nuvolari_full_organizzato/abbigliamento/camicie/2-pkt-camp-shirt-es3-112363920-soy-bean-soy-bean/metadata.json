@@ -23,5 +23,26 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/2-pkt-camp-shirt-es3-112363920-soy-bean-soy-bean",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura denim americana, la robustezza dei capi di matrice workwear e la freschezza del casualwear estivo si fondono armoniosamente nella collezione di\ncamicie uomo Lee\n. Il brand pioniere dell'abbigliamento da lavoro reinterpreta la camiceria maschile puntando su tessuti leggeri, motivi a righe dal sapore rétro e una vestibilità rilassata, ideale per la stagione calda.\nDesign, Silhouette e Caratteristiche Principali\nIl Colletto Cubano (Resort Collar) e lo Stile Rétro\n: La collezione estiva propone l'iconico colletto aperto a \"V\" senza bottone superiore. Questo dettaglio dona al capo un'attitudine rilassata e vacanziera d'ispirazione vintage anni '50, perfetta per i climi caldi.\nGeometrie Utility e Doppia Tasca Frontale\n: Richiamando l'eredità workwear del brand, la camicia presenta due ampie tasche applicate sul petto con taglio squadrato. Sulla tasca sinistra spicca la classica micro etichetta tessile con il logo Lee, che firma il capo con discrezione.\nTessuti Leggeri e Blend di Cotone e Lino\n: Per garantire freschezza, traspirabilità e una caduta fluida e ariosa, Lee seleziona filati premium che uniscono la solidità del cotone alla texture naturale del lino. La trama leggera si adatta perfettamente ai ritmi intensi delle giornate estive in città o al mare.\nMotivi Grafici e Fantasie Rigonfie\n: Accanto alle varianti in denim leggero o a tinta unita, il brand esplora pattern classici come le righe verticali sottili su basi neutre o gessate (panna, ecru, beige), capaci di slanciare la figura maschile con un tocco understated.\nIdee di Stile: Costruisci il Tuo Look Denim & Summer\nAuthentic Denim Heritage Look\n: Valorizza il pattern a righe della camicia creando un contrasto materico solido e bilanciato. Indossa la camicia aperta sopra una t-shirt uomo Lee bianca basica e abbinala a un jeans premium scuro o a un pantalone chino Lyle & Scott in nuance sabbia, completando il cerchio con una sneaker pulita in pelle bianca.\nUrban Utility Uniform\n: Per le tue giornate in città o per il tempo libero, esalta l'anima utility del doppio taschino. Accosta la camicia a maniche corte alla robustezza geometrica e tridimensionale di un\npantalone uomo\ncargo G-Star RAW o a un bermuda in twill Lee verde militare, chiudendo l'outfit con uno stivaletto scamosciato leggero.\nContemporary Summer Refresh\n: Sperimenta il massimo del comfort estivo giocando sulla fluidità e sulla freschezza. Indossa la camicia lasciandola parzialmente sbottonata insieme alla versatilità di un bermuda in felpa scuro o coordinandola a uno short in lino chiaro per un look disinvolto, perfetto per un aperitivo al tramonto o per un weekend in una località balneare.\nSperimenta la perfetta sintesi tra il comfort quotidiano estivo e la leggendaria storia del workwear americano. Scegli la leggerezza dei materiali premium, l'equilibrio dei tagli rilassati e l'attitudine inconfondibile delle camicie uomo firmate Lee.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n54% lino, 46% viscosa\nVestibilità regular\nCodice articolo: 112363920",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con colletto cubano, tessuto leggero in lino e viscosa, stile vacanziero rilassato",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

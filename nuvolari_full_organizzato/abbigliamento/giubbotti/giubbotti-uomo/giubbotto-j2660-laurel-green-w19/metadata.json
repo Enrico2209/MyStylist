@@ -25,5 +25,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-j2660-laurel-green-w19",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'inconfondibile estetica dello sportswear d'archivio d'oltremanica e il design senza tempo della classica Harrington jacket prendono forma nel\ngiubbotto da uomo Fred Perry modello J2660 nella sofisticata variante Laurel Green\n. Capo iconico del guardaroba maschile di transizione, questa giacca leggera e strutturata unisce la praticità dei tessuti tecnici all'eleganza sobria delle subculture British, garantendo protezione dal vento e uno stile metropolitano inappuntabile.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Tecnico Antivento e Resistente\n: Confezionato in una solida tela sintetica di alta qualità dal finish opaco, il giubbotto assicura un'ottima protezione dagli agenti atmosferici e una traspirabilità ideale per le stagioni intermedie.\nLaffinata Tonalità Laurel Green\n: Il colore verde alloro regala un gusto heritage, versatile e di grande tendenza, perfettamente bilanciato dal ricamo ad alta definizione dell'iconica Corona d'Alloro sul petto in tonalità scura a contrasto.\nColletto Alto Harrington e Finiture in Costina\n: Presenta il tipico collo imbuto ad altezza regolabile e finiture in maglia elasticizzata a costine sul bordo inferiore e sui polsini, pensate per assicurare una tenuta di forma impeccabile e riparare dal vento.\nChiusura Zip Sdoppiata e Tasche Funzionali\n: Dotato di una cerniera frontale a tutta lunghezza con doppio cursore per personalizzare la vestibilità, il capo è completato da comode tasche laterali inserite con discrezione lungo le cuciture.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nClassic British Everyday Style\n: Costruisci un outfit di forte personalità d'ispirazione mod e streetwear. Abbina il giubbotto verde all'essenzialità di una\nt-shirt uomo\no a una polo d'archivio, completando il look con il taglio pulito di un paio di\njeans uomo\ne la comodità delle più iconiche\nsneakers uomo\n.\nSmart Casual & Mid-Season Layering\n: Per gli impegni metropolitani o il lavoro informale, indossa la giacca come ultimo strato sopra un maglioncino leggero o una felpa. La linea pulita del capo si presta perfettamente a creare outfit a strati versatili e sempre ordinati.\nLeisure & Weekend Mood\n: Per il tempo libero o i weekend fuori porta nelle mezze stagioni, accosta la praticità di questa giacca alla freschezza dei modelli disponibili nella sezione\nbermuda uomo\n, oppure tienila a portata di mano sopra una proposta della linea\ncostumi uomo\nper proteggerti dalla brezza serale al mare.\nSperimenta la perfetta evoluzione dell'outerwear d'archivio firmato d'oltremanica. Scegli la versatilità della nuance Laurel Green, la protezione del tessuto tecnico e l'inconfondibile eleganza del giubbotto Fred Perry J2660, elemento di punta della nostra selezione di\ngiubbotti uomo\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "sportivo": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile Harrington in tessuto tecnico antivento, ideale per look casual quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

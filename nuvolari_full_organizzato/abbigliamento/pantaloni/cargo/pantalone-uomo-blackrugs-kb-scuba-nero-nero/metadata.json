@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-blackrugs-kb-scuba-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo BLACK RAGS Kb Scuba Nero\nPantalone\nuomo Blackrugs cargo, caratterizzato da un design funzionale e moderno. Dotato di tasche cargo laterali per maggiore praticità e lacci regolabili in vita per una vestibilità personalizzata. Ideale per un look casual e versatile, perfetto per chi cerca comfort e stile in un unico capo.\nAbbina questi bellissimi pantaloni ad una\ncamicia\noppure ad una\nt-shirt\nper ottenere il look perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n70% Rayon, 27% Nylon, 7% Elastan\nCodice articolo: KB SCUBA NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con coulisse ed elastico in vita, tessuto scuba",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

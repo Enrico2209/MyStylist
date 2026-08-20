@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-s3-kelhani-vintage-black-vbl",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nAttitudine streetwear ed effetto vissuto si incontrano nel\ncappello Proj3ct modello Kelhani nella colorazione Nero Vintage\n. Un berretto dal caratteristico lavaggio washed che dona un aspetto delavato e used, impreziosito dal logo firma sul fronte: un accessorio dal mood urbano, versatile e facile da abbinare a ogni look quotidiano.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto in Cotone:\nrealizzato in cotone morbido e resistente, per comfort e durata nel tempo.\nEffetto Vintage Washed:\nil lavaggio speciale dona al nero sfumature delavate per un look vissuto e contemporaneo.\nLogo Ricamato:\nil dettaglio firma Proj3ct sul fronte aggiunge autenticita streetwear.\nVisiera e Chiusura Regolabile:\nvisiera preformata e cinturino posteriore regolabile per una vestibilita su misura.\nIdee di Stile: Un Accessorio per Ogni Look\nCasual Streetwear:\nabbinalo a una\nt-shirt uomo\ne a delle\nsneakers uomo\nper un outfit urbano e disinvolto.\nSporty Layering:\ncompleta il look con una\nfelpa uomo\nnelle giornate piu fresche.\nTocco Finale:\nil dettaglio perfetto per dare carattere anche agli outfit piu essenziali.\nCompleta il tuo stile con un accessorio dal mood vissuto. Scegli la morbidezza del cotone, l'effetto washed e lo spirito streetwear firmato Proj3ct Kelhani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "felpa uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "cappello da pescatore (bucket hat) in denim lavato, accessorio prettamente street e informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

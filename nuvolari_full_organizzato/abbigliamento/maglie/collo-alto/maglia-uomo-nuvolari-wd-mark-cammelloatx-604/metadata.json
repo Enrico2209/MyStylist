@@ -18,5 +18,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/collo-alto/maglia-uomo-nuvolari-wd-mark-cammelloatx-604",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Mark Cammello/Atx\nMaglione\nUomo Nuvolari modello Mark con collo alto e lavorazione rasata, rifinito con bordi a costina per un tocco di eleganza. Presenta una vestibilità slim per un look moderno e aderente.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n70% viscosa, 30% nylon\nCodice articolo: WD MARK CAMMELLO/ATX-604",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglione",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie/collo-alto.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglia a collo alto rasata, adatta a contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

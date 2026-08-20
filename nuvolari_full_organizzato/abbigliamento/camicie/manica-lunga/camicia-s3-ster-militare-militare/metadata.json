@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-ster-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Nuvolari Militare Coreana: Must have estivo\nRealizzata con tessuto di alta qualità, questa camicia offre una vestibilità invidiabile e un comfort e una freschezza perfetta per la stagione estiva. Il collo coreano è un classico intramontabile , mentre il design raffinato conferisce uno stile moderno e sofisticato. Perfetta per un look formale o casual chic, è un'aggiunta eccellente al tuo guardaroba.\nAbbina la camicia ad una\ngiacca\nper un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di\npantaloni di chino\nche\nNuvolari\nha pensato per te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n97% cotone, 3% elastane\nCodice articolo: S3 STER MILITARE-MILITARE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantaloni di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia con collo alla coreana, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

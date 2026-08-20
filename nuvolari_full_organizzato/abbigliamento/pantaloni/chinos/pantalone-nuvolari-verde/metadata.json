@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-verde",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nQuesto\npantalone uomo Nuvolari\na costina di velluto\nverde\nè comodo, alla moda e perfetto con le sneakers. E' un modello regular che ti farà sicuramente ricordare\nHa due tasche anteriori, chiusura con zip e bottone, passante per la cinta e un piccolo risvoltino finale\nIl modello indossa la taglia 48\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone uomo Nuvolari Wonka verde\nVestibilità Regular\nComposizione: 98& cotone 2& elastan\nCodice Prodotto: WF GP20 WONKA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in velluto a coste, taglio classico smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

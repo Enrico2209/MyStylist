@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-badger-dyed-bluc04139-007449-gesso-996",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Blauer BLUC04139 Badger è un giubbotto dall'anima \"biker\" e sportiva, che si distingue per un design più asciutto e grintoso rispetto alle classiche field jacket. È il capo ideale per chi cerca protezione e uno stile dinamico, senza rinunciare alla leggerezza tipica dei materiali tecnici Blauer.\nPerché sceglierlo\nIl modello Badger è perfetto per l'uomo che si muove costantemente tra impegni urbani e tempo libero. Rispetto alla versione BLUC04118, offre una linea più essenziale e compatta, ideale da indossare sopra una t-shirt Colmar con logo traforato o una polo Colmar in piqué per un look \"smart casual\" di impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto bomber leggero di taglio sportivo/casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

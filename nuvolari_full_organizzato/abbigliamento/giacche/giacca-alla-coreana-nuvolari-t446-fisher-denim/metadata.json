@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-alla-coreana-nuvolari-t446-fisher-denim",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nGiacca alla coreana da uomo in morbido misto lana con chiusura a 4 bottoni, taschino pochette fantasia, due tasche sul fondo e due taschine interne. Una giacca perfetta per un look casual contemporaneo e sempre raffinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiacca alla coreana uomo Nuvolari modello T446 Fisher - Denim\nChiusura quattro bottoni\nTaschino a toppa con pochette fantasia\nDue tasche sul fondo\nDue pratiche tasche interne\nPlacca metallica personalizzata Nuvolari cucita sulla tasca\nComposizione: 60% lana, 35% poliestere, 5% altre fibre\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "Giacca con collo alla coreana e tasche a toppa, unisce eleganza sartoriale e un registro smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

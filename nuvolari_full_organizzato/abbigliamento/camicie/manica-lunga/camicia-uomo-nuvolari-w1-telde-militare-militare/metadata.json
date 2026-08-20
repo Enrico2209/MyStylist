@@ -23,5 +23,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-w1-telde-militare-militare",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Telde Militare\nLa camicia Nuvolari con tasche è un capo versatile e dal design essenziale in\n100% cotone\n. Le tasche frontali aggiungono un tocco moderno a uno stile alla moda, perfetto per diverse occasioni.\nAbbinala ad un paio di\nsneakers\ne ad un\npantalone di chino\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: W1 TELDE MILITARE-MILITARE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalone di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con tasche frontali e fantasia all-over, consigliata con sneakers per un look casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

@@ -24,5 +24,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m2474-anchor-grey-297",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Fred Perry M2474 Grey\ndeclina il medesimo e audace connubio tra minimalismo heritage e ispirazione streetwear in una palette cromatica d'ispirazione prettamente urbana e metropolitana. Sviluppata su una base grigio melange, questa t-shirt a maniche corte si distingue per la sua silhouette contemporanea e rilassata, offrendo un'alternativa cromatica versatile che esalta i giochi di sfumature grafiche del brand.\nDesign e Caratteristiche Principali\nMaxi-Grafica Laurel Wreath Posteriore\n: Il retro del capo ospita l'inconfondibile nucleo grafico del modello, caratterizzato da un'imponente serigrafia della storica corona d'alloro Fred Perry. Sulla base grigia, la stampa gioca su tonalità charcoal o antracite, creando un contrasto visivo profondo ma perfettamente calibrato.\nPannello Frontale con Logo Ricamato\n: Il davanti conserva l'iconica pulizia visiva del marchio britannico; sul petto a sinistra è applicato il ricamo ad alta definizione della corona d'alloro in formato ridotto, realizzato in filo a contrasto per siglare il capo con sobria eleganza.\nTessuto Premium in Jersey di Cotone\n: Confezionata in un filato di puro cotone di alta qualità dalla caratteristica trama melange, morbida, flessibile e piacevole sulla pelle. La struttura garantisce ottima traspirabilità e stabilità della forma e del colore lavaggio dopo lavaggio.\nGirocollo a Costine Robusto\n: Lo scollo rotondo è ridefinito da una bordatura elastica a coste che assicura una tenuta impeccabile nel tempo e un comfort ottimale attorno al collo.\nSilhouette Regular-Fit Contemporanea\n: Il taglio scende lineare e proporzionato lungo i fianchi, assecondando la libertà di movimento in pieno stile urban. Le finiture delle maniche e del fondo dritto sono completate da doppie cuciture piatte a binario.\nProposta di Outfit\nTotal Grey Urban Street\n: Indossala sopra un\npantalone chino\no un denim antracite scuro, completando il look con sneakers minimali; il gioco di sfumature di grigio esalterà la maxi-stampa posteriore in un ensemble contemporaneo e ricercato.\nCasual Contrast Layering\n: Portala sotto la camicia a righe verticali bianche e verdi\nIchi Studio Green\nlasciata completamente aperta; la neutralità del grigio melange farà risaltare la brillantezza del verde, mantenendo un'attitudine rilassata da tempo libero.\nSporty Heritage Vibe\n: Abbinala a un paio di\nbermuda\nin felpa neri o blu navy, ideali per richiamare i codici atletici storici di Fred Perry in un look fresco e disinvolto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "Ichi Studio Green",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt con vestibilita rilassata e maxi-grafica posteriore, tipico casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

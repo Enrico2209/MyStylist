@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/hinnominate-camicia-hmabw02586-azzurro-bl02",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica loungewear d'élite, il minimalismo contemporaneo e la perfetta fusione tra comfort assoluto e sensualità urbana ridefiniscono il guardaroba femminile nelle collezioni di\ncamicie donna Hinnominate\n. Nato dalla visione creativa dei fratelli Rodriguez (Belén, Jeremias e Cecilia) in collaborazione con Dream Project, il brand ha rivoluzionato il concetto di \"effortless chic\", trasformando la camiceria classica attraverso silhouette fluide, tagli oversize e un'attitudine rilassata ma di grandissima tendenza.\nDesign, Silhouette e Caratteristiche Principali\nGeometrie Oversize e Tagli Fluidi\n: La forza visiva delle camicie Hinnominate risiede nelle proporzioni calibrate d'ispirazione maschile (boyfriend fit). Le collezioni puntano su linee ampie, spalle scese e orli asimmetrici più lunghi sul retro, che avvolgono il corpo in un movimento morbido, disinvolto e iper-moderno.\nTessuti Comfort Premium e Caduta Impeccabile\n: Il brand eleva il concetto di camicia attraverso una rigorosa selezione dei materiali. I capi sono confezionati in tessuti freschi e setosi come la viscosa fluida, il modal leggero, il raso opaco o il popeline di cotone compatto, garantendo una piacevole sensazione sulla pelle e una struttura tridimensionale che non stringe mai.\nPalette Cromatica Neutra e Sofisticata\n: Coerentemente con l'identità understated del marchio, le colorazioni abbandonano i toni pop per concentrarsi su nuance gessose e sfumature della terra. Le camicie si sviluppano su colorazioni raffinate come il nudo, il beige sabbia, il fango, il cioccolato, il grigio melange, il bianco ottico e l'immancabile nero profondo.\nDettagli Sartoriali e Branding Discreto\n: Fedele alla filosofia del lusso discreto, il brand cura l'architettura del capo con colletti a punta puliti, polsini alti rinforzati e abbottonature coperte. Il logo Hinnominate è applicato con un fine understatement, sotto forma di micro ricami tono su tono o piccole stampe gommate posizionate sul retro del collo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia classica ma con taglio cropped molto corto e moderno, che ne abbassa la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-ch9084-wash-deep-md-mk9",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nTessuto\n: Realizzata in\ndenim leggero o chambray di cotone\n, che offre una texture visibile e una resistenza superiore rispetto al popeline classico.\nChiusura a Pressione\n: A differenza dei modelli standard, questa camicia presenta\nbottoni a pressione (snap buttons)\ncon finitura metallica, tipici dello stile western o workwear.\nDesign e Taglio\n:\nRegular Fit\n: Un taglio dritto e confortevole, ideale per un look rilassato.\nFondo Arrotondato\n: Consente di indossare la camicia sia all'interno che all'esterno dei pantaloni.\nDettagli Iconici\n: L'immancabile\ncoccodrillo verde\nè ricamato sul lato sinistro del petto, garantendo l'autenticità del marchio.\nCollo\n: Collo classico a punte senza bottoni (point collar), che mantiene una linea pulita\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "camicia in denim con bottoni a pressione stile western, abbassa la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

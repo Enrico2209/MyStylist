@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-sebastien-k2142ew-black-coffee-260",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo K-way\nQuesta maglia da uomo è il capo ideale per affrontare con stile e comfort le mezze stagioni e le giornate più fredde. Realizzata in filati morbidi e traspiranti, come\ncashmere\n, lana o misti tecnici, offre una vestibilità impeccabile che valorizza ogni silhouette. Semplice a tinta unita la maglie da uomo si adatta a ogni occasione, dal tempo libero all'ufficio.\nProposta Outfit:\nPer un look casual e versatile, abbina la maglia a un paio di\njeans uomo\n,\nsneakers minimal\ne una\ncamicia basic\nportata sotto il girocollo per un tocco contemporaneo. Se cerchi un'alternativa più elegante, provala sopra a una\ncamicia uomo\ncon colletto classico e pantalone chino per un effetto smart casual.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n35% poliammide, 30% lana, 30% viscosa, 5% cashmere\nVestibilità regular\nCodice articolo: K2142EW BLACK COFFEE-260",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "httphttps://www.nuvolari.biz/abbigliamento/jeans.htmls://chatgpt.com/c/f"
+    },
+    {
+      "testo": "sneakers minimal",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia basic",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in misto lana e cashmere, adatta a contesti smart casual quotidiani",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

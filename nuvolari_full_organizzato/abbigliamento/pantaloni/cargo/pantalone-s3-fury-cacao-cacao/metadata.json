@@ -21,5 +21,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-s3-fury-cacao-cacao",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica utility di matrice military incontra la precisione del design urbano contemporaneo nel nuovo\nPantalone Cargo Uomo Nuvolari Fury Cacao\n. Questo modello reinterpreta il classico pantalone con tasconi attraverso una silhouette slim ed ergonomica, perfetto per chi cerca un capo robusto, funzionale e dallo spiccato carattere street.\nDesign e Caratteristiche Principali\nSfumatura Cacao Intensa\n: Il pantalone è tinto in una ricca e profonda tonalità marrone cacao. Un colore della terra estremamente versatile, ideale da inserire in palette autunnali o per spezzare look urbani basati sui toni del nero e del grigio.\nTasconi Cargo Laterali a Soffietto\n: Posizionate simmetricamente sulle cosce, le iconiche tasche cargo sono strutturate con patta geometrica di chiusura. Sul tascone sinistro è applicata una discreta label testuale nera d'archivio che sigilla il DNA tecnico del brand.\nTaglio Slim con Pinces di Sagomatura\n: Sviluppato con una gamba asciutta che si restringe leggermente verso il fondo. Il design è arricchito da cuciture strategiche all'altezza del ginocchio che assecondano i movimenti quotidiani senza deformare la linea del pantalone.\nTasche Posteriori con Patta\n: Il retro presenta due tasche applicate rifinite con patte geometriche e una piccola etichetta con il monogramma\n\"N\"\nsul lato destro, garantendo simmetria e massima sicurezza per gli effetti personali.\nTessuto in Cotone Tecnico Compatto\n: Confezionato in un gabardine di cotone premium ad alta densità, leggermente elasticizzato, scelto appositamente per resistere all'usura mantenendo una mano morbida e confortevole sulla pelle.\nIdee di Stile: Crea la Tua Wave\nUrban Utility Uniform\n: Esalta l'attitudine street del pantalone Fury abbinandolo a una\nt-shirt\nbasic oversize nera o bianca e a un paio di boots tecnici o sneaker bold chunky.\nContemporary Smart Casual\n: Eleva il mood cargo giocando di contrasti materici. Indossa il pantalone insieme a una\ncamicia\nin denim scuro o a un pullover a coste sottili color panna, completando il look con una giacca over destrutturata.\nUnisci funzionalità e avanguardia urbana con l'architettura versatile del cargo Fury firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, estetica utility e taglio sportivo/casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

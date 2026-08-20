@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-abito-donna-24colours-21169a-blue-04",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nAbito Donna 24Colours Blue\nL’\nabito\nda donna 24 Colours combina stile e semplicità, perfetto per creare un look versatile adatto a diverse occasioni, dal casual all'informale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n95% poliestere, 5% elastan. Rivestimento: 100% poliestere\nCodice articolo: 21169A BLUE-04",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "abito",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/vestiti-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Abito lungo in mesh stampato con vestibilità regular, adatto a un contesto casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

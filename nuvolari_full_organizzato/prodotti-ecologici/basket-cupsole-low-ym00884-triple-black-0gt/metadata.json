@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "prodotti-ecologici/basket-cupsole-low-ym00884-triple-black-0gt",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nSneakers Calvin Klein\nScopri il massimo dell'eleganza casual con le\nSneakers Calvin Klein YM00884\n.\nUnisce lo stile distintivo del marchio con un comfort senza pari. Realizzate con materiali premium e dettagli curati, queste\nsneakers\nsono un must-have per gli amanti della moda che non vogliono rinunciare al comfort. Aggiungi un tocco di sofisticatezza ai tuoi outfit quotidiani con questo modello versatile e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nSNEAKERS UOMO Calvin Klein YM00884\nScala taglie: US\nComposizione: tomaia in pelle\nCodice Prodotto: YM00884\ncomoda soletta in misto di schiuma riciclata\nfodera in rete 100% poliestere riciclato\nsuola esterna in gomma\nstile basket\nscritta Calvin Klein su linguetta, tallone, caviglia e laterale\nvestibilità regolare",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers stile basket in pelle nera, calzatura casual quotidiana",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

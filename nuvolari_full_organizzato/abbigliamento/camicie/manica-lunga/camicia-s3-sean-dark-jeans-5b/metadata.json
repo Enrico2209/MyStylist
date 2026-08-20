@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-s3-sean-dark-jeans-5b",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Camicia Uomo Nuvolari Sean Light è un'interpretazione moderna e raffinata del classico intramontabile: la camicia in denim. Realizzata in 100% cotone, questo modello unisce la resistenza tipica del jeans a una mano morbida e leggera, rendendola un capo estremamente piacevole da indossare direttamente sulla pelle o come leggero strato superiore.\nIl Denim Shirt dal Gusto Sartoriale\nPerché sceglierla\nIl modello Sean Light si distingue per un lavaggio indaco brillante che mantiene una profondità di colore uniforme e pulita. A differenza delle camicie denim di ispirazione \"western\", questa versione punta su un'estetica più essenziale e sartoriale: l'assenza di taschini sul petto e il colletto dalle punte ben definite la rendono adatta anche a contesti meno informali, dove si vuole mantenere un tono curato ma rilassato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: S3 SEAN DARK JEANS-5B",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "Camicia in denim dal taglio pulito e sartoriale, senza taschini western, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

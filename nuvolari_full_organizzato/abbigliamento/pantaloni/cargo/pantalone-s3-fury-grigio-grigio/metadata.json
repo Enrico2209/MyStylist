@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-s3-fury-grigio-grigio",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCargo Uomo Nuvolari Spirito Urbano, Attitudine Outdoor\nIl cargo firmato Nuvolari è molto più di un semplice pantalone: è un manifesto di personalità. Ideale per chi vive la città con passo deciso, ma non rinuncia al richiamo dell’avventura. Con le sue tasche laterali funzionali e l’appeal utility reinterpretato in chiave moderna, questo capo si adatta perfettamente agli outfit di ogni giorno, unendo praticità e carattere.\nRealizzato in tessuti resistenti ma morbidi al tatto, garantisce comfort assoluto e libertà nei movimenti. Taglio moderno, fit regolare o slim a seconda del mood, dettagli distintivi e colorazioni neutre o militari lo rendono versatile e facilmente abbinabile a\nfelpe\n,\nt-shirt\no\novershirt\n.\nChe tu stia affrontando la frenesia urbana o godendoti il weekend fuori porta, il\ncargo Nuvolari\nè il compagno perfetto per un look maschile, deciso e mai banale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpe",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile utility e casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/jeans-donna-baggy-s3-proj3ct",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Jeans Donna Proj3ct Siria Light Denim sono un modello che unisce un'estetica rétro a un taglio contemporaneo, perfetto per chi cerca un capo dal carattere deciso ma estremamente confortevole. Caratterizzati da una gamba ampia e un lavaggio chiaro, questi jeans rappresentano la reinterpretazione moderna dei volumi anni '90, ideali per creare silhouette dinamiche e di tendenza.\nPerché sceglierlo\nIl modello Siria si distingue per il suo fit rilassato che non sacrifica la femminilità. La vita alta definisce la figura, mentre la gamba ampia (\"wide leg\") offre una libertà di movimento totale e un comfort superiore rispetto ai modelli slim. Il lavaggio light denim conferisce un aspetto fresco e casual, rendendolo il pezzo base ideale per outfit da giorno versatili e luminosi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 SIRIA LGHT DNM-LGHT DNM",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "jeans a gamba ampia dal taglio casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-bigwig-baggy-denim-short-black-olive-bow",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl fascino radicale della skate culture degli anni '90 e le geometrie sfrontate dello stile hip-hop d'archivio rivivono nei nuovi\nBermuda Uomo Obey Bigwig Baggy Denim Black Olive\n. Questo modello si distingue per i suoi volumi extra-large e per una ricerca cromatica unica, proponendosi come lo statement piece definitivo per chi vuole ridefinire le proporzioni del proprio look street.\nDesign e Caratteristiche Principali\nSfumatura Black Olive Complessa\n: Il denim è trattato con uno speciale lavaggio tinto in capo che fonde una base nera sbiadita a calde sfumature verde oliva scuro lungo le linee di cucitura. Un colore magnetico, polveroso e dall'estetica industrial che cambia riflesso a seconda della luce.\nTaglio Ultra-Baggy Originale\n: Fedele alla linea \"Bigwig\" di Obey, il bermuda presenta una silhouette decisamente ampia e squadrata, con una gamba larga che cade dritta e fluida ben oltre il ginocchio, richiamando lo stile over dei video skate old-school.\nIconica Grafica \"Bigwig Face\" Ricamata\n: Il vero e proprio marchio di fabbrica è posizionato sul retro. Sulla tasca posteriore destra spicca il ricamo grafico dell'inconfondibile volto stilizzato di André the Giant inserito all'interno della stella, simbolo eterno del brand californiano. Una label posteriore in tessuto logato rifinisce la linea della vita.\nCostruzione Classica a 5 Tasche\n: Strutturato con l'architettura solida dei jeans tradizionali, presenta ampie tasche posteriori applicate, tasche americane sul davanti e un profondo taschino porta-monete. La chiusura è gestita da una patta con zip a scomparsa e bottone metallico logato in vita.\nTela Denim Heavyweight in Puro Cotone\n: Confezionato in un denim di 100% cotone ad alto spessore, scelto per garantire una struttura rigida che mantiene perfettamente il volume baggy e offre un'altissima resistenza alle abrasioni sulla tavola o in città.\nIdee di Stile: Crea la Tua Wave\n90s Skate Core Uniform\n: Esalta le proporzioni over del bermuda Bigwig abbinandolo a una\nt-shirt\nboxy heavyweight (ottime le grafiche bianche con stampe bold come il modello Dice o Leaf Camo) e a una sneaker tecnica da skate con linguetta spessa.\nUrban Grunge Match\n: Gioca con le sovrapposizioni e le texture materiche. Indossa il pantaloncino con un tank top basic e sovrapponi la camicia Brushed Nickel lasciata completamente aperta, completando il look con un berretto in maglia (beanie).\nSfida le convenzioni e domina lo spazio urbano. Scegli il carattere unapologetic e i volumi iconici dei bermuda Bigwig firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in denim con taglio ultra-baggy di marchio street, ideale per contesti casual quotidiani.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

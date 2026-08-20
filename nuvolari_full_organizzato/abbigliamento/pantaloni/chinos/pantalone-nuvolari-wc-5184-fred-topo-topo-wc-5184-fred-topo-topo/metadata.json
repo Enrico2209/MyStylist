@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-wc-5184-fred-topo-topo-wc-5184-fred-topo-topo",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone chinos da Uomo. Esplora il comfort senza rinunciare allo stile con i Pantaloni Nuvolari. Realizzati con materiali di alta qualità, offrono un fit impeccabile e una sensazione di leggerezza che ti accompagnerà ovunque. Con un design versatile e dettagli curati, questi pantaloni sono perfetti per un look casual o formale. Scopri il mix perfetto di moda e funzionalità con i Pantaloni Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Nuvolari modello 5184 Fred\nDue tasche laterali\nDue tasche filetto sul retro\nChiusura con zip e bottone\nVestibilità slim fit\nComposizione : 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

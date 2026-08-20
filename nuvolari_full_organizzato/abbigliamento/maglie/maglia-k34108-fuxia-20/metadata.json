@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k34108-fuxia-20",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMigliora il tuo stile con la Maglia Uomo SUN68\nAggiungi un tocco di freschezza al tuo guardaroba con la Maglia Uomo SUN68. Realizzata con tessuti di alta qualità e attenzione ai dettagli, questa maglia incarna lo spirito giovane e dinamico del marchio. Con il suo design versatile e moderno, è perfetta per un look casual ma curato.\nAbbinamenti Versatili per Ogni Occasione\nLa Maglia Uomo SUN68 si presta perfettamente ad essere\nabbinata con diversi capi d'abbigliamento\nper creare outfit perfetti per ogni occasione. Per un look casual chic, indossa la maglia con un paio di\njeans\nslim fit e sneaker bianche. Se vuoi un look più elegante, prova ad abbinarla a dei pantaloni\nchino\ne a una giacca leggera. Per un outfit più sportivo, opta per una\ntuta da jogging\ncoordinata e delle\nscarpe da corsa\n. Con la Maglia Uomo SUN68, le possibilità di stile sono infinite.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione Maglia uomo SUN68\nVestibilità Regular\nComposizione: 100% Cotone\nCodice Prodotto: K34108",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "scarpe da corsa",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone, adatta a contesti smart casual e quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

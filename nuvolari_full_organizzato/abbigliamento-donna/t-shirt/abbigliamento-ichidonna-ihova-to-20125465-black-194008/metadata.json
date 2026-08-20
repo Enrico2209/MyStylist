@@ -23,5 +23,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/abbigliamento-ichidonna-ihova-to-20125465-black-194008",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl top\nIchi Donna Ihova To Black\nreinterpreta l'eleganza essenziale della canotta estiva attraverso una sofisticata lavorazione strutturata che unisce texture e trasparenze. Declinata in un nero profondo e rigoroso (\"Black\"), questa canotta smanicata fa del gioco tridimensionale del suo filato il punto di forza visivo, ponendosi come un capo versatile, chic e dall'anima contemporary-retro.\nDesign e Caratteristiche Principali\nTessuto in Maglia Pointelle Geometrica\n: Realizzata in un filato leggero lavorato a maglia tricot con un raffinato motivo geometrico traforato (stile pointelle o uncinetto) a piccoli rombi e righe verticali. Questa struttura mossa e semitrasparente dona dinamismo alla superficie nera e garantisce un'eccellente freschezza e traspirabilità sulla pelle.\nScollo Tondo Profilato a Costine\n: Presenta uno scollo rotondo classico ed equilibrato, rifinito da un sottile bordo elastico a maglia costina che incornicia il decolleté mantenendo una stabilità impeccabile nel tempo.\nGiro Spalla Largo con Bordatura Liscia\n: La costruzione smanicata a spalla larga offre un'ottima copertura della biancheria intima ed è sigillata da una bordatura in maglia compatta in tinta, studiata per non cedere e assicurare il massimo comfort.\nFinitura Ondulata Scallop sull'Orlo\n: Il fondo del busto si congeda con un dolcissimo bordo smerlato (o a onde naturali), un prezioso dettaglio sartoriale derivato dalla lavorazione a maglia che accentua la femminilità del top.\nSilhouette Lineare Regular-Fit\n: Il taglio scende dritto sul busto assecondando le linee del corpo in modo morbido ma accostato, senza costrizioni, prestandosi magnificamente sia a essere sovrapposto sia a essere indossato da solo.\nEstetica Monochrome Minimale\n: L'assenza di grafiche stampate o loghi a vista mette in risalto esclusivamente la ricchezza materica del traforo pointelle e la profondità del colore nero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.3,
+      "elegante": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Canotta smanicata in maglia traforata, adatta a contesti casual estivi o da spiaggia",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

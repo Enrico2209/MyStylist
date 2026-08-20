@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-m6gi27-k3249-light-oak-multi-f1pv",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ESSENZA DEL TONO SU TONO: T-SHIRT GUESS LIGHT OAK\nQuesta t-shirt incarna un'eleganza discreta e moderna. Caratterizzata dalla raffinata tonalità \"Light Oak\", un beige sabbia naturale, si distingue per il gioco di grafiche tono su tono che decorano sia il fronte che il retro, offrendo un look pulito ma ricco di dettagli.\nDettagli Iconici\n: Il fronte presenta un logo \"GUESS\" essenziale, mentre il retro stupisce con una maxi grafica del monogramma racchiusa in un riquadro, tutto giocato su sfumature delicate.\nEffetto Vissuto\n: Il particolare lavaggio del tessuto dona al capo una texture morbida e un aspetto leggermente vintage, perfetto per uno stile urban rilassato.\nComfort Naturale\n: Realizzata in puro cotone di alta qualità, garantisce freschezza e una vestibilità impeccabile per tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con logo tono su tono ed effetto vissuto, tipico casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

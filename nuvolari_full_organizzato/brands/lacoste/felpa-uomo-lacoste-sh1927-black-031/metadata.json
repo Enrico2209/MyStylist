@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/felpa-uomo-lacoste-sh1927-black-031",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Lacoste Zip Black\nQuesta felpa a collo alto di Lacoste è un must-have per il guardaroba. Realizzata in interlock di cotone a costine, offre un comfort naturale grazie al suo taglio classico. Il collo alto con zip e il design chevron jacquard all'interno aggiungono un tocco distintivo. Rifinita con il caratteristico coccodrillo ricamato sul petto, combina eleganza casual e praticità. Composizione:\n100% cotone\n.\nAbbinala ad un paio di\nsneakers\ne ad un\npantalone di chino\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: SH1927 BLACK-031",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalone di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "felpa con mezza zip, capo casual quotidiano consigliato con sneakers e chino",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

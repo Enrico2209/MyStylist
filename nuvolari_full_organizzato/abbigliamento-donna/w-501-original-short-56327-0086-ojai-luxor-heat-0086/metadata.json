@@ -16,5 +16,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento-donna/w-501-original-short-56327-0086-ojai-luxor-heat-0086",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "shorts in denim con strappi e orlo a vivo, capo tipicamente casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

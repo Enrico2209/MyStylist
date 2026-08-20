@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-uomo-fred-perry-black-gold",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone Tuta\nUomo Fred Perry in tessuto misto.\nPantalone da uomo in tessuto misto\ncon logo a contrasto\n. L'articolo presenta\ntasche laterali\ned\nelastico in vita\ncon coulisse.\n54% poliestere 46% cotone.\nSe anche tu sei amante del brand\nFred Perry\n, scopri qui gli altri\ncapi di abbigliamento\ndel marchio selezionati apposta per te da\nNuvolari\n.\nIl modello è alto 1.87 cm e indossa la taglia 48.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\npantalone tuta da uomo Fred Perry Black Gold\nVestibilità regular\nComposizione: 46% cotone 54% poliestere\nCodice articolo: T4507 BLACK/1964GOLD-R23",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi di abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/fred-perry"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con elastico in vita e coulisse",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

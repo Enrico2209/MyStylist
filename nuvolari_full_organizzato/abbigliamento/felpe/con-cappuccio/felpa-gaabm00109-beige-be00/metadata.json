@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-gaabm00109-beige-be00",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nFelpa con Cappuccio Gaelle Paris - Stile Urbano Distintivo\nEleva il tuo stile urbano con la Felpa con Cappuccio Gaelle Paris. Il design distintivo e il logo in evidenza la rendono un elemento chiave per un look urbano e contemporaneo. Indossala con pantaloni sportivi o jeans per uno stile senza compromessi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.3,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica logo vistosa, tipico streetwear casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

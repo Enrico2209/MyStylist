@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s2-2-0-graig-blu-blu",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa maglia Nuvolari, realizzata con\n100% cotone\n, unisce comfort e resistenza per uno stile senza tempo. Morbida al tatto e perfetta per la stagione primaverile, offre una vestibilità versatile che si adatta a look casual e raffinati. Indossala con un\npantalone chino\nper un outfit elegante o abbinala a un paio di\nsneakers\nper un tocco più sportivo. Un capo essenziale per ogni guardaroba maschile\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: S2 2.0 GRAIG BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in cotone, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

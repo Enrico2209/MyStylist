@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/maglia-polo-joanne-navy-navy",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Polo in Maglia dal Comfort Evoluto\nPolo Uomo Baecker Modello Joanne\nEleva il tuo quotidiano con la Polo Baecker Joanne, un capo che fonde la tradizione della maglieria classica con una tecnicità moderna. Grazie al suo blend bilanciato, questa polo offre una struttura impeccabile che resiste alle pieghe, mantenendo una freschezza naturale sulla pelle. Ideale per l'uomo che cerca un look curato dal mattino in ufficio all'aperitivo serale.\nTexture Materica e Performance Quotidiana\nBlend Ottimizzato:\nLa composizione (60% cotone, 40% poliestere) è studiata per offrire il meglio di due mondi: la traspirabilità e la morbidezza del cotone naturale unite alla stabilità e alla rapidità di asciugatura del poliestere. Il risultato è un capo che mantiene la forma lavaggio dopo lavaggio.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n60% cotone, 40% poliestere\nVestibilità regular\nCodice articolo: JOANNE navy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia fine, ideale per contesti smart casual e ufficio",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-es3-ts038-vrd-milit-vrd-milit",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'autenticità della cultura street, l'energia del dinamismo metropolitano e un design minimalista d'impatto si fondono nelle collezioni di\nt-shirt uomo Squad\n. Diventato un pilastro fondamentale del contemporary streetwear Made in Italy, il brand si distingue per la capacità di rielaborare i grandi classici del guardaroba casual quotidiano attraverso tagli innovativi, palette cromatiche ricercate e finiture sartoriali dall'attitudine decisamente urban.\nDesign, Dettagli e Caratteristiche Distintive\nGeometrie e Vestibilità d'Avanguardia\n: La proposta del brand spazia con disinvoltura dai tagli regular fit lineari e puliti, perfetti come basi sottogiacca, alle vestibilità relaxed e boxy oversize con spalle scivolate d'ispirazione prettamente skate, pensate per assicurare freschezza e stabilità strutturale.\nRicerca Cromatica e Lavaggi Vintage\n: Accanto alle colorazioni basiche e solide come bianco, nero e fango, Squad sperimenta costantemente attraverso tinture in capo d'autore ed esclusivi trattamenti di lavaggio acido o effetto delavé. Queste finiture donano al tessuto una bellissima texture vissuta e tridimensionale, evidenziando le cuciture con sfumature rétro.\nGrafiche Minimal ed Elementi Texturizzati\n: Il focus visivo del brand si concentra su grafiche micro o macro mai banali. La collezione alterna lettering serigrafici puliti in micro-rilievo sul petto, ricami finissimi tono su tono, patch applicate ed elementi d'ispirazione industrial a contrasto posizionati strategicamente sulla schiena.\nTessuti in Cotone Premium Compatto\n: Confezionate esclusivamente in filati di puro cotone di alta qualità a media e alta grammatura (heavyweight cotton). Questa scelta materica garantisce una t-shirt corposa e morbida al tatto, capace di mantenere una caduta geometrica impeccabile e un'ottima resistenza ai lavaggi frequenti.\nIdee di Stile: Costruisci il Tuo Look Street-Chic\nContemporary Urban Uniform\n: Crea un outfit casual ordinato e ricco di carattere per i tuoi pomeriggi in città. Abbina la t-shirt Squad alla precisione lineare dei\npantaloni uomo\nchino dal taglio asciutto o a un jeans regular. Completa il look con una sneaker pulita e un occhiale da sole bold.\nSummer Rilassato & Fresh Mix\n: Per i weekend di viaggio o le calde giornate estive di relax, unisci lo spirito street della maglietta alla leggerezza delle fibre naturali. Accosta la t-shirt a un paio di freschissimi\nbermuda uomo\nin puro lino con coulisse a corda (perfetti i modelli Nuvolari LI Branch), chiudendo il cerchio con un mocassino morbido scamosciato.\nTactical Utility Layering\n: Gioca con le sovrapposizioni e le diverse consistenze tessili. Utilizza una t-shirt basica bianca del brand come base luminosa sotto la robustezza strutturata dei\nbermuda uomo\ncargo con tasconi laterali (ottimi i modelli Oakley B1B Cargo o Nuvolari SH Fury), e rifinisci il tutto con una overshirt aperta e un\ncappello uomo\ncon visiera.\nRivoluziona il tuo concetto di maglietta basic sperimentando la perfetta combinazione tra manifattura italiana, caduta geometrica impeccabile e attitudine underground. Scegli lo stile inconfondibile delle t-shirt uomo firmate Squad.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a tinta unita, capo casual quotidiano di base",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

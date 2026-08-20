@@ -25,5 +25,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-es3-surf-panna-panna",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica californiana degli anni '70 e il fascino intramontabile della cultura beachwear rivivono nella nuova\nT-Shirt Uomo Nuvolari Surf Panna\n. Questo modello si distingue per una grafica narrativa e vibrante, pensata per chi vuole trasportare l'energia dell'oceano e il calore dei tramonti estivi nel proprio stile quotidiano.\nDesign e Caratteristiche Principali\nGrafica Central \"Surf & Sunset\"\n: Il cuore della maglia è caratterizzato da una stampa artistica frontale che ritrae un furgoncino vintage d'epoca attrezzato con tavole da surf sul tetto. La scena è incorniciata da un tramonto infuocato nei toni dell'arancio e del giallo, con silhouette di palme e scritte retro-style che evocano la libertà del viaggio.\nNuance Panna Caldo\n: La base del capo è declinata in una tonalità panna (off-white), una scelta cromatica che conferisce un sapore vintage autentico e risulta più morbida e sofisticata rispetto al bianco ottico tradizionale.\nDettaglio Logo Narrativo\n: La grafica integra il lettering\n\"Nuvolari\"\nall'interno della composizione visiva, unendo il nome del brand all'immaginario dei grandi surf club storici.\nGirocollo a Costine e Fit Regular\n: Progettata con uno scollo a girocollo classico e una vestibilità regolare, questa t-shirt assicura un comfort ottimale e una caduta fluida, ideale per le giornate più calde.\nJersey di Cotone Premium\n: Realizzata in un cotone leggero e traspirante di alta qualità, selezionato per garantire freschezza sulla pelle e una lunga durata del colore della stampa anche dopo numerosi lavaggi.\nIdee di Stile: Crea la Tua Wave\nThe Classic Beach Look\n: Abbina la t-shirt Surf Panna a un\ncostume\nda bagno a tinta unita (magari in blu royal o arancio) e a un paio di occhiali da sole a mascherina per un perfetto outfit da aperitivo sul bagnasciuga.\nUrban Retro Outfit\n: Per un look da città dal sapore nostalgico, indossala insieme a un\njeans\ndal lavaggio chiaro o a un pantalone chino color sabbia, completando il tutto con una sneaker bassa in tela bianca.\nSummer Layering\n: Sfrutta la tonalità calda del panna indossandola sotto una\ncamicia\ndi jeans aperta o sopra uno short cargo per enfatizzare l'anima utility del capo.\nCattura l'essenza dell'estate infinita. Scegli il design solare e lo stile inconfondibile della t-shirt Surf firmata Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo:ES3 SURF PANNA-PANNA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costume",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/beachwear.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica a tema surf, adatta a contesti casual quotidiani e da spiaggia",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-wc-cropp-blu-blu-wc-cropp-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Wc Cropp Blu\nMaglia\nNuvolari modello Cropp da uomo, girocollo con lavorazione a rombi sul davanti e bordi a coste. In un misto cachemire con lana, viscosa e poliammide, offre una vestibilità slim fit e un tocco morbido e raffinato.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n30% Lana - 30% Viscosa - 35% Poliammide - 5% Cachemire\nCodice articolo: WC CROPP BLU-BLU",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana e cachemire, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

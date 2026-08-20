@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/ciabatte/w-buckley-shearling-1018126-blk-suede-blk-suede",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "sabot/ciabatta Birkenstock con interno in shearling, calzatura da casa o tempo libero molto informale",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

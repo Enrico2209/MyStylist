@@ -20,5 +20,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-w1-kele-antracite-atx",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Kele Antracite\nLa\nmaglia\ngirocollo\nNuvolari\ninvernale offre calore e comfort per le giornate più fredde. Il design essenziale e la vestibilità avvolgente la rendono perfetta per un look pratico e raffinato.\nAbbinala ad un paio di\nsneakers\ne ad un paio di\njeans\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n55% acrilico, 15% poliammide, 10% lana, 10% viscosa, 5% alpaca, 5% poliestere\nCodice articolo: W1 KELE ANTRACITE-ATX",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "maglione girocollo con grafica geometrica jacquard, consigliato con jeans e sneakers",
+    "season": "inverno",
+    "pattern": "stampato"
+  }
 }

@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/new-balance/sneakers-uomo-newbalance-u9060blk-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nNew Balance 9060\noffrono una nuova interpretazione dell'eleganza e dell'innovazione tipiche della serie 99X. Questo modello reinventa gli elementi iconici della linea con un'estetica audace ispirata allo stile futuristico e tecnologico dell'era Y2K. Le barre di oscillazione, ereditate dalle 990, vengono ampliate e distribuite su tutta la tomaia per creare un effetto dinamico e in movimento. Le linee fluide e le proporzioni accentuate dell'intersuola scolpita esaltano le avanzate tecnologie di ammortizzazione\nABZORB\ne\nSBS\n, garantendo comfort e stile inconfondibile.\nEU\nUS Uomo\n36\n4\n37\n4.5\n37.5\n5\n38\n5.5\n38.5\n6\n39.5\n6.5\n40\n7\n40.5\n7.5\n41.5\n8\n42\n8.5\n42.5\n9\n43\n9.5\n44\n10\n44.5\n10.5\n45\n11\n45.5\n11.5\n46.5\n12\n47\n12.5\n47.5\n13\n49\n14\n50\n15\n51\n16\n52\n17\n53\n18\n54\n19\n55\n20\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

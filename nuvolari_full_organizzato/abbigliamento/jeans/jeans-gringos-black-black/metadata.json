@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-gringos-black-black",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nCOMPLETA IL TUO OUTFIT\nEsplora l'iconico jeans Rayz, un capo essenziale nel guardaroba di ogni uomo che offre comfort, stile e versatilità ineguagliabili\nRealizzato al 100% in resistente cotone, questo jeans rappresenta l'unione perfetta tra qualità artigianale e design moderno. La sua struttura robusta e resistente lo rende adatto a qualsiasi situazione, mentre la sua vestibilità impeccabile lo rende perfetto per ogni contesto. Con il suo taglio classico e senza tempo, questo jeans si adatta facilmente a diversi outfit e occasioni, garantendo sempre un look impeccabile e alla moda. Indossalo con una\ncamicia\nper un look più formale, oppure con una\nt-shirt\nper un outfit casual e confortevole. I dettagli curati e l'attenzione al design rendono questo jeans un vero e proprio must-have nel guardaroba di ogni uomo moderno. Sia che tu stia affrontando una giornata in ufficio o un weekend fuori città, il jeans Rayz sarà sempre la scelta perfetta per un look impeccabile e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: GRINGOS BLACK-BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "COMPLETA IL TUO OUTFIT",
+      "categoria_url": "https://www.nuvolari.biz/giubbotto-rayz-uomo-toquinmo-black-black.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in denim con forte grafica tie-dye/bleach, prettamente streetwear",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

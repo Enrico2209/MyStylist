@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/camicia-daniele-alessandrini-vi0045-off-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Daniele Alessandrini: Il Minimalismo Sartoriale in tonalità Off-White\nRendi unico il tuo guardaroba formale con la camicia Daniele Alessandrini in colorazione Off-White. Questo capo non è una semplice camicia bianca, ma una dichiarazione di stile che fonde la purezza del design minimalista con dettagli ricercati. Ideale per l'uomo contemporaneo che cerca un'eleganza pulita, capace di distinguersi attraverso la precisione dei particolari.\nDesign Evoluto e Dettagli Signature\nEstetica Clean & Modern\n: La caratteristica distintiva di questo modello è la\ncannolo coperto\n, che nasconde la bottoniera frontale per una silhouette estremamente aerodinamica e lineare. Questa scelta stilistica eleva la camicia, rendendola perfetta per look serali o eventi dove il minimalismo è sinonimo di lusso.\nFocus sul Colletto\n: Il colletto a punta piccola, proporzionato e moderno, è rifinito da un unico\nbottone gioiello a contrasto\nnero. Questo dettaglio non solo funge da punto focale cromatico, ma reca l'incisione \"D.A. Daniele Alessandrini\", firma di autenticità e cura del dettaglio.\nTonalità Off-White\n: A differenza del bianco ottico, l'Off-White offre una luminosità più calda e naturale, risultando estremamente versatile e facile da abbinare sia a tessuti naturali come il lino, sia a fibre più tecniche e urbane.\nCostruzione di Alta Scuola\n: Polsini lineari e fondo leggermente stondato permettono di indossare la camicia sia all'interno che all'esterno dei pantaloni, assecondando diverse interpretazioni di stile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.7
+    },
+    "formality": 4,
+    "formality_perche": "Camicia sartoriale con cannolo coperto e bottone gioiello, ideale per contesti formali e cerimonie",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

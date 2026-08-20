@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/t-shirt-in-maglia-s3-alex-moro-moro",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'iconico connubio tra la raffinatezza della maglieria classica italiana, la funzionalità dei filati contemporanei e un'estetica urban evoluta si fondono nella collezione di\nt-shirt uomo Nuvolari in maglia\n. Pensata per chi desidera elevare il concetto di maglietta basica, questa proposta sostituisce il tradizionale jersey di cotone con una lavorazione in maglia fine e strutturata, offrendo un capo sofisticato che unisce l'understatement sartoriale alla versatilità dello streetwear metropolitano.\nDesign, Texture e Caratteristiche Costruttive\nFilato Tecnico Premium (60% Cotone, 40% Poliestere)\n: Il vero e proprio fulcro di questa t-shirt risiede nella composizione bilanciata del suo tessuto. Il\n60% di cotone\nassicura la massima freschezza, morbidezza naturale e traspirabilità a contatto con la pelle. Il\n40% di poliestere\ninfonde al capo un'elevata stabilità strutturale, resistenza alle pieghe e un'asciugatura rapida, permettendo alla maglia di mantenere una caduta scultorea e impeccabile per tutta la giornata.\nLa Nobiltà della Lavorazione in Maglia\n: Rispetto alle magliette standard, la texture tricot a maglia fine dona al capo una tridimensionalità opaca e una mano ricca, tipica dei capi sartoriali estivi. Questa particolare finitura geometrica si adatta fluidamente alle linee del corpo senza costringerle, incarnando alla perfezione la tendenza del quiet luxury.\nFiniture Strutturate e Pulizia delle Linee\n: L'architettura della t-shirt presenta dettagli di alta manifattura, come il girocollo, il fondo e i bordi delle maniche rifiniti a costine sottili e robuste. Questa costruzione previene le deformazioni da lavaggio e garantisce una silhouette pulita ed essenziale, priva di loghi invasivi.\nVestibilità Calibrata Modern Regular\n: Il taglio si sviluppa su linee pulite e geometriche progettate per valorizzare la figura maschile in modo naturale, offrendo la giusta ampiezza sulle spalle e una caduta fluida lungo i fianchi.\nIdee di Stile: Costruisci il Tuo Look Knitwear & Smart-Casual\nMetropolitan Smart-Casual Uniform\n: Sfrutta la texture sofisticata della maglia per creare un look da ufficio estivo o per un appuntamento formale. Abbina la t-shirt in maglia Nuvolari alla precisione sartoriale e alla nuance minerale dei bermuda uomo Nuvolari Marble in cotone stretch, completando l'outfit con un mocassino scamosciato leggero o una stringata sfoderata.\nUrban Contemporary Contrast\n: Inserisci la ricercatezza del tricot in un contesto streetwear solido, dinamico e di carattere. Accosta la t-shirt alla silhouette generosa e d'ispirazione anni '90 dei jeans uomo Levi's 568 Loose Straight, chiudendo il cerchio con una sneaker dal design retro-running o da skate chunky.\nSophisticated Riviera Layering\n: Per un aperitivo al tramonto o per il tempo libero nei weekend, gioca con le stratificazioni leggere e i materiali nobili. Infila la maglietta nel girovita di un bermuda uomo Baecker in lino dalla tonalità organica (sabbia o kaki) e sovrapponi sul davanti una camicia a maniche lunghe in lino leggero lasciata completamente aperta e sbottonata.\nSperimenta la perfetta sintesi tra il comfort termico delle fibre naturali e l'efficienza strutturale del filato tecnico. Scegli la consistenza della lavorazione tricot, la stabilità del mix cotone-poliestere e l'attitudine inconfondibile delle t-shirt uomo in maglia firmate Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n60% cotone, 40% poliestere\nVestibilità regular\nCodice articolo: S3 ALEX MORO-MORO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "T-shirt in maglia fine stile quiet luxury, più formale di una classica t-shirt in jersey",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

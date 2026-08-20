@@ -23,5 +23,27 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-levis-501-original-shorts",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl mito assoluto si taglia le gambe per l'estate, ma non perde un briciolo della sua leggendaria attitudine. I\nBermuda Levi's 501 Original Shorts Med Indigo\nportano il DNA del jeans più famoso del mondo in una versione short pronta a dettare le regole della stagione calda. Questo modello incarna la perfetta via di mezzo tra heritage d'archivio e stile street definitivo, grazie a un lavaggio indaco intermedio ricco di sfumature autentiche.\nDesign e Caratteristiche Principali\nL'Originale Button Fly\n: Fedele al mito del 1873, la chiusura frontale abbandona la zip per mantenere l'iconica patta con bottoni in metallo siglati Levi's.\nLavaggio Medium Indigo Autentico\n: La tela denim, si distingue per una tonalità blu indaco intermedia, caratterizzata da delicate sfumature e baffature dall'aspetto naturale ed elegantemente vissuto.\nTaglio Straight Fit Intramontabile\n: La silhouette scivola dritta lungo i fianchi e le cosce, definendo una linea pulita, bilanciata ed estremamente versatile che non passa mai di moda.\nCostruzione Classica a 5 Tasche\n: Struttura robusta e d'ordinanza con i caratteristici rivetti in rame a contrasto posizionati sui punti di trazione delle tasche anteriori.\nOrlo Cucito e Lineare\n: Il fondo della gamba termina con una finitura a cucitura piatta e pulita, ottima per chi ama un look ordinato o per chi preferisce risvoltarlo leggermente per esaltare la wave rétro.\nIdee di Stile: Crea la Tua Wave\nThe Iconic Daily Uniform\n: Il match perfetto non si discute. Abbina questi shorts 501 a una t-shirt basic bianca o a una t-shirt grafica della selezione Nuvolari, chiudendo il cerchio con la tua sneaker preferita ai piedi.\nUrban Heritage Layering\n: Eleva l'attitudine del denim medio abbinandolo a una\ncamicia\na quadri aperta o a una overshirt utility, sopra una canotta a coste. Un look street d'impatto e pronto a tutto.\nCasual Preppy Match\n: Per un aperitivo o una serata estiva, combina la solidità del jeans 501 con una polo panna o una camicia in lino leggero lasciata morbida fuori dal girovita.\nNiente esperimenti, vai sul sicuro. Indossa la leggenda del 501 in versione shorts e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim, capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

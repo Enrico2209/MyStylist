@@ -21,5 +21,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-woven-label-tee-es3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE WOVEN LABEL TEE: MINIMALISMO DAL CARATTERE HERITAGE\nLa t-shirt Lee Woven Label è la quintessenza dello stile essenziale arricchito da dettagli storici. Caratterizzata da una base nero corvino, questa maglia mette in risalto l'eredità del brand attraverso un dettaglio grafico discreto ma di\ngrande impatto, perfetto per chi predilige un look urban e pulito.\nDettaglio Woven Label:\nSul petto è applicata una patch in tessuto bianco a contrasto che riporta il logo vintage \"Lee H.D. Lee Co.\", richiamando le radici storiche del marchio.\nDesign Pulito\n: Il colore nero solido e l'assenza di altre stampe rendono questo capo estremamente versatile e facile da abbinare a qualsiasi denim o\npantalone casual.\nVestibilità e Comfort\n: Realizzata in morbido cotone premium, presenta un girocollo classico a costine e una vestibilità regolare che garantisce comfort durante tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a tinta unita con piccolo logo applicato sul petto",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

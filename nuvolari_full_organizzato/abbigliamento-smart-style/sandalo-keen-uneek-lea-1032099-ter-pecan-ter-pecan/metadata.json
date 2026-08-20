@@ -22,5 +22,31 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/sandalo-keen-uneek-lea-1032099-ter-pecan-ter-pecan",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'iconica architettura outdoor incontra la nobiltà delle materie prime nel nuovo\nSandalo Uomo Keen Uneek Leather Pecan\n. Questa raffinata reinterpretazione del celebre modello ibrido eleva il concetto di calzatura estiva grazie all'inserimento di dettagli in pelle premium, combinando una traspirabilità senza pari a un'estetica calda ed elegante, ideale per muoversi con stile tra natura e scenari urbani.\nDesign e Caratteristiche Principali\nStruttura Brevettata a Due Cordini\n: Il nucleo del design Uneek è la tomaia flessibile formata dall'intreccio di cordini elastici e passanti che si adattano istantaneamente alla forma del piede. Questa maglia mobile asseconda ogni movimento, eliminando gli sfregamenti e garantendo una ventilazione costante.\nAllacciatura Rapida con Cursore (Toggle)\n: Sul collo del piede è integrato un sistema di chiusura rapida a coulisse con un cursore di bloccaggio marrone in tinta. Permette di personalizzare la tensione della calzata in pochi secondi, offrendo un fit stabile e anatomico alla camminata.\nPannello Posteriore e Tallone Protettivo\n: Il retro è rifinito con una morbida fascia di supporto in pelle scamosciata che avvolge il tallone in modo confortevole. Un pratico passante posteriore con il branding impresso facilita la calzata.\nSuola Bicolore ad Alta Trazione\n: L'intersuola ammortizzante color panna alleggerisce visivamente il design, mentre il battistrada in gomma scura assicura un grip eccellente e una resistenza ottimale su terreni sconnessi, sentieri sterrati o asfalto.\nIdee di Stile: Crea la Tua Wave\nUrban Safari Uniform\n: Esalta le tonalità calde della variante Pecan abbinando il sandalo a un\npantalone\nchino Baecker beige o kaki e a una camicia a maniche corte aperta a fantasia rétro-geometrica, come il modello Obey Alan Woven Sky Blue.\nContemporary Outdoor Look\n: Per un mood estivo e avventuroso, indossa le Keen Uneek insieme a un bermuda cargo con ampi tasconi laterali e a una\nt-shirt\ngrafica Deus Ex Machina nei toni del panna o del verde oliva.\nFai un passo avanti verso il perfetto connubio tra funzionalità tecnica ed eleganza artigianale. Scegli il carattere unico del sandalo Uneek Leather firmato Keen.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sandalo ibrido outdoor/tempo libero, marchio tecnico",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

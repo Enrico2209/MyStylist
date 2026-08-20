@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-7609-4sh-bianco-01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'iconica polo Colmar 7609 rappresenta l'essenza dello stile sporty-chic italiano. Realizzata in piqué di cotone elasticizzato, è il capo ideale per chi cerca un look dinamico senza rinunciare all'eleganza, perfetto per il tempo libero o per contesti casual-business.\nComfort Dinamico: Grazie alla componente elastica, la polo segue i movimenti del corpo senza costrizioni, mantenendo la sua forma originale anche dopo numerosi lavaggi.\nTraspirabilità: La lavorazione a nido d'ape del piqué garantisce una ventilazione ottimale, rendendola un capo fresco per le stagioni calde.\nStile Senza Tempo: Il design minimale e la palette di colori (che spazia dai classici blu e bianco ai toni stagionali più audaci) la rendono estremamente facile da abbinare.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n96% COTONE, 4% ELASTANE\nVestibilità regular\nCodice articolo: 7609 4SH BIANCO-01",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

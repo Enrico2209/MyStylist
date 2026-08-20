@@ -22,5 +22,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-uomo-levis-graphic-crewneck-pizza",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIronia pop, cultura street e l'inconfondibile impronta d'archivio si fondono in un pezzo che non passa inosservato. La\nT-Shirt Uomo Levi's Graphic Crewneck Pizza Blue\nè la scelta definitiva per chi ama i basic stravolti da grafiche bold e ricche di personalità. Questo modello celebra le reference vintage americane con un artwork dissacrante e originale posizionato sul pannello posteriore.\nDesign e Caratteristiche Principali\nMaxi Grafica Pop Back\n: Il vero e proprio statement del capo, è la grande stampa sul retro che reinterpreta il leggendario logo \"Batwing\" di Levi's all'interno di una fetta di pizza, incorniciata dai claim in stile diner/pizzeria\n\"We Deliver!\"\ne\n\"Freshness Guaranteed\"\n.\nScollo a Girocollo Elastico (Crewneck)\n: Strutturata con un classico scollo a girocollo lavorato a micro-coste piatte, rifinito internamente con una fettuccia copricuciture per garantire il massimo comfort sulla nuca ed evitare deformazioni.\nTessuto Jersey Compatto\n: Confezionata in un jersey di puro cotone morbido, leggero e altamente traspirante, studiato per resistere all'usura quotidiana mantenendo intatta la nitidezza dei colori della stampa.\nTaglio Standard Fit Urban\n: La silhouette si sviluppa con volumi regolari ed equilibrati, evidenziati in \"Schermata 2026-06-04 alle 19.43.34.jpg\", perfetti per garantire una caduta fluida sul corpo e un'ottima libertà di movimento.\nDettaglio Red Tab Laterale\n: Sul fondo laterale sinistro, spicca l'immancabile etichetta rossa Levi's, piccolo sigillo di autenticità e qualità del brand.\nIdee di Stile: Crea la Tua Wave\nThe Graphic Street Uniform\n: Abbina questa t-shirt a un denim dal fit rilassato o a un bermuda loose della selezione Levi's. Lascia che la maxi grafica posteriore firmi il tuo look da giorno, completando il tutto con una sneaker chunky.\nOpen Shirt Layering\n: Indossala sotto una\ncamicia\nin denim leggero o una overshirt utility lasciata completamente aperta; il contrasto pulito sul davanti esalterà l'impatto visivo non appena ti girerai.\nSkate Inspired Match\n: Combina la t-shirt con un pantalone cargo o un chino Dickies dal taglio dritto, calze bianche a vista e una sneaker bassa Vans per una wave fedele alla cultura di strada più autentica.\nEsci dagli schemi del basic ordinario. Scegli l'ironia pop di Levi's e scendi a dettare il passo in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con grafica pop sul retro, capo base casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

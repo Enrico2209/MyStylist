@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-s3-lunix-vintage-denim-vde",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nCappello Proj3Ct Lunix Vintage\nè un accessorio dal carattere urban e rilassato, ideale per completare outfit quotidiani con un tocco di colore e uno stile d'ispirazione rétro.\nDesign e Caratteristiche Principali\nEffetto Vintage\n: Il tessuto presenta un lavaggio particolare che conferisce al cappello un aspetto piacevolmente vissuto e una texture morbida al tatto.\nLogo Ricamato\n: Sulla parte frontale è presente il ricamo in rilievo del brand \"PROJECT\", realizzato in filo bianco a contrasto per una visibilità discreta ma distintiva.\nStruttura Six-Panel\n: La calotta è composta da sei pannelli con occhielli di ventilazione ricamati sulla parte superiore per garantire traspirabilità.\nVisiera Curva\n: La visiera pre-curvata è rifinita con impunture parallele che ne mantengono la struttura e lo stile classico \"dad hat\".\nChiusura Regolabile\n: Il retro è dotato di un cinturino in tessuto con fibbia metallica, che permette di adattare perfettamente la misura del cappello alla circonferenza della testa.\nAbbinalo con\nPer un look street-style coordinato, ti suggeriamo di abbinare questo cappello con:\nUna\nt-shirt\nLacoste TH7318 in tonalità pastello per un richiamo cromatico armonioso.\nUn paio di\njeans\nchiari dal taglio relaxed e delle\nsneakers\nAdidas Campus 00s grigie.\nUna\novershirt\nin denim aperta sopra una maglia bianca basic per un perfetto outfit stratificato.\nDei\ncargo\nNuvolari color oliva per giocare con i contrasti tra toni terrosi e pastello.\nPer un set completo da tempo libero, indossalo insieme ai\npantaloni\ndella linea Nuvolari Terry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera stile dad hat, accessorio tipicamente casual e street",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

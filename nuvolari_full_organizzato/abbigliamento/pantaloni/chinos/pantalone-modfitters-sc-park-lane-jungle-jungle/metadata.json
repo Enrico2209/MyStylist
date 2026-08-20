@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-modfitters-sc-park-lane-jungle-jungle",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo PARK LANE\nPantalone\nchino\nModfitters\nmodello PARK LANE, realizzato in morbido cotone con tasche a filo e due a doppio filetto sul retro chiuse da bottoni. Vestibilità regular fit, chiusura a scomparsa con zip e bottone e portachiavi in cuoio con gancio in metallo anticato sul passante. Fodera tasche in stampa fantasia rigata. Logo Modfitters in tessuto sopra la tasca posteriore. 98% cotone 2% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino in cotone elasticizzato, ideale per smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/proj3ct-jeans-s3-malaga-light-dnm-light-dnm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nJeans Donna Proj3Ct Malaga\nsono un capo versatile che reinterpreta il concetto di denim unendo una silhouette contemporanea al massimo comfort quotidiano. Questo modello si distingue per un taglio ampio e rilassato, ideale per chi cerca uno stile urban senza rinunciare alla praticità.\nDesign e Caratteristiche Principali\nVita Elasticizzata con Coulisse\n: Il punto vita è rifinito con un morbido elastico arricciato e una coulisse regolabile in corda tono su tono, garantendo una vestibilità adattabile e confortevole.\nSilhouette Wide Leg\n: Il design a gamba larga offre un volume moderno e una libertà di movimento superiore rispetto ai modelli tradizionali.\nLavaggio Dark Denim\n: La tonalità blu scuro uniforme conferisce al capo un aspetto pulito e sofisticato, facilmente abbinabile a diverse palette cromatiche.\nDettagli di Cucitura\n: Le impunture a contrasto leggero sottolineano la costruzione del capo, incluse le ampie tasche laterali integrate nel design.\nTessuto Leggero\n: La caduta del materiale suggerisce un denim leggero o un misto cotone, perfetto per la stagione primaverile ed estiva.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questi jeans:\nUrban Minimal\n: Indossali con una\nt-shirt\nbianca slim fit inserita all'interno e delle\nsneakers\nplatform per un look quotidiano essenziale e di tendenza.\nBoho-Chic Layering\n: Abbinali a una\ncamicia\nin lino annodata in vita e una\novershirt\nleggera per un outfit stratificato perfetto per il tempo libero.\nRelaxed Evening\n: Combinali con una\npolo\nin maglia sottile e dei sandali flat per un'estetica raffinata ma estremamente comoda.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans wide leg con vita elasticizzata e coulisse, molto informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,22 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-stanton-short-black-blk",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'energia del basket d'archivio e la funzionalità dell'abbigliamento sportivo si fondono con l'attitudine street-core nel nuovo\nShort Uomo Obey Stanton Black\n. Questo pantaloncino in mesh rappresenta la quintessenza dell'easy-wear estivo, rielaborando un classico indumento da palestra attraverso volumi fluidi e grafiche bold pensati espressamente per la cultura urban contemporanea.\nDesign e Caratteristiche Principali\nEstetica Total Black con Logo a Contrasto\n: Lo short si presenta in una colorazione nera profonda, interamente monocromatica, che valorizza al massimo la texture traforata del tessuto. Sulla parte inferiore della gamba sinistra risalta l'iconico logo \"obey\" stampato in bianco ottico con il classico font inclinato dal sapore sportswear anni '90.\nTessuto Sportivo in Mesh Traforato\n: Confezionato interamente in un tessuto mesh a doppio strato leggero, flessibile e altamente traspirante. Questa particolare struttura a rete non solo strizza l'occhio ai pantaloncini da pallacanestro della vecchia scuola, ma assicura una freschezza insuperabile e una rapida asciugatura, rendendolo perfetto per le giornate più calde.\nGirovita Elastico con Coulisse Interna\n: Il focus funzionale del modello è l'ampio fascione elastico piatto arricciato in vita, progettato per offrire un fitting stabile e personalizzabile grazie alla presenza di un cordino interno di regolazione. Una costruzione essenziale che elimina ogni tipo di costrizione sui fianchi.\nTaglio Relaxed d'Ispirazione Basket\n: Strutturato con una silhouette svasata e comoda a gamba ampia che asseconda ogni movimento. La lunghezza calibrata si ferma sopra il ginocchio per mantenere intatta la freschezza e l'anima sportiva del capo, garantendo un fitting rilassato e dinamico.\nTasche Laterali Pratiche\n: Integrato in modo pulito ed essenziale lungo i fianchi, il pantaloncino è dotato di tasche verticali capienti, ideali per contenere rapidamente gli oggetti personali indispensabili durante i tuoi spostamenti urbani.\nIdee di Stile: Crea la Tua Wave\nSport Core Identity\n: Crea un outfit d'ispirazione atletica di forte impatto visivo. Abbina lo short Stanton Black a una canotta oversize o a una t-shirt uomo Obey dal taglio boxy con grafica di propaganda frontale. Chiudi il cerchio con un calzino di spugna bianco a vista e una sneaker bold da basket o da skate.\nUrban Contrast Texture\n: Rompi gli schemi dello sportswear classico abbinando la texture traforata dello short a elementi più strutturati. Indossalo insieme alla camicia uomo Obey Sky Multi a righe azzurre e bianche lasciata completamente aperta sopra a un top basic, creando una combinazione fresca, geometrica e inaspettata.\nTotal Black Festival Look\n: Per le serate estive o i festival open-air, unisci lo short Stanton a una felpa leggera con cappuccio o a una t-shirt scura dal fit loose. Completa l'outfit con il cappello Obey Fence Camo per spezzare il monocromo e inserire una decisa nota grafica mimetica e outdoor nel tuo look.\nRinfresca i tuoi look estivi portando l'autentica attitudine dei campetti da gioco direttamente sulla strada. Scegli il comfort termico e lo stile underground degli short Stanton firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.1,
+      "streetwear": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino sportivo in mesh da basket, marchio street puro",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

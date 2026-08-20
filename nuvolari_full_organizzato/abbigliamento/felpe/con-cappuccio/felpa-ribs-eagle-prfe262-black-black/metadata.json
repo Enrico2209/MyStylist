@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-ribs-eagle-prfe262-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa felpa nera di Propaganda è un capo essenziale per il tuo guardaroba, perfetto per uno stile urbano e contemporaneo.\nRealizzata con materiali di alta qualità, questa\nfelpa\noffre un comfort impareggiabile e uno stile unico. L'aquila stampata sul retro e la label personalizzata aggiungono un tocco di originalità e personalità al tuo outfit. Con il suo design versatile, questa felpa si adatta perfettamente a ogni occasione, garantendo un look sofisticato e alla moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: PRFE262 BLACK-BLACK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "streetwear": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafica streetwear molto vistosa sul retro",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

@@ -22,5 +22,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/hoka-speedgoat-2-1162710-mineral-rhubarb-mrh",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nL'inconfondibile ingegneria legata al trail running d'alta quota, la massima ammortizzazione protettiva e un design dall'anima tecnica e radicale si fondono armoniosamente nelle\nsneakers uomo Hoka Speedgoat 2 Mineral/Rhubarb\n. Dedicate al leggendario atleta Karl \"Speedgoat\" Meltzer e progettate per dominare i terreni più tecnici e impervi, queste calzature hanno ridefinito le regole delle scarpe da corsa fuoristrada, trasformandosi in una vera e propria icona dello stile gorpcore e dell'outdoor metropolitano contemporaneo.\nDesign, Tecnologie e Caratteristiche Principali\nLa Dinamica Palette Mineral/Rhubarb\n: La sneaker si sviluppa su una sofisticata base grigio minerale e nera, accesa da vibranti dettagli color rabarbaro/fucsia. Questo schema cromatico energico evidenzia la complessa architettura della scarpa, perfetto per farsi notare sia sui sentieri che nel panorama streetwear urban.\nTomaia in Mesh Tecnico Rinforzato\n: La struttura superiore è realizzata in una rete tecnica ultra-traspirante, studiata per garantire ventilazione e comfort prolungato. La calzatura integra sovrapposizioni geometriche termosaldate stabilizzanti e una gabbia mediale progettata per avvolgere il piede e offrire supporto strutturale durante i cambi di direzione.\nIntersuola Oversize ad Alto Ritorno di Energia\n: Il vero e proprio tratto distintivo di Hoka risiede nella sua intersuola maxi in EVA iniettata, nella tonalità fucsia e grigia con il grande logo del brand impresso a contrasto. Questa struttura assicura un'ammortizzazione impareggiabile, assorbendo gli urti e riducendo l'affaticamento muscolare su qualsiasi distanza.\nSuola Vibram Megagrip ad Alta Trazione\n: Per garantire la massima stabilità e aderenza su superfici bagnate, scivolose o rocciose, la calzatura poggia su una solida suola in gomma dotata della mescola Vibram Megagrip, contraddistinta dal piccolo tassello giallo. I tasselli multidirezionali profondi offrono un grip eccezionale in salita e in discesa.\nGeometria Meta-Rocker e Linguetta Comfort\n: Il profilo curvo della suola è progettato per favorire una transizione fluida e una rullata naturale del piede. Il sistema di allacciatura stringato con lacci piatti fucsia e il passante posteriore sul tallone garantiscono una calzata rapida, ferma e personalizzabile.\nIdee di Stile: Costruisci il Tuo Look Gorpcore & Urban Outdoor\nTechnical Gorpcore Uniform\n: Esalta la natura squisitamente outdoor e l'estetica aggressiva della sneaker inserendola in un contesto utility metropolitano. Abbina le Hoka Speedgoat 2 alla robustezza tridimensionale di un pantalone cargo o di un jogger tecnico nero provvisto di tasche 3D, completando sul davanti con una\nt-shirt uomo\nK-Way o una giacca antivento in nylon leggero.\nUrban Rélax & Denim Contrast\n: Rompi il rigore dell'abbigliamento prettamente sportivo giocando con i volumi moderni dello stile casual. Accosta le calzature alla silhouette generosa, dritta e rilassata dei jeans uomo Levi's 568 Loose Straight in un lavaggio chiaro o medio, lasciando che la gamba del denim cada morbida sulla struttura oversize della calzatura. Indossa sopra una t-shirt uomo Nuvolari in maglia blu navy o grigia.\nSummer Contemporary Mix\n: Sperimenta il massimo del comfort per le tue camminate estive in città o per il tempo libero nei weekend. Combina le sneakers alla precisione geometrica dei bermuda uomo Nuvolari Marble in cotone stretch o alla leggerezza organica dei bermuda uomo Baecker in lino sabbia, spezzando il look con una maglia polo uomo Nuvolari per un perfetto gioco di contrasti tra sartorialità e tecnicismo.\nSperimenta la perfetta sintesi tra l'efficienza ingegneristica dello sport d'alta quota e l'impatto visivo delle ultime tendenze urban. Scegli l'energia del lavaggio cromatico Mineral/Rhubarb, la stabilità della suola Vibram e il comfort inconfondibile delle sneakers uomo firmate Hoka.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da trail running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

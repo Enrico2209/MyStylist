@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/zaini/zaino-columbia-echo-mountain-25l-bkpack-2121431-dark-mountain-478",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIL TUO COMPAGNO DI AVVENTURA UNIVERSALE\nDalle vette dei sentieri ai vagoni dei treni: questo zaino è progettato per chi vive in movimento. Grazie a una gestione intelligente degli spazi, potrai organizzare la tua giornata tra lavoro e natura senza sforzo, sfruttando l’ampio scomparto interno e la tasca esterna ad accesso rapido.\nIdratazione sempre a portata di mano:\nNon restare mai a secco. Le due tasche laterali e la predisposizione per la sacca idrica ti assicurano tutta l'acqua di cui hai bisogno durante il cammino.\nSicurezza e Funzionalità Trail:\nPronto per l'imprevisto. La cinghia pettorale integra un fischietto di emergenza, mentre le asole daisy chain esterne permettono di agganciare moschettoni o attrezzatura supplementare in pochi secondi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 100% poliestere.\nPannello inferiore: 100% poliestere.\nVestibilità regular\nCodice articolo: 2121431 DARK MOUNTAIN-478",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "zaino tecnico da outdoor, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

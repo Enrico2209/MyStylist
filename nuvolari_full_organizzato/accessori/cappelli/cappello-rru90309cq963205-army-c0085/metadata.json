@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/cappello-rru90309cq963205-army-c0085",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Cappello Roy Roger's Army è un accessorio dal forte carattere vintage che richiama l'estetica dei classici berretti da baseball americani, reinterpretati con l'attenzione per il dettaglio tipica della manifattura italiana del brand. Questo cappello non è solo un elemento funzionale, ma un pezzo distintivo capace di aggiungere una nota \"worn-in\" (vissuta) e autentica a qualsiasi outfit casual o d'ispirazione militare.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.7,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

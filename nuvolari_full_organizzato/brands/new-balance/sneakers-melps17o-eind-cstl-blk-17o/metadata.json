@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-melps17o-eind-cstl-blk-17o",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe New Balance MELPS17O sono sneakers progettate per offrire il massimo equilibrio tra performance sportiva e stile quotidiano. Questo modello si rivolge all'uomo dinamico che cerca una scarpa versatile, capace di passare da una sessione leggera di running in mattinata a una giornata intensa in città senza affaticare il piede.\nIl vero cuore di questa sneaker è l'intersuola Fresh Foam. Progettata al computer per mappare le zone di pressione del piede, offre un'ammortizzazione ultra-morbida ma reattiva, che protegge le articolazioni riducendo gli impatti. La costruzione della tomaia in mesh tecnico senza cuciture assicura che il piede rimanga fresco e libero da irritazioni, rendendola ideale per un uso prolungato anche durante i mesi più caldi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Scarpa da running/ginnastica tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

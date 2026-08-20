@@ -18,5 +18,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s2-lt-blanco-light-dnm-light-dnm",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans Uomo PROJ3CT – Icona di stile e versatilità\nEssenziali nel guardaroba maschile, i jeans uomo firmati\nPROJ3CT\nuniscono tradizione denim e dettagli moderni. Realizzati in denim stretch di alta qualità, offrono una vestibilità confortevole che segue le linee del corpo senza rinunciare alla libertà di movimento. Lavaggi contemporanei e finiture curate rendono questo capo perfetto per ogni occasione, dal daily look al weekend casual.\nScopri tutte le t-shirt uomo per completare il look\nEsplora la collezione sneakers uomo\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Scopri tutte le t-shirt uomo per completare il look",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Esplora la collezione sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans cinque tasche in denim chiaro, capo base per outfit casual quotidiani",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

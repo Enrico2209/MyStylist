@@ -21,5 +21,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt-donna-levis-essential-sqrd",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza geometrica si fonde con l'attitudine streetwear più pura, dando vita a un basic contemporaneo che riscrive le regole dei capi quotidiani. La\nT-Shirt Donna Levi's Essential Sqrd Tee Anthracite\nè pensata per chi cerca una silhouette affilata, femminile e ricca di carattere metropolitano. Questo modello abbandona le linee classiche del girocollo per puntare su un design strutturato, pulito e dal sapore minimalista anni '90.\nDesign e Caratteristiche Principali\nScollo Quadrato Strutturato (Squared Neckline)\n: Il vero e proprio focus stilistico del capo, è l'ampio scollo squadrato che incornicia e valorizza il décolleté con una linea geometrica, netta e di forte impatto visivo.\nTessuto a Costine Verticali (Ribbed Texture)\n: La superficie, è caratterizzata da una fitta trama a micro-costine verticali che non solo conferisce spessore e consistenza alla maglia, ma garantisce un'eccellente elasticità e un fit pazzesco.\nTaglio Slim Fit e Silhouette Modellata\n: La costruzione sartoriale del capo segue con assoluta precisione le linee anatomiche del corpo, definendo una vestibilità asciutta, pulita e iper-contemporanea.\nManiche Corte dal Taglio Anatomico\n: Le maniche si sviluppano con una lunghezza ridotta e un taglio dritto che accompagna la linea della spalla in modo naturale, mantenendo i volumi bilanciati.\nDettaglio Red Tab sul Fondo\n: Cucita sul lato inferiore sinistro, spicca la minuscola ed iconica etichetta rossa ricamata Levi's, sigillo di autenticità e qualità del brand.\nIdee di Stile: Crea la Tua Wave\nThe 90s Baggy Contrast\n: Crea un gioco di volumi pazzesco abbinando questa t-shirt super aderente a un\njeans\ndal taglio loose, cargo o baggy. Completa il look con una sneaker chunky per una perfetta divisa urban daily.\nSkate Inspired Match\n: Inserisci il capo all'interno di un bermuda in denim chiaro ampio o di un classico chino Dickies. Aggiungi calze bianche spesse a vista e una sneaker bassa da skate per interpretare la cultura di strada più autentica.\nContemporary Smart Layers\n: Utilizzala come base strategica sotto un blazer oversize o una giacca utility aperta; lo scollo geometrico quadrato rimarrà in primo piano, creando un mix impeccabile tra eleganza sartoriale e attitudine street.\nRivoluziona la tua collezione di basic. Scegli il design squadrato di Levi's e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a coste, vestibilita slim, uso quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

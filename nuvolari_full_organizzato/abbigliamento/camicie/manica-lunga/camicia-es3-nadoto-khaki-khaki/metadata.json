@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-es3-nadoto-khaki-khaki",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Nuvolari Nadoto Khaki\nsi inserisce nel guardaroba estivo come un perfetto esempio di eleganza rilassata e freschezza, ideale per chi cerca un'alternativa raffinata e leggera alla classica camicia formale. Caratterizzata da un pattern a micro-righe verticali nei toni caldi del khaki alternati al bianco, questa camicia evoca le atmosfere delle località balneari e del tempo libero sofisticato, offrendo al contempo un'ottima traspirabilità per le giornate più calde.\nDesign e Caratteristiche Principali\nPregiato Tessuto in Cotone e Lino Leggero\n: Confezionata in un filato estivo che unisce la morbidezza del cotone alla tipica freschezza e consistenza materica del lino, garantendo un comfort termico superiore e una piacevole sensazione sulla pelle.\nPattern a Micro-Righe Verticali Seersucker Style\n: Presenta una finissima trama gessata verticale khaki e bianca che allunga otticamente la figura. Il tessuto mostra una leggera e nobile increspatura naturale che riduce il contatto con la pelle, aumentando la ventilazione.\nColletto Francese Morbido e Scostato\n: Dotata di un colletto d'ispirazione \"camp collar\" o francese rivisitato, caratterizzato da punte tese e da una struttura morbida e priva di stecche rigide, progettato per cadere in modo naturale e impeccabile anche quando la camicia viene portata aperta senza cravatta.\nCostruzione Lineare e Chiusura Centrale\n: Il fronte è caratterizzato da una striscia di abbottonatura liscia e pulita, con bottoni chiari a quattro fori che si armonizzano con le righe bianche del tessuto. Il fondo del capo è leggermente stondato ai lati, permettendo di indossarla sia all'interno sia all'esterno dei pantaloni.\nPolsini Regolabili e Fit Regular Calibrato\n: Le maniche lunghe terminano con polsini lineari ad angolo smussato provvisti di bottone singolo. La vestibilità regular assicura comfort e libertà di movimento senza creare volumi in eccesso sui fianchi.\nProposta di Outfit\nSummer Resort Sophistication\n: Indossala aperta sopra una t-shirt bianca essenziale, abbinandola al\npantalaccio\n;\nMonochromatic Casual Smart\n: Abbinala al\npantalaccio Goni khaki\nper un outfit tono su tono di ispirazione coloniale; la continuità delle sfumature calde della terra tra la camicia rigata e il pantalone strutturato creerà un insieme armonioso e chic, ideale per i viaggi o i pranzi estivi all'aperto.\nUrban Denim Weekend\n: Portala con le maniche leggermente arrotolate insieme al\njeans Elias Lgt Denim\n; il lavaggio azzurro chiaro del jeans e il risvolto stirato al fondo esalteranno l'attitudine fresca della camicia, dando vita a un look casual metropolitano ordinato e perfetto per il weekend.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "pantalaccio Goni khaki",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans Elias Lgt Denim",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Camicia in misto lino e cotone a righe, colletto morbido, adatta a contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

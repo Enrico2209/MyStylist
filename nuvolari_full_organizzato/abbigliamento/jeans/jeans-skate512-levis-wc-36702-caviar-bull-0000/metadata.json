@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-skate512-levis-wc-36702-caviar-bull-0000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nJeans Uomo Levi's Skateboarding 512\nQuesta collezione combina lo stile classico di Levi's con una costruzione superiore, comfortevole e duratura\nChiusura a scomparsa con zip e bottone in vita logato\nRealizzato in denim con lavaggio blu chiaro stone wash\nCuciture a contrasto\nFodera tasche in contrasto\nJacron Label cucito sul retro vita\nComposizione : 81% Cotone 15% Poliammide 4% Elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans slim-fit della linea skate, casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-hoka-speedgoat-2-cgrey",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nSneakers Uomo Hoka Speedgoat 2\nnascono per dominare i sentieri di trail running più tecnici e impegnativi, offrendo il massimo dell'ammortizzazione e della trazione. Questa silhouette unisce un'ingegneria d'alto livello a un design energico, ideale per gli atleti e per gli amanti dello stile outdoor che cercano stabilità protettiva e reattività su qualsiasi tipo di terreno accidentato.\nDesign e Caratteristiche Principali\nIntersuola Oversize in EVA\n: Dotate della celebre e iconica ammortizzazione Hoka, assorbono gli impatti in modo eccezionale, riducendo lo stress articolare nelle lunghe distanze e nelle discese ripide.\nSuola Vibram® Megagrip\n: Il battistrada è progettato con tasselli multidirezionali profondi, garantendo un'aderenza suprema e una trazione insuperabile sia su rocce bagnate che su terreni fangosi o friabili.\nTomaia in Mesh Tecnico Stratificato\n: La struttura in rete flessibile e traspirante assicura una ventilazione costante del piede, mentre le gabbie di rinforzo termosaldate ne migliorano la stabilità e la protezione mediale.\nGeometria Meta-Rocker\n: Il profilo della suola è studiato per favorire una transizione fluida e una rullata naturale, ottimizzando la spinta e l'efficienza della corsa in salita e in pianura.\nAvampiede Rinforzato\n: La punta presenta una protezione integrata stampata in gomma per preservare le dita da urti accidentali contro rocce, radici e detriti lungo il percorso.\nPalette Cromatica Bold\n: Il design abbina una base grigia e bianca a una suola intermedia bicromatica nei toni accesi del fucsia e del viola, personalizzata dal maxi logo Hoka a contrasto.\nSuggerimenti di Stile\nEcco 3 modi per integrare queste calzature altamente performanti nei tuoi outfit:\nTrail Running Gear\n: Coordinatale con dei\npantaloncini\ntecnici da corsa e una t-shirt traspirante per un equipaggiamento focalizzato sulle massime prestazioni outdoor.\nFast Hiking Style\n: Abbinale a dei\npantaloni cargo\nleggeri e antistrappo e a uno zaino tecnico per affrontare escursioni e camminate veloci in montagna in totale sicurezza.\nUrban Utility Bold\n: Indossale con dei\njeans\ndal taglio dritto e una\nfelpa\nminimalista nera per creare un contrasto street-sporty d'impatto incentrato sui colori vivaci della suola.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloncini",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "scarpa da trail running tecnica, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

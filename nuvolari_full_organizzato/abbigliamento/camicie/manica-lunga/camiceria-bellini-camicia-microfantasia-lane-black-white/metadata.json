@@ -23,5 +23,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camiceria-bellini-camicia-microfantasia-lane-black-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia uomo a maniche lunghe dalla vestibilità slim fit con micromotivo a fantasia geometrica bianca e nera realizzata in esclusiva da\nCamiceria Bellini\nper Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia uomo microfantasia Camiceria Bellini modello Lane - Black/White\nCapo esclusico in collaborazione con Nuvolari\nCollo francese\nManiche lunghe\nTessuto microfantasia geometrica stretch\nPolsini con bottoni\nFettuccia interno collo\nCarrè realizzato in tessuto doppio\nMosca a contrasto\nVestibilità Slim Fit\nComposizione: 97% cotone, 3% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Camiceria Bellini",
+      "categoria_url": "https://www.nuvolari.biz/brands/camiceria-bellini"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "Camicia slim fit con microfantasia geometrica, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

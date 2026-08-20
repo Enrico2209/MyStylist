@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "scarpe/gel-quantum-360-asics-platinum-ewc-1021a028-dark-greyblack-020-ewc-1021a028-dark-grey-black-020",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSneakers Asics Platinum da uomo. Scopri la completa selezione Nuvolari\nqui.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "qui.",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running/tecniche, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

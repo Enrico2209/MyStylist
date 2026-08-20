@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-portofino-rvu054p4230569-green-c0009",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nImmergiti nell'eleganza senza tempo con il Pantalone Riviera di Roy Roger's Portofino Green, un capo che unisce raffinatezza e comfort in un'unica creazione\nRealizzato in pregiato lino dyed tinta unita, questo pantalone incarna lo stile distintivo della Riviera italiana. La vita alta regolabile con coulisse offre una vestibilità personalizzabile e un comfort ottimale, mentre la chiusura con bottone logato e zip assicura una tenuta sicura e affidabile. Le tasche all'americana sul fronte aggiungono un tocco di praticità e stile, fornendo spazio sufficiente per riporre piccoli oggetti essenziali. Le tasche a filetto sul retro, complete di bottone logato, conferiscono un tocco di eleganza e funzionalità. Il taglio regular fit assicura una vestibilità comoda e versatile, adatta a qualsiasi occasione e ambiente. Grazie alla composizione in\n100% lino\n, questo pantalone offre una traspirabilità naturale e una sensazione di freschezza anche nelle giornate più calde. Sia che tu stia passeggiando lungo la costa o che stia godendo di un aperitivo al tramonto, il Pantalone Portofino Riviera di Roy Roger's è la scelta ideale per un look sofisticato e senza tempo. Completa il tuo outfit con una camicia leggera e un paio di mocassini per un'eleganza senza sforzo.\nAbbinala ad una\nt-shirt\ne a delle\nsneakers\npensate da\nNuvolari\nappositamente per elevare il tuo stile!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% lino\nCodice articolo: RVU054P4230569 GREEN-C0009",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "pantalone in lino con coulisse in vita ed elastico, abbassato a casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

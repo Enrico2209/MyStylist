@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-colmar-se-1842z-5st-basketball-navy-460",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nGiubbotto reversibile da uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nGiubbotto Colmar Reversibile uomo modello 1842Z 5ST - Navy/Bianco\nGiacca reversibile in tessuto semi lucido da un lato e in tessuto opaco dall'altro\nNastro logato Originals su un lato\nChiusura con zip\nTasche laterali\nCappuccio fisso\nNastro elastico ai polsi e al fondo\nLogo Colmar Originals applicato sulla manica sinistra\nComposizione Esterno 100% Poliammide,\nFodera 100% Poliammide",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto antivento leggero e sportivo, tetto di marchio sport/outdoor",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

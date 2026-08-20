@@ -23,5 +23,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/accessori-donna/donna-borsa-fk-maxi-bag-sw0101-pink-pk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa dolcezza romantica delle atmosfere balneari e la massima funzionalità estiva si incontrano nella nuova\nBorsa F**K Maxi Bag Pink\n. Questa variante oversize fa della sua delicata colorazione pastello e dello spazio generoso i suoi punti di forza, confermandosi come l'accessorio da spiaggia ideale per chi desidera unire praticità estrema a un look fresco, chic e iper-femminile.\nDesign e Caratteristiche Principali\nSfumatura Pink Pastello Delicata\n: La borsa si distingue per una raffinata e morbida tonalità rosa confetto/pastello, luminosa e squisitamente estiva. Una scelta cromatica sobria ed elegante, pensata da F**K per esaltare l'abbronzatura con un tocco di spensierata freschezza.\nMaxi Volumi a Silhouette Espansa\n: Sviluppata con un design capiente a trapezio (Maxi Bag) progettato appositamente per le lunghe giornate al mare o in piscina. Lo spazio interno generoso consente di riporre comodamente teli mare, solari, riviste, occhiali da sole e un cambio d'abito.\nSuperficie con Texture Plissé Tridimensionale\n: Interamente impreziosita da una fitta plissettatura verticale elastica. Questa particolare lavorazione non solo dona movimento, elasticità e un elegante gioco di luci sul tessuto, ma permette alla borsa di espandersi in modo flessibile in base al contenuto.\nDoppio Manico in Corda Nautica\n: Provvista di due robusti manici corti realizzati in morbida corda marittima intrecciata color panna naturale. La fune è saldamente ancorata alla struttura attraverso occhielli metallici rinforzati in finitura argento, unendo stabilità ai carichi pesanti e un perfetto tocco beach-heritage.\nTessuto Tecnico Leggero e Quick-Dry\n: Confezionata in un materiale sintetico flessibile e piacevole al tatto, studiato appositamente per resistere alla salsedine, all'usura e per offrire un'asciugatura ultra-rapida.\nIdee di Stile: Crea la Tua Wave\nRomantic Vichy Match\n: Crea il perfetto coordinato estivo d'ispirazione scandinava abbinando la maxi bag pink agli short Ichi Ihaya Sho3 Beige/Pink. Il richiamo diretto tra il rosa della borsa e il motivo a quadretti Vichy del pantaloncino genera un outfit fresco, armonioso e di grande impatto visivo.\nJungle Contrast Beach Look\n: Rompi la delicatezza del rosa giocando di contrasti audaci. Accosta la borsa alle tonalità calde e terrose del costume F**K Culotte Brown: il mix tra la stampa wild animalier del bikini e la morbidezza pastello della maxi bag crea un look urban-beach ricercatissimo.\nUrban Cruise Layering\n: Sfrutta i volumi della borsa per le gite fuori porta abbinandola a un look casual e strutturato composto dai pantaloni Dickies 247 Loose Work Desert Sand e a un crop top minimalista bianco, chiudendo il cerchio con un sandalo platform comodo.\nPorta con te tutto il tuo mondo senza rinunciare a un tocco di assoluta eleganza. Scegli lo spazio infinito e la raffinatezza della Maxi Bag Pink firmata F**K.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "borsa mare oversize in neoprene con dettagli sfrangiati e logo vistoso",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

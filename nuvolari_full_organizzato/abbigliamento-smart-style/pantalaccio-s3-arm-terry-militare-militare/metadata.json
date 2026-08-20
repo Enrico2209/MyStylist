@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-arm-terry-militare-militare",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalaccio Nuvolari S3 Arm Terry: L'Evoluzione Tech del Guardaroba Urban\nPantalaccio Uomo Nuvolari Militare\nSperimenta il perfetto equilibrio tra estetica utility e ingegneria tessile. Il Pantalaccio Nuvolari S3 Arm Terry è progettato per chi vive la città come un terreno d'esplorazione, offrendo una silhouette sartoriale unita alle prestazioni di un capo tecnico d'avanguardia. La tonalità Militare aggiunge un carattere deciso a un modello nato per non fermarsi mai.\nTri-Blend Tecnico: Realizzato con una miscela strategica di cotone, poliammide ed elastane (53% cotone, 38% poliammide, 9% elastane), questo pantalone offre la morbidezza naturale delle fibre organiche unita alla resistenza strutturale del nylon. La componente elastica del 9% garantisce una flessibilità multidirezionale eccezionale.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n53% cotone 38% poliammide 9% elastane\nVestibilità regular\nCodice articolo: S3 ARM TERRY MILITARE-MILITARE",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con coulisse in vita ed elastico, abbassa la formalità del pantalone classico a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

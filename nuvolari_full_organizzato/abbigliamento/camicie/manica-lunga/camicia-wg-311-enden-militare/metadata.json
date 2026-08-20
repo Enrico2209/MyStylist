@@ -22,5 +22,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-wg-311-enden-militare",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa\nCamicia da uomo Nuvolari modello Enden\nè un capo di abbigliamento che coniuga\nstile\ne\ncomfort\nin modo eccellente. Realizzata in\nviscosa\ndi alta qualità, questa\ncamicia\noffre un look\ncasual\nideale per varie occasioni. Il suo design presenta un elegante\ncollo alla francese\ne una pratica chiusura con\nbottoni\n, garantendo\ncomodità\ne\nversatilità\n. Ciò che rende questa\ncamicia\ndavvero speciale è la sua\nstampa fantasia patchwork\noffrendo molteplici opzioni per esprimere il proprio\nstile\n. La\nvestibilità slim\nvalorizza la figura senza rinunciare al\ncomfort\n, mentre la composizione al 100% in\nviscosa\ngarantisce\nmorbidezza\ne\ndurata\nnel tempo. Se stai cercando una\ncamicia\nche unisca\nmoda\ne\npraticità\n, la\nCamicia da uomo Nuvolari modello Enden\nè la scelta perfetta. Aggiungi questo capo distintivo al tuo guardaroba per ottenere un look\nelegante\n,\nconfortevole\ne alla\nmoda\nche ti farà distinguere in ogni occasione. Non aspettare, scopri il connubio perfetto tra\nstile\ne\nqualità\ncon la\ncamicia Enden\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia da uomo Nuvolari modello Enden\nCamicia in viscosa stile casual\nCollo alla francese\nChiusura con bottoni\nStampa fantasia patchwork\nVestibilità slim\nComposizione : 100% viscosa",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia in viscosa con stampa patchwork molto vistosa, che ne abbassa la formalità a casual quotidiano nonostante il taglio slim",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

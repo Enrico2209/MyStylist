@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-sm-recreio-sabbia-sabbia",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa felpa Rayz 100% cotone è un capo essenziale del guardaroba urban, progettato per offrire il massimo comfort naturale grazie all'utilizzo esclusivo di fibre organiche. Si distingue per una mano morbida e una traspirabilità ottimale, rendendola ideale per le mezze stagioni o per il layering invernale.\nPerché sceglierla\nA differenza dei modelli misti, la composizione in puro cotone garantisce un contatto delicato sulla pelle e un'elevata capacità di assorbimento. Il design segue la filosofia del brand: linee pulite, tagli moderni e una resistenza strutturale pensata per l'uso quotidiano intensivo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: SM RECREIO SABBIA-SABBIA",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "felpa smanicata con cappuccio, assimilabile a canotta/abbigliamento da palestra",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

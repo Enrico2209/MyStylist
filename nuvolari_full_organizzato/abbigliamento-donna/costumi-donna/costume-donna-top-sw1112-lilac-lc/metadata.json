@@ -18,5 +18,20 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/costumi-donna/costume-donna-top-sw1112-lilac-lc",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nL'energia travolgente delle spiagge tropicali, l'audacia del design italiano e una costante ricerca di texture esclusive si fondono nelle collezioni di\ncostumi da bagno F**K\n. Diventato un vero e proprio punto di riferimento nel beachwear contemporaneo, il brand si distingue per la sua capacità di unire una vestibilità impeccabile e confortevole a un'estetica bold, sensuale e ricca di attitudine, pensata per chi desidera vivere l'estate da assoluta protagonista.\nDesign, Texture e Caratteristiche Distintive\nStampe Wild ed Esotiche d'Impatto\n: Il vero e proprio marchio di fabbrica di F**K è la sperimentazione grafica. Le collezioni spaziano da sofisticati pattern animalier (come maculati, zebrati e pitonati d'ispirazione jungle) a grafiche geometriche rétro, motivi tropicali e sfumature tie-dye, accostando toni caldi della terra a scosse di puro colore neon.\nLavorazioni Tridimensionali e Dettagli Couture\n: A elevare ogni bikini intervengono texture materiche ricercate. Superfici in micro-plissé elastico, tessuti lucidi effetto lamé, inserti in velluto stretch, finiture lurex e delicate micro-arricciature (ruffle edges) arricchiscono i profili dei costumi, creando affascinanti giochi di luce e movimento sotto il sole.\nMix & Match e Massima Versatilità di Fit\n: Consapevole delle diverse esigenze di ogni silhouette, il brand propone un'ampia gamma di combinazioni. I top variano dai classici triangoli scorrevoli e fasce imbottite fino a balconcini strutturati e top monospalla; le parti inferiori propongono slip con laccetti regolabili, brasiliane sgambate, modelli a vita alta rétro e comodissime culotte per un comfort senza compromessi.\nMicrofibra Premium Quick-Dry\n: Tutti i costumi sono realizzati con filati elastici di altissima qualità tecnologica. La microfibra utilizzata è straordinariamente morbida e vellutata a contatto con la pelle, garantendo un'eccellente resistenza al cloro, alla salsedine e ai raggi solari, oltre a un'asciugatura ultra-rapida.\nAccendi la tua estate con il perfetto equilibrio tra sensualità, comfort e innovazione estiva. Scegli il carattere unico e l'attitudine d'avanguardia del beachwear firmato F**K.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "slip bikini da mare",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

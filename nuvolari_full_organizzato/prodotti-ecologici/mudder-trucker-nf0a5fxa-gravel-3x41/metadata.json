@@ -19,5 +19,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "prodotti-ecologici/mudder-trucker-nf0a5fxa-gravel-3x41",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl cappello The North Face è un compagno affidabile per le tue avventure all'aria aperta\nCon una chiusura a scatto regolabile, questo cappello assicura una vestibilità ideale per adattarsi al meglio alla tua testa, offrendoti comfort e stabilità durante le tue attività. Realizzato al 100% in poliestere riciclato, il cappello presenta un'impronta ecologica, contribuendo a ridurre l'impatto ambientale. I pannelli posteriori in rete di poliestere riciclato favoriscono la traspirabilità, mantenendo la testa fresca e asciutta anche durante le giornate più intense. Il logo frontale aggiunge un tocco di stile e autenticità, mentre la composizione di alta qualità assicura durata e resistenza nel tempo. Indossa questo cappello durante le tue escursioni in montagna, le sessioni di arrampicata o semplicemente durante una passeggiata in città. Con The North Face, sarai pronto per affrontare qualsiasi avventura con stile e consapevolezza ambientale.\nAbbina il cappello ad una\nt-shirt\ne ad un paio di\nsneakers\nper uno stile moderno e perfetto per le uscite con i tuoi amici\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nUnisex\nComposizione: 100% poliestere riciclato\nCodice articolo:  NF0A5FXA GRAVEL-3X41",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera, tetto di marchio sportivo/outdoor",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

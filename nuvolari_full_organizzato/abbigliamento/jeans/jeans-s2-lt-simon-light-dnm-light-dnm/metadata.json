@@ -19,5 +19,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s2-lt-simon-light-dnm-light-dnm",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans Uomo Nuvolari Lt Simon Denim\nI\njeans\nuomo Nuvolari offrono una vestibilità moderna e confortevole, ideali per un look casual e versatile. Realizzati in\n100% cotone\n, presentano dettagli classici come le cinque tasche, chiusura con zip e bottone e passanti in vita. Perfetti per aggiungere stile a qualsiasi outfit quotidiano.\nAbbinali ad una\nfelpa\ne ad un paio di\nsneakers\nper un look impeccabile consigliato da Nuvolari!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: S2 LT SIMON LIGHT DNM-LIGHT DNM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans regular in denim chiaro con dettagli usurati e strappi, consigliato con felpa e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/timberland-classic-boat-boat-tb0a2q9x-light-beige-en71",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nI Timberland Classic Boat nella tonalità Light Beige sono l'icona indiscussa dello stile nautico, reinterpretata in una veste femminile raffinata e luminosa. Questo mocassino combina la leggendaria robustezza del brand con una palette cromatica neutra, perfetta per la stagione estiva e primaverile.\nTimberland Classic Boat Eleganza Nautica Senza Tempo\nCostruzione Artigianale\n: Realizzati con il tradizionale metodo di cucitura a mano, che garantisce una flessibilità e una resistenza superiori nel tempo.\nPelle di Alta Qualità\n: La tomaia è prodotta in pregiata pelle scamosciata o nubuck proveniente da concerie certificate per le loro pratiche sostenibili.\nSistema di Allacciatura a 360°\n: Caratterizzati dai classici lacci in cuoio grezzo che girano intorno a tutta la scarpa, permettendo una regolazione precisa e personalizzata della calzata.\nSuola in Gomma Siped\n: La suola è progettata con scanalature lamellari che assicurano un grip eccezionale su superfici bagnate e scivolose, come i ponti delle barche.\nComfort Interno\n: Dotati di un plantare imbottito in schiuma EVA che offre ammortizzazione e supporto per tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica, si colloca nello smart casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

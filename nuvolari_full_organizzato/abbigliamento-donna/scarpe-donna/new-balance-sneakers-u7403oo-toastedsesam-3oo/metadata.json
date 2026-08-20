@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/new-balance-sneakers-u7403oo-toastedsesam-3oo",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa New Balance U740 è un vero e proprio gioiello d'archivio che riemerge direttamente dagli anni 2000. Originariamente concepita come scarpa da running per \"macinare chilometri\", oggi viene riproposta come sneaker lifestyle d'avanguardia, cavalcando l'onda del trend Y2K e delle cosiddette \"dad shoes\".\nLa U740 è la scarpa ideale per chi cerca un'alternativa meno inflazionata alla serie 2002R o 1906R, mantenendo però lo stesso DNA tecnologico e visivo. Si distingue per una silhouette complessa, fatta di sovrapposizioni di materiali che gridano \"performance rétro\", garantendo al contempo una calzata ammortizzata che è diventata il marchio di fabbrica di New Balance.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers running retrò, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

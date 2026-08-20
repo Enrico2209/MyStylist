@@ -23,5 +23,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-lt-dylan-light-denim-lt-dnm",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nJeans Uomo Nuvolari: Stile e Versatilità per Ogni Occasione\nI jeans uomo Nuvolari sono un must-have del guardaroba maschile, perfetti per chi cerca un mix di comfort, qualità e tendenza. Grazie al loro fit moderno e ai materiali di alta qualità, offrono una vestibilità impeccabile e si adattano facilmente a diversi look.\nCrea il tuo outfit perfetto!\nAbbinali a una\nmaglia\nper un look casual e confortevole o scegli una\ncamicia\nper un tocco più raffinato. Completa il tuo stile con un paio di\nsneakers\nper un outfit dinamico e contemporaneo.\nScopri altre combinazioni e lasciati ispirare dai nostri\noutfit\n!\nPerché scegliere i jeans Nuvolari?\nVestibilità perfetta e design moderno\nMateriali di alta qualità per il massimo comfort\nIdeali per look casual o più ricercati\nUn capo essenziale per chi ama uno stile autentico e senza tempo!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 LT DYLAN LIGHT DENIM-LT DNM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a cinque tasche con lavaggio chiaro, base casual quotidiana",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-j8535-night-green-q20",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUn capospalla dal carattere deciso e dallo stile british: il\nGiubbotto Uomo Fred Perry J8535 in Verde Night Green\ncombina un design pulito e sportivo a una profonda tonalità verde notte, firmato dall'inconfondibile alloro ricamato sul petto.\nDesign e Caratteristiche Principali\nTessuto Tecnico Idrorepellente:\nconfezionato in materiale leggero e resistente, protegge dalle intemperie senza rinunciare al comfort.\nNuance Verde Night Green:\nuna raffinata tonalità verde scuro profonda ed elegante, versatile e facile da abbinare a ogni look.\nAlloro Ricamato Signature:\nil celebre logo dell'alloro Fred Perry spicca ricamato sul petto, firma inconfondibile del brand britannico.\nChiusura Zip Full:\nzip frontale integrale e tasche laterali, per un capo pratico e funzionale.\nTaglio Regular Fit:\nvestibilità comoda e moderna, perfetta da indossare in layering nelle mezze stagioni.\nIdee di Stile: Linka il Tuo Outfit\nMod Casual:\nabbina il giubbotto a un paio di\njeans uomo\ne sneakers per un look urbano dal sapore british.\nSporty Layering:\nindossalo sopra una\npolo uomo\nper un outfit rilassato ma curato.\nWeekend Active:\ncompletalo con dei\npantaloni uomo\nchino per uno stile pratico e versatile.\nAffronta le mezze stagioni con stile grazie al Giubbotto Fred Perry J8535 in Verde Night Green. Acquistalo ora su nuvolari.biz con spedizione e reso gratuiti.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Giubbotto stile Harrington classico, pulito ed elegante, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

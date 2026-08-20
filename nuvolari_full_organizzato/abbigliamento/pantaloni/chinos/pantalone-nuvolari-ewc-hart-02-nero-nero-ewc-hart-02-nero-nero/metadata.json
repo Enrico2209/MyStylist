@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-nuvolari-ewc-hart-02-nero-nero-ewc-hart-02-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nEsplora il comfort senza rinunciare allo stile con i Pantaloni Nuvolari. Realizzati con materiali di alta qualità, offrono un fit impeccabile e una sensazione di leggerezza che ti accompagnerà ovunque. Con un design versatile e dettagli curati, questi pantaloni sono perfetti per un look casual o formale. Scopri il mix perfetto di moda e funzionalità con i Pantaloni Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone Uomo Nuvolari HART 02\nPantalone\nlungo firmato Nuvolari modello\nHart 02\n, slim fit quattro tasche in tessuto di velluto a coste. Chiusura con zip e bottone in vita, due tasche a filo, due tasche posteriori a filetto a due profili chiuse da bottoni logati. Doppia etichetta\nNuvolari\ncucita su vita e tasca lato posteriore destro. 98% cotone 02% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone in velluto a coste slim fit, a meta tra casual e smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

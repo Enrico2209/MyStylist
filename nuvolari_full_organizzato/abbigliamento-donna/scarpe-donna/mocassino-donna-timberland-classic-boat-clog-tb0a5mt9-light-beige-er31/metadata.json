@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/mocassino-donna-timberland-classic-boat-clog-tb0a5mt9-light-beige-er31",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Timberland Classic Boat Clog nella colorazione Light Beige è una rivisitazione moderna e audace dell'iconico mocassino da barca, trasformato in una silhouette sabot (clog) per coniugare l'estetica nautica con la massima praticità d'uso.\nTimberland Classic Boat Clog Comfort e Stile Slide-In\nDesign Sabot (Clog)\n: Caratterizzato dal tallone aperto che permette di calzare la scarpa in un istante, offrendo un look casual e contemporaneo senza rinunciare all'eleganza del mocassino classico.\nPelle Premium Sostenibile\n: Realizzato in pregiata pelle scamosciata o nubuck\nLight Beige\n, proveniente da concerie classificate Silver o Gold per le loro pratiche di gestione ambientale.\nDettagli Iconici\n: Conserva gli elementi distintivi della linea\nClassic Boat\n, come la cucitura a mano sulla vaschetta e i lacci in cuoio rigenerato decorativi.\nPlantare Ammortizzato\n: Internamente è dotato di una soletta morbida che garantisce comfort immediato e supporto per tutta la giornata.\nSuola in Gomma Scanalata\n: La suola offre una trazione eccellente su diverse superfici, mantenendo la flessibilità necessaria per una camminata naturale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "da_mare": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "sabot scamosciato stile barca a tallone aperto, calzatura estiva informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

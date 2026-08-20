@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-amorim-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Rayz Amorim: Il Denim Cargo dall'Anima Street-Utility\nJeans Uomo Rayz Amorim Nero/Dark Wash\nEleva il tuo concetto di denim con i Jeans Rayz Amorim. Questo modello rappresenta l'unione perfetta tra la robustezza del jeans e la funzionalità tattica dei pantaloni cargo. Con la sua tonalità scura e profonda e il design orientato al comfort, l'Amorim è progettato per chi vive la città con dinamismo, cercando un capo capace di adattarsi a ogni sfida quotidiana senza rinunciare a un'estetica bold.\nDesign Funzionale e Comfort su Misura\nCargo Aesthetic\n: Caratterizzato dalle iconiche tasche laterali a soffietto, il modello Amorim offre volume e praticità, permettendoti di portare con te l'essenziale con uno stile deciso e contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in denim con coulisse in vita e vestibilità rilassata",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

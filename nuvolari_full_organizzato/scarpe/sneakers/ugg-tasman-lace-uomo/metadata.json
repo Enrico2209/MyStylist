@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/ugg-tasman-lace-uomo",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nUGG Tasman Lace: Il Comfort Iconico si rinnova\nVivi la tua giornata senza limiti con la nuova\nTasman Lace\n, la slip-on progettata per adattarsi dinamicamente al tuo stile di vita. Evoluzione del celebre design Tasman, questa versione introduce una versatilità senza precedenti: grazie all'innovativo\nsistema a doppia allacciatura\n, puoi decidere tu come personalizzare la calzata e il look, rendendo ogni paio unico.\nPerché sceglierla\nEsperienza Sensoriale:\nAll'interno ritrovi la morbidezza leggendaria del modello originale, grazie a una ricca fodera in\nmontone da 17 mm\nche avvolge il piede in un abbraccio di puro comfort.\nPasso Green:\nLa suola è realizzata in\nEVA da canna da zucchero\n, un materiale innovativo che riduce l'impatto ambientale garantendo un'ammortizzazione superiore e una leggerezza che ti farà dimenticare di averle ai piedi.\nDettagli Artigianali:\nLa tomaia in pregiato camoscio è rifinita con l'esclusivo\nUGGbraid\n, realizzato interamente con fibre di poliestere riciclato.\nProduzione Etica e Consapevole\nOgni paio di Tasman Lace racconta una storia di responsabilità sociale. Questo modello è prodotto in strutture che aderiscono al programma\nRISE (Reimagining Industry to Support Equality)\n, un'iniziativa globale che si impegna a fornire istruzione, strumenti e autonomia alle donne all'interno della filiera produttiva, promuovendo l'uguaglianza sul luogo di lavoro.\nSpecifiche del Prodotto\nMateriali:\nTomaia in suede di alta qualità e bordo in poliestere riciclato.\nInterni:\nSoletta e fodera in vera pelliccia di pecora/agnello (origine certificata: Australia, Irlanda, Regno Unito o USA).\nSuola:\nSchiuma interna per il supporto plantare e battistrada esterno in EVA bio-based.\nFiniture:\nLogo UGG® impresso a caldo con un elegante effetto rilievo\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "slip-on in camoscio e montone con allacciatura decorativa, uso casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

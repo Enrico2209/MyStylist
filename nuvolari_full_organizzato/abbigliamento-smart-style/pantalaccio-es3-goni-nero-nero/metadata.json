@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-es3-goni-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nPantalaccio Uomo Nuvolari Goni\nincarna l'essenza dell'eleganza contemporanea e rilassata, progettato per l'uomo che desidera un capo raffinato senza rinunciare al comfort assoluto. Grazie alla sua pulizia estetica e al taglio minimale, questo pantalone con coulisse si adatta perfettamente sia ai look formali da ufficio sia alle occasioni più informali del tempo libero.\nDesign e Caratteristiche Principali\nCintura Elastica con Coulisse\n: La riga della vita unisce la praticità di una solida ed estensibile fascia elastica arricciata alla presenza di un cordoncino piatto esterno, permettendo di regolare millimetricamente la vestibilità sui fianchi in totale comfort.\nChiusura Strutturata Funzionale\n: Nonostante lo spirito rilassato, il modello mantiene un'impostazione sartoriale integrando una patta frontale con cerniera e un bottone classico posizionato sulla fustella della vita.\nTasche Laterali Americane\n: Presenta due tasche anteriori dal taglio obliquo (all'italiana/americana) perfettamente integrate lungo i fianchi, che mantengono il fronte del pantalone piatto, pulito e ordinato.\nTessuto Leggero e Fluido\n: Realizzato in un filato fresco e cascante, ideale per la stagione estiva, che asseconda le linee del corpo garantendo traspirabilità e una libertà di movimento senza pari.\nTaglio Slim Affusolato (Tapered)\n: La vestibilità è studiata per offrire il giusto spazio sul bacino per poi scendere gradualmente più asciutta lungo la gamba, delineando una silhouette slanciata e decisamente moderna.\nSuggerimenti di Stile\nEcco 3 idee di outfit per valorizzare il pantalaccio Nuvolari Goni nelle tue giornate:\nSmart Business Urbano\n: Abbinalo alla\ncamicia in maglia Nuvolari\nsbottonata sul collo e a un blazer sfoderato, completando il look con mocassini in pelle per un'eleganza da ufficio impeccabile.\nContemporary Casual Premium\n: Indossalo insieme alla\nmaglia Nuvolari Special Blu\na pelle e a un paio di sneakers minimali bianche per un outfit da weekend pulito, sofisticato ed estremamente confortevole.\nSummer Night Vibe\n: Provalo in combinazione con una camicia in lino coreana chiara e un accessorio urban come un\ncappello a secchiello\nper dar vita a un intrigante contrasto street-chic perfetto per gli aperitivi al tramonto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia in maglia Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "maglia Nuvolari Special Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "cappello a secchiello",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino ibrido con coulisse ed elastico in vita, stile smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

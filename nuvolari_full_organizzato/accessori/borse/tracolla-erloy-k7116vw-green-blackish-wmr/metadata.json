@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/tracolla-erloy-k7116vw-green-blackish-wmr",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nTracolla K-Way: Funzionalità, Stile e Leggerezza a Portata di Mano\nLa tracolla K-Way è l'accessorio perfetto per chi cerca praticità e stile in un unico, compatto design. Ideale per la vita di tutti i giorni o per le serate fuori, unisce l'estetica iconica del brand alla funzionalità di cui hai bisogno per portare con te solo l'essenziale.\nDesign Distintivo:\nRealizzata con i tessuti tecnici che hanno reso celebri le giacche K-Way, come il\nnylon ripstop\n, la tracolla è resistente all'acqua, leggera e facile da pulire. I dettagli come le\nzip colorate\ne il logo in silicone K-Way ne sottolineano l'identità, rendendola un accessorio immediatamente riconoscibile.\nPraticità e Comfort:\nLa tracolla è dotata di una\ncinghia regolabile\n, che ti permette di indossarla in modo versatile: a spalla, a tracolla o anche come marsupio. È la soluzione ideale per tenere le mani libere e avere i tuoi oggetti più importanti sempre a portata di mano.\nOrganizzazione Intelligente:\nNonostante le dimensioni compatte, la tracolla K-Way è ben organizzata. Un\nscomparto principale con zip\ne, in molti modelli, una\ntasca interna o esterna\nti permettono di tenere al sicuro e in ordine smartphone, portafoglio, chiavi e altri piccoli oggetti.\nVersatilità:\nDisponibile in una vasta gamma di colori, dai classici come il nero e il blu, a tonalità più audaci e contemporanee, la tracolla si abbina a ogni stile. È l'accessorio perfetto per completare un look casual e sportivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "tracolla sportiva in nylon, tetto di marchio e tipologia di accessorio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

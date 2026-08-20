@@ -23,5 +23,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-u-xl-gtx-02-1200644-nero-grigio-nro-grg",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUrban Frontier: La Sneaker Athleisure che Definisce lo Streetwear Evoluto\nPreparati a ridefinire i tuoi confini urbani. Questa sneaker athleisure a taglio basso non è solo una scarpa, ma un manifesto di stile per chi vive la città con attitudine outdoor. Progettata per chi non scende a compromessi, fonde una silhouette futuristica con prestazioni tecniche estreme, spingendoti oltre ogni limite, passo dopo passo.\nInvisible Protection, Absolute Performance\nIl segreto della sua versatilità risiede nella tecnologia\nGORE-TEX® Invisible Fit\n. Questa membrana d'avanguardia è integrata direttamente nella tomaia, offrendo una barriera totale contro acqua e vento senza alterare la leggerezza o il fit della scarpa. Il risultato è una traspirabilità eccezionale e una protezione costante contro lo stress dinamico della metropoli.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.2,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "sneakers athleisure con tecnologia tecnica gore-tex, registro d'uso sportivo e quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

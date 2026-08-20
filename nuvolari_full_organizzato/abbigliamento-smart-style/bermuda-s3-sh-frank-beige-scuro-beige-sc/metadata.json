@@ -26,5 +26,38 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-s3-sh-frank-beige-scuro-beige-sc",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'essenzialità del design casual si unisce alla precisione del taglio chino tradizionale nel nuovo\nBermuda Uomo Nuvolari SH Frank\n.\nQuesto modello rappresenta il perfetto passe-partout estivo per chi cerca un'estetica pulita, sobria ed estremamente versatile, ideale da indossare nei contesti quotidiani metropolitani così come nel tempo libero della bella stagione.\nDesign e Caratteristiche Principali\nNuance Ghiaccio / Off-White Neutra\n: Il bermuda è caratterizzato da una colorazione corda/ghiaccio molto chiara, pulita e luminosa. Un tono neutro estivo per eccellenza, facilissimo da abbinare a qualsiasi palette cromatica, dalle tonalità pastello fino ai contrasti bold con stampe scure.\nTessuto in Cotone ed Elastane (Stretch Twill)\n: Confezionato in una tela composta al 98% da cotone e al 2% da elastane. Questa percentuale elastica integrata nel tessuto assicura che lo short assecondi perfettamente i movimenti del corpo e mantenga un comfort elevato durante tutta la giornata, pur conservando l'aspetto strutturato del pantalone classico.\nCostruzione Chino Tradizionale\n: La parte frontale presenta una linea pulita con girovita rigido munito di passanti robusti per la cintura, una classica chiusura con bottone centrale scuro in contrasto e patta con zip. Un piccolo passante accessorio in cordino scuro è inserito sul davanti come ricercato dettaglio di finitura.\nTaglio Slim / Regular Calibrato\n: Sviluppato con una silhouette asciutta e lineare che segue i fianchi e scende dritta lungo la coscia senza stringere, fermandosi esattamente sopra il ginocchio con un orlo lineare e pulito.\nDettagli e Tasche Funzionali\n: Rifinito lateralmente da tasche ad accesso diagonale inserite lungo i fianchi, impreziosite da piccoli rivetti metallici decorativi posizionati sui punti di apertura, e completato sul retro da tasche a filetto che mantengono l'architettura del capo geometrica e minimale.\nIdee di Stile: Linka il Tuo Outfit\nSmart Casual Summer Uniform\n: Crea un perfetto look da giorno ordinato e fresco per l'ufficio o per un pranzo estivo. Abbina il bermuda SH Frank alla precisione lineare di una\ncamicia uomo\na maniche lunghe (perfetta la variante azzurra o a righe verticali sottili), completando il cerchio con un mocassino leggero.\nUrban Skate Core Mix\n: Smorza la natura rigorosa del taglio chino inserendolo in un contesto streetwear contemporaneo. Accosta lo short chiaro a una\nt-shirt uomo\nObey o New Balance dal taglio boxy con grafica di propaganda frontale, chiudendo il look con una sneaker bassa e un calzino in spugna a vista.\nPsych Festival Vibe\n: Gioca di contrasti cromatici e texture per i tuoi weekend all'aperto. Indossa il bermuda ghiaccio insieme a una delle estrose ed eclettiche\nt-shirt uomo\na tema Mushroom, e rifinisci l'outfit sovrapponendo una overshirt leggera utility o un\ncappello uomo\nda pescatore per una decisa nota underground.\nAffronta la stagione estiva con la certezza di un fitting impeccabile e la versatilità assoluta di un classico intramontabile. Scegli il perfetto equilibrio tra elasticità e stile sartoriale firmato Nuvolari.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S3 SH FRANK BEIGE SCURO-BEIGE SC",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda taglio chino, capo estivo informale di livello 2",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

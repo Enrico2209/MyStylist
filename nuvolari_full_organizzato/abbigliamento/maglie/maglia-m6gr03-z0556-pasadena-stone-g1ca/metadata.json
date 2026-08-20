@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-m6gr03-z0556-pasadena-stone-g1ca",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ESSENZA DELLA MAGLIERIA ESTIVA: GUESS JEANS PASADENA STONE\nRiscopri il piacere di un capo essenziale ma ricercato. Questa maglia a maniche corte in pregiata maglia di cotone incarna un lusso discreto, perfetto per chi cerca un'alternativa raffinata alla classica t-shirt senza rinunciare alla freschezza.\nTonalità Naturale:\nIl color \"Pasadena Stone\" offre una sfumatura neutra ed elegante, ispirata alle pietre naturali, ideale per coordinati versatili.\nDettagli di Classe:\nIl logo Guess ricamato in contrasto sul petto aggiunge un tocco iconico con estrema sobrietà.\nFiniture Elasticizzate\n: Il girocollo, i polsini e il fondo a costine garantiscono una tenuta perfetta della forma e un fit sempre ordinato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia a maniche corte in cotone con finiture a costine, alternativa raffinata alla t-shirt",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

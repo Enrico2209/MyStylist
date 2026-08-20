@@ -24,5 +24,46 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-wagga-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo J.B.Mittwoch Wagga Blu\nreinterpreta le linee decise del capospalla utility attraverso una colorazione scura, magnetica e profonda, ideale per chi cerca un'alternativa metropolitana e rigorosa al classico verde oliva. Caratterizzato da una intensa tonalità blu notte (\"Blu\"), questo modello in stile field unisce una grande funzionalità strutturale a un trattamento del tessuto che ne esalta la tridimensionalità e le sfumature vintage, perfetto per completare i look delle serate estive più fresche.\nDesign e Caratteristiche Principali\nTessuto Fiammato di Cotone\n: Realizzato in un filato di cotone resistente e strutturato, contraddistinto da una caratteristica trama fiammata che acquista carattere grazie a un lavaggio tinto in capo, capace di creare leggere schiariture rétro in corrispondenza delle cuciture.\nArchitettura Frontale a Quattro Tasche\n: Il design è definito da quattro ampie tasche a toppa con patta geometrica e bottone a pressione scuro a contrasto: due tasche basse molto capienti sui fianchi e due tasche sul petto, con un comparto tecnico diviso sulla sezione sinistra.\nChiusura Protetta con Bottoni Logati\n: La fustella centrale copre parzialmente un'abbottonatura robusta, scandita da grandi bottoni scuri con logo in rilievo, mantenendo un'estetica pulita e bilanciata lungo tutto il pannello frontale.\nColletto Tradizionale a Camicia\n: Presenta un colletto dritto dalle punte nitide e ben delineate, studiato per dare struttura alla silhouette o per essere sollevato con disinvoltura come protezione dal vento.\nCoulisse Regolabile Interna\n: Un cordoncino invisibile inserito all'altezza del punto vita permette di sciancrare il giubbotto dall'interno, consentendo di modularne i volumi e di passare facilmente da un taglio dritto over a una linea più definita.\nManiche Lineari con Finitura Piatta\n: I polsini semplici presentano un orlo dritto e privo di elastici, assecondando la caduta naturale e scivolata del tessuto lungo le braccia.\nProposta di Outfit\nResort Co-ord Layering\n: Indossalo aperto sopra una\ncamicia\na maniche corte in lino azzurro a righe e un\nbermuda\nfluido blu scuro coordinato, spezzando la combinazione con una canotta chiara per un outfit a strati monocromatico fresco e di grande tendenza.\nNautical Riviera Contrast\n: Abbinalo a una\ncamicia\na maniche corte a righe verticali bold bianche e rosa e a un\npantalone\nin cotone crepe bianco ottico; il blu intenso del giubbotto smorzerà la vivacità della combinazione superiore con estrema sofisticatezza.\nUrban Minimal Darkness\n: Portalo sopra una\nt-shirt\nbasic chiara in combinazione con un\nbermuda\nmarrone scuro dotato di coulisse panna, creando un ricercato contrasto metropolitano basato su toni scuri e superfici lisce.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto stile field/utility in cotone fiammato con tasche a toppa",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

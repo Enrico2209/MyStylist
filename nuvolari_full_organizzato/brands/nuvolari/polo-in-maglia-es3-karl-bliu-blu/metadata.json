@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/polo-in-maglia-es3-karl-bliu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo In Maglia Uomo Nuvolari Karl\nè un capo raffinato che interpreta lo stile \"polo open\" con un'estetica pulita e minimalista, ideale per un guardaroba estivo sofisticato.\nDesign e Caratteristiche\nScollo a V Aperto\n: Questo modello è caratterizzato da un colletto a polo senza bottoni con una profonda apertura a V. Questo dettaglio, noto anche come \"Johnny collar\", conferisce un aspetto rilassato e moderno, eliminando gli elementi formali della polo tradizionale.\nTexture della Maglia\n: Il corpo della polo presenta una lavorazione a maglia rasata uniforme e compatta, che offre una mano liscia e una caduta fluida sul corpo.\nFiniture a Costine\n: I bordi delle maniche corte e il fondo del capo sono rifiniti con un alto bordo a costine elasticizzato, che assicura una tenuta ottimale della forma e definisce la silhouette.\nVariante Colore\n: La tonalità mostrata è un nero intenso e profondo, che enfatizza l'eleganza essenziale del design.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia fine con scollo a V aperto, stile smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

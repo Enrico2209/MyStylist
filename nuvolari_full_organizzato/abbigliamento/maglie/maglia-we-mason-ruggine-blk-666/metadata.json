@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-we-mason-ruggine-blk-666",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nMaglione girocollo da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nMaglione Uomo Nuvolari modello Mason - Ruggine\nGirocollo\nManiche lunghe\nLavorazione rasata\nRegular fit\nComposizione: 70% viscosa, 30% nylon\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo fine, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

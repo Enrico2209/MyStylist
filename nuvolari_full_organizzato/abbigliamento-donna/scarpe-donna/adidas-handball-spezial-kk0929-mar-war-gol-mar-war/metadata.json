@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/adidas-handball-spezial-kk0929-mar-war-gol-mar-war",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'iconica silhouette handball si tinge di una nuance calda e ricercata: le\nsneakers da donna Adidas Originals modello Handball Spezial nella colorazione Bordeaux\n. Realizzate in pregiato camoscio prugna, con le tre strisce color crema, il logo dorato e la classica suola gum, uniscono heritage sportivo e femminilita elegante.\nDesign, Materiali e Caratteristiche Costruttive\nTomaia in Camoscio:\npelle scamosciata bordeaux dalla mano pregiata per un look raffinato e vissuto.\nTre Strisce Crema e Logo Oro:\ni dettagli a contrasto in panna e i loghi dorati donano eleganza e carattere.\nSuola Gum Retro:\nsuola in gomma color caramello, flessibile e dallo stile vintage.\nSilhouette Handball Spezial:\nlinea bassa e affusolata, comoda e senza tempo, ispirata alle scarpe da handball anni 70.\nIdee di Stile: Costruisci il Tuo Look Casual & Retro\nCasual Everyday:\nabbinale a un paio di\njeans donna\ne a una\nfelpa donna\nper un look comodo e di tendenza.\nSporty Chic:\nperfette con una gonna o pantaloni sartoriali e una\nt-shirt donna\nessenziale.\nTocco di Colore:\nla nuance bordeaux aggiunge calore e personalita anche agli outfit neutri.\nAggiungi un'icona dal fascino retro al tuo guardaroba. Scegli la morbidezza del camoscio, l'eleganza del bordeaux e lo stile inconfondibile firmato Adidas Originals Handball Spezial.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html?settore=Donna"
+    },
+    {
+      "testo": "felpa donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html?settore=Donna"
+    },
+    {
+      "testo": "t-shirt donna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html?settore=Donna"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers retro, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

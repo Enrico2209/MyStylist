@@ -22,5 +22,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-new-elias-rru006d408a095-wonderman-denim",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità slim\nComposizione:  95% cotone 4% poliestere 1% gomma\nCodice articolo: RRU006D408A095",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche, lavaggio chiaro quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

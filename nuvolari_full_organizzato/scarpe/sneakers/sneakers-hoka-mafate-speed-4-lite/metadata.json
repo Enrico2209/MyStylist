@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-hoka-mafate-speed-4-lite",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Sneakers Hoka Mafate Speed 4 Lite sono l'emblema dell'innovazione tecnica applicata al trail running e all'escursionismo veloce. Evoluzione di uno dei modelli più amati dagli atleti off-road, la versione \"Lite\" punta tutto sulla riduzione del peso senza sacrificare la reattività e la trazione estrema, rendendola una calzatura \"aggressiva\" pronta a dominare i terreni più tecnici e impegnativi.\nIl punto di forza delle Mafate Speed 4 Lite risiede nella loro capacità di offrire un supporto tecnico superiore su superfici irregolari. Grazie alla suola Vibram® Megagrip con tecnologia Litebase, la scarpa garantisce un'aderenza eccezionale su rocce bagnate e fango, riducendo drasticamente il peso complessivo della suola. È la scarpa definitiva per chi cerca velocità e sicurezza nei passaggi tecnici, mantenendo un'ammortizzazione reattiva che restituisce energia a ogni falcata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da trail running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

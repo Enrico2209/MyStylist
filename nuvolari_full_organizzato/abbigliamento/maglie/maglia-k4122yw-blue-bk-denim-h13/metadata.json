@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-k4122yw-blue-bk-denim-h13",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nSebastien: Il Maglione Girocollo Essenziale in Cotone Zero Pilling\nIl modello\nSebastien\nè il pilastro del guardaroba maschile contemporaneo, un girocollo progettato per offrire un'eleganza discreta e una funzionalità superiore. Realizzato in\npuro cotone di alta qualità\n, questo maglione è la soluzione ideale per chi cerca un capo capace di adattarsi con naturalezza sia a un look casual con il denim, sia a un contesto più formale sotto una giacca strutturata.\nQualità Superiore e Vestibilità Impeccabile\nIl segreto di Sebastien risiede nello speciale filato\nZero Pilling\n: una tecnologia che impedisce la formazione dei fastidiosi pallini di fibra, mantenendo la superficie della maglia liscia e come nuova anche dopo numerosi lavaggi. La lavorazione a\nmaglia rasata\nconferisce un aspetto pulito e minimale, mentre i bordi a costine su polsi, collo e fondo assicurano un’aderenza perfetta e una tenuta della forma costante nel tempo.\nDettagli Tecnici e Stile\nCotone Zero Pilling\n: Massima resistenza all'usura e mano morbida per un comfort termico ideale in ogni stagione.\nMinimalismo Stealth\n: Il logo tono su tono firma il capo con un tocco di classe sottile, perfetto per chi predilige uno stile \"quiet luxury\".\nFitting Regolare\n: Un taglio equilibrato che garantisce libertà di movimento senza rinunciare a una silhouette ordinata.\nVersatilità Layering\n: Lo spessore della maglia rasata lo rende lo strato intermedio perfetto sotto i capispalla di stagione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: K4122YW BLUE BK DENIM-H13",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "maglia girocollo in cotone di marchio sport/outdoor, tetto massimo di formalita' a 2",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

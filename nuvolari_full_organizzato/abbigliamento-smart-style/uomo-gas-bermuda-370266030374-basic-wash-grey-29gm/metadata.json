@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/uomo-gas-bermuda-370266030374-basic-wash-grey-29gm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Gas Basic Wash Grey\nreinterpretano il fascino intramontabile del denim estivo attraverso una palette cromatica neutra ed estremamente sofisticata. Caratterizzati da un lavaggio grigio medio-chiaro finemente sfumato (\"Basic Wash Grey\"), questi pantaloncini in jeans presentano sabbiature delicate e bilanciate sul bacino e sulle cosce che riproducono un autentico effetto vintage d'ispirazione urban, pur conservando una linea d'insieme pulita, fresca e facilissima da abbinare.\nDesign e Caratteristiche Principali\nTela Denim Grigia Elasticizzata\n: Confezionati in un denim di cotone leggero e resistente, arricchito da una calibrata percentuale di elastan. La combinazione assicura un tessuto morbido al tatto e flessibile, capace di adattarsi perfettamente ai movimenti del corpo senza cedere o perdere la forma originaria.\nTrattamento Vintage e Sfumature Naturali\n: Il processo di lavaggio e schiaritura crea caldi chiaroscuri e morbide dissolvenze localizzate lungo i profili delle tasche e sul davanti, donando al capo un aspetto piacevolmente vissuto e di grande tendenza metropolitana.\nCostruzione Classica a Cinque Tasche\n: Rispetta la disposizione tradizionale dei jeans storici, con due tasche posteriori sagomate a scudo, due anteriori ad arco e il taschino orologio posizionato a destra, sul quale risalta la micro-etichetta logata GAS cucita a contrasto.\nChiusura e Fondo Gamba con Risvolto\n: La chiusura in vita è strutturata con una pratica patta con zip e un bottone a chiodo metallico finitura argento anticato. L'orlo inferiore è completato da un risvolto fisso con impunture laterali che mette in risalto la trama interna della tela, accentuando l'impronta casual del modello.\nSilhouette Slim Fit Asciutta\n: Propone una vestibilità asciutta e aderente sulla coscia che valorizza la figura, fermandosi con precisione poco sopra la linea del ginocchio per garantire una silhouette slanciata, ordinata e decisamente attuale.\nProposta di Outfit\nMonochromatic Street Edge\n: Abbinalo alla\nt-shirt\nbianca essenziale con la micro-grafica a sole sul petto; la pulizia minimale della t-shirt bianca farà risaltare le sfumature grigie del denim, creando un look streetwear pulito, luminoso e perfetto per la quotidianità cittadina.\nNordic Summer Pastels\n: Indossalo insieme alla\npolo\npiqué azzurro polvere con profili bianchi a contrasto; l'incontro tra le tonalità fredde del grigio slavato e la delicatezza dell'azzurro pastello darà vita a un outfit fresco, preppy ed equilibrato, ideale per una passeggiata pomeridiana o un pranzo informale.\nSmart Urban Contrast\n: Portalo in abbinamento alla\npolo\npiqué nera con profili bianchi; il contrasto netto tra la solidità scura della polo superiore e il tono medio-chiaro del bermuda grigio strutturerà un insieme grafico deciso, ordinato e di grande carattere per un aperitivo estivo serale.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim grigio, capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -25,5 +25,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/pantalone-donna-ichi-ihpalolla-pa-20122786-black-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI\nPantaloni Ichi Donna Ihpalolla Pa Black\nreinterpretano il concetto di pantalone sartoriale attraverso un'estetica romantica, audace e ricca di texture. Questo modello unisce il fascino intramontabile del pizzo a una silhouette dal taglio leggermente a zampa (flared), creando un perfetto connubio tra sensualità e ricercatezza contemporanea.\nDesign e Caratteristiche Principali\nTessuto in Pizzo Floreale All-Over\n: Il tratto distintivo assoluto, è la complessa lavorazione in pizzo lavorato a motivi floreali. La trama traforata crea un sofisticato gioco di trasparenze e contrasti tridimensionali su una base interamente nera.\nTaglio Flared (A Zampa)\n: La silhouette si sviluppa con una linea asciutta ed elegante lungo i fianchi e le cosce, per poi aprirsi gradualmente a partire dal ginocchio fino al fondo, slanciando visibilmente la figura.\nVita Alta Elastica Integrata\n: La parte superiore è rifinita con un fascione elastico piatto e liscio nel girovita, che assicura una vestibilità pull-on confortevole senza costringere, mantenendo il fronte pulito e privo di zip o bottoni.\nFodera Interna Shorts Corta\n: Per garantire la massima indossabilità ed evitare trasparenze eccessive, la struttura integra internamente un pannello coprente a taglio pantaloncino, lasciando invece le gambe semitrasparenti dal ginocchio in giù per esaltare il disegno del pizzo.\nMano Morbida ed Elastica\n: Confezionati in una tela di pizzo elasticizzato di alta qualità, studiata per adattarsi in modo flessibile alle linee anatomiche del corpo garantendo fluidità nei movimenti e massimo comfort.\nFondo Lineare e Leggero\n: L'orlo inferiore della zampa è rifinito con cuciture piatte invisibili che lasciano intatta la leggerezza originaria del pizzo, consentendo al tessuto di adagiarsi in modo fluido sopra le calzature.\nProposta di Outfit\nSophisticated Monochrome Match\n: Abbinalo a un top basic o a un body aderente nero e sovrapponi un blazer oversize dal taglio sartoriale; la combinazione tra la severità strutturata della giacca e la delicatezza del pizzo darà vita a un look serale di grande classe.\nBoho-Chic Summer Layering\n: Portalo in combinazione con una camicia in lino bianco lasciata morbida e sbottonata, completando l'outfit con un cappello; un set fresco, rilassato e ideale per una cena estiva o un aperitivo al tramonto.\nUrban Rock-Chic Vibe\n: Indossalo semplicemente con una t-shirt scura ad effetto vintage e una giacca in denim dal lavaggio scuro o nero slavato; un perfetto mix di texture e stili per un look street-style dal carattere deciso.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Pantalone in pizzo con trasparenze, elegante ma con vita elastica pull-on che lo rende adatto anche a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

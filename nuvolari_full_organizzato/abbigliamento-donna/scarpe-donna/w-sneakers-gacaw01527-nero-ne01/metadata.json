@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/w-sneakers-gacaw01527-nero-ne01",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nQuesti stivaletti sono l'unione perfetta tra comfort estremo e stile streetwear di tendenza. Realizzati in morbido camoscio suede-look color nero e completamente foderati in pelliccia sintetica (shearling) nera, garantiscono calore e morbidezza. La suola platform alta dona un look moderno e una protezione aggiuntiva da freddo e umidità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "stivaletto platform in camoscio e shearling, stile casual e streetwear quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,62 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-s3-el-futbol-milk-milk",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa t-shirt da uomo Proj3ct è il capo essenziale per eccellenza, un must-have che non può mancare nel guardaroba di ogni uomo. Realizzata in tessuto morbido e traspirante, questa t-shirt offre un comfort senza pari, ideale per affrontare la giornata con stile e praticità. Il suo design classico e minimalista la rende estremamente versatile, perfetta da indossare da sola o come base per creare outfit più elaborati.\nCrea il tuo Outfit\nCasual Everyday:\nAbbina la t-shirt a un paio di\njeans\no\nshorts\nper un look casual e comodo. Completa l’outfit con\nsneakers\ne un cappellino da baseball per un tocco sportivo.\nSmart Casual:\nIndossa la t-shirt sotto un blazer leggero e abbinala a\npantaloni\nchino e\nmocassini\n. Questo look è perfetto per un aperitivo o un incontro informale, combinando semplicità e stile.\nLayering:\nUtilizza la t-shirt come base per un outfit a strati. Indossala sotto una camicia aperta o un overshirt per un look moderno e dinamico, adatto alle mezze stagioni.\nLook Sportivo:\nPer un outfit sportivo e rilassato, abbina la t-shirt a dei pantaloni\ncargo\ne\nscarpe\nda ginnastica. Aggiungi un bomber o una\nfelpa con cappuccio\nper completare il look.\nWeekend Relax:\nDurante il fine settimana, indossa la t-shirt con\nbermuda\ne\nsandali\nper un outfit fresco e disinvolto, perfetto per le giornate estive o per una passeggiata al parco.\nQuesta t-shirt da uomo è la base perfetta per qualsiasi look, capace di adattarsi a ogni occasione e stile. Con il suo design semplice e la sua qualità superiore, è un capo che ti accompagnerà in ogni momento della tua giornata, garantendoti sempre il massimo del comfort e dello stile. Aggiungila subito al tuo guardaroba!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: S3 EL FUTBOL MILK-MILK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "mocassini",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/scarpe/mocassini.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    },
+    {
+      "testo": "felpa con cappuccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "sandali",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con grafica streetwear sul petto e vestibilità regular",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/zen-for-sale-ts-i036617-white-02-67",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa T-Shirt Zen For Sale è un capo dichiaratamente streetwear che combina una vestibilità moderna con una morbidezza superiore. Realizzata in single jersey, questa maglietta offre un comfort elevato e una sensazione naturale al tatto, perfetta per chi cerca un look rilassato senza rinunciare alla qualità del tessuto.\nQuesta t-shirt si distingue per il suo taglio ampio, ideale per chi ama le silhouette contemporanee e disinvolte. La cura dei dettagli è evidente nella scelta delle stampe, posizionate sia sul petto che sulla schiena, che trasformano un capo basic in un pezzo d'ispirazione artistica e metropolitana. È la scelta perfetta per chi desidera una maglia che parli di personalità e comfort.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I036617 WHITE-02.67",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt grafica con vestibilita regular, uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,29 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/gas-jeans-351592021999-basic-wash-27ml",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nJeans Uomo Gas Basic Wash\nrappresentano la quintessenza del denim quotidiano, unendo una linea pulita a una tonalità chiara e luminosa, pensata appositamente per la stagione estiva. Caratterizzati da un lavaggio azzurro chiaro slavato (\"Basic Wash\"), questi jeans si distinguono per un'estetica fresca e uniforme, con sfumature morbide e naturali concentrate sulla parte superiore delle cosce che donano un aspetto piacevolmente rilassato senza rinunciare a un'impronta ordinata ed essenziale.\nDesign e Caratteristiche Principali\nTela Denim Chiara e Flessibile\n: Realizzati in una tela denim di cotone leggero di alta qualità, arricchita da una percentuale di fibra elastica. Questa composizione assicura una piacevole morbidezza sulla pelle e un comfort eccellente, ideale per affrontare le giornate più calde in totale libertà di movimento.\nLavaggio Azzurro Chiaro con Sfumature Soft\n: Il trattamento \"Basic Wash\" schiarisce uniformemente il tessuto indaco, lasciando lievi baffature naturali vicino alle tasche e sul retro delle ginocchia. Le cuciture tono su tono o leggermente ambrate assecondano il minimalismo cromatico del pantalone, mantenendo il design pulito.\nArchitettura Classica a Cinque Tasche\n: Il modello rispetta la più autentica configurazione a 5 tasche: due tasche posteriori sagomate e prive di ricami invasivi, due tasche anteriori ad arco e il tradizionale taschino porta-monete inserito sul lato destro, personalizzato con il passante logato o il micro-logo a doppia freccia del brand.\nDettagli di Chiusura e Finiture Metalliche\n: Fornito di chiusura frontale con patta a zip e bottone a chiodo personalizzato in metallo brunito. Sul retro, il passante centrale ospita la salpa logata applicata sulla cintura, che firma con discrezione il retro del capo.\nSilhouette Slim/Regular Fit Slanciata\n: Il taglio segue le linee del corpo in modo naturale, offrendo una vestibilità asciutta ma non aderente che scende dritta lungo la gamba fino a un fondo regolare. Questa linea pulita permette di abbinare il jeans sia a scarpe sportive che a calzature più formali.\nProposta di Outfit\nBiker Urban Graphic\n: Abbinalo alla\nt-shirt\navorio con grafica posteriore rossa e scritte a contrasto d'ispirazione motoristica; la base chiara del jeans esalterà i toni caldi della maglietta, creando un perfetto look street-casual dal carattere dinamico e vintage.\nSummer Fresh Linen Riviera\n: Indossalo insieme alla\ncamicia\na righe verticali sfumate nei toni dell'azzurro e del blu in misto lino; l'unione tra la texture fresca del lino e la luminosità del denim chiaro darà vita a un outfit estivo ricercato e impeccabile, ideale per una passeggiata sul lungomare o un pranzo all'aperto.\nSmart Preppy Contrast\n: Portalo in abbinamento alla polo blu baritono con profili bianchi a contrasto; lo stacco netto tra l'intensità della polo scura e la chiarezza del jeans azzurro slavato strutturerà un look bilanciato e versatile, ottimo per un aperitivo informale o una serata estiva in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche in lavaggio chiaro, capo base del guardaroba casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

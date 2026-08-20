@@ -20,5 +20,26 @@
   "pattern": "stampato",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-propaganda-super-green-bottle",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nQuesta\nfelpa da uomo\ndi\nPropaganda\nè la\nfelpa verde\nSuper Green Bottle.\nLa felpa ha coulisse al collo, costina ai polsi e in vita e tasca a marsupio.\nÈ una felpa a manica lunga e con cappuccio, con stampa serigrafica di una birra dietro e una stampa più piccola davanti.\nHa label personalizzata sul fianco sinistro.\nSe ti piace questo brand, lasciati guidare dallo\nstile Propaganda!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa da uomo Propaganda super green bottle\nVestibilità regular\nComposizione: 100% cotone made in Italy\nCodice Prodotto: PRFE112 GREEN BOTTLE-GRN BOT",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "stile Propaganda!",
+      "categoria_url": "https://www.nuvolari.biz/brands/propaganda"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e grafiche vistose di un brand streetwear",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

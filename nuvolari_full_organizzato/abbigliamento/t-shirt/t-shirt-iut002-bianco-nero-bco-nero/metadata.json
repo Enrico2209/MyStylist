@@ -27,5 +27,34 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-iut002-bianco-nero-bco-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl vero e proprio pilastro del guardaroba contemporaneo, l'emblema del minimalismo funzionale e la tela bianca per eccellenza dell'espressione urbana si incontrano nella\nt-shirt uomo\n. Capace di attraversare indenne i decenni, le subculture e le stagioni, la classica maglietta a maniche corte rappresenta il perfetto punto di equilibrio tra comfort quotidiano, versatilità stilistica e attitudine casual globale, adattandosi con fluidità a ogni tipo di personalità e brand.\nDesign, Materiali e Caratteristiche Principali\nLa Consistenza dei Tessuti Premium\n: La qualità di una t-shirt si misura a partire dalla selezione dei filati. Le proposte spaziano dal jersey di puro cotone leggero e pettinato, fresco e traspirante sulla pelle per le giornate più calde, fino alle varianti in cotone\nheavyweight\nad alta densità, tipiche dello streetwear più strutturato, che assicurano una caduta scultorea e tridimensionale sul corpo.\nL'Evoluzione dei Tagli e delle Silhouette\n: L'architettura della maglietta si sviluppa su diverse vestibilità per assecondare ogni esigenza di stile. Il taglio\nregular fit\naccarezza il corpo in modo naturale e pulito, ideale per look smart-casual o per la stratificazione; il taglio\nrelaxed o boxy fit\n, caratterizzato da spalle leggermente scese e linee geometriche generose, strizza l'occhio alla controcultura skate e underground anni '90.\nIdee di Stile: Costruisci il Tuo Look Urban & Streetwear\nAuthentic Everyday Uniform\n: Costruisci una combinazione pulita, solida e intramontabile per i tuoi impegni quotidiani in città. Abbina una t-shirt girocollo dalla vestibilità regular alla precisione geometrica di un\njeans\ndal lavaggio vintage o a gamba dritta, completando il cerchio con una\nsneaker\nlow-top essenziale in pelle bianca e un cappello con visiera dal sapore rétro.\nContemporary Utility Layering\n: Esalta l'anima urban e la tridimensionalità dei volumi giocando sulle sovrapposizioni di lunghezze e texture. Scegli una t-shirt in cotone pesante e accostala alla robustezza strutturale di un pantalone cargo provvisto di tasche laterali 3D o di un pantalone chino dal fit rilassato. Stratifica sul davanti indossando una giacca utility leggera o una sovracamicia lasciata completamente aperta.\nSmart Casual Transition Look\n: Per muoverti fluidamente durante i weekend fuori porta, un pomeriggio di relax o un aperitivo informale al tramonto, gioca di sottrazione estiva. Indossa una maglietta chiara o a pigmento parzialmente infilata nel girovita di un pratico bermuda in twill o in lino, e sovrapponi la freschezza lineare e ariosa di una delle nostre\ncamicie uomo\na maniche lunghe o corte a righe verticali, portata sbottonata con le maniche leggermente arrotolate.\nSperimenta la perfetta sintesi tra l'essenzialità del design funzionale e la forza comunicativa dello stile casual contemporaneo. Scegli la consistenza delle finiture premium, l'equilibrio delle nuove geometrie urban e trova la t-shirt perfetta per definire la tua identità quotidiana.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: IUT002 BIANCO/NERO-BCO/NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneaker",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con logo grafico frontale, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

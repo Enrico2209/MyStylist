@@ -23,5 +23,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/polo-m3600p-ecru-drkcrml-blk-79b",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPolo Uomo Fred Perry\nScopri la polo\nFred Perry\n, un'icona di stile che ha superato le mode per diventare un classico intramontabile. Nata sui campi da tennis e adottata dalle sottoculture giovanili, questa polo rappresenta un equilibrio perfetto tra eleganza sportiva, comfort e una storia ricca di cultura.\nL'essenza dello stile\nOgni polo\nFred Perry\nè realizzata in\npuro cotone piqué\n, un tessuto leggero e traspirante che offre una vestibilità impeccabile e un comfort che dura tutto il giorno. La linea pulita e minimalista è arricchita da dettagli iconici, che la rendono immediatamente riconoscibile:\nVestibilità:\nIl taglio regolare si adatta perfettamente alla silhouette, garantendo libertà di movimento e una sensazione di naturalezza.\nColletto e Maniche:\nIl colletto e i bordi delle maniche a contrasto, spesso con le doppie righe, sono un marchio di fabbrica che aggiunge un tocco di colore e raffinatezza.\nCorona d'Alloro:\nIl celebre logo\nFred Perry\ncon la corona d'alloro, ricamato con cura sul petto, è un simbolo di qualità, autenticità e tradizione.\nLa polo\nFred Perry\nè il capo perfetto per ogni occasione. Indossala con un paio di\npantaloni chino\nper un look smart-casual, o abbinala a un paio di\njeans\nper un'eleganza disinvolta.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: M3600",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "sportivo": 0.2,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone piqué, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

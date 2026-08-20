@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/manica-lunga/t-shirt-uomo-black-rags-chester-verde-verde",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nT-Shirt Uomo Black Rags Chester Long Sleeve Verde\nLa\nt-shirt\nBlack Rags a maniche lunghe con colletto a bottoncini combina uno stile casual con dettagli eleganti. Realizzata in tessuto leggero, è perfetta per un look rilassato ma curato. Il design con bottoncini aggiunge un tocco distintivo, rendendola versatile per diverse occasioni.\nAbbinala ad un paio di\njeans\ne alle\nsneakers\npresenti nella collezione\nNuvolari\n, perfetti per rendere il tuo stile elegante e moderno per ogni situazione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n95% poliestere, 5% elastane\nCodice articolo: CHESTER VERDE-VERDE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt serafino a manica lunga in misto poliestere, consigliata con jeans e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

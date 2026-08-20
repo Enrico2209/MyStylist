@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/sciarpe/sciarpa-ew2-pates-nero-blu-51",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Dettaglio che Trasforma Ogni Look\nLa sciarpa non è solo un accessorio per ripararsi dal freddo, ma l'elemento chiave che definisce e trasforma il tuo outfit. Dalle texture avvolgenti per l'inverno alle leggerezze impalpabili per le mezze stagioni, la nostra selezione è pensata per aggiungere un tocco di\nstile inconfondibile\na ogni occasione.\nUn accessorio, infinite possibilità:\nIndossala con un nodo classico, lasciata cadere per un look rilassato, o con un giro avvolgente per le giornate più fredde.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% acrilico\nCodice articolo: EW2 PATES NERO/BLU-51",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa classica bicolore, accessorio versatile tra il casual e lo smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-hoka-bondi-7-1110518-wild-rye-black-wldr",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nHoka Bondi 7 Wild\nL'Apice del Comfort e dell'Audacia\n- Massima Ammortizzazione: Dotate della celebre intersuola in schiuma EVA a tutta lunghezza, garantiscono una protezione totale dagli impatti e una sensazione di \"camminata sulle nuvole\" tipica di Hoka.\n- Design \"Wild\" Edition: Caratterizzate da colorazioni e pattern unici che rompono con il minimalismo classico, rendendo questa scarpa un vero pezzo forte per outfit streetwear e gorpcore.\n- Struttura Meta-Rocker: La geometria della suola è studiata per favorire una transizione fluida e naturale tra il tallone e l'avampiede, riducendo l'affaticamento durante le lunghe distanze.\n- Tomaia in Mesh Ultra-Traspirante: Realizzata con un tessuto tecnico a trama aperta che permette una circolazione dell'aria costante, mantenendo il piede fresco anche sotto sforzo.\n- Tallone con Supporto Memory Foam: Il collare imbottito in schiuma a memoria di forma avvolge la caviglia con estrema delicatezza, adattandosi alla conformazione del piede per una stabilità superiore.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nLe Hoka Bondi 7 Wild sono l'espressione più audace e ammortizzata della linea Bondi, progettate per offrire una sensazione di morbidezza impareggiabile unita a un'estetica grintosa e ispirata alla natura. Questa versione \"Wild\" si distingue per i dettagli grafici e le texture che richiamano elementi organici, perfetta per chi vuole unire prestazioni tecniche e uno stile visivo distintivo.",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

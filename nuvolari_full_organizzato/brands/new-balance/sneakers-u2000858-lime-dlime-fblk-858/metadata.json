@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-u2000858-lime-dlime-fblk-858",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe New Balance U2000858 sono il simbolo della rinascita del design \"tech-retro\". Questo modello, originariamente lanciato come scarpa da running performance di fascia alta, è diventato un'icona lifestyle grazie alla sua estetica complessa, fatta di sovrapposizioni di materiali e una suola tecnologica che garantisce un comfort superiore.\nIl punto di forza delle 2002R risiede nel sistema di ammortizzazione N-ergy unito alla tecnologia ABZORB. Questa combinazione offre un ritorno di energia e un assorbimento degli urti eccezionale, rendendole ideali per chi passa molte ore in piedi. Il design, pur essendo tecnico, mantiene un'eleganza sobria che si sposa perfettamente con capi sartoriali o casual, elevando istantaneamente il livello di qualsiasi outfit urbano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

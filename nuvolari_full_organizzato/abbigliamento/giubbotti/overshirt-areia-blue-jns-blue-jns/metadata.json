@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/overshirt-areia-blue-jns-blue-jns",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nRayz Areia Overshirt: Il Carattere Autentico del Raw Denim\nOvershirt Uomo Rayz Areia\nRiscopri la versatilità con l'Overshirt Rayz Areia. Realizzata in un denim scuro e strutturato, questa \"camicia-giacca\" è progettata per chi cerca un capo di transizione capace di unire robustezza sartoriale e attitudine street. La tonalità indigo profonda e le cuciture a contrasto la rendono un pezzo senza tempo, perfetto per stratificare il tuo stile con decisione.\nStruttura Denim e Dettagli Heritage\nDenim Premium Dark Wash\n: Il tessuto è selezionato per la sua consistenza materica, offrendo protezione e durata. La colorazione scura mantiene un aspetto pulito e sofisticato, pronto a sviluppare venature uniche con l'utilizzo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Overshirt in denim scuro con vestibilità rilassata, un capo di transizione casual/streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-chino-slim-fit-nuvolari-ontario-topo",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nPantalone uomo chino slim fit con chiusura zip a scomparsa e bottone logato; 4 tasche, etichetta ecopelle Nuvolari sul retro vita. Un modello aderente ma confortevole realizzato in cotone elasticizzato fresco e traspirante. Completa il tuo look Nuvolari con la\ncamicia lino Paz bianco\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone chino slim fit uomo Nuvolari modello Ontario - Topo\nChiusura a scomparsa con zip e bottone 4 fori logato\nDue tasche chinos anteriori\nDue asche posteriori a ﬁletto\nEtichetta posteriore Nuvolari in ecopelle\nVestibilità Slim Fit\nComposizione: 98% cotone, 2% elastane\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia lino Paz bianco",
+      "categoria_url": "https://www.nuvolari.biz/camicia-nuvolari-c-f-se-paz-bianco-1.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino slim fit, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

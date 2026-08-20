@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/beanie-ew2-m10989-black-001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Beanie Marshall Artist è l'accessorio indispensabile per completare il tuo look streetwear durante i mesi più freddi. Fedele all'estetica \"Modern Tailoring\" del brand, questo berretto combina funzionalità tecnica e un design pulito, perfetto per chi cerca un tocco di stile contemporaneo senza rinunciare al comfort.\nCaratteristiche Principali\nDesign Iconico:\nRifinito frontalmente con il celebre branding Marshall Artist.\nMateriale Premium:\nRealizzato in tessuti morbidi e caldi che garantiscono un isolamento termico ottimale senza pungere la pelle.\nCostruzione a Coste:\nLa lavorazione a maglia (ribbed knit) assicura una struttura elastica che mantiene la forma originale anche dopo numerosi utilizzi.\nBordo con Risvolto:\nIl classico design con risvolto regolabile permette di personalizzare la vestibilità e offre uno strato extra di calore sulle orecchie.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "berretto in maglia (beanie) di stampo casual/streetwear quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,43 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-s1-ln-frye-avorio-2",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Giacca Nuvolari è il capo ideale per chi cerca eleganza e versatilità. Realizzata con materiali di alta qualità, questa giacca offre un taglio moderno e un comfort eccezionale, perfetta per ogni occasione, dal lavoro alle uscite serali. Disponibile in diverse varianti di colore, è pensata per completare il tuo guardaroba con stile.\nCrea il tuo Outfit Perfetto:\nSneakers\n: Aggiungi un tocco casual alla tua giacca con un paio di sneakers alla moda.\nJeans\n: Per un look più rilassato, abbina la tua giacca a un paio di jeans.\nPantaloni\n: Se preferisci uno stile più formale, scegli un paio di pantaloni eleganti.\nT-shirt\n: Crea un look casual chic con una t-shirt semplice sotto la giacca.\nCamicie\n: Per un tocco di classe, indossa una camicia abbinata alla giacca.\nScopri tutti i modi per creare il tuo\noutfit\nideale con le nostre proposte di abbigliamento e accessori.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 55% lino 45% viscosa\nCodice Prodotto: S1 LN FRYE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "Jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "Pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "T-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Camicie",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.5,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Blazer sfoderato in lino e viscosa, ideale per contesti smart casual ed estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

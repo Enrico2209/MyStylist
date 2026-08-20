@@ -25,5 +25,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/gas-polo-310442182888-winter-green-3660",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Uomo Gas Winter Green\ninfonde una sferzata di freschezza ed energia cromatica nella proposta di maglieria estiva, posizionandosi come un perfetto trait d'union tra l'ispirazione sportiva vintage e la vivacità dei colori contemporanei. Caratterizzata da una tonalità verde menta vibrante e satura (\"Winter Green\"), questa polo a maniche corte è arricchita da micro-finiture grafiche che ne esaltano la struttura pulita, ideale per chi desidera distinguersi con classe nei look quotidiani o nel tempo libero.\nDesign e Caratteristiche Principali\nTessuto in Cotone Piqué Altamente Traspirante\n: Confezionata nel classico cotone piqué, celebre per la caratteristica armatura a nido d'ape che dona spessore visivo, stabilità e una texture morbida al tatto. Il filato garantisce un'eccellente freschezza anche durante le giornate estive più calde.\nSottili Dettagli White Piping\n: I bordi elastici delle maniche corte sono rifiniti con un sottilissimo profilo bianco ottico a contrasto posizionato sull'estremità interiore. Questo dettaglio minimalista accende la luminosità del verde, spezzando la monocromia con eleganza.\nColletto in Tinta e Chiusura a Due Bottoni\n: Presenta un colletto classico a costine in tinta unita con il corpo della maglia, supportato da una chiusura frontale a due bottoni chiari perfettamente inseriti su un cannoncino lineare. L'interno del collo è rifinito con una fettuccia scura ed una riga bianca di rinforzo anti-usura.\nMicro-Logo Tono su Tono Ricamato\n: Sul petto a sinistra spicca l'iconica doppia freccia del brand, finemente ricamata con un filo verde della stessa identica tonalità della maglia. Questa scelta stilistica mimetica garantisce un'estetica sobria, pulita e priva di eccessi logocentrici.\nOrlo con Spacchetti Laterali\n: Il fondo dritto della polo è rifinito con piccoli spacchetti laterali simmetrici impreziositi da un nastro interno bianco e nero. Questa accuratezza costruttiva asseconda i movimenti del bacino, permettendo al capo di cadere in modo impeccabile sopra i pantaloni.\nSilhouette Regular Fit Confortevole\n: Il taglio propone una vestibilità classica, lineare ed fluida che accarezza il busto senza costringerlo, definendo la linea delle spalle e garantendo una grande disinvoltura nei movimenti.\nProposta di Outfit\nChic Riviera Contrast\n: Abbinala a un\npantalone\nchino leggero o a un bermuda classico in color bianco ottico o sabbia; lo stacco netto tra l'energia del verde menta e la neutralità del fondo chiaro valorizzerà al massimo i profili bianchi delle maniche, delineando un look fresco e impeccabile per i pomeriggi estivi.\nSartorial Urban Denim Match\n: Indossala insieme a un\nbermuda\nin jeans dal taglio relaxed con doppie pinces frontali; l'attitudine sportiva della polo verde contrasterà piacevolmente con la struttura ricercata e un po' rétro del pantaloncino in denim medio, creando un insieme street-casual moderno e sofisticato.\nContemporary Casual Layering\n: Portala sopra un\nbermuda\nin jeans dal lavaggio medio-scuro con risvolto e completa il look con un\ngiubbotto\ndi jeans dal taglio trucker; l'intensità della tela denim indaco agirà da stabilizzatore cromatico per la vivacità del verde, dando vita a un outfit urbano di grande personalità e carattere.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

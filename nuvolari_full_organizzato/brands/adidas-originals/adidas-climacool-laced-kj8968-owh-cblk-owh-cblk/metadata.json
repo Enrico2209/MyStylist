@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/adidas-climacool-laced-kj8968-owh-cblk-owh-cblk",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nAdidas Originals Climacool Laced\nsono l'emblema dell'innovazione tecnica applicata allo stile lifestyle. Progettate per offrire una ventilazione a\n360°\n, queste sneakers combinano un'estetica futuristica con una funzionalità termica senza pari.\nTecnologia e Design\nIngegneria Climacool:\nLa tomaia è interamente realizzata in un mesh a trama larga altamente traspirante, progettato per espellere il calore e l'umidità, mantenendo il piede fresco anche nelle giornate più calde.\nStruttura di Supporto:\nPresentano una \"gabbia\" in TPU semitrasparente sull'arco plantare e sul tallone, che garantisce stabilità strutturale pur mantenendo la massima leggerezza.\nSuola Ventilata:\nLa suola in gomma non è solo ammortizzante, ma è dotata di aperture strategiche che permettono il passaggio dell'aria attraverso l'intera scarpa, inclusa la base.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive con tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

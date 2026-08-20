@@ -21,5 +21,47 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-sh-blank-moro-moro",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza sartoriale e la freschezza naturale dei tessuti estivi si esprimono al meglio nei\nbermuda da uomo Baecker modello Blank nella profonda nuance Testa di Moro\n. Realizzati in lino con un taglio classico da chino corto, questi pantaloncini rappresentano il connubio perfetto tra stile sofisticato, traspirabilità e versatilità per le giornate più calde della stagione.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Tessuto in Lino\n: Confezionati in puro lino leggero e altamente traspirante, offrono una sensazione di impeccabile freschezza sulla pelle e una piacevole texture slub tipica della fibra naturale.\nCintura Sartoriale con Passanti e Bottone\n: A differenza dei classici modelli easy-wear con coulisse, presentano un cinturino strutturato con bottoni, pattina e passanti per la cintura, mantenendo una silhouette pulita e distinta.\nTonalità Moro Intensa e Versatile\n: La nuance marrone scuro dona un carattere caldo e sofisticato, facilissima da abbinare sia a tonalità neutre che a colori più vivaci.\nTasche Americane e Tailored Fit\n: Dotati di pratiche tasche laterali taglio americano e tasche posteriori a filetto per un look elegante, dalla vestibilità regolare che si adatta con naturalezza alla figura.\nIdee di Stile: Costruisci il Tuo Look Resort & Smart Casual\nSmart Summer & Aperitivo Outfit\n: Per un Look estivo ricercato e impeccabile, abbina i bermuda in lino moro a una camicia di lino bianca o beige sbottonata e a un paio di mocassini o loafer eleganti.\nCasual Chic Everyday\n: Per il tempo libero in città o nei weekend fuori porta, accosta il pantaloncino alla semplicità di una\nt-shirt uomo\nessenziale o a una polo, completando il tutto con la versatilità di un paio di\nsneakers uomo\nin pelle o tela.\nResort Mood & Layering\n: Ideali da indossare per un'uscita serale sul lungomare sopra i capi della selezione\ncostumi uomo\n. Nelle serate più fresche, completa l'outfit con un capospalla leggero scelto tra la linea\ngiubbotti uomo\n, oppure scopri le nostre proposte di\njeans uomo\nper quando preferisci un pantalone lungo.\nScegli il fascino senza tempo della sartorialità estiva. Scopri la traspirabilità del lino, la raffinatezza del colore Moro e l'inconfondibile qualità dei pantaloncini Baecker Blank nella nostra collezione di\nbermuda uomo\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda taglio chino, pur con costruzione sartoriale e in lino resta un pantalone corto",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

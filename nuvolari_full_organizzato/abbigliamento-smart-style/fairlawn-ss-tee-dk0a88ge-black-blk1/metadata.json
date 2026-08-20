@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/fairlawn-ss-tee-dk0a88ge-black-blk1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo stile workwear americano di Dickies prende forma nella\nt-shirt Fairlawn da uomo Dickies nella colorazione nera\n. Un capo essenziale dal carattere autentico, dove il nero versatile incontra la stampa logo del brand per un basic dallo spirito street e funzionale.\nDesign, Tessuti e Caratteristiche Costruttive\nPuro Cotone Resistente\n: Realizzata in cotone dalla mano piena e robusta, garantisce comfort e la durata tipica del marchio workwear.\nNero Versatile\n: Tonalità intramontabile e facile da abbinare a ogni capo del guardaroba.\nStampa Logo Dickies\n: Grafica firmata che dona identità e riconoscibilità al capo.\nGirocollo a Maniche Corte\n: Scollo a giro con costina e maniche corte dal taglio pulito.\nVestibilità Regular\n: Fit comodo dallo spirito streetwear, ideale da solo o in layering.\nIdee di Stile: Costruisci il Tuo Look Workwear & Street\nWorkwear Look\n: Abbina la t-shirt a dei\njeans uomo\ne delle\nsneakers uomo\nper un outfit utility autentico.\nLayering\n: Indossala sotto un\ngiubbotto uomo\no una sovracamicia per un look street stratificato.\nCasual & Capi Alternativi\n: Completa con dei\npantaloni uomo\ncomodi. Scopri anche le altre\nt-shirt uomo\ndella selezione.\nScegli l'autenticità workwear di Dickies. La t-shirt Fairlawn nera è il basic dallo spirito street che non passa mai di moda.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: DK0A88GE BLACK-BLK1",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica in cotone con piccolo logo, vestibilita regular",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

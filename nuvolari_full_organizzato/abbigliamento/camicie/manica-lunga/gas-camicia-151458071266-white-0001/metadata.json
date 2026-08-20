@@ -24,5 +24,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/gas-camicia-151458071266-white-0001",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Gas White\nrappresenta l'essenza del minimalismo formale e della versatilità stilistica, ponendosi come un pilastro fondamentale nel guardaroba maschile contemporaneo. Sviluppata in un bianco ottico puro e luminoso, questa camicia a maniche lunghe unisce un design rigoroso a una costruzione geometrica pulita, ideale per completare con discrezione sia outfit eleganti sia abbinamenti casual raffinati.\nDesign e Caratteristiche Principali\nTessuto in Cotone Strutturato e Traspirante\n: Confezionata in una tela di cotone di alta qualità, compatta e piacevole al tatto, che garantisce un'ottima tenuta della piega durante la giornata e una freschezza naturale sulla pelle.\nEstetica Minimalista con Micro-Logo Tono su Tono\n: Il pannello frontale si distingue per la sua assoluta pulizia visiva. Sul petto a sinistra è presente unicamente il classico logo a doppia freccia del brand, ricamato con un filo grigio chiarissimo quasi impercettibile, che ne firma l'autenticità senza spezzare l'armonia monocromatica.\nColletto Classico a Punta e Cannoncino Pulito\n: Presenta un colletto a punta dalle proporzioni equilibrate e tradizionali, perfetto per essere indossato aperto o valorizzato da una cravatta. La chiusura frontale è scandita da un cannoncino lineare con bottoni bianchi lucidi che si fondono cromaticamente con il corpo della camicia.\nPolsini Regolabili e Profilo Interno\n: Le maniche lunghe si chiudono con polsini sagomati a bottone singolo. L'interno del colletto è rifinito con un sottile profilo scuro a contrasto che aggiunge un dettaglio tecnico nascosto e previene l'usura.\nSilhouette Slim Fit Moderna\n: Come evidenziato dalla dicitura interna sotto l'etichetta del brand, il capo propone un taglio \"Slim Fit\" strutturato con pinces posteriori, che segue le linee del busto asciugandosi sui fianchi per una linea slanciata, nitida e sartoriale.\nFondo Sagomato Curvo\n: La linea inferiore presenta una curvatura accentuata sui fianchi, studiata appositamente per permettere di infilare la camicia all'interno dei pantaloni in modo stabile, evitando rigonfiamenti di tessuto.\nProposta di Outfit\nSmart Summer Suit Look\n: Indossala abbottonata all'interno di un\npantalone\nchino color sabbia o grigio perla; la silhouette asciutta della camicia bianca valorizzerà la linearità del look, definendo un insieme fresco ed impeccabile per contesti di lavoro o eventi diurni.\nContemporary Layering Denim\n: Portala aperta o semi-aperta sopra una\nt-shirt\ncolor panna con stampe grafiche, e abbinala a un\nbermuda\nin jeans dal lavaggio medio-scuro con risvolto; il candore della camicia bianca agirà da perfetto stabilizzatore cromatico tra la maglia chiara e il denim indaco.\nUrban Heritage Contrast\n: Indossala sotto un\ngiubbotto\ndi jeans dal lavaggio medio-scuro ad effetto vissuto e abbinala a pantaloni neri; il contrasto netto tra la pulizia formale del cotone bianco e la texture ruvida del trucker in denim darà vita a un outfit street-chic sofisticato e di carattere.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 4,
+    "formality_perche": "Camicia bianca slim fit classica, adatta a contesti formali e d'ufficio, alzata di un livello dalla vestibilità slim.",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

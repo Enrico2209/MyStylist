@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-deus-ex-machina-forecourt-chambray-shirt",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'anima ribelle e motoristica della \"custom culture\" australiana, la libertà espressiva del surf d'avanguardia e lo stile underground metropolitano si fondono nelle collezioni di\ncamicie uomo Deus Ex Machina\n. Nato a Sydney nel 2006 come officina di motociclette speciali e tavole da surf, il brand ha rivoluzionato il casualwear internazionale trasformando la camicia in una vera e propria dichiarazione d'indipendenza stilistica, ricca di grafiche d'autore e dettagli heritage.\nDesign, Modelli e Caratteristiche Distintive\nLe Iconiche Camicie da Meccanico (Garage Shirts)\n: Vero e proprio pilastro del brand, i modelli a manica corta d'ispirazione workwear richiamano le divise delle officine anni '50 e '60. Sono caratterizzate da tessuti ultra-robusti come il twill di cotone pesante, doppie tasche geometriche sul petto con patta e iconici ricami artistici a catenella con il logo Deus Customs sulla schiena o sopra il taschino.\nStampe Eclettiche e Resort Vibes psichedeliche\n: Per la stagione calda, Deus Ex Machina propone camicie a manica corta dal taglio relaxed con colletto a campo (camp collar) aperto e piatto. Le grafiche spaziano da motivi patchwork geometrici e tribali a stampe floreali dal sapore rétro-tropicale rivisitate in chiave rock 'n' roll, con accostamenti cromatici audaci.\nFiniture Tessili di Alta Qualità\n: Coerentemente con lo spirito artigianale del marchio, le camicie utilizzano filati nobili e resistenti come il puro cotone popeline, il twill lavato dal piacevole tocco vintage, e fresche miscele di lino, cotone e rayon che assicurano una fluidità di caduta impeccabile, leggerezza e alta traspirabilità.\nHardware Robusto e Bottoni Personalizzati\n: Ogni dettaglio è studiato per durare nel tempo e resistere ai viaggi. Dai bottoni con logo Deus inciso effetto guscio di tartaruga alle chiusure con bottoni a pressione in metallo opaco per le varianti d'ispirazione utility, l'hardware sottolinea la solidità strutturale del capo.\nIdee di Stile: Costruisci il Tuo Look Ride-Core\nThe Authentic Garage Uniform\n: Rendi omaggio alle radici motoristiche del brand con un outfit di grande carattere. Abbina una camicia da meccanico Deus Ex Machina a maniche corte (in tonalità nero o khaki) alla robustezza tridimensionale di un paio di\npantaloni uomo\ncargo o a un bermuda in denim scuro strutturato firmato G-Star RAW, chiudendo il look con uno stivaletto in pelle o una sneaker robusta.\nRadical Surf Culture Look\n: Per i tuoi pomeriggi estivi, i festival all'aperto o un aperitivo in spiaggia, lascia esplodere l'eclettismo delle stampe d'autore. Indossa una camicia resort Deus Ex Machina a motivi astratti o patchwork aperta sopra una t-shirt basica bianca, e coordinatela alla dinamicità geometrica del\ncostume uomo\nDeus Service Mesh o Freamon Swim Short.\nUrban Casual Transition\n: Se preferisci una variante a manica lunga dal taglio più lineare, gioca di contrasti raffinati. Accosta una camicia in cotone strutturato o lino del brand alla morbidezza e alla pulizia sartoriale di un\npantalone uomo\npantalaccio o chino di Lyle & Scott nei toni del verde militare o del grigio antracite, completando con un occhiale da sole lifestyle Oakley.\nEsprimi la tua libertà stilistica senza schemi precostituiti, unendo l'audacia di grafiche nate in officina alla freschezza tessile del beachwear internazionale. Scegli la solidità costruttiva, i dettagli grafici d'autore e l'attitudine inconfondibile delle camicie uomo firmate Deus Ex Machina.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "costume uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte stile garage/workwear di un brand street/custom culture, con taschini e logo ricamato",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

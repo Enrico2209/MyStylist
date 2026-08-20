@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/parka/parka-weekend-offender-wd-valencia-dp-forest",
-  "image_count": 6
+  "image_count": 6,
+  "descrizione_completa": "Descrizione\nParka corto da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nParka Weekend Offender modello Valencia\nCerniera frontale\nDue grandi tasche anteriori inferiori\nCappuccio dalla forma ergonomica con coulisse regolabili\nCostine a contrasto su ciascun gomito e polsini\nLogo sulla manica superiore\nFodera in micro pile\nPiccola tasca interna in velcro e zip nascosta\nRivestimento resistente all'acqua\nVestibilità regular fit\nComposizione : 100% nylon",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto tecnico/antivento con cappuccio e tasche cargo, stile casual/terrace wear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-disney-scrooge-backpack-910b9150nsz-money-money",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'irriverenza dello streetwear metropolitano incontra uno dei personaggi più iconici dell'universo Disney nello\nzaino Sprayground modello Disney Scrooge Backpack Money\n. Caratterizzato da una grafica d'impatto che ritrae Paperon de' Paperoni circondato da banconote e dall'inconfondibile bocca da squalo, questo accessorio in edizione limitata rappresenta una dichiarazione di stile unica per chi vuole distinguersi con un look audace e ricercato.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Realizzato in robusta ecopelle di alta qualità, resistente all'acqua e all'usura, ideale per proteggere gli oggetti personali durante gli spostamenti quotidiani.\nGrafica Esclusiva Disney x Sprayground\n: Unisce la stampa di Paperon de' Paperoni e il motivo Money con l'iconica Shark Mouth laterale, creando una fusione perfetta tra pop culture e street style.\nOrganizzazione e Scomparti Multifunzione\n: Equipaggiato con un vano imbottito dedicato a laptop fino a 15\", tasca superiore in velluto portaocchiali, tasche laterali a fessura e una tasca di sicurezza nascosta sullo schienale.\nErgonomia e Travel-Ready\n: Schienale con imbottitura traspirante in rete, spallacci regolabili imbottiti e pratica fascia posteriore per l'aggancio al manico del trolley.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Pop Culture\nPop Streetwear Statement\n: Lascia che lo zaino sia il punto focale del tuo outfit accostandolo a una\nt-shirt uomo\ngrafica o a una felpa oversize, un paio di\njeans uomo\ndal taglio rilassato e delle\nsneakers uomo\nd'impatto.\nCasual & Travel Outfit\n: Perfetto compagno per università, lavoro o viaggi, indossalo con un pantalone jogger o un paio di\nbermuda uomo\nper le giornate più calde.\nLayering Urban\n: Durante i mesi più freddi, abbinalo a un giubbotto tecnico o a un piumino dalla nostra selezione\ngiubbotti uomo\nper uno stile metropolitano all-season.\nEsprimi la tua personalità con un accessorio da collezione originale e funzionale. Scegli la capienza, la praticità e il design inconfondibile dello zaino Sprayground Disney Scrooge Money.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino con grafica pop molto vistosa, tetto di marchio street puro",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

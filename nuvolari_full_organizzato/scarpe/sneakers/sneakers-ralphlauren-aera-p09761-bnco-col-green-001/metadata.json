@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-ralphlauren-aera-p09761-bnco-col-green-001",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'inconfondibile heritage del preppy americano, la celebrazione dello stile court d'ispirazione tennistica e una spiccata attitudine urban si incontrano nelle\nsneakers uomo Ralph Lauren modello HRT AERA Bianco/College Green\n. Universalmente riconosciuto per la sua capacità di coniugare un'eleganza sportiva d'altri tempi alla pulizia delle linee contemporanee, il brand firma una calzatura low-top raffinata ed essenziale, capace di interpretare alla perfezione la filosofia del quiet luxury all'interno dello streetwear quotidiano.\nDesign, Silhouette e Finiture di Pregio\nLa Purezza della Tomaia Multimaterica Bianca\n: La struttura superiore della scarpa si sviluppa su una base bianca ottica, ritmata da un sofisticato mix di texture. I pannelli lisci si alternano a inserti scamosciati (suede) posizionati sulla punta a T e lungo i profili dell'allacciatura, donando alla calzatura una tridimensionalità raffinata e una mano morbida dal sapore squisitamente rétro.\nI Dettagli Iconici in College Green\n: A spezzare la purezza della tomaia interviene un profondo e magnetico verde bottiglia/collegiale, posizionato sulla linguetta del tallone (heel tab) sul retro. Questa sfumatura iconica si lega indissolubilmente all'estetica dei campus americani d'oltreoceano, conferendo una forte identità al modello.\nL'Inconfondibile Firma del Giocatore di Polo\n: Al centro del pannello laterale spicca il celebre logo del giocatore di polo a cavallo, finemente ricamato a contrasto in filo scuro ad alta densità. Questo dettaglio araldico immediato e discreto certifica l'autenticità e il prestigio della linea Polo Ralph Lauren.\nLa Suola in Gomma Gum e il Logo a Rilievo\n: Elemento di chiara ispirazione vintage sportiva è la solida suola a cassetta flat realizzata in gomma color miele (gum sole). Oltre a garantire un'eccellente stabilità e trazione metropolitana, la suola presenta la scritta \"Polo\" stampata in rilievo tridimensionale sul retro del blocco del tallone.\nComfort Quotidiano e Allacciatura Stringata\n: Il sistema di chiusura è definito da lacci piatti total white in cotone intrecciato che scorrono in modo fluido. L'interno è arricchito da una soletta anatomica ammortizzata e da un collarino sagomato e imbottito che avvolge la caviglia, eliminando gli sfregamenti da camminata.\nIdee di Stile: Costruisci il Tuo Look Preppy Court & Smart-Casual\nMetropolitan Preppy Uniform\n: Costruisci una combinazione pulita, solida e intramontabile ideale per i tuoi impegni quotidiani o per il tempo libero. Abbina le sneakers bianche e verdi alla nuance minerale e gessosa dei bermuda uomo Nuvolari Marble in cotone stretch, e indossa sulla parte superiore la ricercatezza tricot della t-shirt uomo o della maglia polo uomo Nuvolari in maglia blu navy.\nContemporary Vintage Denim Mix\n: Esalta l'anima rétro tennistica della scarpa inserendola in un contesto streetwear dinamico e rilassato. Accosta le calzature alla silhouette generosa, dritta e d'archivio dei jeans uomo Levi's 568 Loose Straight in un lavaggio medio o light indigo, lasciando che il denim cada morbido sulla suola gum. Completa il look con una\nt-shirt uomo\nLevi's o Gaëlle Paris.\nSophisticated Riviera Transition\n: Rompi il rigore dell'abbigliamento prettamente casual giocando con i materiali naturali e i contrasti materici della stagione estiva. Combina le calzature alla leggerezza e alla freschezza rilassata di un pantalone uomo o bermuda uomo Baecker in lino nelle tonalità sabbia o beige, completando l'outfit sul davanti con una camicia in lino fiammato bianco lasciata sbottonata sul colletto.\nSperimenta la perfetta sintesi tra l'understatement dell'abbigliamento sportivo d'archivio e l'impatto visivo delle ultime tendenze dello stile urban globale. Scegli la morbidezza degli inserti in suede, il carattere della suola color miele e l'eleganza intramontabile delle sneakers uomo firmate Ralph Lauren.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Sneakers d'ispirazione tennis rétro, perfette per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

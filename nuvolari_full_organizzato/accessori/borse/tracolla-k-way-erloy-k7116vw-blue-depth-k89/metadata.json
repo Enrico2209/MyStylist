@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/tracolla-k-way-erloy-k7116vw-blue-depth-k89",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nTracolla K-Way Erloy Blue Depth\nIl borsello Erloy è caratterizzato da un design capiente e strutturato, ideale per chi cerca praticità e stile. Realizzato in tessuto ripstop impermeabile, idrorepellente e antivento, offre resistenza grazie al tessuto di rinforzo sui fianchi. È dotato di una tracolla regolabile e removibile in nastro da 2 mm, una tasca frontale con zip, un'apertura principale con zip K-Way e una tasca interna per organizzare al meglio gli oggetti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nEsterno: 100% Nylon. Interno: 100% Poliestere\nCodice articolo: K7116VW BLUE DEPTH-K89",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "borsello/tracolla sportiva in nylon, tetto di marchio K-Way",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-deus-ex-machina-service-mesh-swim-short",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'anima ribelle della cultura custom australiana, l'energia del surf d'avanguardia e l'attitudine street più autentica si incontrano nel nuovo\nCostume Uomo Deus Ex Machina.\nQuesto pantaloncino da mare si allontana dai classici boardshort a tinta unita per proporre una raffinata geometria d'ispirazione tecnica, incarnando alla perfezione la filosofia \"custom culture\" del brand nato a Sydney.\nDesign, Costruzione e Caratteristiche Principali\nGrafica a Quadretti Grid Pattern in Stile Boardroom\n: Il focus estetico principale del costume risiede nella sua bellissima trama geometrica. Su una base nera profonda si sviluppa un sottile reticolo di linee bianche a contrasto (grid pattern) che richiama le textures dei tessuti tecnici ripstop o le grafiche d'archivio skate degli anni '90, donando un carattere bold e strutturato.\nEtichetta Deus Customs Rettangolare Originale\n: Sulla gamba sinistra, posizionata in basso vicino al bordo, spicca l'iconica etichetta rettangolare nera con il lettering bianco \"DEUS CUSTOMS\". Una firma minimale ma di grandissimo impatto, che garantisce l'autenticità e l'appartenenza alla community internazionale del brand.\nTessuto Mesh e Nylon ad Asciugatura Rapida\n: Confezionato in una tela tecnica di nylon leggero e resistente, accoppiato internamente a una fodera in mesh (rete) traspirante. Questa struttura è progettata per non trattenere l'acqua, garantendo tempi di asciugatura record appena usciti dal mare o dalla piscina.\nGirovita Elastico Arricciato ad Alta Stabilità\n: La costruzione presenta una spessa fascia elastica interamente arricciata in vita che si adatta perfettamente alla silhouette, assicurando massima tenuta e stabilità anche durante le sessioni di surf, beach volley o nuoto più intense.\nTaglio Regolare con Spacchetti Laterali\n: Sviluppato con una lunghezza short moderna che si attesta sopra il ginocchio e rifinito con piccoli spacchetti geometrici sul fondo laterale delle gambe, studiati per massimizzare l'ampiezza di movimento e la freschezza.\nIdee di Stile: Linka il Tuo Outfit\nTotal Deus Surf Uniform\n: Esalta la natura ride-core del brand combinando le sue icone. Abbina questo swim short alla forza grafica di una\nt-shirt uomo\nDeus Ex Machina con macro stampa vintage sulla schiena, chiudendo l'outfit con un cappello trucker e un occhiale da sole bold.\nMetropolitan Beachwear Transition\n: Per muoverti fluidamente dalla spiaggia all'aperitivo sul bagnasciuga, gioca sui contrasti industrial nordeuropei. Accosta il costume alla struttura ingegneristica e pulita di una delle\nt-shirt uomo\nG-Star RAW in cotone biologico bianco o grigio fiammato, rifinendo con una sneaker bassa in tela.\nSmart Summer Contrast\n: Smorza l'impronta street-utility del reticolo nero unendo la tecnicità del nylon alla nobiltà delle fibre naturali. Indossa lo short insieme a una fresca\ncamicia uomo\nSquad in puro lino delavé lasciata aperta sopra una canotta basica chiara, per un perfetto look lounge rilassato.\nVivi la stagione calda con la sicurezza di un design tecnico che rompe gli schemi tradizionali del beachwear e ridefinisce lo stile urban estivo. Scegli l'efficienza idrorepellente e l'attitudine grafica degli shorts Service Mesh firmati Deus Ex Machina.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.8,
+      "casual": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno pantaloncino con elastico in vita",
+    "season": "estate",
+    "pattern": "quadri"
+  }
 }

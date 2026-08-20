@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-ewc-jam-bordeaux-bordeaux-ewc-jam-bordeaux-bordeaux",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Jam Bordeaux\nMaglia Uomo Nuvolari modello Jam con maniche lunghe in tessuto misto lana color block. Caratterizzata da girocollo, polsini e fondo a costine, con il logo Nuvolari ricamato sul fondo della manica sinistra.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% lana 50% acrilico\nCodice articolo: EWC JAM BORDEAUX-BORDEAUX",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo in misto lana, adatta a contesti smart casual quotidiani",
+    "season": "inverno",
+    "pattern": "righe"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-foster-pleated-pant-cement-cem",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica ribelle della cultura skate, l'attivismo grafico e l'evoluzione contemporanea dello stile streetwear si fondono armoniosamente nella collezione di\npantaloni chino uomo Obey\n. Fondato nel 2001 dall'artista Shepard Fairey, il brand reinterpreta il classico pantalone chino sartoriale infondendogli un'attitudine decisamente urban e rilassata. Obey destruttura il rigore tradizionale a favore di volumi ampi e dettagli orientati al comfort assoluto.\nDesign, Silhouette e Caratteristiche Principali\nLa Sfumatura Neutra Cement\n: La colorazione \"Cement\" si sviluppa su una raffinata tonalità beige chiaro/sabbia gessosa. Questa palette neutra e di matrice industriale si rivela straordinariamente versatile, ideale per costruire outfit puliti e facili da abbinare in qualsiasi stagione dell'anno.\nGeometrie Relaxed con Doppia Pinces Frontale\n: Il taglio si distingue per una silhouette rilassata a gamba ampia e dritta. La presenza delle eleganti pinces (o pieghe) sul davanti, chiaramente visibili ,dona volume extra sulla zona delle cosce, creando un perfetto punto d'incontro tra la sartorialità rétro e la funzionalità skate-wear.\nGirovita Ibrido Elastico e Chiusura Classica\n: Per garantire il massimo della vestibilità e del comfort quotidiano, il retro del girovita è ingegnosamente elasticizzato, mentre sul fronte mantiene un aspetto pulito con passanti per la cintura, patta con zip e chiusura formale con bottone in tinta.\nTessuto Twill di Cotone Robusto e Confortevole\n: Confezionato in un twill di puro cotone premium ad alta densità, resistente alle abrasioni tipiche dello skate ma piacevolmente morbido al tatto. La stabilità strutturale del tessuto assicura una caduta scultorea e una lunga durata nel tempo.\nTasche Funzionali e Branding Discreto\n: Il pantalone è provvisto di pratiche tasche laterali a filo posizionate lungo le cuciture e di tasche posteriori a filetto. All'interno del girovita spicca la classica etichetta tessile con il logo minimale Obey\nIdee di Stile: Costruisci il Tuo Look Skate & Smart-Casual\nMetropolitan Skate Uniform\n: Esalta l'anima rilassata e i volumi generosi del pantalone. Abbina il chino Obey Cement alla struttura boxy e pesante di una t-shirt donna o uomo Hinnominate oversize in nuance scura (nero o cioccolato), completando il cerchio con una sneaker da skate chunky e un cappello con visiera Lee dal sapore vintage.\nContemporary Utility Layering\n: Crea una combinazione estiva fresca, geometrica e di grande personalità. Indossa il pantalone insieme alla camicia a maniche corte a righe verticali, lasciandola aperta sopra una canotta basica bianca per un perfetto gioco strutturale da aperitivo urban.\nSmart Casual Transition Look\n: Smorza la matrice puramente streetwear del capo inserendolo in un contesto più formale ed elegante. Accosta il chino \"Cement\" alla precisione tridimensionale di una polo uomo Lee in cotone piqué blu navy o verde bosco, siglando l'outfit con un paio di sneakers uomo SUN68 dai dettagli cromatici bilanciati o un mocassino scamosciato leggero.\nSperimenta la perfetta sintesi tra il rigore del taglio sartoriale classico e la forza espressiva del design underground californiano. Scegli la versatilità della colorazione Cement, il comfort delle pinces strutturate e l'attitudine inconfondibile dei pantaloni chino uomo firmati Obey.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Chino dal taglio rilassato/skatewear con girovita elastico sul retro, di un brand streetwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stringate/mocassino-wally-sport-mesh-40403-navy-410",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nRinfresca il tuo guardaroba con la recente selezione di calzature sportive. Questo assortimento si distingue per il suo stile distintivo, con una struttura in tessuto a maglia traspirante che avvolge il piede senza compromettere il supporto.\nCaratteristiche principali:\nStruttura in tessuto a maglia traspirante\nSistema di allacciatura easy-on\nOttimo per gli spostamenti\nPratico da pulire\nSoletta in schiuma estraibile\nSuola flessibile e ultraleggera\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.6,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Scarpa slip-on ultraleggera in mesh, molto informale e adatta all'uso quotidiano estivo o tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

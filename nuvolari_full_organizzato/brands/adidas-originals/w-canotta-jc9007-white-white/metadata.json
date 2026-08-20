@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/adidas-originals/w-canotta-jc9007-white-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Canotta Donna Adidas Originals JC9007 è un capo essenziale che fonde l'estetica sportiva d'archivio con un taglio contemporaneo e femminile.\nCaratterizzata da una silhouette crop e da un design minimalista, questa canotta a coste è pensata per offrire comfort e stile durante le giornate più dinamiche o nei momenti di relax urbano.\nAdidas Originals JC9007 Il Crop Top Iconico in Costina\nPerché sceglierla\nIl punto di forza di questo modello è la sua incredibile versatilità. Realizzata in un morbido tessuto di cotone elasticizzato con lavorazione a costine, la canotta JC9007 aderisce perfettamente alle linee del corpo senza stringere, garantendo una traspirabilità naturale. Il taglio corto in vita (crop) la rende il pezzo ideale da abbinare a capi a vita alta, creando una silhouette moderna e slanciata che richiama le tendenze streetwear degli anni '90.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta crop sportiva, tetto di marchio sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

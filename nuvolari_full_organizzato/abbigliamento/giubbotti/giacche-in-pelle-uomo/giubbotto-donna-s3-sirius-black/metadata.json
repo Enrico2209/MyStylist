@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giacche-in-pelle-uomo/giubbotto-donna-s3-sirius-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Donna Proj3ct Sirius Black è l'interpretazione definitiva del classico chiodo da motociclista, un capo iconico che non può mancare in un guardaroba dal carattere rock e metropolitano. Realizzato in una morbida ecopelle di alta qualità, questo giubbotto combina una silhouette grintosa con dettagli tecnici che ne esaltano la struttura e la vestibilità.\nPerché sceglierlo\nIl modello Sirius è progettato per chi cerca un capospalla capace di dare carattere immediato a qualsiasi outfit. La sua forza risiede nel design asimmetrico e nei dettagli metallici a contrasto che richiamano lo stile biker originale. È un capo estremamente versatile: perfetto per smorzare un abito romantico o per completare un look \"total black\" deciso e moderno.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliuretano\nVestibilità regular\nCodice articolo: S3 SIRIUS BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "chiodo in ecopelle stile biker, capo grintoso e informale da giorno",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

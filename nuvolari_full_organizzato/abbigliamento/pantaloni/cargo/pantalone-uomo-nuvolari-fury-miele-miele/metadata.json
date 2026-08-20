@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-nuvolari-fury-miele-miele",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Pantalone Uomo Nuvolari Fury miele è un capo di abbigliamento versatile e alla moda che si adatta perfettamente a ogni occasione. Coniugando stile e comfort, questo pantalaccio è un must-have nel guardaroba di ogni persona alla ricerca di un capo pratico e di tendenza.\nCaratteristiche Principali:\nStile senza Tempo:\nIl design classico del Pantalone Uomo Nuvolari Fury miele si adatta a qualsiasi stile e tendenza, garantendo un look senza tempo che si presta a molteplici occasioni.\nComodità Estrema:\nRealizzato con materiali di alta qualità, il Pantalaccio offre un comfort eccezionale per tutto il giorno. La vestibilità regolare assicura libertà di movimento senza rinunciare allo stile.\nVersatilità senza Confini:\nDal casual all'elegante, questo pantalaccio si presta ad essere indossato in diverse situazioni. Combinalo con una camicia formale per un look professionale o con una maglietta casual per un outfit più rilassato.\nDettagli Cura del Dettaglio:\nI dettagli curati, come tasche funzionali e finiture di alta qualità, conferiscono al Pantalone Uomo Nuvolari Fury miele un tocco di raffinatezza che non passa inosservato.\nVariazioni di Colore:\nDisponibile in una gamma di colori classici e moderni, il Pantalone Uomo Nuvolari Fury miele ti consente di esprimere il tuo stile personale. Scegli tra tonalità neutre per un look più sobrio o opzioni più vivaci per un tocco di vivacità.\nGuida alle Taglie:\nConsulta la nostra tabella delle taglie per assicurarti di scegliere la misura perfetta del Pantalone Uomo Nuvolari Fury miele.\nCura del Prodotto:\nLavabile in lavatrice, il Pantalone Uomo Nuvolari Fury miele è facile da mantenere. Segui le istruzioni sulla cura del prodotto per garantirne la durata nel tempo.\nAggiungi un tocco di stile senza sforzo al tuo guardaroba con il Pantalone Uomo Nuvolari Fury miele. Acquista ora e scopri il perfetto equilibrio tra moda e comfort!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione\nVestibilità Regular\nComposizione: 97% COTONE - 3% ELASTAN\nCodice Prodotto: 20400",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo/pantalaccio con tasconi laterali, capo prettamente casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,26 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/w-jeans-w2-marte-marrone-nero-mrn-ne",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nJeans da Donna Proj3ct - Stampa Snake Bold\nFai una dichiarazione di stile con questi jeans Proj3ct che uniscono un design classico a una stampa audace. Se cerchi un capo che si faccia notare, questo modello con stampa snake è l'aggiunta perfetta al tuo guardaroba.\nLa vestibilità a\nvita alta\ne la\ngamba dritta\noffrono una silhouette moderna ed elegante che slancia la figura, mentre la\nstampa animalier\nin tonalità marroni e nere dona un tocco aggressivo e sofisticato al tempo stesso.\nRealizzati con una composizione di alta qualità, questi jeans offrono un comfort eccezionale. Il\ncotone\ngarantisce traspirabilità, il\nTencel\n(una fibra ecologica) aggiunge una sensazione di morbidezza e fluidità, mentre l'\nelastane\nassicura la giusta elasticità per una perfetta libertà di movimento.\nPerfetti da abbinare a capi minimali come una\nt-shirt nera o un top\nin seta per un look da sera, questi jeans sono ideali per chi non ha paura di osare.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n84% cotone, 14% tencil, 2% elastane\nVestibilità regular\nCodice articolo: W2 MARTE MARRONE/NERO-MRN/NE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt nera o un top",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Jeans regular con stampa animalier molto vistosa, adatto a contesti casual e streetwear",
+    "season": "mezza_stagione",
+    "pattern": "animalier"
+  }
 }

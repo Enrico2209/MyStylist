@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-j2321-oatmeal-691",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Fred Perry J2321 Oatmeal è una reinterpretazione contemporanea della classica giacca sportiva britannica, caratterizzata da una tonalità neutra e sofisticata che ne esalta la pulizia del design. Realizzato in un robusto tessuto misto di poliestere riciclato e cotone, questo capo incarna perfettamente l'equilibrio tra protezione tecnica e stile heritage.\nPerché sceglierlo\nQuesto modello si distingue per la sua eccezionale versatilità stagionale. La finitura in twill di poliestere e cotone offre una barriera efficace contro il vento e l'umidità, mantenendo al contempo una mano morbida e naturale. La colorazione Oatmeal (un beige crema caldo e luminoso) lo rende il capospalla ideale per chi cerca un'alternativa raffinata ai classici colori scuri, capace di illuminare l'intero outfit senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n60% poliestere, 40% poliammide\nVestibilità regular\nCodice articolo: J2321 OATMEAL-691",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto sportivo leggero stile harrington/windbreaker",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

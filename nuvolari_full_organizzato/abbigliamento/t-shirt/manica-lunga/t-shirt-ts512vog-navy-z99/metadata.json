@@ -22,5 +22,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/manica-lunga/t-shirt-ts512vog-navy-z99",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nConiuga stile e comfort senza compromessi con la t-shirt girocollo di Lyle & Scott nella variante Rust\nQuesto capo essenziale del guardaroba maschile è pensato per offrire un fit impeccabile e una sensazione di morbidezza sulla pelle. Indossala con sicurezza in qualsiasi occasione, dal tempo libero alle occasioni più formali, per un look che trasuda eleganza e raffinatezza in ogni dettaglio. Il design sobrio e il logo ricamato sul petto conferiscono un tocco di classe in più a questo capo senza tempo.\nSe anche tu sei amante del brand Lyle & Scott, scopri qui gli altri\ncapi di abbigliamento\ndel marchio selezionati apposta per te da\nNuvolari\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nComposizione:  100% cotone\nCodice articolo: TS512VOG NAVY-Z99",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "capi di abbigliamento",
+      "categoria_url": "https://www.nuvolari.biz/brands/lyle-scott"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt a manica lunga in cotone, capo base per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

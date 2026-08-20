@@ -18,5 +18,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/new-balance/sneakers-new-balance-u200087t-tar-eind-ngry",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nNew Balance U2010: L'Evoluzione del Comfort Massimalista\nSneakers Uomo New Balance U201087T\nEntra nel futuro del footwear con le New Balance U2010, dove l'ingegneria d'avanguardia incontra uno stile audace. Questo modello si distingue per una suola rivoluzionaria a \"pod\" che offre un'ammortizzazione reattiva e un look d'impatto. La palette cromatica, dominata da sfumature vibranti di viola e dettagli neri profondi, è pensata per chi desidera una sneaker che sia allo stesso tempo un pezzo di design e un concentrato di performance.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running/lifestyle, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/polo-king-white-100",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Uomo U.S. Polo Assn. King\nrappresenta la perfetta sintesi dello stile preppy ed elegante che caratterizza lo storico brand americano legato al mondo del polo. Questo capo iconico unisce una silhouette classica e un'attenzione millimetrica ai dettagli sartoriali, posizionandosi come un pilastro fondamentale del guardaroba maschile per creare look casual raffinati e dinamici.\nDesign e Caratteristiche Principali\nIconico Logo Ricamato\n: Il vero e proprio sigillo di autenticità del capo è il celebre ricamo del doppio giocatore di polo posizionato sul lato cuore. Realizzato con filati di alta precisione a contrasto cromatico, dona immediata riconoscibilità e un tocco di prestigio al pannello frontale.\nTessuto in Cotone Piqué Premium\n: Confezionata nella tradizionale armatura piqué di puro cotone, caratterizzata dalla tipica texture sollevata e traforata in rilievo. Questa lavorazione garantisce una traspirabilità eccellente, una mano fresca e una struttura robusta che mantiene la piega nel tempo.\nColletto Classico a Costine\n: Presenta un colletto a camicia flessibile lavorato a maglia rasata con bordatura rinforzata, progettato per adagiarsi in modo impeccabile sul collo ed essere portato chiuso o aperto con la massima naturalezza.\nPatta d'Apertura con Bottoni Logati\n: Lo scollo sul petto è definito da una fessura verticale parziale con chiusura a due o tre bottoni classici, finemente incisi con il branding U.S. Polo Assn. coordinato alla tonalità del filato.\nBordi Manica Elasticizzati\n: Le maniche corte sono rifinite con polsini a costine elasticizzate che aderiscono al bicipite in modo anatomico senza stringere, definendo una linea pulita e marcatamente sportiva.\nSpacchi Laterali sul Fondo\n: La base del busto è arricchita da piccoli spacchi laterali rinforzati all'orlo, studiati per agevolare il movimento e permettere di portare la polo sia infilata nei pantaloni sia lasciata morbida all'esterno.\nTaglio Custom Regular Fit\n: Propone una vestibilità regolare e bilanciata, leggermente scivolata sui fianchi e ben proporzionata sul torace, capace di valorizzare la figura maschile assicurando un comfort ottimale per tutta la giornata.\nProposta di Outfit\nSmart Casual Prestige\n: Abbinala a un\npantalone\nmodello chino in cotone beige o fango e completa l'outfit con una cintura in pelle; un abbinamento versatile e sofisticato, perfetto per il venerdì casual in ufficio o per un pranzo formale di giorno.\nSummer Riviera Comfort\n: Portala insieme a un\nbermuda\nin tela di lino o cotone leggero e aggiungi un tocco estivo con un occhiale da sole scuro; un ensemble fresco, disinvolto e ideale per il tempo libero durante i fine settimana o per un aperitivo al tramonto.\nUrban Preppy Layering\n: Indossala sotto una\novershirt\nleggera lasciata sbottonata o abbinala a un\njeans\ndal lavaggio medio-scuro; la linearità della polo farà risaltare il contrasto delle textures, definendo un perfetto look urban per le serate in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in cotone piqué, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

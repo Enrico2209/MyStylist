@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/lee-t-shirt-vinyl-tee-washed-112376460-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa t-shirt Lee Vinyl Tee nella variante Washed Black è un capo dal forte carattere vintage, ispirato al mondo della musica e dell'estetica rétro.\nDettagli di Design e Grafica Logo \"Vinyl\"\n: Il fronte della maglia è caratterizzato dal logo Lee rielaborato con un font tipico delle copertine dei dischi in vinile degli anni '70, proposto in una tonalità rosso mattone dall'effetto \"cracked\" (screpolato) per un autentico look vissuto.\nFinitura Washed Black:\nIl colore nero lavato dona al tessuto un aspetto vintage naturale, rendendo ogni capo leggermente unico e perfetto per outfit urban o rock-inspired.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con piccolo logo sul petto, stile casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

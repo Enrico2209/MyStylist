@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calza-proj3ct-so-poison-all-over",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI calzini Proj3ct uniscono comfort e stile in un accessorio essenziale per il tuo outfit. Realizzati in morbido cotone elasticizzato, offrono una vestibilità perfetta e una sensazione di comfort per tutto il giorno. Il design minimal con dettagli distintivi li rende ideali da abbinare a qualsiasi look, dal casual allo sportivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 1,
+    "formality_perche": "calzini sportivi/streetwear con grafica all-over, livello base",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

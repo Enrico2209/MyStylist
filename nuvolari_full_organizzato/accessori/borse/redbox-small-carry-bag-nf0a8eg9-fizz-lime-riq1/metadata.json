@@ -21,5 +21,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/borse/redbox-small-carry-bag-nf0a8eg9-fizz-lime-riq1",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo stile urbano e l'affidabilità di The North Face si condensano nella\nRedbox Small Carry Bag di The North Face nella vivace colorazione Fizz Lime\n. Una tracolla compatta e funzionale, perfetta per portare l'essenziale con un tocco di colore, ideale per la città e il tempo libero.\nDesign, Materiali e Caratteristiche Costruttive\nTessuto Resistente\n: Realizzata in materiale robusto e facile da pulire, pensato per resistere all'uso quotidiano.\nColore Fizz Lime\n: Una nuance verde lime brillante che dona energia e rende la borsa un accessorio di carattere.\nFormato Compatto\n: Dimensioni pratiche, ideali per smartphone, portafoglio, chiavi e piccoli oggetti.\nTracolla Regolabile\n: Cinghia regolabile per indossarla a spalla o a tracolla con il massimo comfort.\nLogo Redbox Iconico\n: L'inconfondibile riquadro logo The North Face sul davanti, firma di stile riconoscibile.\nIdee di Stile e Utilizzo\nEveryday Urbano\n: Portala a tracolla su un look casual per avere l'essenziale sempre a portata di mano.\nSport & Free Time\n: Compagna ideale per una passeggiata, un concerto o una giornata all'aria aperta.\nPop di Colore\n: Abbinala a capi neutri come\nt-shirt\ne\ngiubbotti\nscuri per far risaltare il verde lime.\nAggiungi un tocco di colore al tuo outfit con la praticità di un'icona urban. La Redbox Small Carry Bag di The North Face è l'accessorio essenziale per muoverti leggero.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "borsa a tracolla compatta di marchio outdoor, tetto massimo di formalita pari a 1",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,21 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-miguel-nero-rayz",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nRayz Miguel: L'Attitudine Street incontra il Design Tie-Dye\nT-Shirt Uomo Rayz Miguel Nero\nEleva il tuo urban style con la T-shirt Rayz Miguel. Questa maglia rielabora il concetto di \"total black\" inserendo un elemento grafico distintivo: una banda orizzontale con effetto tie-dye sfumato che attraversa il fondo del capo. Progettata per chi cerca un'estetica contemporanea e decisa, la Miguel trasforma un pezzo basico in una dichiarazione di stile street-art.\nDettagli Artigianali e Taglio Contemporaneo\nGrafica Tie-Dye \"Wave\"\n: La fascia inferiore presenta un pattern organico nei toni del bianco e del grigio, ottenuto con una tecnica d'ispirazione artigianale che crea un contrasto netto e dinamico con la base nera della maglia.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica tie-dye dal taglio street e vestibilità rilassata",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

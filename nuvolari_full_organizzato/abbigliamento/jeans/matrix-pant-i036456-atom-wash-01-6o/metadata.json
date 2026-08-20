@@ -19,5 +19,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/matrix-pant-i036456-atom-wash-01-6o",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nDenim giapponese e taglio contemporaneo si incontrano nel\njeans da uomo Edwin modello Matrix in denim dal lavaggio chiaro Atom Wash\n. Un cinque tasche dalla vestibilita loose e dalla gamba dritta, con lavaggio azzurro dalle leggere sfumature vissute: un capo dallo stile rilassato e ricercato, firmato dall'inconfondibile qualita Edwin.\nDesign, Tessuti e Caratteristiche Costruttive\nDenim di Qualita:\ncotone denim strutturato dalla mano autentica, tipico della tradizione giapponese Edwin.\nLavaggio Chiaro Atom Wash:\nnuance azzurra con leggere sfumature per un effetto vissuto e naturale.\nVestibilita Loose Dritta:\ntaglio comodo e rilassato con gamba dritta dal mood contemporaneo.\nModello 5 Tasche:\nclassica costruzione a cinque tasche con chiusura a bottone e zip.\nIdee di Stile: Costruisci il Tuo Look Casual\nCasual Everyday:\nabbinalo a una\nt-shirt uomo\nessenziale e a delle\nsneakers uomo\nper un look comodo e curato.\nSmart Casual:\nperfetto con una\ncamicia uomo\no una felpa per un outfit versatile.\nDenim Everyday:\nil lavaggio chiaro lo rende un jolly facile da abbinare e sempre attuale.\nAggiungi un denim di carattere al tuo guardaroba. Scegli la qualita del denim giapponese, il lavaggio chiaro vissuto e lo stile inconfondibile firmato Edwin Matrix.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Jeans 5 tasche con vestibilità loose e lavaggio chiaro vissuto",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

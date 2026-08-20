@@ -24,5 +24,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-proj3ct-uomo-ewc-rooster-nero-nero-ewc-rooster-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Proj3Ct Ewc Rooster Nero\nMaglia\nProject da uomo a girocollo, dal design minimal con bordi a costine su collo, polsini e fondo, perfetta per un look casual.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "elegante": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo basica, adatta a contesti smart casual e quotidiani",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

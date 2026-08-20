@@ -21,5 +21,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-t5507-black-warm-stn-u78p",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantaloni da tuta Fred Perry: per lo sportivo contemporaneo\nI nostri track pant in tricot sono un connubio perfetto di stile e comfort, caratterizzati da dettagli che li rendono unici nel loro genere. Il tessuto classico in tricot sportivo offre una sensazione di leggerezza e libertà di movimento, garantendo un comfort ottimale in ogni situazione. La vestibilità classica si adatta perfettamente a ogni fisicità, mentre il girovita elasticizzato con coulisse consente di regolarne l'ampiezza per una vestibilità personalizzata. Con tasche frontali e un ricamo della corona d'alloro, questi pantaloni trasudano eleganza e raffinatezza.\nUn'icona di stile sportivo reinterpretata\nOriginariamente utilizzata per coprire le cuciture a vista nelle tenute sportive, la track tape diventa elemento chiave nel design dei nostri pantaloni da tuta. Con la corona d'alloro a contrasto sull'esterno della gamba, rappresenta un'icona del linguaggio visivo di Fred Perry, conferendo agli indumenti un carattere inconfondibile e distintivo. Le nostre tute combinate e abbinate sono un'espressione del connubio tra eleganza classica e spirito sportivo contemporaneo, ideali per chi cerca uno stile distintivo e sofisticato anche nei momenti di relax.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n54% Poliestere Riciclato / 46% Cotone\nCodice articolo: T5507 BLACK/WARM STN-U78P",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.4,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con elastico in vita e coulisse",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

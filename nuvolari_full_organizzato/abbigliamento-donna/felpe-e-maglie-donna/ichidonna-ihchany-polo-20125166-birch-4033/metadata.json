@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/felpe-e-maglie-donna/ichidonna-ihchany-polo-20125166-birch-4033",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Ichi Donna Ihchany Birch\nreinterpreta un grande classico dell'abbigliamento sportivo e preppy attraverso codici estetici iper-femminili, freschi e di chiara ispirazione rétro. Sviluppata su una luminosa e naturale base color panna/crema (\"Birch\"), questa polo a maniche corte si distingue per una lavorazione materica mossa e per deliziosi accenti cromatici a contrasto, ponendosi come un capo ideale per elevare con disinvoltura i look casual della bella stagione.\nDesign e Caratteristiche Principali\nTessuto in Maglia con Trama a Rilievo\n: Il corpo del capo è realizzato in un filato leggero di cotone lavorato a maglia tricot flessibile, caratterizzato da una micro-texture geometrica traforata e in rilievo (effetto waffle o nido d'ape). Questa struttura mossa dona tridimensionalità alla superficie e assicura una ventilazione e freschezza impeccabili sulla pelle.\nColletto e Profili a Contrasto \"Very Berry\"\n: Il classico colletto a polo dritto e i bordi elastici delle maniche sono rifiniti in maglia compatta color rosa fucsia/fragola (\"Very Berry\"). Questo deciso stacco cromatico dona al capo un'immediata attitudine pop e d'ispirazione tennis vintage.\nScollo a V Aperto senza Bottoni\n: Il design anteriore presenta un'apertura a polo minimalista e fluida che converge in una pulita scollatura a V. L'assenza di bottoni o patte rigide alleggerisce la struttura del colletto, slanciando otticamente il decolleté in modo sensuale e rilassato.\nManiche Corte Raglan e Bordate\n: Le maniche presentano un taglio confortevole e leggermente scivolato, sigillate al fondo da un alto polsino elastico a coste fucsia che si adatta dolcemente al braccio senza stringere, mantenendo una perfetta stabilità della silhouette.\nSilhouette Lineare Regular-Fit\n: Il taglio scende dritto sul busto assecondando le linee anatomiche in modo morbido ma accostato, garantendo il perfetto equilibrio tra la comodità di una maglia sportiva e la compostezza di un top sartoriale.\nFondo con Orlo Piatto Regolabile\n: L'orlo inferiore lineare e rifinito si presta magnificamente sia a essere lasciato libero sui fianchi per un'attitudine casual, sia a essere rimborsato interamente all'interno di capi a vita alta per valorizzare il girovita.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "polo in maglia lavorata, registro smart casual",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

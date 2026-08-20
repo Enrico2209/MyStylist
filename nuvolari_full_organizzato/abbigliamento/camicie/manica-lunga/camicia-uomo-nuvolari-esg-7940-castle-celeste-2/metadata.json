@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-uomo-nuvolari-esg-7940-castle-celeste-2",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Uomo Nuvolari Castle Celeste\nLa\ncamicia\nelegante Nuvolari è un capo essenziale per un look raffinato. Realizzata con materiali di alta qualità, offre una vestibilità impeccabile e un design sobrio. Perfetta per occasioni formali o per aggiungere un tocco di classe a un outfit casual, questa camicia è un simbolo di stile e sofisticazione.\nAbbina la camicia ad una\ngiacca\nper un outfit elegante perfetto per cerimonie o per andare in ufficio, oppure provale con un paio di\npantaloni di chino\nche\nNuvolari\nha pensato per te.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: ESG 7940 CASTLE CELESTE-2",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html?_gl=1*ofh445*_up*MQ..&gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3lIFVvKVb3HtcYe7m79w3e4rQ77F6GqHl-WAk41xpqn8JIoUtkakwcaAmIKEALw_wcB"
+    },
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "pantaloni di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.6
+    },
+    "formality": 3,
+    "formality_perche": "camicia classica con vestibilità regular, adatta a contesti smart casual e ufficio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

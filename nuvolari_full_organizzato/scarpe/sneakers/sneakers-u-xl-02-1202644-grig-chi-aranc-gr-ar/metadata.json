@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-u-xl-02-1202644-grig-chi-aranc-gr-ar",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUrban Future: La Sneaker Urban-Performance tra Precisione e Avanguardia\nRidefinisci i confini del movimento urbano. Questa sneaker athleisure da uomo a taglio basso è un concentrato di\ndesign futuristico\ne soluzioni\nrunning-oriented\n, dove ogni componente è stato trasformato in un elemento puramente funzionale. Progettata per chi esige un controllo millimetrico e un’ammortizzazione senza sosta, questa silhouette rappresenta il punto d'incontro tra l'estetica street e le prestazioni tecniche d'eccellenza.\nSinergia Materica e Architettura Strutturale\nTraspirabilità Evoluta e Supporto Termosaldato\nLa tomaia è il risultato di un equilibrio perfetto tra comfort termico e stabilità, progettata per adattarsi alla biomeccanica del piede durante l'uso intenso in città.\nKnit Perforato & Suede\n: Una fusione che garantisce una ventilazione naturale continua. Il tessuto knit a trama aperta favorisce il micro-circolo dell'aria, mentre gli inserti in suede aggiungono struttura e quel tocco di carattere premium.\nSupporto Termosaldato Multistrato\n: La zona posteriore è rinforzata da una struttura tecnica a più strati con finiture termosaldate. Questa soluzione offre un sostegno strutturale impeccabile e una resistenza superiore senza aggiungere peso superfluo.\nDynamic Elastic Collar\n: Il collarino elastico assicura un’adattabilità dinamica che avvolge la caviglia come una seconda pelle, donando alla scarpa un profilo aerodinamico e moderno.\nIngegneria della Suola a 5 Componenti\n:\nTrazione Adattiva\n: Tassellatura multidirezionale progettata per un grip costante su superfici urbane variabili.\nImpact Shield\n: Cuscinetti ammortizzanti localizzati su tallone e avampiede per dissipare gli urti dell'asfalto.\nStabilità TPU\n: Inserto centrale studiato per massimizzare il supporto torsionale e la stabilità dinamica.\nAmmortizzazione Rapid-Tech\n: Il sottopiede con microsfere in EVA e schiuma poliuretanica offre una reattività immediata e un comfort che dura tutto il giorno.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker tecnica da running/athleisure, tetto massimo per calzature sportive",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

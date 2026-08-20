@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/new-balance-sneakers-u204l273-cortado-spink-273",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa New Balance U204L27 è l'essenza dello stile \"Tech-Enthusiast\" che ha riportato il brand di Boston in cima alle preferenze degli sneakerhead globali. Questo modello combina un'estetica ispirata al running dei primi anni 2000 con tecnologie di ammortizzazione all'avanguardia.\nPerformance Heritage & Urban Style\nPerché sceglierla\nLa serie 2002R è celebre per la sua capacità di offrire un look strutturato e \"massimalista\" senza risultare pesante. La U204L273 si distingue per una palette cromatica sofisticata e una costruzione multi-materiale che la rende perfetta per chi cerca una scarpa robusta, ammortizzata e incredibilmente versatile per l'uso quotidiano.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

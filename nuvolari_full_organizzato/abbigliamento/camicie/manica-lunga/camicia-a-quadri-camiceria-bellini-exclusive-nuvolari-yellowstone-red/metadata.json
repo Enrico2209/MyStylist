@@ -21,5 +21,26 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-a-quadri-camiceria-bellini-exclusive-nuvolari-yellowstone-red",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia a quadri uomo rossa e bianca a maniche lunghe firmata Camiceria Bellini x Nuvolari. Composizione 100% cotone, collo francese e fantasia check all over per questo modello dalla linea semplice e raffinata. Completa il tuo look Nuvolari con il\npantalone chino Douglas Navy\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia a quadri uomo Bellini for Nuvolari modello Yellowstone - Red\nManiche lunghe\nFantasia check\nChiusura con bottoni\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino Douglas Navy",
+      "categoria_url": "https://www.nuvolari.biz/pantalone-chino-nuvolari-5095-douglas-navy.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia in cotone a quadri, vestibilità slim, consigliata con chino",
+    "season": "mezza_stagione",
+    "pattern": "quadri"
+  }
 }

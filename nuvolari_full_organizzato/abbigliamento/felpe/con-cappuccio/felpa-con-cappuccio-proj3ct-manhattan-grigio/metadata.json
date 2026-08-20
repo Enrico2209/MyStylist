@@ -21,5 +21,27 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-con-cappuccio-proj3ct-manhattan-grigio",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nCompleta il tuo stile streetwear invernale/autunnale con questo modello oversize di felpa da ragazzo con cappuccio a coulisse e tasca marsupio. Ricamato sulla parte frontale il logo Proj3ct, brand per chi ama uno stile moderno e pieno di personalità: scopri il\nProj3ct store\n!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa uomo con cappuccio Proj3ct modello Manhattan - Grigio\nCappuccio con coulisse\nTasca marsupio sul davanti\nLogo ricamato sul davanti\nBordi a costina\nFit oversize\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Proj3ct store",
+      "categoria_url": "https://www.proj3ct.it/"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio oversize, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

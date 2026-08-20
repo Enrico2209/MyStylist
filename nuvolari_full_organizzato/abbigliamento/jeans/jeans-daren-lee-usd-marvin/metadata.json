@@ -20,5 +20,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-daren-lee-usd-marvin",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\njeans da uomo di Lee\nUSD Marvin\nsono\njeans a gamba dritta\n.\nJ\neans daren marvin\nQuesti\njeans a 5 tasche\nsono un classico moderno con taglio regolare. I jeans hanno passante per la cinta, bottone e zip nascosta. Posteriormente, sono impreziositi dall'etichetta del brand.\nSe vuoi un look completo, dai un'occhiata al resto dell'\nabbigliamento da uomo di Lee.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nJeans Uomo Lee Daren USD Marvin\nVestibilità Regular\nComposizione: 98% Cotton 2% Elastane\nCodice articolo: ESG L707KNMB USD MARVIN-USD MARVN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "abbigliamento da uomo di Lee.",
+      "categoria_url": "https://www.nuvolari.biz/brands/lee"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a 5 tasche con lavaggio medio, capo base del guardaroba casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/calzini-uomo/calza-logo-prac928-black-121",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nComfort quotidiano e mood streetwear si incontrano nelle\ncalze da uomo Propaganda con logo nella nuance Nera\n. Un paio di calze in morbido cotone elasticizzato, in nero total con il logo firma Propaganda: un accessorio essenziale e di carattere, perfetto per completare i look di tutti i giorni.\nDesign, Materiali e Caratteristiche Costruttive\nCotone Elasticizzato:\nfilato morbido e traspirante per un comfort ottimale tutto il giorno.\nColore Nero Total:\ntinta unita facilissima da abbinare a ogni outfit.\nLogo Propaganda:\nil dettaglio firma aggiunge autenticita streetwear.\nPolsino a Costine:\nbordo elasticizzato per una buona tenuta senza stringere.\nIdee di Stile: Un Accessorio per Ogni Look\nSporty Everyday:\nabbinale a delle\nsneakers uomo\ne a un paio di\njeans uomo\nper un look casual e curato.\nTocco a Vista:\nlasciale intravedere con pantaloni corti o cropped per un dettaglio streetwear.\nComfort Quotidiano:\nun essenziale morbido e resistente per ogni giorno.\nCompleta il tuo look con un dettaglio essenziale. Scegli la morbidezza del cotone, il nero versatile e lo stile inconfondibile firmato Propaganda.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "calze in spugna di cotone, accessorio intimo/sportivo di marchio streetwear",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/vision-shirt-wd-30hvsh79-black-332",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia con tasca da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Religion modello 30HVSH79\nChiusura con bottoni\nTasca plastificata sul petto con zip\nBottoni sui polsini\nRegular fit\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con tasca tecnica plastificata e zip sul petto, abbassa la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

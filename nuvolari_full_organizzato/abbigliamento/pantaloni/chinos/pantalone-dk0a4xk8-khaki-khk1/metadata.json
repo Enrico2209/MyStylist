@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-dk0a4xk8-khaki-khk1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPantalone da uomo Dickies modello 872.\nIl modello è alto 1.84 e indossa la taglia 32.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nComposizione:  70% poliestere 30% cotone\nCodice articolo: DK0A4XK8",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalone chino Dickies in misto poliestere/cotone, taglio da skater/workwear, vestibilita regular",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-s3-bk-dylan-denim-black-dm-blk",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Nuvolari Bk Dylan in versione Denim Black sono l'alternativa rock e sofisticata al classico jeans blu. Questo modello si distingue per un lavaggio nero trattato con sfumature grigie localizzate (effetto faded), offrendo un look vissuto che mantiene però un'eleganza metropolitana adatta a contesti serali e urban.\nL'Essenza del Denim Black\nPerché sceglierli\nIl modello Dylan è perfetto per chi cerca un jeans versatile che possa passare con disinvoltura da un impegno lavorativo informale a un'uscita serale. Il lavaggio nero antracite non è piatto, ma presenta venature e schiariture strategiche che danno profondità al tessuto, rendendolo meno rigoroso di un nero assoluto e più facile da abbinare.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Jeans cinque tasche con lavaggio effetto vissuto e sfumature grigie",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

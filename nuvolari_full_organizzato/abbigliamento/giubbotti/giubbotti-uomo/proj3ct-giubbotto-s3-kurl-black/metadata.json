@@ -22,5 +22,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/proj3ct-giubbotto-s3-kurl-black",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Donna Proj3Ct S3 Kurl\nnella versione\nBlack\nrappresenta la massima espressione di versatilità e attitudine urban della linea. La colorazione nera esalta il design minimale e la silhouette moderna, rendendolo il capo spalla perfetto per chi cerca un look deciso e facile da coordinare.\nDesign e Caratteristiche Principali\nScollo Rotondo Essenziale\n: La mancanza del colletto tradizionale crea una linea pulita e contemporanea che si adatta a diversi tipi di stratificazione.\nChiusura Frontale a Zip\n: La cerniera metallica argentata spicca sulla base nera, fungendo da dettaglio estetico oltre che funzionale.\nVolume Bomber Cropped\n: Il taglio corto è bilanciato da volumi morbidi e un fondo elasticizzato che modella la figura in modo confortevole.\nManiche con Polsini Arricciati\n: Le maniche ampie terminano con una chiusura elastica che aggiunge dinamismo alla struttura del giubbotto.\nTasche Laterali Integrate\n: Dotato di due tasche a filo verticali che mantengono l'estetica snella e lineare del capo.\nTonalità Black\n: Il nero profondo offre un'eleganza intramontabile e una resistenza stilistica adatta a ogni occasione, dal giorno alla sera.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare la versione black:\nDark Streetwear\n: Combinalo con i Bermuda Donna Proj3Ct Cordova Denim e delle\nsneakers\nnere per un outfit monocromatico di forte ispirazione street.\nCity Contrast\n: Indossalo sopra una\nt-shirt\ncolorata (come la Proj3Ct Finesse Celeste) e dei\nchinos\nchiari per far risaltare il giubbotto.\nCasual Night Out\n: Abbinalo a dei\njeans\ndal lavaggio medio e una\ncamicia\nin seta o viscosa per un look serale rilassato ma sofisticato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto bomber corto stile urban, taglio cropped e fondo elasticizzato",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-wc-rogers-bluroyal-bluroyal-wc-rogers-blu-royal-blu-royal",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Nuvolari modello Rogers\nTessuto misto lana operato bi-color\nGirocollo\nManica raglan\nVestibilità slim ﬁt\nComposizione : 60% acrilico 40% lana\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana, vestibilita slim fit che alza leggermente il tono smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

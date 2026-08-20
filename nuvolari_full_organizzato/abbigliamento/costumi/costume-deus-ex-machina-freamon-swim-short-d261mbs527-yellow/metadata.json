@@ -25,5 +25,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/costume-deus-ex-machina-freamon-swim-short-d261mbs527-yellow",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa vibrante energia della cultura surf psichedelica, lo spirito eclettico delle grafiche d'archivio anni '80 e l'attitudine radicale australiana si fondono nel nuovo\nCostume Uomo Deus Ex Machina\nFreamon Swim Short Yellow. Questo modello rompe totalmente gli schemi del beachwear convenzionale attraverso un audace collage di stampe d'ispirazione artistica astratta e tribal-pop, incarnando perfettamente la filosofia creativa e dissacrante del brand nato a Sydney.\nDesign, Grafica e Caratteristiche Principali\nMacro Stampa Patchwork Multicolor a Base Gialla e Turchese\n: Il focus assoluto del costume risiede nella sua travolgente combinazione grafica. Su una base cromatica dominata dal giallo sole e dal turchese acceso, si sviluppa una composizione patchwork ricca di motivi astratti, spirali geometriche d'ispirazione nativa, pennellate nere a contrasto e accenni aranciati che richiamano l'estetica dei festival surf d'epoca.\nEtichetta Deus Customs Heritage Viola a Contrasto\n: Sulla gamba sinistra, posizionata in basso vicino al bordo inferiore, spicca un'esclusiva etichetta quadrata color viola acceso con il logo del sole nascente e la scritta \"DEUS CUSTOMS\". Questo dettaglio cromatico a contrasto aggiunge un ulteriore tocco pop e vintage, certificando l'originalità del capo.\nTessuto Tecnico Idrorepellente ad Asciugatura Rapida\n: Confezionato in una tela leggera e altamente resistente di nylon o poliestere a rapida evaporazione. La struttura del tessuto respinge attivamente l'umidità esterna, garantendo tempi di asciugatura minimi appena fuori dall'acqua e prevenendo fastidiosi sfregamenti.\nGirovita Elastico Regolabile con Coulisse Turchese\n: La costruzione presenta una fascia elastica interamente arricciata per un comfort ottimale sui fianchi. La stabilità del fitting è amplificata da un cordoncino tubolare piatto in una tonalità azzurro turchese perfettamente coordinata ai blocchi di colore della stampa principale.\nTaglio Boardshort Moderno sopra il Ginocchio\n: Sviluppato con una silhouette fresca e geometrica che si attesta sopra il ginocchio, garantendo la massima libertà di movimento durante le sessioni di nuoto, surf, o le partite a beach volley sul bagnasciuga.\nIdee di Stile: Linka il Tuo Outfit\nRadical Surf Culture Uniform\n: Esalta l'anima artistica e di impatto del brand combinando lo short a elementi minimali che ne lascino esplodere i colori. Abbina il costume alla pulizia di una\nt-shirt uomo\nDeus Ex Machina bianca con un piccolo logo sul petto, completando con un cappello trucker e un occhiale da sole lifestyle specchiato.\nMetropolitan Beachwear Transition\n: Per muoverti comodamente dalla spiaggia alle feste in piscina o a un aperitivo al tramonto, gioca sui contrasti strutturati dello streetwear d'élite. Accosta lo swim short alla precisione lineare di una delle\nt-shirt uomo\nG-Star RAW in cotone biologico nero o grigio scuro per bilanciare l'audacia della stampa patchwork.\nSmart Summer Contrast\n: Smorza l'impronta energica e vivace dello short unendo l'eclettismo del nylon alla leggerezza tessile delle fibre naturali. Indossa il costume insieme a una delle freschissime\ncamicie uomo\nSquad in puro lino fiammato bianco lasciata aperta con le maniche risvoltate, per un perfetto look lounge-chic da spiaggia.\nVivi l'estate senza freni espressivi, unendo l'efficienza dei materiali tecnici alla forza di una grafica d'autore che non passa mai inosservata. Scegli l'attitudine pop-surf e lo stile inconfondibile dei beachshort Freamon firmati Deus Ex Machina.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 0.9,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno con coulisse e grafica pop-surf",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

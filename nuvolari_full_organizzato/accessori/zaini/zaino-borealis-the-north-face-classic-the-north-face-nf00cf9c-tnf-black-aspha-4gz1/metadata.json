@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-borealis-the-north-face-classic-the-north-face-nf00cf9c-tnf-black-aspha-4gz1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nZaino The North Face Borealis Classic The North Face Black/Aspha\nLo zaino Borealis di The North Face offre una capienza di 29 litri, ideale per ufficio, palestra o escursioni. La vestibilità roomy, le cinghie regolabili e il pannello posteriore imbottito garantiscono comfort anche con carichi pesanti. Dispone di tasche multiple, tra cui portaoggetti frontali e porta borraccia, per una gestione ottimale degli spazi.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% nylon\nCodice articolo: NF00CF9C TNF BLACK/ASPHA-4GZ1",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.4
+    },
+    "formality": 1,
+    "formality_perche": "zaino sportivo e outdoor, tetto di marchio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

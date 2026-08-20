@@ -16,5 +16,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/scarpe/mocassini/mocassino-uomo-sebago-docksides-portland-7000h00",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl Sebago Classic Dan 7000H00 rappresenta l'icona assoluta del mocassino \"Penny Loafer\", un pilastro del guardaroba maschile che trascende le mode passeggere. Questo modello è la massima espressione della tradizione Sebago: una calzatura che ha definito lo stile \"Ivy League\" e che continua a essere, ancora oggi, il punto di riferimento per chi cerca un'eleganza formale, solida e ricca di storia.\nIl punto di forza del modello 7000H00 risiede nella sua costruzione d'eccellenza in pelle pieno fiore spazzolata. Questa particolare finitura conferisce alla scarpa una lucentezza naturale e una resistenza strutturale superiore. Cucito a mano con maestria artigianale, il Classic Dan è progettato per modellarsi progressivamente al piede, offrendo una calzata personalizzata e una durabilità che sfida i decenni. La suola in vero cuoio completa il profilo di una calzatura di alta gamma, garantendo una traspirazione naturale e un suono deciso a ogni passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica in pelle, smart casual estivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

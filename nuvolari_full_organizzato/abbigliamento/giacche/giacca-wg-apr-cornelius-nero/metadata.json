@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-wg-apr-cornelius-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLe giacche da uomo variano da modelli casual a quelli più formali, offrendo una vasta gamma di stili per diverse occasioni. Dal classico blazer alle giacche invernali, sono un elemento chiave per completare il look maschile.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "elegante": 0.7
+    },
+    "formality": 4,
+    "formality_perche": "giacca monopetto tipo blazer sartoriale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

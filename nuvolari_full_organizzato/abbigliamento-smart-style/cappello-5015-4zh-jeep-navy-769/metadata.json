@@ -26,5 +26,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/cappello-5015-4zh-jeep-navy-769",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl\nCappello Colmar Originals Jeep/Navy\nè un classico berretto con visiera (baseball cap) strutturato, che coniuga alla perfezione un'ispirazione sportiva tradizionale alla pulizia minimalista tipica del brand. Caratterizzato da un forte abbinamento cromatico in blocchi di colore contrastanti, questo accessorio è perfetto per completare i look casual, urban o per il tempo libero all'aria aperta.\nDesign e Caratteristiche Principali\nCostruzione Classica a Pannelli\n: La corona del cappello è strutturata a pannelli uniti da cuciture interne rinforzate, che garantiscono una stabilità ottimale della forma e una vestibilità avvolgente.\nDesign Color-Block Jeep/Navy\n: Il berretto gioca sul contrasto netto tra la corona superiore in color verde militare scuro (\"Jeep\") e la visiera rigida frontale in blu scuro (\"Navy\").\nIconico Logo Colmar Originals\n: Il pannello frontale ospita l'inconfondibile bollo logato rosso, bianco e blu applicato centralmente a rilievo, elemento che firma e certifica l'autenticità del capo.\nVisiera Rigida Curva\n: La visiera precurvata offre un'eccellente schermatura contro i raggi solari diretti, mantenendo il classico e intramontabile stile sportivo dei cappellini da baseball.\nOcchielli di Aerazione Ricamati\n: Sulla sommità dei pannelli sono presenti piccoli fori rifiniti a filo che favoriscono una corretta traspirazione, mantenendo la testa fresca durante le giornate calde.\nTessuto Resistente in Cotone\n: Realizzato in filato di cotone solido e duraturo al tatto, assicura una lunga resistenza all'usura quotidiana e una calzata molto confortevole.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questo cappellino bicolor nei tuoi outfit:\nUrban Casual Sport\n: Abbinalo a una t-shirt basic bianca, a dei\njoggers\ngrigi e a delle sneakers retro-running per un perfetto look da tempo libero disinvolto.\nMilitary Streetwear\n: Indossalo insieme a dei\npantaloni cargo\ncolor verde oliva e a una felpa blu navy per richiamare fedelmente le due tonalità principali dell'accessorio.\nSmart Daily Weekend\n: Provalo in combinazione con una\novershirt\nleggera sbottonata, un jeans lavaggio scuro e scarpe pulite in pelle per un outfit fresco, giovanile e ordinato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "joggers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/joggers.html"
+    },
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "cappellino da baseball, accessorio tipicamente casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

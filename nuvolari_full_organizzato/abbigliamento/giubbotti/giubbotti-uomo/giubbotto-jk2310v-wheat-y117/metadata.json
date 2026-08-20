@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-jk2310v-wheat-y117",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa solida tradizione dell'outerwear britannico, il fascino senza tempo della cultura mod e l'eleganza rilassata d'oltremanica si fondono nel nuovo\nGiubbotto Uomo Lyle & Scott Jk2310V Wheat\n. Questo modello si ispira alla classica ed iconica silhouette della giacca Harrington, reinterpretata dal brand scozzese attraverso una manifattura impeccabile e una colorazione neutra estremamente sofisticata, perfetta per completare i look di transizione stagionale con un'attitudine casual d'élite.\nDesign, Costruzione e Caratteristiche Principali\nRaffinata Tonalità Wheat (Grano/Beige Chiaro)\n: Il giubbotto si presenta in una delicata e luminosa sfumatura color grano. Una palette cromatica versatile e intramontabile, ideale per sostituire i toni scuri invernali e integrarsi perfettamente con i colori freschi della primavera e delle serate estive.\nL'Inconfondibile Grifone d'Oro sul Petto\n: Sul lato sinistro spicca l'iconica patch ricamata del Golden Eagle, simbolo storico di eccellenza artigianale e di autenticità Lyle & Scott, che aggiunge un deciso contrasto cromatico e un tocco preppy al design minimale della giacca.\nCollo Alto In piedi con Chiusura a Doppio Bottone\n: Elemento strutturale distintivo visibile nell'immagine di riferimento è il collo a listino protettivo, rifinito internamente con una texture morbida e dotato di una chiusura frontale a due bottoni automatici scuri a contrasto per una schermatura ottimale dal vento.\nTaglio Raglan e Bordi Elasticizzati a Costine\n: Costruito con maniche dal taglio diagonale (raglan) che assecondano la naturale forma delle spalle massimizzando la libertà di movimento. Il fondo del giubbotto e i polsini sono dotati di ampie fasce elastiche a costine tono su tono che garantiscono un fitting pulito ad alta stabilità termica.\nTasche Anteriori Geometriche con Patta\n: La parte frontale è arricchita da due tasche laterali capienti con taglio diagonale e patta di protezione geometrica invertita, un classico dettaglio d'archivio che unisce funzionalità estetica e sicurezza per gli oggetti personali.\nIdee di Stile: Costruisci il Tuo Look Heritage Urban\nBritish Smart Casual Uniform\n: Crea un outfit ordinato, fresco e perfettamente bilanciato per l'ufficio, il viaggio o il tempo libero nel weekend. Indossa il giubbotto Harrington sopra la precisione minimale di una\nt-shirt uomo\nU.S. Polo Assn. Mick bianca o navy, completando il look con un paio di pantaloni chino Lyle & Scott in cotone stretch.\nContemporary Tonal Layering\n: Gioca con le stratificazioni e con le sfumature della terra per un look metropolitano raffinato. Combina la giacca con un\npantalone uomo\nchino o un pantalaccio Lyle & Scott verde militare (modello Tr1805Ita), inserendo come base una delle freschissime camicie uomo Squad lasciate parzialmente aperte.\nPremium Streetwear Break\n: Rompi il rigore classico abbinando il capospalla all'anima industrial-utility nordeuropea. Accosta il giubbotto Wheat alla forza grafica di una delle\nt-shirt uomo\nG-Star RAW in cotone biologico nero o grigio fiammato, chiudendo l'outfit con un jeans scuro a taglio dritto, un occhiale da sole lifestyle Oakley e una sneaker rétro.\nAffronta i cambi di stagione con la sicurezza di un design d'archivio che ha fatto la storia dello stile maschile, aggiornato con materiali leggeri e dettagli premium. Scegli la versatilità raffinata e l'inconfondibile impronta scozzese del giubbotto Harrington modello Jk2310V firmato Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Giacca Harrington classica, un capospalla casual quotidiano con accenti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-nuvolari-w1-otis-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Nuvolari Otis Nero\nIl\ngiubbotto\nuomo\nNuvolari\na sei bottoni con cappuccio combina stile e funzionalità. Realizzato con cura, offre una vestibilità comoda ed è perfetto per affrontare il freddo con eleganza. Un capo versatile per il guardaroba maschile.\nCompleta il tuo look con un\nmaglioncino a collo alto\ne con un paio di\npantaloni chino\nperfetti per il tuo stile!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE tessuto esterno: 100% poliestere, fodera 100% poliestere, imbottitura 100% poliestere\nVestibilità regular\nCodice articolo: W1 OTIS NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "maglioncino a collo alto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie/collo-alto.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "Caban doppiopetto in panno con pettorina e cappuccio in nylon rimovibile, a meta tra smart casual ed elegante",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

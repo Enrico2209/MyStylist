@@ -22,5 +22,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/abbigliamento-ichi-donna-ihanisse-20123383-sand-brwn-sand-brwn",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nI\nPantaloni Ichi Donna Ihanisse Sand Brwn\nesprimono un'estetica audace, graffiante e di forte personalità, infondendo un'energia esotica e contemporanea al guardaroba stagionale. Questo modello si distingue per una magnetica stampa animalier all-over che unisce l'anima wild del pattern a una silhouette fluida, rilassata ed estremamente confortevole.\nDesign e Caratteristiche Principali\nPattern Leopardato All-Over\n: Il capo, è interamente stampato con un motivo maculato classico e fitto in una palette cromatica naturale, dominata dalle sfumature del marrone bruciato, del nero e del sabbia (sand brwn).\nLinea Wide Leg ed Effortless\n: Il taglio presenta una silhouette a gamba larga e dritta che scivola liquida lungo i fianchi e le cosce, garantendo un movimento sinuoso, arioso e una caduta impeccabile del tessuto senza segnare.\nVita Elastica Arricciata\n: La parte superiore è strutturata con una comoda fascia elastica integrata nel girovita, che assicura una vestibilità pull-on pratica e adattabile a diverse silhouette, mantenendo la massima pulizia priva di bottoni o zip.\nTessuto Fluido e Leggero\n: Confezionati in una tela ultraleggera e fresca (come viscosa o raso leggero), studiata appositamente per offrire una mano liscia, setosa al tatto e un'elevata traspirabilità nelle giornate più calde.\nCostruzione Minimal e Pulita\n: I pannelli frontali si sviluppano in modo lineare privi di pinces o tasche applicate sporgenti, una scelta di design mirata a non interrompere la continuità e l'armonia visiva della stampa animalier.\nOrlo Dritto e Lineare\n: Il fondo della gamba termina con una cucitura piatta a profilo sottile che preserva la fluidità e la leggerezza del pantalone, ideale per adagiarsi morbido sulle scarpe.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.3,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone a gamba larga con vita elastica e stampa animalier audace, adatto a contesti informali e quotidiani",
+    "season": "estate",
+    "pattern": "animalier"
+  }
 }

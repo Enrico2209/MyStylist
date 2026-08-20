@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-s2-justin-fango-estivo-2023",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCargo Uomo Nuvolari Stile utility, comfort urbano\nVersatili, pratici e dal taglio contemporaneo: i cargo uomo firmati Nuvolari sono il capo perfetto per chi ama un look dinamico senza rinunciare alla comodità. Realizzati in tessuto resistente con il 98% di cotone e un tocco di elastane, offrono la giusta elasticità per accompagnarti nei movimenti di tutti i giorni.\nCaratterizzati da tasche laterali e dettagli curati, sono ideali per chi ama lo stile utility rivisitato in chiave urbana. Indossali con una\nt-shirt in cotone\ne un\nbomber leggero\nper un outfit street raffinato, oppure con una\ncamicia\nper un mix casual-smart.\nCompleta il tuo outfit con:\nSneakers uomo\nper uno stile urbano\nT-shirt Nuvolari\nGiacche e bomber\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n98% cotone, 2% elastane\nVestibilità regular\nCodice articolo: S2 JUSTIN FANGO ESTIVO-2023",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt in cotone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bomber leggero",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti/bomber.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "T-shirt Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "Giacche e bomber",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi e fondo elastico, stile utility e casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

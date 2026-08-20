@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/lee-pique-polo-es3-l61arllj-brt-white-brt-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura denim americana, la robustezza dei capi di matrice workwear e il minimalismo contemporaneo si fondono armoniosamente nella collezione di\npolo uomo Lee in cotone piqué\n. Fondato nel 1889 in Kansas, il brand pioniere dell'abbigliamento da lavoro reinterpreta un grande classico della maglieria smart-casual, coniugando la tradizionale resistenza dei suoi filati a linee pulite, essenziali e dal taglio squisitamente urban-lifestyle.\nDesign, Tessuto e Caratteristiche Principali\nL'Iconica Struttura in Cotone Piqué Premium\n: Realizzate in puro cotone di altissima qualità lavorato a piqué, la caratteristica trama a piccoli motivi geometrici in rilievo. Questa speciale armatura tessile garantisce una tridimensionalità scultorea al capo, assicurando al contempo una traspirabilità totale, freschezza sulla pelle e un'eccellente stabilità strutturale lavaggio dopo lavaggio.\nSilhouette Calibrate e Fitting Moderno\n: Le polo si sviluppano su geometrie calibrate che spaziano da vestibilità regular, bilanciate e versatili, fino a tagli slim fit più asciutti e geometrici, progettati per seguire le linee del corpo in modo naturale e pulito, senza mai stringere o sacrificare la comodità.\nArchitettura del Colletto e Dettagli Sartoriali\n: Dotate del classico colletto a costine flessibile che mantiene la forma originaria nel tempo, completato da una solida abbottonatura a due o tre bottoni coordinati. I bordi delle maniche, anch'essi rifiniti a costine, aderiscono delicatamente al braccio valorizzando la figura maschile.\nL'Inconfondibile Firma del Logo Heritage\n: Ciascuna polo è impreziosita dal celebre logo Lee, finemente ricamato ad alta densità in tonalità a contrasto o tono su tono sul petto a sinistra, firmando l'autenticità e il prestigio della secolare storia del brand con raffinato understatement.\nIdee di Stile: Costruisci il Tuo Look Casual-Chic\nAuthentic Denim Heritage Look\n: Crea una combinazione classica, solida e intramontabile, perfetta per l'ufficio o per il tempo libero. Abbina una polo Lee in cotone piqué blu navy o verde bosco alla precisione costruttiva e strutturata di un jeans premium scuro o a un\npantalone chino\nLyle & Scott in nuance sabbia, completando il cerchio con una scarpa stringata scamosciata o una sneaker pulita in pelle bianca.\nUrban Utility Uniform\n: Per le tue giornate in città o per le attività del weekend, gioca sui contrasti inserendo la polo in un contesto utility ricco di carattere. Scegli una variante di colore neutro e accostala alla robustezza geometrica e tridimensionale di un\npantalone uomo\ncargo G-Star RAW o Lee, chiudendo l'outfit con uno stivaletto in pelle o una sneaker tecnica ad alto spessore.\nContemporary Summer Refresh\n: Sperimenta il massimo del comfort estivo giocando sui contrasti di texture e di materiali. Indossa una polo chiara o bianca insieme alla freschezza lineare e ariosa di una delle freschissime\ncamicie uomo\nin lino fiammato lasciata completamente aperta, coordinandola alla versatilità di un bermuda in twill o della linea \"I Told Ya\" per un'aria disinvolta da aperitivo al tramonto.\nSperimenta la perfetta sintesi tra il rigore della maglieria tradizionale e la leggendaria storia del denim americano. Scegli la consistenza del cotone piqué premium, la stabilità strutturale dei tagli e l'attitudine inconfondibile delle polo uomo firmate Lee.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué di cotone, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

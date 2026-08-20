@@ -24,5 +24,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/costumi/short-s2-cosmo-multi-multi",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nShort Uomo Nuvolari – Comfort e stile per l’estate\nGli short da uomo firmati Nuvolari sono pensati per chi desidera unire praticità e carattere. Realizzati in tessuti leggeri e traspiranti, offrono libertà di movimento e una vestibilità moderna, perfetti per affrontare le giornate più calde con stile.\nIl design minimal ma curato nei dettagli li rende adatti a ogni contesto: dalla passeggiata in città al weekend al mare. Tasche funzionali e finiture pulite completano un capo essenziale dell’estate maschile.\nCaratteristiche:\nTessuto in poliestere, leggero e confortevole\nVestibilità regular\nChiusura con lacci\nTasche laterali e posteriori\nProposta outfit:\nAbbinali a una\npolo Nuvolari\ne a un paio di\nsneakers\nper un look fresco e contemporaneo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliestere\nVestibilità regular\nCodice articolo: S2 COSMO MULTI-MULTI",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "polo Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "da_mare": 0.8
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno/short mare in poliestere con coulisse",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

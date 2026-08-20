@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-sm-apui-nero-1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa Felpa Uomo Rayz Apui Senza Manica è un capo d'avanguardia che ridefinisce lo stile urban attraverso texture ricercate e tagli non convenzionali. Caratterizzata dallo stesso trattamento marmorizzato della linea Apui, questa felpa smanicata con cappuccio è progettata per chi desidera un look stratificato (layering) di forte impatto visivo e carattere grunge.\nPerché sceglierla\nQuesto modello si distingue per l'esclusivo lavaggio marble-effect, che conferisce al tessuto sfumature grigio-scure irregolari simili alla pietra o al fumo. La combinazione tra l'assenza di maniche e la presenza del cappuccio la rende un pezzo estremamente dinamico, ideale per giocare con i volumi e le lunghezze degli strati sottostanti, garantendo al contempo freschezza e una struttura solida.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: SM APUI NERO-1",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.3,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa smanicata con cappuccio, lavaggio marmorizzato effetto grunge",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

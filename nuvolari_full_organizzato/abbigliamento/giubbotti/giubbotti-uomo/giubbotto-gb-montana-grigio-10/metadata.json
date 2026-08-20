@@ -25,5 +25,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-gb-montana-grigio-10",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\nGiubbotto Uomo BLACK RAGS GB MONTANA\nè il capospalla ideale per la mezza stagione, unendo un'estetica\nurban\nessenziale a un comfort eccezionale, grazie alla sua composizione innovativa. Il design è pulito e versatile, perfetto per l'uso quotidiano.\nMateriali e Performance:\nComposizione Funzionale:\nLa miscela di\nPoliestere (80%)\ne\nViscosa (15%)\nconferisce al tessuto una mano morbida e una buona resistenza all'usura. Il poliestere assicura durata e mantiene la forma del capo, mentre la viscosa aggiunge un tocco di morbidezza al tatto.\nComfort Stretch:\nLa percentuale di\n5% Elastane\n(Lyrca o Spandex) garantisce un'\nottima elasticità e libertà di movimento\n, rendendo il giubbotto comodo anche quando indossato sopra strati più pesanti.\nDesign Essentials:\nLa giacca presenta una silhouette moderna (spesso stile bomber o\nblouson\ncorto), con chiusura con zip, tasche laterali e dettagli minimali, in linea con l'estetica\ncasual-chic\ndi BLACK RAGS.\nIdeale da abbinare a jeans, chino o maglie in\nlayering\n.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n80% poliestere, 15% viscosa, 5% elastane\nVestibilità regular\nCodice articolo: GB MONTANA GRIGIO-10",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Giacca stile overshirt/blouson con colletto classico, pulita e versatile per un look smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

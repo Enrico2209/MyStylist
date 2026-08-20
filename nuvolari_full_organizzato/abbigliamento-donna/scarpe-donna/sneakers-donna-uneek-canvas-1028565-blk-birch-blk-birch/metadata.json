@@ -22,5 +22,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-donna-uneek-canvas-1028565-blk-birch-blk-birch",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nScarpe Donna Keen Uneek Canvas Blk/Birch\n, visibili nel file Schermata 2026-05-14 alle 17.34.23.png, combinano l'estetica industriale e tecnica dell'intreccio a corde con la morbidezza tattile della tela. Il contrasto cromatico tra il nero profondo della tomaia e il color crema (Birch) dell'intersuola definisce una silhouette grafica e pulita, perfetta per chi desidera una calzatura ibrida dal carattere deciso ma facile da abbinare.\nDesign e Caratteristiche Principali\nSistema a Due Corde Intrecciate\n: La tomaia è formata da cordini elastici neri che si muovono seguendo il passo, eliminando i punti di attrito e offrendo una ventilazione naturale superiore.\nInserti in Canvas Rinforzato\n: La presenza della tela sulla parte posteriore e sulla zona della linguetta aggiunge una nota materica e resistente, migliorando il comfort a contatto con la pelle.\nPlantare Ergonomico Birch\n: Il sottopiede è sagomato per sostenere l'arco plantare, con una colorazione chiara che crea un elegante distacco visivo con la tomaia scura.\nIntersuola in PU Ammortizzata\n: Assicura un ritorno di energia costante e un supporto duraturo, ideale per camminate prolungate in contesti urbani o outdoor leggeri.\nChiusura Rapida \"Lace-Lock\"\n: Dotate di un sistema di allacciatura con cursore panna a contrasto, permettono di regolare la tensione con precisione e velocità.\nSuola Esterna con Grip Multidirezionale\n: Il battistrada nero garantisce stabilità e sicurezza su diverse tipologie di terreno, mantenendo una flessibilità ottimale.\nSuggerimenti di Stile\nEcco 3 modi per abbinare queste calzature dal design minimalista:\nUrban Minimalist\n: Combinale con dei\npantaloni\na gamba larga neri e un top bianco per un look monocromatico e architettonico.\nEasy Weekend\n: Indossale con dei\njeans\ndal taglio mom-fit e una\nt-shirt\ncon stampa grafica per un outfit quotidiano rilassato.\nContemporary Feminine\n: Abbinale a una gonna midi plissettata o a un abito chemisier in una tonalità neutra per smorzare l'anima sportiva della scarpa con un tocco più ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sandalo ibrido sportivo/outdoor, tetto di marchio tecnico",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

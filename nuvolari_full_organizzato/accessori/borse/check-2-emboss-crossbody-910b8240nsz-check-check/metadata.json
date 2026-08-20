@@ -16,5 +16,21 @@
   "pattern": "quadri",
   "needs_vision_review": true,
   "relpath": "accessori/borse/check-2-emboss-crossbody-910b8240nsz-check-check",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "marsupio di marchio street puro con grafica aggressiva",
+    "season": "tutte",
+    "pattern": "quadri"
+  }
 }

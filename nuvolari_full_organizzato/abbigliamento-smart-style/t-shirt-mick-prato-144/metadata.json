@@ -25,5 +25,33 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-mick-prato-144",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza classica dello stile preppy americano, l'eredità storica legata al gioco del polo e un comfort quotidiano senza compromessi si fondono nella\nT-Shirt Uomo U.S. Polo Assn. Mick\n. Questo modello incarna l'essenza del casual sofisticato del brand ufficiale della United States Polo Association, offrendo un capo basico d'élite ideale per completare con disinvoltura i look della stagione calda.\nDesign, Dettagli e Caratteristiche Principali\nIconico Logo Heritage Ricamato\n: Il focus visivo principale del modello Mick è l'inconfondibile logo del doppio giocatore di polo posizionato sul petto a sinistra. Il ricamo ad alta densità di punti offre un netto contrasto tridimensionale che definisce immediatamente l'autenticità e il prestigio sportivo del capo.\nNastro Parasudore Interno Tricolore\n: All'interno del girocollo, come visibile nell'immagine di riferimento, la struttura è rifinita con un nastro parasudore elastico decorato con una riga a contrasto. Questo accorgimento non solo aumenta il comfort sulla pelle, ma mantiene la stabilità strutturale del colletto evitando che si deformi dopo numerosi lavaggi.\nTessuto in Jersey di Cotone Premium\n: Confezionata in puro cotone jersey pettinato di alta qualità, leggero, fresco e altamente traspirante. La morbidezza della trama assicura una piacevole sensazione di freschezza, rendendola perfetta per le giornate più calde.\nFitting Regular e Girocollo Classico\n: Sviluppata con una vestibilità regular fit lineare che accarezza il corpo senza stringere, garantendo una silhouette pulita e ordinata. Il girocollo a costine sottili rifinisce l'architettura minimale ed intramontabile della maglietta.\nIdee di Stile: Linka il Tuo Outfit\nSmart Casual Summer Uniform\n: Crea un perfetto look da giorno ordinato, fresco e impeccabile, ideale per l'ufficio, un viaggio o un pranzo informale. Abbina la t-shirt Mick alla precisione strutturale di un paio di\npantaloni uomo\nchino dal taglio asciutto o a un bermuda in twill stretch (come i modelli Squad), completando il cerchio con un mocassino morbido scamosciato.\nPreppy Beach Break Mix\n: Per i tuoi weekend di relax o le giornate sotto il sole, unisci la tradizione d'élite a finiture sportive d'avanguardia. Accosta la maglietta alla tecnicità idrorepellente dei\ncostumi uomo\nOakley Ombre Beachshort, definendo l'outfit con una sneaker bassa in tela leggera e un occhiale da sole lifestyle.\nContemporary Utility Layering\n: Gioca di contrasti inserendo la pulizia di U.S. Polo Assn. in un contesto street-utility più deciso. Utilizza la t-shirt Mick come base lineare sotto una delle freschissime\ncamicie uomo\novershirt di Squad lasciata aperta, coordinandola alla robustezza dei bermuda cargo (come i modelli G-Star RAW o Oakley B1B Cargo).\nRinfresca i tuoi look quotidiani sperimentando la perfetta armonia tra tradizione sportiva aristocratica e minimalismo urbano contemporaneo. Scegli l'essenzialità premium e il carattere intramontabile della t-shirt uomo Mick firmata U.S. Polo Assn.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular\nCodice articolo: MICK",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica in cotone, livello 2 di partenza, con piccolo logo ricamato",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

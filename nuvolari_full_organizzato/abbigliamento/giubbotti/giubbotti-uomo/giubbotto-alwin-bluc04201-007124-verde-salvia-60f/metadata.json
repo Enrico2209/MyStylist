@@ -23,5 +23,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-alwin-bluc04201-007124-verde-salvia-60f",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Blauer Alwin rappresenta l'equilibrio perfetto tra funzionalità tecnica e stile metropolitano, consolidandosi come uno dei piumini più amati della collezione maschile. Grazie alla sua struttura leggera ma protettiva, è il capo ideale per chi vive la città con dinamismo senza rinunciare a un tocco di eleganza sportiva.\nBlauer Alwin Caratteristiche e Innovazione\nImbottitura Ecologica\n: Realizzato con l'innovativa ovatta\nSorona® Aura\n, che offre un calore superiore pur essendo leggera e traspirante, rispettando l'ambiente grazie alla sua composizione parzialmente vegetale.\nTessuto Satinato\n: Il guscio esterno è in nylon lucido o satinato (a seconda della variante) con trattamento \"water repellent\", progettato per far scivolare via l'acqua in caso di piogge leggere.\nTrapuntatura Lineare\n: Si distingue per le sue classiche impunture orizzontali che assicurano una distribuzione uniforme dell'imbottitura e una silhouette snella.\nElementi Iconici\n: Immancabile il passante Blauer cucito sul petto a sinistra, insieme alla patch logata sulla manica, che ne attestano l'originalità e la qualità costruttiva.\nSistema di Tasche\n: Dotato di tasche frontali con zip e tasche interne con chiusura a velcro per riporre i propri oggetti personali in totale sicurezza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% poliammide\nVestibilità regular\nCodice articolo: BLUC04201 007124 VERDE SALVIA-60F",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto bomber leggero in nylon, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

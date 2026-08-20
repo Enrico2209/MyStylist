@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/w-camicia-w2-beep-sky-sky",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl Classico Rivisitato in Chiave Street-Chic\nQuesta camicia di PROJECT offre una reinterpretazione moderna e romantica del classico capo maschile. Il tessuto azzurro chiaro si unisce a un taglio\ncrop\naudace e al ricamo a forma di cuore, creando un equilibrio perfetto tra eleganza e stile streetwear disinvolto.\nPerchè Acquistarlo\nTaglio Crop di Tendenza:\nLa lunghezza accorciata (\ncrop\n) è moderna e versatile, ideale da indossare con pantaloni o gonne a vita alta.\nRicamo Distintivo:\nUn piccolo\ncuore rosso brillante ricamato\nsul petto (lato cuore) aggiunge un tocco romantico e un elemento di contrasto giocoso al colore azzurro.\nDesign Rilassato:\nIl\nfit\nè ampio e le maniche sono lunghe, offrendo un look casual e disinvolto.\nDettagli Sartoriali:\nPresenta un colletto classico, abbottonatura frontale e polsini regolabili.\nLogo Branding:\nLa discreta etichetta PROJECT è visibile sul retro del collo, attestando l'autenticità del brand.\nConsiglio di Stile:\nPerfetta da indossare abbottonata con i pantaloni sartoriali a vita alta o aperta sopra un\ncrop top\ne i pantaloni cargo per un look più\nstreet\n.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.2,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Camicia classica ma con taglio crop audace e fit rilassato che ne abbassano la formalità a casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

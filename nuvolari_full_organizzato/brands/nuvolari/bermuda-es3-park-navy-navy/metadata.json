@@ -27,5 +27,35 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "brands/nuvolari/bermuda-es3-park-navy-navy",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Park\nrappresentano un'interpretazione magistrale del classico pantaloncino chino, pensata per l'uomo che ricerca un perfetto equilibrio tra rigore formale e comfort estivo. Sviluppati in un'intensa e profonda tonalità navy, questi bermuda si distinguono per la pulizia millimetrica del design e per una struttura tessile solida, posizionandosi come un vero e proprio passe-partout per i look da giorno e per il tempo libero più ricercato.\nDesign e Caratteristiche Principali\nTessuto in Cotone Twill Strutturato ed Elastico\n: Realizzati in un twill di cotone premium a trama diagonale, arricchito da una calibrata percentuale di elastan. Questa composizione assicura una mano sostenuta e una grande resistenza all'usura, offrendo al contempo la flessibilità ideale per garantire una totale libertà di movimento durante le giornate più calde.\nLinee Pulite in Stile Chino\n: L'architettura del pantaloncino si rifà alla tradizione sartoriale dei chino, esibendo sul davanti due tasche laterali inclinate perfettamente integrate lungo il fianco e un fronte piatto privo di pinces, studiato per mantenere i volumi del bacino estremamente nitidi e asciutti.\nDettagli Hardware di Qualità\n: La chiusura in vita è strutturata con una patta con zip nascosta e un solido bottone centrale brunito, caratterizzato da sfumature tartarugate nei toni del marrone e del nero, che aggiunge un sofisticato accento cromatico a contrasto sulla base navy.\nFiniture Sartoriali Interne Custom\n: Il cinturino interno mostra la cura costruttiva distintiva di Nuvolari, integrando una fodera parasudore impreziosita da una raffinata ed esclusiva texture micro-camouflage tono su tono, abbinata all'etichetta tessuta del brand cucita centralmente.\nSilhouette Regular-Straight Bilanciata\n: Il taglio propone una vestibilità regolare e sartoriale che scende dritta lungo la coscia senza stringere, arrestandosi con un orlo lineare a fondo dritto leggermente sopra il ginocchio, definendo una figura ordinata e geometricamente impeccabile.\nProposta di Outfit\nContemporary Riviera Look\n: Abbinalo alla\ncamicia\nregular fit a righe verticali sottili bianche e azzurre; l'incontro tra l'attitudine military del bermuda navy e la freschezza preppy della riga azzurra darà vita a un contrasto cromatico sofisticato e di grande tendenza estiva.\nSmart Urban Monochrome\n: Indossalo insieme alla\nt-shirt\ncon taschino sul petto; il gioco di layering tono su tono tra le diverse gradazioni di navy (l'intensità del bermuda e la morbidezza pastello della maglietta) strutturerà un outfit minimale, pulito ed estremamente contemporaneo.\nCasual Preppy Contrast\n: Portalo in abbinamento alla\npolo\npiqué bianca con profili neri e grigi su colletto e maniche; la luminosità ottica della base bianca spezzerà la solidità scura del navy, offrendo un look sportivo ma incredibilmente ordinato, ideale per un weekend fuori porta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda stile chino, un classico estivo quotidiano che si colloca a livello 2",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

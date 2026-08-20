@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giacche/giacca-daniele-alessandrini-t-u-dugm0001-vi0046",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nDaniele Alessandrini: L'Innovazione della Giacca a Manica Corta\nGiacca Uomo Daniele Alessandrini Black Satin Urban Blazer\nRompere gli schemi del guardaroba classico con una visione d'avanguardia: questa è l'essenza della giacca a manica corta firmata Daniele Alessandrini. Realizzata in un tessuto nero dalla finitura leggermente satinata, questa giacca rappresenta l'ibrido perfetto tra un blazer sartoriale e una camicia strutturata. Pensata per l'uomo contemporaneo che non rinuncia all'eleganza nemmeno nelle giornate più calde, offre una silhouette fluida e un'attitudine decisamente urban.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Blazer sartoriale ibrido a manica corta, destrutturato e fluido",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

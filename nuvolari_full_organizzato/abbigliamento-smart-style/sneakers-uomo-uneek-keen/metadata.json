@@ -20,5 +20,39 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/sneakers-uomo-uneek-keen",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nScarpe Uomo Keen Uneek M Dk/Chipmunk\nsono un esempio straordinario di ingegneria calzaturiera applicata al lifestyle outdoor. Caratterizzate dall'iconica costruzione a corde intrecciate, questa variante cromatica nei toni del marrone e del beige (Chipmunk) richiama i colori naturali della terra, offrendo un'estetica calda e versatile che si adatta perfettamente sia alle avventure fuori porta che al tempo libero in città.\nDesign e Caratteristiche Principali\nSistema a Due Corde Intrecciate\n: La tomaia è formata da cordini in poliestere elastico che si muovono indipendentemente, permettendo alla calzatura di adattarsi alla forma specifica del piede per un comfort personalizzato e una traspirabilità impareggiabile.\nSottopiede Anatomico in Metatomica\n: Il plantare è progettato per fornire un supporto eccellente all'arco plantare, modellandosi sui contorni naturali del piede per ridurre la fatica durante l'uso prolungato.\nIntersuola in PU Leggero\n: Garantisce un'ammortizzazione elastica e duratura, mantenendo la scarpa reattiva senza appesantire la camminata.\nSuola in Gomma con Intagli a Lamelle\n: Il battistrada è dotato di micro-incisioni che si aprono durante la flessione, assicurando un grip superiore su superfici lisce o bagnate come rocce o ponti di barche.\nTallone con Cinturino Morbido\n: La parte posteriore in microfibra offre una tenuta sicura e confortevole, evitando sfregamenti e facilitando la calzata rapida.\nMateriali Eco-Friendly\n: Keen utilizza tessuti e cordini provenienti da fonti sostenibili, integrando tecnologie per il controllo degli odori senza l'uso di sostanze chimiche nocive.\nSuggerimenti di Stile\nEcco 3 modi per abbinare queste calzature dal gusto naturale:\nModern Nomad\n: Combinale con dei\npantaloni cargo\nin cotone leggero e una\nt-shirt\nin tinta unita per un look funzionale e rilassato.\nSummer Safari\n: Indossale con dei bermuda in lino e una\ncamicia\na maniche corte stampata per un outfit fresco, ideale per le giornate più calde.\nUrban Outdoor\n: Abbinale a dei jeans lavaggio chiaro e una\novershirt\nleggera per un mix equilibrato tra stile metropolitano e spirito d'avventura.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Sandalo ibrido da outdoor e tempo libero, marchio tecnico/sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

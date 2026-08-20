@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-thenorthface-canyonlands-hybrid-jacket",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nThe North Face Canyonlands Hybrid: Calore Strategico e Versatilità\nGiubbotto Uomo The North Face Canyonlands Hybrid Black/NPF\nAffronta le giornate più fresche con il perfetto equilibrio tra protezione e agilità. La Canyonlands Hybrid di The North Face è progettata per offrirti calore dove serve di più, grazie alla sua costruzione ibrida che combina pannelli isolanti sul busto e inserti flessibili sui fianchi e sulle maniche. Ideale per l'escursionismo, i viaggi o come strato termico quotidiano, questa giacca rappresenta l'eccellenza tecnica applicata al design funzionale.\nIngegneria Termica e Libertà di Movimento\nCostruzione Ibrida Intelligente\n: Il busto è imbottito con isolamento sintetico Heatseeker™ Eco, capace di trattenere il calore anche in condizioni di umidità, mentre i pannelli laterali in pile elasticizzato garantiscono una traspirabilità superiore e una mobilità totale.\nFinitura Idrorepellente DWR\n: Il tessuto esterno del busto è trattato con una finitura resistente all'acqua priva di PFC, per proteggerti da piogge leggere e vento.\nDettagli Tecnici\n: Dotata di una robusta zip frontale a tutta lunghezza, tasche laterali di sicurezza con cerniera e il classico logo The North Face applicato sul petto.\nDesign Sostenibile\n: Realizzata in parte con materiali riciclati, confermando l'impegno del brand verso la riduzione dell'impatto ambientale senza compromettere le performance.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero sportivo/outdoor, tetto di marchio",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

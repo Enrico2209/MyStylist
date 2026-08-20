@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-s1-treid-ciottolo-413",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nImmergiti nell'eleganza senza tempo e nella versatilità con la camicia Nuvolari, un capo essenziale che ti accompagnerà in ogni occasione con stile e comfort\nRealizzata con una sofisticata miscela di cotone al 50% e acrilico al 50%, questa camicia offre il perfetto equilibrio tra morbidezza e resistenza, garantendo una vestibilità confortevole e una sensazione di leggerezza tutto il giorno. Il suo design classico e raffinato la rende adatta a qualsiasi situazione, che tu sia in ufficio o in un'uscita informale con gli amici. Puoi indossarla con un paio di pantaloni chino e mocassini per un look elegante e professionale in ufficio, oppure con jeans e sneakers per un outfit più casual e rilassato durante il tempo libero. Con la camicia Nuvolari, avrai sempre un aspetto impeccabile e alla moda, indipendentemente dall'occasione. Aggiungi un tocco di classe al tuo guardaroba con questo capo versatile e sofisticato, e lasciati trasportare dalla sua eleganza senza tempo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n50% cotone, 50% acrilico\nCodice articolo: S1 TREID CIOTTOLO-413",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.2,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Polo/camicia in maglia traforata a maniche corte, adatta a contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

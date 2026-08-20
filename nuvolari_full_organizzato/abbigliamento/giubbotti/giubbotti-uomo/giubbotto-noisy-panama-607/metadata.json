@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-noisy-panama-607",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Uomo Baecker è un'interpretazione contemporanea della classica \"field jacket\", un capo versatile che unisce ispirazione militare e stile urban. Caratterizzato da una struttura funzionale e un design pulito, è il capospalla ideale per le stagioni di transizione grazie alla sua leggerezza e resistenza.\nPerché sceglierlo\nIl modello Baecker è pensato per l'uomo che cerca un capo pratico ma esteticamente curato. La tonalità neutra (sabbia/beige) lo rende estremamente facile da abbinare, mentre la configurazione a più tasche offre tutta la praticità necessaria per la vita quotidiana o per i viaggi.\nConsigli di Outfit\nSafari Moderno\n: Abbina il Baecker al\nPantalone Chino Vivid\nblu navy. Il contrasto tra il sabbia del giubbotto e lo scuro del pantalone crea un look sofisticato e traspirante.\nUrban Layering\n: Indossalo sopra la\nCamicia Sean Light\nin denim. La sovrapposizione tra la texture del cotone del giubbotto e il denim della camicia aggiunge profondità visiva all'outfit.\nCasual Weekend\n: Portalo aperto sopra una t-shirt bianca e un paio di\nJeans Med Simon\n. Completa il look con uno stivaletto scamosciato o una sneaker minimale per un perfetto stile \"fuori città\".\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo:NOISY",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Field jacket in cotone leggero, stile safari/smart-casual, piu formale di un bomber ma meno di un blazer",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

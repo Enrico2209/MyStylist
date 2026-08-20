@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/proj3ct-donna-giubbotto-s3-donner",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Giubbotto Donna Proj3ct Donner nella colorazione Coffee è un capospalla dal carattere deciso, progettato per chi cerca un perfetto equilibrio tra estetica vintage e design contemporaneo. La tonalità marrone caffè lo rende un pezzo versatile, ideale per arricchire outfit invernali e primaverili con una nota di calore e ricercatezza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto bomber in finto scamosciato con polsini elastici, stile casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

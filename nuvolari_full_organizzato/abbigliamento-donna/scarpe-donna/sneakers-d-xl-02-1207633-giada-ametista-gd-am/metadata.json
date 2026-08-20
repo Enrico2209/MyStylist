@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-d-xl-02-1207633-giada-ametista-gd-am",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nUrban Frontier: La Sneaker Donna dove il Futurismo incontra la Performance\nRidefinisci i confini del movimento quotidiano. Questa sneaker Urban/Performance a taglio basso è un manifesto di\nestetica d’avanguardia\ne soluzioni\nrunning-oriented\n, progettata per la donna che esige il massimo controllo senza rinunciare a un design iconico. Ogni componente è stato trasformato in un elemento funzionale, creando una calzatura capace di offrire un’ammortizzazione costante e una stabilità dinamica senza precedenti.\nIngegneria del Comfort e Architettura Strutturale\nTraspirabilità Evoluta e Supporto High-Tech\nLa struttura della scarpa è il risultato di un equilibrio millimetrico tra leggerezza e protezione, pensata per adattarsi alla biomeccanica del piede durante le sfide della metropoli.\nTomaia Hybrid Knit & Suede\n: Il tessuto Knit perforato assicura una ventilazione naturale continua, favorendo il micro-circolo dell'aria. Gli inserti in Suede aggiungono una nota di carattere premium e garantiscono un supporto strutturale nei punti strategici.\nSupporto Posteriore Termosaldato\n: La zona del tallone presenta una struttura multistrato con rinforzi termosaldati. Questa tecnologia offre una resistenza superiore alle abrasioni e un sostegno impeccabile, mantenendo la scarpa estremamente leggera.\nDynamic Elastic Collar\n: Il collarino elastico avvolge la caviglia con precisione, garantendo un’adattabilità dinamica che asseconda ogni passo e conferendo alla silhouette un profilo aerodinamico e moderno.\nIngegneria della Suola a 5 Componenti\n:\nTrazione Variabile\n: Tassellatura multidirezionale progettata per un grip chirurgico su diverse superfici urbane.\nSistema Dual-Shock\n: Intersuola in EVA ultraleggera con cuscinetti ammortizzanti su tallone e avampiede per dissipare gli impatti.\nStabilizzatore TPU\n: Un inserto centrale rigido che aumenta la stabilità torsionale e il supporto dinamico.\nTecnologia Rapid-Tech\n: Il sottopiede con microsfere in EVA e schiuma poliuretanica offre una reattività immediata e un comfort che dura tutto il giorno (\n24/7\n).\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker sportiva/running con tomaia in knit e suola ammortizzata, tetto di categoria per calzature sportive",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

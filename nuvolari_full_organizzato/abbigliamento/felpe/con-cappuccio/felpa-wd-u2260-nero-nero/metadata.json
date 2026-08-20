@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-wd-u2260-nero-nero",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nFelpa tasche da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa Tasche Uomo Minimal modello U2260\nCappuccio con coulisse\nChiusura zip\nSei tasche sovrapposte\nFondo asimmetrico\nComposizione:  75% cotone,20% poliestere, 5% elastane",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, dettagli asimmetrici e tasche multiple di stampo street",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

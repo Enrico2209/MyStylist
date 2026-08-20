@@ -25,5 +25,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-m2474-snow-white-129",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Fred Perry M2474 Snow White\nunisce l'estetica minimalista e pulita tipica del brand britannico a un audace impatto grafico sulla parte posteriore. Sviluppata su una base bianco ottico brillante (\"Snow White\"), questa t-shirt a maniche corte si distingue per una silhouette contemporanea e leggermente rilassata, perfetta per chi cerca un capo heritage rivisitato in chiave moderna e streetwear.\nDesign e Caratteristiche Principali\nMaxi-Grafica Laurel Wreath Posteriore\n: Il vero segno distintivo del capo è posizionato sul retro, dominato da una imponente riproduzione serigrafata dell'iconica corona d'alloro. La stampa è realizzata in una tonalità grigio chiaro sfumata e desaturata, che crea un sofisticato effetto \"tono su tono\" senza appesantire il design complessivo.\nPannello Frontale Essenziale con Logo Ricamato\n: Il davanti mantiene un rigore minimalista ed elegante; sul petto a sinistra spicca il classico ricamo ad alta definizione della corona d'alloro Fred Perry in versione ridotta, realizzato in filo nero a contrasto netto.\nPregiato Jersey di Puro Cotone\n: Confezionata in un tessuto jersey di cotone di qualità premium, morbido al tatto e dalla struttura compatta. Assicura la massima traspirabilità e una eccellente resistenza all'usura, mantenendo stabile la brillantezza del bianco nel tempo.\nGirocollo Elastico a Costine\n: Lo scollo rotondo è rifinito con un bordo in maglia a costine flessibile e rifinito internamente, progettato per aderire in modo confortevole e mantenere la forma originaria anche dopo numerosi lavaggi.\nSilhouette Casual e Maniche Regolari\n: Presenta un taglio dritto e una vestibilità versatile, completata da maniche corte proporzionate che scivolano in modo naturale sulla spalla. L'orlo inferiore dritto è sigillato da doppie cuciture piatte a binario.\nProposta di Outfit\nArchival Streetwear Look\n: Indossala sopra un paio di\npantaloni cargo\ncargo o jogger neri con fondo elastico, completando il look con sneakers in pelle bianca; la maxi-stampa grigia sul retro diventerà il punto focale dell'intero outfit urbano.\nSummer Casual Smart\n: Centrala all'interno di un look estivo abbinandola a un\nbermuda\nin denim dal lavaggio chiaro o medio; una scelta fresca, disinvolta e bilanciata per i pomeriggi nel tempo libero.\nUrban Layering Contrast\n: Portala sotto una camicia utility aperta o una\ngiacca leggera\nleggerissima verde oliva o nera; il ricamo nero sul petto paleserà la firma del brand sul davanti, mentre togliendo il capospalla svelerai l'anima grafica posteriore.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giacca leggera",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con vestibilita rilassata e maxi-grafica sul retro, adatta a contesti casual quotidiani",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

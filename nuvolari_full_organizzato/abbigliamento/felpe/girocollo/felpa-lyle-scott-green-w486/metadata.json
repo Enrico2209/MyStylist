@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-lyle-scott-green-w486",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa felpa con cappuccio Lyle & Scott è un'icona di stile e comfort, realizzata in morbido cotone di alta qualità e caratterizzata da un taglio slim che valorizza la vestibilità. Il ricamo distintivo del brand aggiunge un tocco di raffinatezza al design essenziale.\nGrazie al\npeso medio del tessuto\n, è la scelta ideale per le\nmezze stagioni,\nperfetta da indossare in città, durante le attività all'aperto o per un look casual e sportivo.\n100% cotone\nper garantire massima traspirabilità e comfort in ogni occasione\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo classica, capo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

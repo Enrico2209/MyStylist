@@ -24,5 +24,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/smanicato/smanicato-uomo-proj3ct-nero",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLo\nsmanicato da uomo Proj3ct\nè la rappresentazioe dello\nstreetwear\ncontemporaneo. Con una\nchiusura a zip\nfrontale per un accesso rapido e pratico, questo capo è pensato per chi cerca una combinazione di funzionalità e stile. La\nvita regolabile tramite coulisse\noffre una vestibilità personalizzata, mentre la\npatch con il logo\nProj3ct\naggiunge un tocco distintivo. Il\ncolore nero\nconferisce un'eleganza metropolitana, perfetta per esprimere un'autentica estetica\nstreetwear.\nS\ntile Urbano Inconfondibile\nAbbinato a un paio di\njeans\nstrappati e\nsneakers\n, questo smanicato diventa il punto focale di un look casual e audace. Per un tocco più invernale, indossalo su una\nfelpa con cappuccio\n. Completa il look con accessori minimalisti, come una snapback o una borsa a tracolla coordinata. Lo\nsmanicato Proj3ct\nsi adatta con versatilità a diverse situazioni, garantendo un'eleganza senza sforzo nello stile streetwear.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nSmanicato Uomo Proj3ct Nero\nVestibilità Regular\nComposizione: Fodera 100% Nylon + Imbottitura 100% poliestere\nCodice Prodotto: WG VS DALLAS",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Proj3ct",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "felpa con cappuccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "gilet imbottito streetwear, abbinato a felpe e sneakers",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

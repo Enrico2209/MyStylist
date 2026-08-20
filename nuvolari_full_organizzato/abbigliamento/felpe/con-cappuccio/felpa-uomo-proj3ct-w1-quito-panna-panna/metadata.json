@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-uomo-proj3ct-w1-quito-panna-panna",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Proj3Ct Quito Hood Panna\nLa\nfelpa\nProj3ct con cappuccio, tasconi e coulisse si distingue per il tema fantasia, ideale per un look casual e originale.\nAbbinala ad un paio di\nsneakers\ne ad un\npantalone di chino\nper uno stile unico e adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE: 65% cotone, 35% poliestere\nVestibilità regular\nCodice articolo: W1 QUITO PANNA-PANNA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "pantalone di chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e zip, capo prettamente casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

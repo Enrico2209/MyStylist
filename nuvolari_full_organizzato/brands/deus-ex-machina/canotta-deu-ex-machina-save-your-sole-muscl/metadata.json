@@ -18,5 +18,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "brands/deus-ex-machina/canotta-deu-ex-machina-save-your-sole-muscl",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCanotta Deus Ex Machina Libertà e Carattere Urban\nDesign e Grafica\nStampe d'Impatto:\nLe grafiche sono il cuore pulsante del marchio; questo modello presenta messaggi iconici come \"A Sign From The Path!\" e \"Save Your Sole\", accompagnati da illustrazioni originali che mescolano natura e cultura underground.\nEstetica Biker-Surf:\nIl taglio senza maniche con giromanica ampio richiama lo stile vissuto delle officine e delle spiagge più cool del mondo.\nDettagli\nSignature: La piccola patch interna o le stampe serigrafiche di alta qualità certificano l'appartenenza alla \"famiglia\" Deus.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta con grafica underground e giromanica ampio, adatta solo a contesti informali, spiaggia o tempo libero",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

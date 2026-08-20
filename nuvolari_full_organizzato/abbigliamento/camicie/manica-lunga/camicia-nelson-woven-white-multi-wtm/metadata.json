@@ -27,5 +27,27 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-nelson-woven-white-multi-wtm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica ribelle della cultura skate, l'attivismo grafico e l'evoluzione contemporanea dello stile streetwear si fondono armoniosamente nella collezione di\ncamicie uomo Obey\n. Fondato nel 2001 dall'artista e writer Shepard Fairey, il brand californiano si distingue per la capacità di destrutturare i classici dell'abbigliamento maschile infondendogli un'attitudine urban e rilassata. Questa proposta a maniche lunghe reinterpreta la tradizionale camicia gessata da ufficio in chiave decisamente street-conscious e moderna.\nDesign, Pattern e Caratteristiche Principali\nIl Pattern Rigato White Multi\n: La base del capo si sviluppa su un bianco ottico pulito, ritmato da un gioco di finissime righe verticali multicolore a contrasto. Questo motivo grafico non solo slancia la figura maschile con raffinata linearità, ma dona al capo un sapore rétro d'ispirazione anni '90, perfetto per spezzare la monotonia delle tinte unite.\nTessuto Leggero e Taglio Rilassato\n: Confezionata in un filato di puro cotone premium leggero e traspirante, ideale per garantire il massimo del comfort durante le mezze stagioni o nelle serate estive. La silhouette si sviluppa su una vestibilità relaxed/casual che garantisce una totale libertà di movimento e una caduta fluida sul corpo.\nTasca Frontale e Branding Ricamato\n: Sul petto a sinistra è applicata un'ampia tasca squadrata che richiama la matrice utility e workwear del marchio. Sopra la tasca spicca il logo \"OBEY\" finemente ricamato tono su tono, che firma l'originalità del capo mantenendo un'estetica pulita e minimalista.\nDettagli di Costruzione Classici\n: L'architettura della camicia presenta un colletto a punta flessibile dal taglio contemporaneo, una solida abbottonatura frontale con bottoni chiari in tinta coordinata, maniche lunghe rifinite da polsini strutturati a bottone singolo e un fondo leggermente arrotondato che permette di indossarla sia all'interno che all'esterno dei pantaloni.\nIdee di Stile: Costruisci il Tuo Look Skate & Smart-Casual\nMetropolitan Skate Uniform\n: Esalta l'anima rilassata della camicia inserendola in un contesto streetwear autentico. Indossala completamente aperta sopra una delle t-shirt uomo Obey grafiche o in una tonalità unita heavyweight, e abbinala alla robustezza di un jeans uomo Obey con lavaggio Stone Wash per un perfetto contrasto di volumi e texture.\nUrban Industrial Chino Mix\n: Crea una combinazione pulita, geometrica e di grande personalità per la vita in città o per il tempo libero. Accosta la camicia White Multi alla sfumatura gessosa e neutra di un\npantalone uomo\nchino Obey Cement, chiudendo l'outfit con una sneaker da skate chunky o dal design retro-running.\nContemporary Summer Layering\n: Per un aperitivo al tramonto o per i tuoi weekend informali, gioca di sottrazione estiva. Infila la camicia parzialmente nel girovita di un bermuda uomo Fred Perry in twill o di un modello in felpa scuro, arrotola leggermente le maniche fino al gomito e sigla il tutto con un paio di sneakers uomo SUN68 dai dettagli cromatici vivaci.\nSperimenta la perfetta sintesi tra il rigore del design formale a righe e la forza espressiva della controcultura californiana. Scegli la freschezza del cotone premium, l'equilibrio della silhouette relaxed e l'attitudine inconfondibile delle camicie uomo firmate Obey.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n70% cotone, 30% lino\nVestibilità regular\nCodice articolo: NELSON VOWEN",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "streetwear": 0.3,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a righe dal taglio rilassato di un brand street, in misto cotone e lino, pensata per un uso informale e skate-inspired.",
+    "season": "estate",
+    "pattern": "righe"
+  }
 }

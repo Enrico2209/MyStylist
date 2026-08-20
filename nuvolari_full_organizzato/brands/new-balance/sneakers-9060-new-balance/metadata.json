@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/new-balance/sneakers-9060-new-balance",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe 9060 offrono una nuova interpretazione sofisticata e innovativa dell’iconica serie 99X. Questo modello rielabora i tratti distintivi della linea con un tocco futuristico ispirato all’estetica tecnologica dell’era Y2K. Le barre di oscillazione, ereditate dalla 990, sono state ampliate lungo tutta la tomaia per creare un dinamismo evidente, mentre le linee fluide e le proporzioni enfatizzate dell’intersuola scolpita esaltano le tecnologie di ammortizzazione ABZORB e SBS per un comfort senza precedenti.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nL'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione\nIntersuola a doppia densità con ammortizzazione ABZORB e SBS\nLogo sulla linguetta ispirato ai lacci originali delle 991\nDispositivo CR traslucido sul tallone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers sportive, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

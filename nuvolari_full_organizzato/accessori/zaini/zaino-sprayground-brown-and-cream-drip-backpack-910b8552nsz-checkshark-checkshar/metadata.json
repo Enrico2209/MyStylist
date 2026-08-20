@@ -26,5 +26,42 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/zaino-sprayground-brown-and-cream-drip-backpack-910b8552nsz-checkshark-checkshar",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'iconico motivo checkerboard si rinnova con un'estetica fluida e contemporanea nello\nzaino Sprayground modello Brown And Cream Drip Backpack Checkshark\n. Caratterizzato dalla raffinata combinazione di tonalità marrone e panna con l'inconfondibile effetto \"drip\" (colata di colore) che avvolge la superficie e la celebre Shark Mouth, questo accessorio rappresenta il perfetto equilibrio tra stile luxury e street culture.\nDesign, Materiali e Caratteristiche Costruttive\nPelle Sintetica Vegan Durevole e Idrorepellente\n: Realizzato in robusta ecopelle di alta qualità, resistente all'acqua, alle abrasioni e all'uso quotidiano per proteggere al meglio il contenuto.\nGrafica \"Drip Checkshark\"\n: L'iconica trama a scacchi marrone è arricchita da dettagli grafici a goccia effetto vernice colata, mentre la Shark Mouth frontale spicca nei toni contrastanti del crema e del marrone.\nScomparti e Organizzazione Intelligente\n: Equipaggiato con uno scomparto interno imbottito per laptop fino a 15\", tasca superiore in velluto portaocchiali, tasche laterali a fessura e una tasca di sicurezza nascosta con zip sullo schienale.\nErgonomia e Travel-Ready\n: Schienale in mesh traspirante con imbottitura anatomica, spallacci regolabili imbottiti e comoda fascia posteriore per il fissaggio al manico del trolley durante i viaggi.\nIdee di Stile: Costruisci il Tuo Look Streetwear & Urban\nUrban Streetwear Statement\n: Rendi lo zaino il punto focale del tuo outfit abbinandolo a una\nt-shirt uomo\noversize o grafica, a un paio di\njeans uomo\ndal taglio rilassato e a delle\nsneakers uomo\nd'impatto.\nCasual Everyday & Campus Look\n: Ideale per lo studio, il lavoro o gli spostamenti in città, indossalo con una felpa confortevole e dei\nbermuda uomo\nnei mesi più caldi.\nLayering Metropolitano\n: Durante le stagioni più fresche, accostalo a una giacca di pelle o a un piumino selezionato dalla nostra linea\ngiubbotti uomo\nper uno stile urbano completo.\nAggiungi un tocco d'impatto e ricercatezza al tuo stile quotidiano. Scegli la capienza, la praticità e il design inconfondibile dello zaino Sprayground Brown And Cream Drip Checkshark.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.1,
+      "streetwear": 0.9
+    },
+    "formality": 1,
+    "formality_perche": "zaino di marchio street puro",
+    "season": "tutte",
+    "pattern": "quadri"
+  }
 }

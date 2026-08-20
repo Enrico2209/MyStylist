@@ -20,5 +20,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-royrogers-rru502cl92xxxx-tobacco-c0008",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLa maglia da uomo Roy Roger's unisce qualità e design essenziale, perfetta per chi ama uno stile raffinato ma casual. Realizzata in morbido cotone, garantisce comfort e traspirabilità, adattandosi facilmente a diverse occasioni. Il taglio classico e i dettagli curati, come il logo discreto, aggiungono un tocco di eleganza senza tempo.\nPerfetta da abbinare a\njeans\nper un look quotidiano o a pantaloni\nchino\nper un outfit più sofisticato. Scopri la qualità e l’artigianalità di Roy Roger’s per un guardaroba sempre impeccabile!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: RRU502CL92XXXX TOBACCO-C0008",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica in cotone, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

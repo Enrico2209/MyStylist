@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/mocassini-ralph-lauren-merton-vnetn",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Mocassini Ralph Lauren Merton \"Dirty Buck\" rappresentano l'epitome dello stile Preppy americano. Questo modello non è una semplice calzatura da barca, ma un pezzo iconico che fonde l'eleganza rilassata dei college della Ivy League con un'estetica vintage e vissuta. La finitura \"Dirty Buck\" (un particolare tipo di pelle scamosciata dal colore sabbia/terroso) conferisce alla scarpa un fascino intramontabile, perfetto per chi cerca un look sofisticato ma non troppo formale.\nIl punto di forza dei Merton Dirty Buck risiede nella loro versatilità stagionale. Realizzati in pregiato suede (pelle scamosciata) con un trattamento che simula una leggera e affascinante patina del tempo, questi mocassini si adattano sia a contesti marittimi che urbani. La costruzione a mano e la scelta dei materiali garantiscono che la scarpa diventi sempre più comoda con l'uso, modellandosi perfettamente alla forma del piede.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "elegante": 0.5,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "mocassino scamosciato stile preppy, smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

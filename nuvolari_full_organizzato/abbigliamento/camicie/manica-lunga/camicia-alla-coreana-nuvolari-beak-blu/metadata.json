@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-alla-coreana-nuvolari-beak-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia uomo alla coreana lavorata in cotone armaturato che va a disegnare una micro fantasia a rombi che rende fresco e moderno questo modello firmato Nuvolari. Vestibilità slim fit per questa camicia che cade perfettamente addosso, ma in modo morbido e leggero.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia alla coreana uomo Nuvolari modello BEAK - Blu\nCollo alla coreana\nTessuto armaturato micro disegno rombi\nPlacca metallica personalizzata cucita sul fondo\nVestibilità Slim Fit\nComposizione: 100% Cotone\nMade in italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia alla coreana slim fit, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

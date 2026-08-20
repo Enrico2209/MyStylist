@@ -28,5 +28,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/cappelli/workwear-cap-es3-112351288-olive-gr-olive-gr",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'autentico spirito della cultura denim americana, la robustezza dei capi di matrice workwear e il minimalismo contemporaneo si fondono armoniosamente nella collezione di\ncappelli Lee\n. Fondato nel 1889 in Kansas, il brand pioniere dell'abbigliamento da lavoro ha ridefinito l'universo degli accessori casual maschili e femminili, trasformando il classico copricapo sportivo in un vero e proprio pezzo statement capace di siglare i look urbani con un inconfondibile sapore vintage e rétro.\nDesign, Silhouette e Caratteristiche Principali\nI Classici Cappelli con Visiera (Baseball Cap e Trucker)\n: Vero e proprio pilastro delle collezioni Lee. I modelli spaziano dal tradizionale cappellino da baseball a sei pannelli con visiera curva, perfetto per proteggersi dal sole con stile, fino ai mitici modelli Trucker d'ispirazione anni '70, caratterizzati dalla parte posteriore in rete (mesh) traspirante che garantisce la massima freschezza nelle giornate più calde.\nIl Caldo Comfort dei Beanie e Berretti in Maglia\n: Per le stagioni più fredde, il brand propone morbidi berretti a costine (beanie) con risvolto classico. Confezionati in filati caldi, flessibili e resistenti, offrono un fitting avvolgente e una protezione ottimale contro il vento, mantenendo una silhouette pulita e lineare adatta a ogni contesto quotidiano.\nTessuti di Matrice Premium e Denim Originale\n: Coerentemente con la sua leggendaria tradizione manifatturiera, Lee seleziona rigorosamente materiali d'eccellenza. Spiccano i modelli realizzati in robusto twill di cotone lavato (washed cotton) per un effetto piacevolmente vintage e, naturalmente, le varianti nell'iconico denim di cotone del brand, celebre per la sua straordinaria resistenza all'usura.\nL'Inconfondibile Firma del Logo Heritage\n: Ciascun cappello è impreziosito dal celebre logo Lee, applicato sul fronte con diverse tecniche: dal classico ricamo ad alta densità in corsivo (Wobbly Lee), a patch in tessuto ricamate dallo stile rétro, fino a discrete etichette tessili cucite sul risvolto per gli amanti del lusso discreto.\nRegolazione Posteriore Personalizzata\n: I cappelli con visiera sono provvisti di pratici sistemi di chiusura sul retro – come cinturini in tessuto con fibbia metallica logata o classici snapback in plastica – che permettono di calibrare perfettamente la larghezza per un comfort totale.\nIdee di Stile: Costruisci il Tuo Look Denim & Street\nAuthentic Denim Heritage Look\n: Esalta l'anima vintage del brand creando una combinazione classica ed intramontabile per il tempo libero. Abbina un cappello con visiera in denim o twill scuro a una\nt-shirt uomo\nLee con maxi logo grafico sul petto e a un jeans premium con lavaggio indaco, completando il cerchio con una sneaker pulita in pelle bianca.\nUrban Utility Uniform\n: Per le tue giornate in città o per le attività outdoor, inserisci il cappellino in un contesto utility solido e di grande carattere. Scegli un modello verde militare o fango e accostalo alla robustezza tridimensionale di un\npantalone uomo\ncargo Lyle & Scott o a un\nbermuda\n, chiudendo l'outfit con una scarpa tecnica ad alto spessore.\nContemporary Summer Refresh\n: Smorza la matrice puramente sportiva del cappello con visiera giocando sui contrasti materici durante i weekend di viaggio o per un aperitivo al tramonto. Indossa il copricapo insieme alla precisione lineare e ariosa di una delle freschissime\ncamicie uomo\nin lino bianco, lasciandola aperta sopra una canotta basica per un'aria disinvolta ed estremamente chic.\nSperimenta la perfetta sintesi tra la funzionalità dell'accessorio sportivo e la leggendaria storia del denim americano. Scegli la consistenza dei materiali premium, la stabilità strutturale delle forme e l'attitudine inconfondibile dei cappelli firmati Lee.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "cappellino con visiera in twill di cotone, accessorio casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

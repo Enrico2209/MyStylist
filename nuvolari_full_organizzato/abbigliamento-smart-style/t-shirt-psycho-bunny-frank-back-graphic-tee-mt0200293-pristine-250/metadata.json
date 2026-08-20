@@ -23,5 +23,38 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-psycho-bunny-frank-back-graphic-tee-mt0200293-pristine-250",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'essenza del lusso contemporaneo e un'audace attitudine pop si fondono nelle collezioni di\nt-shirt uomo Psycho Bunny\n. Diventate un pilastro dello streetwear d'élite e del casual d'autore, queste magliette a maniche corte ridefiniscono il concetto di t-shirt basica attraverso grafiche magnetiche, colori vibranti e una qualità dei materiali che si colloca ai vertici dell'abbigliamento internazionale, pensate per chi vuole esprimere un carattere forte e anticonformista.\nDesign, Grafiche e Caratteristiche Distintive\nL'Inimitabile Logo Psycho Bunny\n: Il centro visivo di ogni t-shirt è il celebre teschio con le orecchie da coniglio. Che si tratti di un micro-ricamo finissimo sul petto ad altissima densità di punti o di una maxi-stampa serigrafica frontale stilizzata con sfumature neon, questo logo incarna il perfetto equilibrio tra ironia dissacrante ed eleganza esclusiva.\nIncomparabile Cotone 100% Pima Peruviano\n: Ogni t-shirt è confezionata esclusivamente in puro cotone Pima proveniente dal Perù. Questo filato d'eccellenza a fibra extra-lunga è famoso in tutto il mondo per la sua straordinaria morbidezza serica, una lucentezza naturale e la capacità di resistere a deformazioni e lavaggi frequenti, mantenendo un fitting impeccabile nel tempo.\nCura Sartoriale e Cuciture Rinforzate\n: A differenza delle comuni magliette commerciali, le t-shirt Psycho Bunny presentano cuciture piatte nastrate lungo la linea delle spalle e del collo. Questa costruzione previene lo sfibramento del tessuto e assicura che il colletto a coste mantenga una geometria pulita e tesa.\nPalette Cromatica Satura ed Esclusiva\n: Il brand si distingue per una ricerca del colore unica, affiancando ai classici bianco, nero e navy una serie di nuance stagionali brillanti, pastelli accesi e dettagli in contrasto cromatico che non sbiadiscono, valorizzando l'incarnato e l'intero outfit.\nIdee di Stile: Linka il Tuo Outfit\nPremium Urban Uniform\n: Crea un look street-chic minimale e di grande impatto. Abbina la t-shirt grafica Psycho Bunny alla precisione strutturata dei\npantaloni uomo\nchino dal taglio dritto o relaxed. Lascia la maglietta cadere morbida sopra la cintura e completa con una sneaker pulita dal design rétro.\nSummer Riviera Sporty Mix\n: Per le calde giornate estive o per i weekend di viaggio, unisci il lusso del cotone Pima alla freschezza delle fibre naturali. Accosta la t-shirt a un paio di freschissimi\nbermuda uomo\nin puro lino con coulisse (ottimi i modelli Nuvolari LI Branch o SH Tony). Rifinisci il tutto con un mocassino leggero scamosciato o un sandalo minimal.\nContemporary Preppy Layering\n: Gioca con le sovrapposizioni e le diverse texture. Utilizza una t-shirt Psycho Bunny in tonalità vivace come base luminosa sotto a una delle raffinate\npolo uomo\ndel brand lasciata parzialmente aperta, oppure indossala sotto a una camicia overshirt utility aperta, completando il look con un\ncappello uomo\ncon visiera.\nRivoluziona la tua idea di maglietta basica sperimentando una morbidezza senza precedenti combinata a un design grafico irriverente ed esclusivo. Scegli lo stile inconfondibile delle t-shirt uomo firmate Psycho Bunny.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\n100% cotone\nVestibilità regular",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "polo uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "cappello uomo",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica in cotone con piccolo logo sul petto, adatta a un contesto casual quotidiano.",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

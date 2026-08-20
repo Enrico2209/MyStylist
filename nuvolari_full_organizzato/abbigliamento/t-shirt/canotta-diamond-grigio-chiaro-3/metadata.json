@@ -22,5 +22,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/canotta-diamond-grigio-chiaro-3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLo spirito streetwear giovane di Rayz prende forma nella\ncanotta Rayz nella tonalità grigio chiaro\n. Un capo fresco e versatile pensato per la stagione calda, dove il grigio chiaro incontra l'attitudine urban del brand per look estivi dinamici e comodi.\nDesign, Tessuti e Caratteristiche Costruttive\nCotone Fresco\n: Realizzata in cotone dalla mano morbida e traspirante, ideale per le giornate più calde.\nGrigio Chiaro Versatile\n: Una tonalità neutra e luminosa, facile da abbinare a qualsiasi capo.\nScollo a Giro e Spalle Ampie\n: Girocollo con spalline larghe per la massima libertà di movimento e freschezza.\nVestibilità Comoda\n: Fit rilassato dallo spirito streetwear, perfetto da solo o in layering.\nIdee di Stile: Costruisci il Tuo Look Estivo & Streetwear\nSummer Street\n: Abbinala a dei bermuda e delle\nsneakers\nper un look estivo dinamico.\nLayering\n: Indossala sotto una camicia aperta o una\nt-shirt\nper un mood urbano stratificato.\nSport & Relax\n: Perfetta per lo sport, il tempo libero o le giornate al mare.\nAffronta l'estate con freschezza e stile streetwear firmato Rayz. La canotta grigio chiaro è il capo comodo e versatile per la bella stagione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.4,
+      "da_mare": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "canotta con fit rilassato e dettagli distressed, capo prettamente informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-bak2-nathan-navy-navy",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nIl Pantalone Uomo Baecker Bak2 Nathan è un capo che fonde sapientemente l'estetica sartoriale con un gusto contemporaneo e dinamico. Caratterizzato da una micro-fantasia gessata (pinstripe), questo modello rappresenta la scelta ideale per chi cerca un'alternativa sofisticata al classico pantalone a tinta unita, senza rinunciare alla praticità quotidiana.\nIl modello Nathan si distingue per la sua capacità di slanciare la figura grazie alla trama a righe verticali sottili. È un pantalone estremamente versatile: la base cromatica scura con dettagli chiari a contrasto permette di spaziare da outfit formali per l'ufficio a look più creativi e \"street-chic\". La struttura del tessuto garantisce una tenuta impeccabile della piega, mantenendo un aspetto ordinato per tutta la giornata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino con micro-fantasia gessata, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "righe"
+  }
 }

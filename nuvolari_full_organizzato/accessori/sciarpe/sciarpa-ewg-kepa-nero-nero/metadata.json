@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/sciarpe/sciarpa-ewg-kepa-nero-nero",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLe sciarpe da uomo sono accessori pratici e alla moda, offrendo calore durante i mesi più freddi e aggiungendo un tocco di stile all'abbigliamento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa classica a coste, accessorio versatile tra casual e smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

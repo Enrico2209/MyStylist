@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/proj3ct-bermuda-s3-cordova-denim-blk-denim-blk",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Donna Proj3Ct Cordova Denim\n, visibili nel file Schermata 2026-05-14 alle 14.45.07.jpg, sono un capo audace e di tendenza che cavalca il ritorno dello stile skater degli anni '90. Caratterizzati da un taglio extra-wide e una lunghezza generosa, questi bermuda offrono una silhouette rilassata e contemporanea.\nDesign e Caratteristiche Principali\nLavaggio Grey Acid Wash\n: Il denim presenta una finitura grigio scuro con schiaritureみる intense che creano un effetto \"vissuto\" e graffiante.\nTaglio Wide Leg\n: La gamba ampia e dritta scende ampia fino al ginocchio, garantendo un volume moderno e un comfort estremo.\nCostruzione Classica a 5 Tasche\n: Presenta la tradizionale configurazione dei jeans, con tasche frontali arrotondate, taschino portamonete e tasche posteriori applicate.\nDettagli di Chiusura\n: Dotati di patta con cerniera e bottone metallico centrale logato, con passanti robusti per l'inserimento della cintura.\nBranding Proj3Ct\n: L'etichetta interna nera \"PROJECT ROMA\" cucita sul retro della vita garantisce l'originalità della collezione.\nAbbinalo con\nEcco 3 suggerimenti di outfit per valorizzare questi bermuda:\nGrunge Streetwear\n: Abbinali a una\nt-shirt\ngrafica oversize e delle\nsneakers\nchunky per un look ribelle e di forte impatto visivo.\nNineties Casual\n: Indossali con una\npolo\nslim fit a contrasto o una\ncamicia\ndi flanella portata aperta sopra un crop top.\nUrban Layering\n: Combinali con un paio di calzettoni bianchi a vista, sneakers classiche e una\novershirt\nin denim nero per un outfit coordinato e ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "polo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim con taglio skater anni '90 e lavaggio acid wash",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

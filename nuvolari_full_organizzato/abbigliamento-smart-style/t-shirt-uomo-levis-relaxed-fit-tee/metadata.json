@@ -22,5 +22,30 @@
   "pattern": "quadri",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-uomo-levis-relaxed-fit-tee",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eredità del West americano incontra la wave contemporanea in un pezzo che unisce stile e comfort assoluto. La\nT-Shirt Uomo Levi's Relaxed Fit Tee Egret\nè pensata per chi non si accontenta del solito basic e cerca volumi comodi abbinati a un artwork d'archivio di grande impatto visivo. Questo modello celebra la storia del brand di San Francisco con una maxi grafica posizionata sul pannello posteriore.\nDesign e Caratteristiche Principali\nMaxi Grafica Western Back\n: Il vero e proprio statement del capo, è il grande artwork sul retro. L'iconico logo \"Batwing\" rosso di Levi's è racchiuso all'interno di un lazo rotante sorretto da un cowboy stilizzato, il tutto arricchito dal lettering vintage\n\"Levi Strauss & Co. San Francisco, Cal.\"\n.\nTessuto Jersey Morbido e Naturale\n: Confezionata in un jersey di puro cotone compatto nella tonalità naturale egret (bianco panna/off-white), studiato per offrire una piacevole sensazione di freschezza sulla pelle e un'ottima resistenza ai lavaggi.\nRelaxed Fit Contemporaneo\n: La silhouette si sviluppa con un taglio rilassato, spalle leggermente scese e volumi più ampi rispetto ai modelli standard, perfetto per incarnare la wave streetwear più attuale.\nScollo a Girocollo Rinforzato\n: Strutturata con un classico scollo a girocollo a coste piatte, rifinito con cuciture robuste per mantenere perfettamente la forma anche dopo un utilizzo prolungato.\nManiche Corte e Lineari\n: La costruzione della spalla scivola morbida seguendo il fit rilassato del capo, terminando con maniche leggermente più lunghe e un orlo dritto e pulito.\nIdee di Stile: Crea la Tua Wave\nThe Ultimate Skater Look\n: Esalta il fit rilassato di questa t-shirt abbinandola a un pantalone cargo o a un chino Dickies dal taglio dritto, completando il tutto con calzini bianchi spessi e una sneaker bassa da skate.\n90s Denim Uniform\n: Abbina la tonalità naturale della t-shirt a un\njeans\nd'ispirazione rétro o a un bermuda loose chiaro firmato Levi's, lasciando che la maxi grafica sul retro firmi il tuo outfit urbano.\nOvershirt Casual Layering\n: Indossala come base sotto una\ncamicia\na quadri aperta o una giacca utility in denim scuro; il contrasto pulito sul davanti esalterà l'impatto visivo dell'artwork non appena ti girerai.\nAggiorna i tuoi fondamentali con l'attitudine d'archivio di Levi's e scendi in strada pronto a fare la differenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con vestibilita relaxed e grafica sul retro, tipico casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

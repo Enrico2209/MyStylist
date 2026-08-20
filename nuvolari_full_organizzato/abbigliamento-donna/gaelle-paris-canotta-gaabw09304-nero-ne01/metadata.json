@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/gaelle-paris-canotta-gaabw09304-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCanotta Gaëlle Paris: Eleganza Minimal e Spirito Urban-Chic\nCanotta Donna Gaëlle Paris Black Ribbed Tank\nRendi il tuo stile impeccabile con la canotta firmata Gaëlle Paris. Un vero jolly stagionale, questo top a coste è stato progettato per chi cerca un equilibrio perfetto tra comfort e design. La tonalità nera profonda e il fit aderente lo rendono il capo ideale per creare outfit stratificati o per essere indossato da solo come protagonista di un look minimalista e d'impatto.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 1,
+    "formality_perche": "canotta basica a coste, livello di formalità minimo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

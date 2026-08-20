@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-lee-sierra-short-es3",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE SIERRA SHORT: FUNZIONALITÀ E RESISTENZA PER L'ESTATE\nI bermuda Lee Sierra sono progettati per chi cerca un look pratico senza rinunciare allo stile iconico del brand. Caratterizzati da un'estetica utility decisa, questi shorts cargo offrono tutto lo spazio necessario per le tue avventure quotidiane.\nDesign Cargo Classico\n: Dotati di ampie tasche laterali a soffietto con chiusura a patta, perfette per riporre in sicurezza i propri oggetti personali.\nTessuto Strutturato\n: Realizzati in un robusto twill di cotone che garantisce massima durata e un comfort naturale sulla pelle.\nTonalità Verde Oliva\n: Una colorazione versatile e di tendenza, ideale per un look outdoor o urban rilassato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda cargo in twill di cotone, stile utility e quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-es3-tr2110ita-new-ecru-x516",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza intramontabile della tradizione sartoriale scozzese, il minimalismo contemporaneo e l'attitudine British casual si fondono armoniosamente nella collezione di\npantaloni chino uomo Lyle & Scott\n. Fondato nel 1874 a Hawick, nel cuore della Scozia, il brand contrassegnato dall'iconico\nGolden Eagle\n(l'aquila reale dorata) ha reso il classico pantalone chino un pilastro insostituibile dello stile smart-casual, unendo una vestibilità impeccabile a linee pulite, essenziali e adatte a ogni contesto quotidiano.\nDesign, Costruzione e Caratteristiche Principali\nPrecisione Sartoriale e Twill di Cotone Premium\n: Confezionati in un robusto e morbido twill di cotone elasticizzato di altissima qualità. La consistenza dei filati garantisce un'eccellente resistenza all'usura e un'ottima stabilità cromatica anche dopo ripetuti lavaggi, offrendo una piega sempre ordinata che valorizza la figura maschile.\nGeometrie e Fitting Calibrati\n: Le collezioni si sviluppano su diverse silhouette per assecondare ogni esigenza di stile: dal taglio slim geometrico, asciutto e moderno, fino a vestibilità regular più classiche e rilassate, progettate per garantire la massima libertà di movimento senza mai rinunciare all'eleganza.\nArchitettura delle Tasche e Dettagli Interni\n: I chino presentano le caratteristiche tasche anteriori a filo oblique (stile americano) e tasche posteriori a filetto impreziosite da bottoni coordinati. L'interno del girovita è rifinito con cuciture rinforzate e fodere morbide per assicurare una stabilità strutturale ottimale sui fianchi.\nL'Inconfondibile Firma del Golden Eagle\n: Ciascun pantalone è contrassegnato dal celebre stemma dell'aquila reale dorata, applicato finemente come patch in tessuto o ricamato ad alta densità sopra la tasca posteriore destra, siglando l'autenticità e il prestigio dell'heritage scozzese con raffinato understatement.\nIdee di Stile: Costruisci il Tuo Look Casual-Chic\nModern British Smart-Casual Look\n: Crea un outfit impeccabile, fresco e bilanciato per i tuoi impegni quotidiani o per il venerdì casual in ufficio. Abbina un pantalone chino Lyle & Scott in nuance sabbia o blu navy alla precisione costruttiva e strutturata di una polo uomo G-Star RAW scura, completando il cerchio con una scarpa stringata scamosciata o una sneaker pulita in pelle bianca.\nMetropolitan Lounge Transition\n: Sperimenta il massimo del comfort per il tempo libero o per i weekend di viaggio giocando sui contrasti di texture e di volume. Accosta il pantalone chino scuro alla struttura boxy e all'ironia minimale di una delle\nt-shirt uomo\n, chiudendo l'outfit con una giacca aperta dal taglio asciutto.\nContemporary Summer Refresh\n: Per muoverti fluidamente verso un aperitivo al tramonto o un evento estivo, unisci la solidità del cotone scozzese alla nobiltà delle fibre naturali. Indossa un pantalone chino chiaro insieme alla freschezza lineare e ariosa di una delle\ncamicie uomo\nin lino fiammato bianco, lasciandola leggermente sbottonata per un'aria disinvolta e sofisticata.\nSperimenta la perfetta sintesi tra il rigore della sartoria scozzese tradizionale e la versatilità dello streetwear contemporaneo. Scegli la resistenza dei materiali d'archivio, la stabilità strutturale dei tagli e l'attitudine inconfondibile dei pantaloni chino uomo firmati Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino classico in cotone, perfetto per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

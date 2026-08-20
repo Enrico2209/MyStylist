@@ -21,5 +21,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/overshirt-m2400-shaded-stone-p96",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ispirazione utility workwear e l'inconfondibile estetica d'archivio britannica si fondono nella\novershirt da uomo Fred Perry modello M2400 nella variante Shaded Stone\n. Capo d'ispirazione sovraccamicia estremamente versatile, ideale da indossare come giacca leggera di transizione, unisce la robustezza dei tessuti di qualità a una silhouette dritta ed essenziale, perfetta per arricchire i tuoi outfit casual e metropolitani.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto in Gabardina / Twill di Cotone Resistente\n: Confezionata in una solida e confortevole tela di puro cotone, questa overshirt offre una struttura definita, un'ottima tenuta di forma e una protezione leggera dal vento nelle stagioni intermedie.\nNuance Calda e Tendenza Shaded Stone\n: Il punto di colore terra/marrone donante e versatile regala un gusto utilitario e naturale, perfetto per abbinamenti sofisticati durante tutta la stagione.\nDoppio Taschino al Petto e Corona d'Alloro Ricamata\n: Caratterizzata da due ampie tasche applicate con taglio squadrato sul davanti, presenta sul taschino sinistro l'iconico ricamo ad alta definizione della Corona d'Alloro in tonalità chiara a contrasto.\nChiusura Bottoni e Colletto Classico\n: Dotata di un'allacciatura frontale con bottoni in tinta e un colletto shirt collar pulito e strutturato, presenta polsini dritti regolabili per un fit sempre ordinato.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nCasual & Streetwear Layering\n: Sfrutta la versatilità della sovraccamicia indossandola sbottonata sopra una classica e fresca\nt-shirt uomo\nin tonalità neutra. Abbinala al taglio pulito di un paio di\njeans uomo\ne completa l'outfit ai piedi con il design dinamico delle più recenti\nsneakers uomo\n.\nSmart Casual Transition Look\n: Per un'estetica metropolitana curata e contemporanea, sostituisci il classico giubbotto leggero con questa overshirt, scegliendo un capo dalla nostra categoria\ngiubbotti uomo\nquando le temperature scendono o abbinandola a pantaloni chino.\nMid-Season Leisure Styling\n: Durante la mezza stagione o nelle serate d'estate più fresche, accosta la robustezza del cotone alla freschezza dei modelli disponibili tra i\nbermuda uomo\n, oppure portala con te come strato esterno sopra una proposta della linea\ncostumi uomo\n.\nSperimenta la perfetta sintesi tra la funzionalità workwear e il fascino British d'archivio. Scegli la profondità della tonalità Shaded Stone, la qualità del cotone e l'inconfondibile stile della overshirt Fred Perry M2400.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Overshirt di ispirazione utility/workwear con tasche applicate, adatta a un uso casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

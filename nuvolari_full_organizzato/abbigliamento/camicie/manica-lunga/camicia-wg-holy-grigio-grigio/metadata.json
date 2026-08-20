@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-wg-holy-grigio-grigio",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nLe camicie da uomo sono un pilastro dell'abbigliamento maschile, disponibili in una gamma di tessuti e stili, dalle classiche camicie button-down alle eleganti camicie formali. Offrono versatilità e raffinatezza per molteplici occasioni.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.1,
+      "streetwear": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "Camicia con grafica all-over molto impattante e artistica, che ne abbassa la formalità a un livello streetwear/casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

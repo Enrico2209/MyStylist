@@ -24,5 +24,46 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/felpa-j1327-tennis-blue-x86",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nL'iconico DNA dello sportswear d'archivio e l'inconfondibile estetica legata alle subculture British prendono forma nella\nfelpa da uomo Fred Perry modello J1327\n. Celebre reinterpretazione della classica track jacket d'ispirazione tennis, questo capo unisce un'eleganza retro-sportiva a un gusto contemporaneo, ideale per chi cerca un layer versatile, sofisticato e ricco di storia da aggiungere al proprio guardaroba casual.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto Tricot Tecnico e Confortevole\n: Confezionata in una pregiata miscela di cotone e poliestere tricot, la felpa offre una mano liscia ed ergonomica, un'eccellente resistenza alle deformazioni e una vestibilità strutturata che assicura comfort per tutto il giorno.\nDesign Iconico e Profili a Contrasto\n: Il colletto alto a costine e i polsini elasticizzati presentano il celebre profilo a contrasto (twin tipping) nei toni del verde/azzurro, un dettaglio distintivo che richiama la leggendaria lavorazione della polo d'archivio e l'heritage tennistico del brand.\nL'Inconfondibile Corona d'Alloro\n: Sul petto, lato cuore, spicca l'iconico ricamo ad alta definizione della Corona d'Alloro a contrasto, marchio di fabbrica e simbolo di qualità d'oltremanica.\nChiusura con Zip Integrale e Tasche Funzionali\n: Dotata di una solida cerniera metallica frontale a tutta lunghezza, la felpa presenta due comode tasche a filetto laterali perfettamente integrate nel design lineare del capo.\nIdee di Stile: Costruisci il Tuo Look Heritage & Urban\nClassic British Heritage Uniform\n: Crea un outfit streetwear solido e dal fascino squisitamente rétro. Abbina la felpa con zip Fred Perry a un paio di jeans dal taglio dritto o relaxed, trovando il modello ideale nella selezione di\njeans uomo\n. Completa il look ai piedi con il design pulito e dinamico delle ultime novità in fatto di\nsneakers uomo\n.\nSmart Casual Layering\n: Sfrutta la praticità della zip frontale per un look a strati dinamico durante i cambi di stagione. Indossa la track jacket sopra una semplice e fresca proposta della collezione\nt-shirt uomo\ne, per le giornate più rigide, aggiungi come ultimo strato la tecnicità di un capospalla selezionato tra i\ngiubbotti uomo\n.\nMid-Season Leisure Option\n: Per il tempo libero o un weekend rilassato, adotta uno stile athleisure di classe. Accosta la felpa alla leggerezza dei modelli in cotone o gabardina che trovi nell'assortimento di\nbermuda uomo\n, oppure portala con te per proteggerti dalla brezza serale sopra un capo della linea\ncostumi uomo\n.\nSperimenta la perfetta sintesi tra la tradizione sportiva d'archivio e l'eleganza rilassata d'oltremanica. Scegli l'iconico dettaglio rigato sui profili, il fascino retro-tennis e la qualità della felpa J1327 firmata Fred Perry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "track jacket sportiva d'ispirazione tennis, registro casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-es3-ca-menkes-nero-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nCamicia Uomo Black Rags Menkes\nsi posiziona come un manifesto di minimalismo estivo e leggerezza strutturale, ideale per chi cerca un pezzo basico ma dalla forte identità tattile e visiva. Disponibile nelle due varianti cromatiche assolute ed essenziali del guardaroba, un bianco ottico purissimo (\"Bianco\") e un nero profondo e rigoroso (\"Nero\"), questa camicia a maniche corte eleva il concetto di resort shirt grazie a una speciale lavorazione del tessuto che ne esalta la freschezza e la tridimensionalità.\nDesign e Caratteristiche Principali\nTessuto Plissé Microrighe Tridimensionale\n: Realizzata in un leggerissimo filato estivo caratterizzato da una finissima texture a micro-plissé o lavorazione goffrata verticale. Questa struttura mossa e tridimensionale non solo dona un movimento sofisticato al pannello frontale, ma distanzia il tessuto dalla pelle, ottimizzando la ventilazione e la traspirabilità.\nIconico Collo Resort (Camp Collar)\n: Presenta il tradizionale colletto cubano con rever piatto aperto a V privo del primo bottone superiore, un dettaglio geometrico che delinea uno scollo naturale ed estremamente rilassato, perfetto per la stagione calda.\nEstetica Essenziale Monochrome\n: Il corpo del capo si sviluppa in modo liscio e rigoroso, rinunciando a taschini applicati sul petto o loghi ricamati a vista per focalizzare l'attenzione sulla ricchezza della trama materica e sulla pulizia delle linee.\nFustella Frontale con Chiusura in Tinta\n: La chiusura centrale è scandita da piccoli bottoni piatti lucidi perfettamente coordinati alla base del tessuto (bianchi sulla variante bianca, neri opachi/scuri sulla variante nera), preservando la continuità cromatica del pannello anteriore.\nManiche Corte dal Taglio dritto\n: La costruzione delle maniche corte presenta un fit squadrato e cascante, studiato per favorire volumi disinvolti e una caduta fluida che asseconda perfettamente i movimenti del corpo.\nOrlo Inferiore Squadrato da Fuori-Pantalone\n: Il fondo dritto e lineare è progettato specificamente per indossare la camicia sopra la cintura, rendendola ideale da sfoggiare sia completamente abbottonata sia aperta a mo' di leggerissimo coprispalla estivo.\nProposta di Outfit\nBright Riviera Contrast (Variante Bianco)\n: Lasciala completamente aperta sopra una canotta chiara e abbinala al\nbermuda\nfluido blu notte Temara con coulisse panna; il contrasto visivo tra la micro-texture bianca e la base scura marina definisce un look da aperitivo rilassato e sofisticato.\nUrban Safari Layering (Variante Bianco)\n: Indossala abbottonata sotto il\ngiubbotto\nleggero Yaraka Kaki a quattro tasche e completala con il pantalone chino coordinato in tinta sabbia, esaltando la luminosità della camicia attraverso un raffinato layering metropolitano.\nContemporary Dark Utility (Variante Nero)\n: Portala aperta sopra una t-shirt basic bianca in combinazione con un\npantalaccio\ncargo in cotone fiammato verde oliva scuro; lo stacco luminoso della t-shirt spezzerà la combinazione scura tra la camicia nera e il fondo utility, per un outfit urbano di grande tendenza.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/pantalaccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia resort a maniche corte con collo cubano, pensata per un uso estivo disinvolto fuori dai pantaloni",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

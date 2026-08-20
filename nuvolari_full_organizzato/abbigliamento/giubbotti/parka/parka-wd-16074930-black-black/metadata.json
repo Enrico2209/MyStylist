@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/parka/parka-wd-16074930-black-black",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nParka da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nParka Uomo Selected modello 16074930\nParka lungo con cappuccio\nTasche frontali asimmetriche con chiusura a clip\nChiusura con zip e bottoni\nDue tasche interne\nLacci restringenti su fondo\nVesitibilità Regular fit\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Parka lungo in cotone, capo spalla casual ma strutturato che si colloca a livello smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

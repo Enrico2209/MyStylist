@@ -24,5 +24,22 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/mocassini/donna-boat-shoes-hc-yucca04-white-whi",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl fascino intramontabile delle atmosfere marittime, l'eleganza rilassata dello stile coastal e la freschezza della stagione estiva si incontrano nel\nmocassino donna Colours Of California modello Boat Shoes White-White\n. Il brand reinterpreta la classica scarpa da barca in una veste squisitamente femminile e contemporanea, dando vita a una calzatura versatile e leggera, ideale per completare con disinvoltura i look daily della bella stagione.\nDesign, Dettagli e Caratteristiche Costruttive\nLa Purezza della Pelle Total White\n: La calzatura è realizzata con una tomaia in morbida pelle liscia bianca ottica. La pulizia del colore esalta le linee pulite e le storiche pannellature della scarpa da barca, offrendo un'estetica raffinata e facilissima da abbinare.\nL'Iconico Sistema di Allacciatura Perimetrale\n: Elemento distintivo del modello è il classico laccio in cuoio marrone cuoio/naturale che passa attraverso gli occhielli metallici distribuiti lungo il profilo della caviglia. Questo dettaglio non solo richiama la tradizione nautica d'archivio, ma crea anche un sofisticato contrasto cromatico.\nIl Doppio Fiocco a Contrasto\n: La vaschetta anteriore è arricchita da un originale gioco di sovrapposizioni: al tradizionale fiocco in cuoio marrone si accosta un secondo laccio in tessuto tecnico bicolore bianco e blu navy, annodato sul davanti per aggiungere un tocco dinamico e preppy.\nLa Tradizionale Cucitura Moc-Toe\n: La parte frontale presenta la caratteristica cucitura spessa eseguita a mano tono su tono, un elemento strutturale tipico dei mocassini che garantisce solidità alla punta e preserva la flessibilità della scarpa durante la camminata.\nSuola Flat in Gomma Miele\n: La calzatura poggia su una suola piatta in gomma antiscivolo in una delicata tonalità beige/miele chiaro. Questa combinazione assicura un'ottima aderenza e flessibilità urbana, isolando il piede con leggerezza.\nIdee di Stile: Costruisci il Tuo Look Coastal & Smart-Casual\nAuthentic Nautical Uniform\n: Ricrea un perfetto stile da riviera o da weekend in barca. Abbina queste boat shoes bianche a un pantalone capri o a un bermuda in cotone stretch blu navy. Completa l'outfit sulla parte superiore con una classica t-shirt a righe orizzontali bianche e blu e una giacca leggera in denim chiaro o un cardigan avvolgente.\nPreppy Daily Mix\n: Inserisci la calzatura in un contesto urban chic perfetto per il tempo libero in città o per il lavoro. Accosta i mocassini a una gonna a pieghe o a un paio di pantaloni chino leggeri color beige/sabbia, abbinando sopra una camicia in popeline di cotone azzurro o una polo ricamata per un perfetto richiamo collegiale.\nSophisticated Fresh Transition\n: Gioca con la leggerezza dei tessuti estivi più nobili. Combina la pulizia delle scarpe Colours Of California alla silhouette fluida e traspirante di un abito chemisier in lino verde salvia o cachi, oppure a un completo spezzato con pantalone ampio in lino bianco e top coordinato, esaltando il contrasto dei lacci in cuoio.\nSperimenta la perfetta sintesi tra la storicità di una silhouette nata per il mare e la freschezza dello stile urban contemporaneo. Scegli la morbidezza della pelle bianca, l'originalità dei dettagli bicolore e il comfort quotidiano firmato Colours Of California.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "scarpa da barca classica in pelle, registro smart casual/coastal",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

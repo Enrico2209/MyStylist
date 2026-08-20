@@ -23,5 +23,42 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/t-shirt-lee-building-tee",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Lee Building Tee Blue\nrende omaggio alle storiche radici americane del brand attraverso un'estetica workwear dal forte carattere grafico ed heritage. Questo capo unisce un pannello frontale minimale a una maxi stampa celebrativa sul retro, posizionandosi come una scelta d'impatto per gli amanti dello stile urban e del recupero storico d'archivio.\nDesign e Caratteristiche Principali\nSlogan Frontale Minimal\n: Il lato anteriore del capo, si presenta estremamente pulito, arricchito sul lato cuore dalla piccola scritta bianca stampata \"WORKWEAR IS OUR SOUL\" disposta su due righe, che definisce fin da subito la filosofia della collezione.\nMaxi Grafica Posteriore Heritage\n: Sul retro, campeggia una grande illustrazione in stile xilografia o linocut che raffigura la sede storica \"LEE MERCANTILE CO. SALINA, KANSAS\". La stampa bianca dell'edificio è sormontata dal classico logo rosso \"Lee WORKWEAR\" con la data di fondazione 1889, creando un forte e dinamico contrasto cromatico.\nTessuto in Jersey di Cotone Strutturato\n: Confezionata in un jersey di puro cotone dalla trama compatta, solida e resistente, fedele alla tradizione dei capi da lavoro ma lavorata per garantire una mano morbida sulla pelle e un'ottima traspirabilità.\nGirocollo Elastico a Costine\n: La scollatura presenta un taglio a girocollo classico profilato da una bordatura a costine flessibile, studiata appositamente per resistere alle deformazioni e mantenere la forma originaria anche dopo utilizzi e lavaggi intensivi.\nFiniture e Doppie Impunture\n: Il fondo del busto e gli orli delle maniche corte sono definiti da doppie cuciture parallele a profilo piatto e robusto, che assicurano una finitura sartoriale pulita e longeva.\nVestibilità Regular Fit Contemporanea\n: Propone un taglio dritto e rilassato che scivola naturale lungo il corpo senza stringere, offrendo la massima libertà di movimento per uno stile casual quotidiano disinvolto.\nProposta di Outfit\nAuthentic Denim Heritage\n: Abbinala a un\njeans\ndal lavaggio scuro o regular fit d'ispirazione vintage e completa il look con un cappello; la pulizia del pantalone farà risaltare la ricchezza dei dettagli grafici posteriori, richiamando lo stile underground delle origini.\nUrban Cargo Streetwear\n: Portala insieme a un\npantalone\nmodello cargo multi-tasche in tonalità fango o beige e aggiungi una\novershirt\naperta; un set strutturato e dinamico, perfetto per muoversi in città durante il tempo libero.\nSummer Utility Chill\n: Indossala abbinata a un\nbermuda\nin denim chiaro o in tela di cotone robusta, completando l'outfit con un\ncappello\ncon visiera; un abbinamento essenziale, fresco e perfetto per le calde giornate estive.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "cappello",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt classica con grafica heritage sul retro, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

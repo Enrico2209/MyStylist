@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-w1-salik-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Salik Nero\nLa\nmaglia\ngirocollo Nuvolari è un capo essenziale per un look semplice e raffinato. Realizzata in tessuto morbido e confortevole, offre una vestibilità regolare, ideale per ogni occasione. Il design minimalista la rende facilmente abbinabile sia a look casual che più formali.\nAbbinala ad una\ncamicia\ne ad un\npantalone chino\nper uno stile elegante ed impeccabile adatto a qualsiasi occasione!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n54% poliestere, 20% acrilico, 20% nylon, 6% lana\nCodice articolo: W1 SALIK NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantalone chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo basica, adatta a contesti smart casual e consigliata con camicia e chino",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

@@ -22,5 +22,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/tuta-hz4157-black-black",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nIl\npantalone della tuta da uomo\ndi\nAdidas Originals\nè un pantalone in cui comodità e stile convivono.\nQuesto pantalone nero è realizzato interamente con\nmateriali riciclati\n.\nHa girovita elasticizzato con cordino e orli a coste.\nHa una struttura in jacquard testurizzato e una vestibilità ampia.\nIl modello indossa la taglia L.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nPantalone tuta da uomo Adidas Originals Jacquard\nVestibilità ampia\nComposizione: 100% poliestere riciclato\nCodice Prodotto: HZ4157 BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.6,
+      "casual": 0.3,
+      "streetwear": 0.1
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta sportivo con elastico in vita, tetto di marchio sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

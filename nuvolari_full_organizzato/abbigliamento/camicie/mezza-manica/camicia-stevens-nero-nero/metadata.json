@@ -23,5 +23,32 @@
   "pattern": "righe",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-stevens-nero-nero",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEsprimiti con stile grazie alla collezione di camicie BLACK RAGS . Realizzate con tessuti di alta qualità e dettagli raffinati, queste camicie sono progettate per offrire un'eleganza senza tempo e un comfort impareggiabile. Che tu stia cercando un look formale per l'ufficio o un'opzione più casual per il weekend, le camicie BLACK RAGS sono la scelta perfetta per ogni occasione.\nCaratteristiche Principali:\nTessuti Premium: Le camicie BLACK RAGS sono realizzate con tessuti pregiati che offrono un'eccezionale sensazione al tatto e una durata superiore.\nDettagli Raffinati: Con dettagli come bottoni in madreperla e cuciture sartoriali, ogni camicia BLACK RAGS emana un'eleganza senza sforzo.\nVestibilità Su Misura: Disponibili in una vasta gamma di taglie e stili, le camicie BLACK RAGS assicurano una vestibilità su misura che si adatta perfettamente alla tua figura.\nVarietà di Stili: Dalle classiche camicie a righe alle opzioni più audaci con stampe vivaci, c'è una camicia BLACK RAGS per ogni personalità e occasione.\nCrea il Tuo Outfit: Abbina una camicia BLACK RAGS bianca con un elegante paio di pantaloni chino per un look formale da ufficio. Per un'uscita informale, opta per una camicia a quadri abbinata a\njeans\ne\nscarpe\nda ginnastica. E se stai pianificando una serata speciale, completa il tuo look con una camicia nera e un paio di pantaloni eleganti.\nSia che tu stia cercando un'opzione classica per l'ufficio o un tocco di eleganza per il tuo tempo libero, le camicie BLACK RAGS sono la scelta perfetta per un guardaroba versatile e alla moda. Aggiungile al tuo carrello e scopri il piacere di vestire con stile e comfort.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "scarpe",
+      "categoria_url": "https://www.nuvolari.biz/scarpe.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.1,
+      "streetwear": 0.1,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte con collo bowling e tessuto leggero semitrasparente, adatta a contesti casual o estivi",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

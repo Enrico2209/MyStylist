@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "accessori/sciarpe/sciarpa-nuvolari-wc-rayburn-grgatx-grgatx-wc-rayburn-grg-atx-grg-atx",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nSciarpa Uomo Nuvolari modello Rayburn\nComposizione : 50% lana 33% viscosa 17% poliammide\nMade in italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "sciarpa classica in misto lana, adatta a contesti casual e smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

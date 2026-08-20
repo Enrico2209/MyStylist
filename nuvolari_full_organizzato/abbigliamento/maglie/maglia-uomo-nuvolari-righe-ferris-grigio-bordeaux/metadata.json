@@ -21,5 +21,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-uomo-nuvolari-righe-ferris-grigio-bordeaux",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nMaglia Uomo Nuvolari Ferris Grigio/Bordeaux\nMaglia girocollo uomo in tessuto misto lana e cachemire, impreziosito da una lavorazione a rombi. Completa il tuo look invernale con il\nbeanie Peak Nuvolari bordeaux\nche riprende il colore delle righe bicolor.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n30% Lana, 30% Viscosa, 35% Poliammide, 5% Cashmere\nCodice articolo: WC FERRIS BDX/GRG M-BDX/GRG M",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "beanie Peak Nuvolari bordeaux",
+      "categoria_url": "https://www.nuvolari.biz/beaniewd-peakbordeaux-bordeaux.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione girocollo in misto lana e cashmere, vestibilita regular",
+    "season": "inverno",
+    "pattern": "righe"
+  }
 }

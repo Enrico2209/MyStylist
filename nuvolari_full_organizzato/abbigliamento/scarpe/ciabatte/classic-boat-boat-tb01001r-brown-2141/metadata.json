@@ -23,5 +23,47 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/scarpe/ciabatte/classic-boat-boat-tb01001r-brown-2141",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'inconfondibile tradizione artigianale e il fascino intramontabile dello stile nautico si incontrano nel\nmocassino da uomo Timberland Classic Boat nella calda variante Brown\n. Icona indiscussa dell'abbigliamento casual e preppy, questa scarpa da barca unisce materiali di prima scelta, cuciture tradizionali e una struttura leggendaria pensata per garantire massima durevolezza, comfort e raffinatezza in ogni occasione.\nDesign, Materiali e Caratteristiche Costruttive\nPregiata Pelle Pienofiore Intessuta d'Archivio\n: Confezionato in pelle di altissima qualità dal finish ricco e naturale, il mocassino sviluppa una splendida patina con il passare del tempo, offrendo morbidezza eccezionale e una calzata avvolgente.\nSistema di Allacciatura Tradizionale a 360° in Cuoio\n: Dotato di autentici lacci in cuoio grezzo che scorrono lungo gli occhielli metallici inossidabili sul perimetro della tomaia, consente una regolazione su misura per un'aderenza perfetta al piede.\nCuciture Tradizionali Fatte a Mano\n: La vaschetta frontale è rifinita con la classica cucitura artigianale a vista, garanzia del sapere costruttivo e dell'inimitabile qualità che contraddistingue Timberland da generazioni.\nSuola Scanalata Siped in Gomma Antiscivolo\n: La suola in gomma dal profilo basso presenta sottili scanalature (siping) pensate per offrire un'aderenza straordinaria sia sulle superfici bagnate che sul ponte delle imbarcazioni.\nIdee di Stile: Costruisci il Tuo Look Heritage & Preppy\nClassic Preppy & Casual Look\n: Rendi la scarpa da barca l'elemento centrale di un outfit estivo raffinato ma disinvolto. Abbinala alla freschezza di una\nt-shirt uomo\nbasica o a una polo, insieme al taglio pulito e intramontabile di un paio di\njeans uomo\no di pantaloni chino.\nSmart Summer & Resort Style\n: Nelle giornate più calde, durante un aperitivo al mare o per il tempo libero nei weekend, accosta la nuance marrone cuoio alla leggerezza dei modelli disponibili nella nostra selezione di\nbermuda uomo\n, oppure portala con te come calzatura sofisticata da abbinare alle proposte da spiaggia tra i\ncostumi uomo\n.\nTransition Layering & Casual Wear\n: Per le serate di mezza stagione o un look da città impeccabile, indossa le boat shoes insieme a una camicia o sotto un capospalla leggero selezionato dalla linea\ngiubbotti uomo\n, oppure usale in alternativa al mondo delle\nsneakers uomo\nper elevare istantaneamente l'outfit.\nAbbraccia l'autentica leggenda dello stile marinaro d'autore. Scegli la nobiltà della pelle pienofiore Brown, il valore della lavorazione artigianale e la versatilità senza tempo del mocassino Timberland Classic Boat.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Scarpa da barca classica in pelle, registro smart casual/preppy, adatta anche a contesti estivi e resort",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

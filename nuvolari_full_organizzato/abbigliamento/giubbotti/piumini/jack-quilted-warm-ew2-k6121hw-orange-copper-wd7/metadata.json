@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/piumini/jack-quilted-warm-ew2-k6121hw-orange-copper-wd7",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nPiumino K-way Jack Quilted Warm\nunisce la funzionalità tecnica di K-Way, con protezione da acqua e vento, a materiali riciclati, rendendolo una scelta moderna e sostenibile.\nTessuto Esterno:\nNylon riciclato\n, trattato per essere idrorepellente e antivento.\nImbottitura:\nThermore®\n(Poliestere riciclato al 100%), una fibra ecologica altamente isolante.\nGrado di Calore:\nMedio (Ideale per l'autunno inoltrato e l'inverno leggero, spesso classificato come un \"100 grammi\").\nDesign:\nTrapuntatura a onde\n(quilted) distintiva.\nDettagli\n- Chiusura con zip.\n- Due tasche con bottoni a pressione.\n-\nCappuccio\nfisso regolabile con corda elastica.\n- Fondo giacca regolabile con corda elastica.\nVestibilità: (Fitting)\nSlim Fit\n(Vestibilità asciutta).\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero sportivo/casual, tetto di marchio K-Way",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

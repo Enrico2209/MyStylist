@@ -25,5 +25,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/t-shirt-es3-uat-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Nuvolari Uat Blu\ncelebra la passione per il mondo dei motori e il design d'epoca attraverso un'estetica grafica d'impatto e di grande fascino vintage. Realizzata su una base cromaticamente profonda e intensa come il blu notte, questa maglietta a maniche corte si impone come un capo statement capace di regalare un'impronta decisamente heritage ed iconica al guardaroba casual quotidiano.\nDesign e Caratteristiche Principali\nTessuto in Jersey di Cotone Compatto\n: Confezionata in un jersey di puro cotone morbido, fresco e cascante, strutturato per offrire una superficie liscia ed estremamente confortevole al tatto, ideale da indossare anche nelle giornate più calde.\nMaxi Stampa Grafica Automotive Heritage\n: Il pannello frontale è caratterizzato da un'elaborata stampa artistica centrale che ritrae frontalmente un'auto d'epoca da corsa bianca con il numero 5 sul cofano. Al di sotto della vettura si sviluppa un suggestivo gioco di riflessi e schemi tecnici di progettazione in stile blueprint (viste laterali, posteriori e in pianta dell'auto), che accentuano l'ispirazione ingegneristica e vintage del capo.\nScollo a Girocollo Rinforzato\n: Presenta un classico taglio a girocollo rifinito con un profilo in maglia costina elastica e sottile, progettato per mantenere la forma ottimale attorno al collo evitando cedimenti dovuti ai lavaggi frequenti.\nManifattura e Salpa Posteriore\n: La cura del dettaglio è sottolineata dalla pulizia delle doppie cuciture parallele su maniche e orlo inferiore, e dal tape parasudore interno alla base del collo dove è cucita la label bianca tessuta Nuvolari.\nSilhouette Regular Fit Bilanciata\n: Propone una vestibilità regolare e fluida che si adatta in modo naturale alle linee del busto senza stringere, garantendo un'ottima libertà di movimento e una resa estetica sempre pulita e ordinata.\nProposta di Outfit\nHeritage Urban Casual\n: Abbinala al\njeans\ndal lavaggio azzurro medio-chiaro con sabbiature e micro-rotture rammendate; l'incontro tra l'attitudine vissuta del denim chiaro e il sapore rétro della stampa automobilistica bianca su base blu definirà un perfetto look streetwear contemporaneo e di grande carattere.\nContemporary Smart Blazer Layering\n: Indossala sotto la\ngiacca\nsfoderata jacquard beige sabbia e abbina un pantalone scuro; l'eleganza rilassata del blazer chiaro smorzerà la natura sportiva della t-shirt grafica, lasciando intravedere il pattern dell'auto d'epoca per un perfetto look spezzato da aperitivo o tempo libero ricercato.\nSummer Casual Contrast\n: Portala in abbinamento al\nbermuda\nstile chino in cotone elasticizzato verde militare; lo stacco grafico tra la profondità blu della t-shirt (illuminata dal bianco della stampa) e la solidità del verde bosco inferiore strutturerà un outfit fresco, solido e bilanciato, ideale per i weekend estivi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    },
+    {
+      "testo": "giacca",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt grafica a maniche corte, capo base per il casual quotidiano",
+    "season": "tutte",
+    "pattern": "stampato"
+  }
 }

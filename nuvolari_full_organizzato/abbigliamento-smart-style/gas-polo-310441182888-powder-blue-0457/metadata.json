@@ -25,5 +25,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/gas-polo-310441182888-powder-blue-0457",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nPolo Uomo Gas Powder Blue\nesprime appieno l'eleganza rilassata e lo stile preppy della stagione estiva, offrendo un perfetto equilibrio tra il rigore della maglieria classica e la freschezza di una tonalità pastello molto ricercata. Sviluppata in una delicata nuance azzurro polvere (\"Powder Blue\"), questa polo a maniche corte si distingue per i suoi dettagli grafici minimalisti e puliti, configurandosi come un autentico passe-partout per i look smart-casual quotidiani.\nDesign e Caratteristiche Principali\nTessuto in Cotone Piqué Traspirante\n: Confezionata nel tradizionale filato di cotone con armatura a piqué, che dona alla superficie la caratteristica texture micro-geometrica in rilievo. Questo tessuto è celebre per la sua freschezza, resistenza e alta traspirabilità, ideale per affrontare con comfort le giornate calde.\nProfili a Contrasto White Piping\n: Il colletto e i bordi elastici delle maniche corte sono rifiniti con un sottile profilo bianco ottico a contrasto. Questo dettaglio accende la luminosità della base pastello, richiamando l'estetica dei club del tennis d'altri tempi.\nScollo a Due Bottoni e Colletto Strutturato\n: Presenta una chiusura frontale classica a due bottoni in tinta con il tessuto, inseriti su una patta lineare e pulita. Il colletto a costine mantiene un'ottima struttura sia portato completamente chiuso sia lasciato aperto in modo informale.\nIconico Micro-Logo Tono su Tono\n: Sul petto a sinistra spicca il classico logo a doppia freccia di GAS, ricamato con un filo bianco che riprende i profili del colletto e delle maniche, firmando il capo con estrema discrezione.\nFondo con Spacchetti Laterali\n: L'orlo inferiore dritto è arricchito da piccoli spacchetti laterali simmetrici sul fondo. Questo accorgimento sartoriale migliora la vestibilità sul bacino, evitando che la maglia si tiri quando viene indossata sopra i pantaloni.\nSilhouette Regular Fit Equilibrata\n: Il taglio scende lineare e fluido lungo il busto senza stringere, definendo la linea delle spalle in modo nitido per un comfort eccellente e un'estetica sempre ordinata.\nProposta di Outfit\nPreppy Riviera Style\n: Abbinala a un\nbermuda\nin denim dal lavaggio chiaro stone washed; i profili bianchi e l'azzurro polvere della polo si integreranno magnificamente con le sfumature luminose del jeans, creando un outfit fresco, armonioso e perfetto per il tempo libero o un pranzo all'aperto.\nSmart Casual Office\n: Indossala insieme a un\npantalone\nchino color beige, sabbia o bianco ottico; il contrasto delicato tra le tonalità neutre della terra e la freschezza del pastello definirà un insieme sobrio, curato e professionale, ideale per il venerdì informale in ufficio o un aperitivo.\nUrban Denim Contrast\n: Portala sopra un\nbermuda\nin jeans dal lavaggio medio-scuro con risvolto e, per le ore più fresche, completa il look con un\ngiubbotto\ndi jeans ad effetto vissuto; l'intensità del denim indaco scuro esalterà la delicatezza dell'azzurro polvere, strutturando un outfit urban dinamico e di grande carattere.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giacche.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piqué, ideale per contesti smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

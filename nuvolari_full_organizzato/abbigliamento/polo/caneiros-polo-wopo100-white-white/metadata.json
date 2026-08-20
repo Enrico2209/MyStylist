@@ -24,5 +24,46 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/polo/caneiros-polo-wopo100-white-white",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl carattere ribelle della terrace culture britannica, il design minimalista e l'attenzione maniacale per i dettagli si fondono nella\npolo uomo Weekend Offender modello Caneiros (WOPO100)\n. Il brand inglese, celebre per il suo stile provocatorio e fortemente legato al mondo della musica e degli spalti calcistici, propone un classico intramontabile dello sportswear d'oltremanica, perfetto per chi cerca un look casual deciso, autentico e ricco di personalità.\nDesign, Tessuti e Caratteristiche Costruttive\nPregiato Cotone Piquet Altamente Traspirante\n: La polo è interamente realizzata in un filato di puro cotone piquet di alta qualità, caratterizzato dalla tipica lavorazione a micro-rilievi che favorisce il passaggio dell'aria. Questa struttura garantisce un'eccellente freschezza e una mano morbida, ideale per un comfort che dura tutto il giorno.\nL'Iconico Badge Weekend Offender\n: Il segno distintivo del brand spicca sul petto, lato cuore, con l'applicazione del celebre patch quadrato in materiale sintetico lucido con logo goffrato. Un dettaglio premium immediato che racchiude tutta l'estetica urban e l'appartenenza alla subcultura del marchio.\nColletto e Finiture di Alta Sartorialità\n: Il colletto a camicia e il bordo delle maniche corte sono realizzati in maglia a costine di ottima tenuta strutturale. All'interno del colletto si nasconde la fettuccia parasudore personalizzata con il celebre motto del brand \"Admit Nothing\", un dettaglio nascosto ma di grandissimo impatto per i veri appassionati del marchio.\nPatta Solida e Vestibilità Regolare\n: La chiusura sul collo presenta una patta lineare con bottoni logati in tono. La silhouette scivola dritta lungo i fianchi offrendo un taglio regular fit calibrato ed estremamente comodo, perfetto per accompagnare i movimenti quotidiani in totale disinvoltura.\nIdee di Stile: Costruisci il Tuo Look Terrace & Casual\nCasual Terrace Championship Uniform\n: Incarna lo stile degli spalti britannici unendo la polo a una solida base denim. Abbinala a un paio di jeans dal taglio morbido e contemporaneo visitando la categoria di\njeans uomo\n. Completa l'outfit con la comodità e il tocco rétro delle calzature presenti nella nostra selezione di\nsneakers uomo\n.\nMid-Season Layering\n: Quando il clima si fa instabile, crea un perfetto gioco a strati dal sapore squisitamente urban. Indossa la polo sopra una delle proposte base che trovi nella sezione delle\nt-shirt uomo\ne proteggiti con stile scegliendo una giacca tecnica o un guscio protettivo dall'ampia offerta di\ngiubbotti uomo\n.\nSummer Leisure Option\n: Per i momenti di relax nel fine settimana, l'aperitivo o le giornate più calde, abbina la polo a una proposta fresca ed estiva. Puoi accostarla a un paio di bermuda comodi esplorando l'assortimento di\nbermuda uomo\n, oppure portarla con te sopra uno dei modelli colorati e resistenti disponibili nella linea di\ncostumi uomo\n.\nSperimenta il perfetto equilibrio tra la tradizione dello sportswear inglese e l'attitudine sfrontata della cultura di strada. Scegli la qualità strutturale del cotone piquet, l'esclusività dei dettagli interni e l'inconfondibile firma della polo Caneiros firmata Weekend Offender.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: WOPO100 WHITE-WHITE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "costumi uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "polo classica in piquet, ma con forte connotazione terrace/streetwear del brand",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

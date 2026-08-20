@@ -24,5 +24,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-kb-burton-nero-nero",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Black Rags: Stile e Comfort per Ogni Occasione\nIl pantalone Black Rags è il perfetto equilibrio tra comfort e stile, ideale per chi cerca un capo versatile e moderno. Realizzato con materiali di alta qualità, garantisce libertà di movimento e una vestibilità impeccabile. Il design contemporaneo lo rende adatto sia per look casual che per outfit più ricercati.\nCrea il tuo outfit completo!\nAbbinalo con una\nt-shirt\nper un look informale, oppure opta per una\ncamicia\nper un tocco più elegante. Completa il tutto con un paio di\nsneakers\nper un risultato di tendenza.\nScopri altre idee e ispirazioni per il tuo\noutfit\n!\nPerché scegliere Black Rags?\nMateriali resistenti e confortevoli\nDesign versatile per ogni occasione\nPerfetto per un look casual o raffinato\nNon lasciarti sfuggire il pantalone Black Rags, il must-have che arricchirà il tuo guardaroba!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE 100% poliestere\nVestibilità regular\nCodice articolo: KB BURTON NERO-NERO",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo in felpa/poliestere con coulisse in vita, stile prettamente casual e sportivo",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

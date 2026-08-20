@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-fantasia-camiceria-bellini-exclusive-nuvolari-nix-bordeaux",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nCamicia fantasia uomo a maniche lunghe con colletto francese firmata Camiceria Bellini in collaborazione con Nuvolari. Una camicia uomo casual chic dalla vestibilità slim in puro cotone, che colpisce per la micro fantasia geometrica all over dall'effetto ottico.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia fantasia uomo Bellini for Nuvolari modello Nix - Bordeaux\nCollo alla francese\nTessuto con micro fantasia geometrica all over\nEtichetta personalizzata Nuvolari\nVestibilità Slim Fit\nComposizione: 100% cotone\nMade in Italy",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "elegante": 0.5
+    },
+    "formality": 3,
+    "formality_perche": "camicia slim fit con micro fantasia geometrica, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

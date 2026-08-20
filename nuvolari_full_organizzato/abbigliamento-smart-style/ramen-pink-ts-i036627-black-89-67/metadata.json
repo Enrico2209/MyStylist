@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/ramen-pink-ts-i036627-black-89-67",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa T-Shirt Ramen Pink è un capo dall'estetica vibrante e contemporanea, perfetto per chi ama lo stile streetwear con un tocco di colore originale. Realizzata in morbido single jersey, questa maglietta garantisce una sensazione di freschezza e comfort sulla pelle, rendendola ideale per un uso quotidiano dinamico.\nIl punto di forza di questa t-shirt è il suo taglio oversized, che definisce una silhouette moderna e rilassata. La tonalità rosa, unita alle stampe tematiche posizionate sia sul petto che sulla schiena, crea un look d'ispirazione \"pop-urban\" di grande impatto. È il capo perfetto per chi vuole aggiungere una nota cromatica distintiva al proprio guardaroba senza rinunciare alla comodità di un tessuto naturale e traspirante.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: I036627 BLACK-89.67",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.4,
+      "streetwear": 0.6
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt con grafica streetwear e vestibilita rilassata",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

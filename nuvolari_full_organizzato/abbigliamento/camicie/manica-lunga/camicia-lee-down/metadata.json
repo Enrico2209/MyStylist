@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/manica-lunga/camicia-lee-down",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa camicia Lee Button Down nella variante Rinse Blue è un pilastro del guardaroba maschile, capace di coniugare la formalità di un taglio sartoriale con la robustezza del denim heritage di Lee.\nDesign e Caratteristiche Distintive Colletto Button-Down: Il colletto fermato da bottoni conferisce un aspetto sempre ordinato e impeccabile, rendendo questa camicia perfetta sia da sola che portata sotto un maglione o una giacca.\nLavaggio Rinse Blue: La tonalità indaco scuro \"Rinse\" mantiene un colore profondo e uniforme, tipico del denim crudo appena lavato. Questo colore la rende estremamente versatile e più sobria rispetto ai lavaggi più chiari o \"used\".\nTaschino Frontale: Presenta un singolo taschino sul petto, rifinito con la classica etichetta nera Lee con logo dorato, dettaglio che ne sottolinea l'autenticità.\nCuciture Tono su Tono: A differenza dei modelli più rustici, le cuciture scure si mimetizzano con il tessuto per un'estetica \"clean\" e sofisticata.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "camicia button-down in denim scuro, a meta tra casual quotidiano e smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-miami-guess-jeans-wd-m0yan1-d4322-hawkins-hawn",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nJeans skinny da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nJeans Skinny Uomo Guess Jeans modello M0YAN1 D4322\nJeans di cotone stretch\nVestibilità skinny\nVita media, gamba stretta\nClassico modello 5 tasche\nChiusura con zip e bottone\nComposizione : 99% Cotone, 1% Elastan",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "classico jeans 5 tasche, base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

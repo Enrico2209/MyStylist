@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/abbigliamento-ichidonna-ihdotia-ss-20126014-birch-130905",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nPolo Ichi Donna Ihdotia Ss Birch\nesprime un perfetto equilibrio tra il fascino rétro del knitwear d'ispirazione tennis e un'estetica pop contemporanea e femminile. Proposta in una delicata e luminosa tonalità crema/panna naturale (\"Birch\"), questa maglia a maniche corte finemente lavorata si distingue per i suoi ricchi dettagli geometrici a contrasto e per la sua texture materica, ponendosi come un capo sofisticato e versatile per i look daily della bella stagione.\nDesign e Caratteristiche Principali\nTessuto in Maglia Crochet Traforata\n: Realizzata in un filato leggero di cotone lavorato a maglia tricot con un delicato motivo micro-traforato (effetto uncinetto o crochet). Questa particolare struttura non solo dona una texture mossa e tridimensionale al capo, ma assicura una ventilazione e una traspirabilità ottimali sulla pelle.\nColletto e Fustella con Ricamo Geometrico Jacquard\n: Il tradizionale colletto a polo e l'abbottonatura frontale sono impreziositi da un fitto ricamo jacquard geometrico che intreccia tonalità verde prato e rosa fucsia acceso, creando un vivace stacco cromatico sulla base panna.\nChiusura con Bottoni Pop a Contrasto\n: La mezza fustella frontale è scandita verticalmente da tre bottoni lucidi piatti di un intenso color rosa fucsia, perfettamente coordinati alle geometrie del ricamo jacquard per un tocco pop e coerente.\nBordi a Costine su Maniche e Orlo\n: Il fondo delle maniche corte e l'orlo inferiore del busto sono rifiniti con un bordo elasticizzato a costine piatte in tinta unita, che assicura una perfetta tenuta della forma e definisce una silhouette pulita.\nManiche Corte dal Taglio Regolare\n: La costruzione delle maniche corte presenta volumi equilibrati che fasciano morbidamente la spalla, terminando a metà bicipite in pieno stile polo classica.\nSilhouette Lineare Regular-Fit\n: Il taglio scende dritto sul busto con volumi accostati ma confortevoli, ideali sia per lasciare la polo morbida sopra la cintura sia per infilarla all'interno di capi a vita alta per accentuare il mood rétro.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 3,
+    "formality_perche": "Polo in maglia crochet, si colloca naturalmente nel registro smart casual",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

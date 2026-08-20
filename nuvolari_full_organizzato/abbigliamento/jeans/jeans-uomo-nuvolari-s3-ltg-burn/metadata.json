@@ -20,5 +20,37 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-uomo-nuvolari-s3-ltg-burn",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI Jeans Uomo Nuvolari nel modello Burn Light rappresentano l'evoluzione fresca e luminosa del classico denim vissuto. Rispetto alla versione scura, questo lavaggio enfatizza l'anima \"stonewashed\" del capo, rendendolo perfetto per chi cerca un look rilassato senza rinunciare alla qualità costruttiva del brand.\nIDEALE PER CHI E' STANCO DELLE COSE ATTILLATE E VUOLE STARE COMODO\nGamba Dritta e Libertà Totale\nPerché sceglierli\nIl modello Burn in questa tonalità chiara è pensato per chi ama l'estetica del denim anni '90. Il lavaggio è caratterizzato da schiariture ampie e naturali che conferiscono al tessuto una morbidezza superiore al tatto. È il jeans ideale per \"spezzare\" l'outfit e aggiungere una nota di luce, pur mantenendo quell'aspetto robusto che definisce la linea Nuvolari.\nConsigli di Outfit\nUrban Vintage Look\n: Abbinali a una\nt-shirt\nbianca e a una\ngiacca\nin pelle scamosciata per un outfit che celebra perfettamente l'estetica rétro e grintosa del\njeans\n.\nSmart Casual\n: Indossali con una\ncamicia\ne un maglione leggero. Il contrasto tra il denim vissuto e la pulizia della parte superiore crea un equilibrio perfetto per un aperitivo in città.\nStreet Vibe\n: Portali con una\nfelpa\noversize e un paio di\nsneakers\nper un look d'ispirazione urban, comodo e di grande tendenza.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\ntessuto elasticizzato\nfit straight leggermente capri (lunghezza alla caviglia)\nCodice articolo: S3 LTG BURN LGT DENIM-LGT DENIM",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a gamba dritta, lavaggio chiaro stonewashed quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

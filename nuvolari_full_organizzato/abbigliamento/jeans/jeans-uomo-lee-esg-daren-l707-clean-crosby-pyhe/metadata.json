@@ -18,5 +18,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-uomo-lee-esg-daren-l707-clean-crosby-pyhe",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Uomo Lee Clean Crosby\nI\njeans\nDaren di Lee® sono il modello più amato, caratterizzati da un taglio dritto, vita medio-bassa e gamba slim. Dotati di patta con zip, offrono uno stile moderno e versatile, perfetti per ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n70% cotone / 30% elastomultiestere\nCodice articolo: ESG DAREN L707 CLEAN CROSBY-PYHE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "Jeans classico a cinque tasche, capo base del guardaroba casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -21,5 +21,53 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/lacoste/t-shirt-th6709-blossom-iy0",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-shirt Uomo Lacoste TH6709\nnella vivace colorazione\nBlossom\nè un capo essenziale che unisce il comfort del cotone di alta qualità allo stile iconico del brand francese.\nDesign e Caratteristiche Principali\nIconico Coccodrillo\n: Presenta il classico logo verde ricamato sul petto, simbolo inconfondibile di eleganza sportiva.\nMateriale Premium\n: Realizzata in 100% jersey di cotone pima, offre una morbidezza superiore e una resistenza ottimale nel tempo.\nVestibilità Regular Fit\n: Il taglio è classico e confortevole, ideale per un look rilassato ma sempre ordinato.\nGirocollo a Costine\n: Lo scollo rotondo è rifinito con una maglia a coste sottili che mantiene la forma lavaggio dopo lavaggio.\nColore Blossom\n: Una tonalità arancio pesca luminosa e moderna, perfetta per dare energia ai tuoi outfit estivi.\nAbbinalo con\nPer un outfit estivo dinamico e ricercato, ti consigliamo di abbinare questa\nt-shirt\ncon:\nUn paio di\nbermuda\nin lino blu navy per creare un contrasto cromatico sofisticato.\nDei\njeans\nchiari e una\novershirt\nbeige per le serate più fresche.\nI\nchinos\ncolor oliva e delle\nsneakers\nbianche per un look urban quotidiano.\nSotto una\ncamicia\ndi lino aperta per un tocco casual e traspirante.\nPer il tempo libero, abbinala ai\npantaloni\njogger della collezione Nuvolari Terry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    },
+    {
+      "testo": "chinos",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chinos.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica regular fit, livello 2 di partenza",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

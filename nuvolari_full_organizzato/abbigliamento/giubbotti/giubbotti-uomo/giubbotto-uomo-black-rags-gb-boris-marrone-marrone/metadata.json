@@ -23,5 +23,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-uomo-black-rags-gb-boris-marrone-marrone",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nGiubbotto Uomo Black Rags Boris Marrone\nIl\ngiubbotto\nBlack Rags con colletto è un capo che combina stile e funzionalità. Caratterizzato da un design moderno, è ideale per completare un look casual e sofisticato. La presenza del colletto aggiunge un tocco di eleganza, rendendolo perfetto per diverse occasioni.\nAbbinalo i ad una\ncamicia\noppure ad una\nmaglia\nper ottenere il look elegante perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n78% poliestere, 22% viscosa, 2% spandex\nCodice articolo: GB BORIS MARRONE-MARRONE",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "giubbotto",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "giubbotto con colletto dal taglio pulito, consigliato con camicia per un look smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

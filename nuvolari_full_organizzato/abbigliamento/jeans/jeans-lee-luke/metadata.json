@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-lee-luke",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE LUKE SHORTS: IL DENIM LEGGERO PER LA TUA ESTATE\nAffronta le giornate più calde con lo stile inconfondibile di Lee. Questi shorts, basati sul celebre taglio Luke, offrono una vestibilità moderna e slanciata. Il lavaggio Light Ray dona un aspetto fresco e luminoso, perfetto per i weekend al mare o i pomeriggi in città.\nFit Contemporaneo: Un taglio slim-tapered che si adatta perfettamente alla silhouette, terminando appena sopra il ginocchio per un look attuale.\nLavaggio Light Ray: Una splendida tonalità di blu chiaro con un leggero effetto \"vissuto\" che evoca le vibes delle vacanze estive.\nDettaglio Risvolto: Il fondo con risvolto cucito aggiunge un tocco di stile preppy e curato al tuo outfit casual.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim, capo casual estivo quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/girocollo/maglia-nuvolari-ewc-cork-blugrg-m-blugrg-m-ewc-cork-blu-grg-m-blu-grg-m",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nMaglia Uomo Nuvolari modello Cork\nScollo a v\nBordi a costina\nVestibilità regular fit\nComposizione: 45%lana, 20% viscosa ,20% poliammide, 15% cashmere",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "maglia scollo a v in misto lana e cashmere, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

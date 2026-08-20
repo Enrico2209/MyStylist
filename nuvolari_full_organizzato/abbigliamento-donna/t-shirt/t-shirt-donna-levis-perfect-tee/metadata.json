@@ -22,5 +22,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/t-shirt/t-shirt-donna-levis-perfect-tee",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'essenziale assoluto del guardaroba streetwear si spoglia di ogni eccesso per puntare tutto su un'estetica solida, d'impatto e iper-versatile. La\nT-Shirt Donna Levi's Perfect Tee Black\nè il passe-partout definitivo, pensato per chi esige pulizia nelle linee e un'attitudine dark-chic senza sforzo. Questo modello fa della semplicità il suo vero punto di forza, perfetto per integrarsi in qualsiasi look urban o per essere utilizzato come base per i tuoi layer preferiti.\nDesign e Caratteristiche Principali\nDettaglio Logo Micro Batwing Red\n: Il vero e proprio sigillo di autenticità,  è il piccolo ricamo dell'iconico logo Levi's, un accento cromatico deciso che spezza il pannello frontale con puro stile heritage.\nStruttura a Costine Sottili (Ribbed Texture)\n: A differenza delle classiche t-shirt in jersey liscio, la superficie del tessuto presenta una finitura a micro-costine verticali all-over,  che conferisce elasticità, spessore e un fit pazzesco sul corpo.\nScollo a Girocollo Costruito (Crewneck)\n: Rifinita con una bordatura a coste piatte e cuciture rinforzate, studiata appositamente per mantenere perfettamente la forma e incorniciare il décolleté con una linea nitida e pulita.\nTaglio Slim-Regular Proporzionato\n: La silhouette asseconda le linee del corpo con precisione ed equilibrio, evidenziando una vestibilità asciutta, pulita ed estremamente confortevole.\nManiche Corte e Orlo Lineare\n: La costruzione della manica corta segue la fisionomia della spalla in modo anatomico e naturale, terminando con un bordo dritto a cuciture invisibili.\nIdee di Stile: Crea la Tua Wave\nThe Core Total Dark Match\n: Crea un outfit d'ispirazione rock-street abbinando questa t-shirt a un\njeans\nnero slavato dal taglio slim o straight. Completa il look con uno stivaletto in pelle o una sneaker chunky.\n90s Hype Contrast\n: Inserisci la t-shirt all'interno di un bermuda in denim loose molto chiaro e ampio. Un look dal sapore rétro e skate-inspired, perfetto se chiuso con calzini bianchi a vista e sneaker basse.\nUrban Tailoring Layering\n: Spezza la formalità di un blazer oversize o di una giacca utility leggera indossando questa t-shirt come strato base; il contrasto tra la pulizia del capo e la struttura della giacca creerà un perfetto look urban-chic.\nZero distrazioni, solo puro stile d'archivio. Scegli la solidità di Levi's e scendi in strada a dettare le tue regole.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica a girocollo, capo quotidiano informale",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

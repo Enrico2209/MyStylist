@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-uomo-jb-mittwoch-14363-howe-blu-bianco-v-2",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nCamicia Uomo J.B. Mittwoch Blu/Bianco\nLa camicia a maniche corte del brand J.B. Mittwoch è un capo perfetto per un look elegante e fresco. Realizzata con materiali di alta qualità, offre comfort e traspirabilità ideali per la stagione estiva. Il design classico con chiusura a bottoni e colletto tradizionale rende questa camicia versatile e adatta a diverse occasioni, dal casual al semi-formale.\nAbbinala ad un\ncostume\n, ad un paio di\nocchiali da sole\ne ad un\ntelo da mare\nper un look da spiaggia perfetto!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\nCodice articolo: 14363 HOWE BLU/BIANCO-V.2",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costume",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/costumi.html"
+    },
+    {
+      "testo": "occhiali da sole",
+      "categoria_url": "https://www.nuvolari.biz/accessori/occhiali.html"
+    },
+    {
+      "testo": "telo da mare",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/accessori/teli-da-mare-uomo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "da_mare": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con stampa hawaiana, consigliata per look da spiaggia",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

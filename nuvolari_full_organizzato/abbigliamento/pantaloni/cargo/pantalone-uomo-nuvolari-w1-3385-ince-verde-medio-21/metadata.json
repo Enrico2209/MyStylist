@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/cargo/pantalone-uomo-nuvolari-w1-3385-ince-verde-medio-21",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nPantalone Uomo Nuvolari Ince Verde Medio\nIl\npantalone cargo\nNuvolari unisce stile e funzionalità con un design pratico e moderno. Realizzato in cotone, presenta una vestibilità comoda e tasche laterali per una maggiore praticità. Perfetto per un look casual, si abbina facilmente a qualsiasi capo del tuo armadio.\nAbbinali ad un paio di\nsneakers\ne ad una\nfelpa con cappuccio\nper uno stile unico e sportivo adatto a qualsiasi contesto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n97% cotone, 3% elastan\nCodice articolo: W1 3385 INCE VERDE MEDIO-21",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantalone cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "felpa con cappuccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/felpe/con-cappuccio.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "pantalone cargo con tasconi laterali, stile prettamente casual e workwear",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

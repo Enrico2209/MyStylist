@@ -22,5 +22,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/overshirt-w1-granny-cammello-cammello",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nOvershirt Uomo Nuvolari: Stile e Funzionalità per Ogni Occasione\nL’overshirt uomo Nuvolari è il capo perfetto per chi desidera un look moderno e pratico. Realizzata con materiali di alta qualità e caratterizzata da un design versatile, questa overshirt è ideale da indossare come giacca leggera o come strato intermedio per completare ogni outfit con stile.\nCrea il tuo outfit ideale!\nAbbinala a una\nmaglia\nper un look casual e confortevole, o indossala con un paio di\npantaloni\nper un tocco più ricercato. Completa il tutto con delle\nsneakers\nper uno stile contemporaneo e dinamico.\nTrova ispirazione per i tuoi\noutfit\ne arricchisci il tuo guardaroba con l'overshirt Nuvolari!\nPerché scegliere l’Overshirt Nuvolari?\nDesign versatile e moderno\nMateriali di qualità per il massimo comfort\nPerfetta per un look casual o semi-formale\nUn capo essenziale che unisce praticità e stile con un tocco di tendenza!\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "maglia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglie.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "Overshirt in maglia fine con colletto e bottoni, si colloca come smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

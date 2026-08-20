@@ -20,5 +20,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-gaelle-paris-sd-gbu2740-nero",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nCamicia Manica Corta da Uomo\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCamicia Uomo Gaelle modello GBU2740\nManica Corta\nCollo hawainao\nFantasia all over\nVestibilità Regular\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.2,
+      "da_mare": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte con collo hawaiano e fantasia all-over molto vistosa, adatta a contesti informali o estivi",
+    "season": "estate",
+    "pattern": "stampato"
+  }
 }

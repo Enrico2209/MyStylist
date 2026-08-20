@@ -24,5 +24,34 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/jeans/jeans-tite-blu-chiaro-blu-ch-28",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nJeans Uomo Rayz Tite Blu Chiaro\nincarnano la perfetta fusione tra l'estetica streetwear d'avanguardia e la massima libertà di movimento loungewear, proponendosi come un pezzo chiave per i guardaroba urban più attuali. Contraddistinti da un lavaggio azzurro chiaro uniforme e leggermente slavato dall'effetto \"stone washed\" naturale, questi pantaloni si allontanano dal denim rigido tradizionale per abbracciare una vestibilità morbida, ariosa e fortemente contemporanea.\nDesign e Caratteristiche Principali\nTela Denim Leggera e Fluida\n: Confezionati in un denim di cotone morbido, cascante e piacevole al tatto, appositamente trattato per garantire una flessibilità superiore e per assecondare le linee ampie del modello senza irrigidirsi.\nMaxi Cintura Elasticizzata \"Paperbag Style\"\n: Il punto vita è caratterizzato da una spessa fascia elastica arricciata che si adatta ergonomicamente ai fianchi e assicura stabilità. Dal girovita scendono due lunghissimi cordoncini piatti di cotone bianco a contrasto, utili per regolare il fit e ideati per rimanere a vista come elemento estetico d'ispirazione skate.\nCostruzione con Pinces e Pulizia Frontale\n: Sotto la cintura, il pannello frontale integra pinces strutturali che aprono i volumi sul bacino, amplificando la morbidezza del capo. La pulizia visiva è garantita dalla finta patta centrale senza bottoni o zip sporgenti.\nTasche Laterali ad Arco\n: Sul davanti sono presenti due tasche profonde inserite a filo lungo la curvatura del fianco, che si integrano armoniosamente nelle linee rilassate del jeans senza alterarne la silhouette.\nTaglio Balloon / Tapered Fit Pronunciato\n: Il fit si distingue per i volumi generosi e abbondanti lungo la coscia che si stringono in modo netto e geometrico verso la caviglia, delineando una silhouette a palloncino accattivante, perfetta per mettere in risalto le sneaker.\nProposta di Outfit\nUrban Heritage Contrast\n: Indossalo insieme alla\nt-shirt Uat blu\n; i volumi relaxed del jeans e la maxi stampa d'epoca automotive sul petto comporranno un outfit streetwear dal forte sapore vintage e di grande impatto metropolitano.\nSmart Casual Layering\n: Abbinalo alla\ncamicia Nadoto Khaki\na micro-righe verticali portata completamente aperta sopra una t-shirt bianca; il fit morbido e svasato del denim azzurro si sposerà perfettamente con le linee aeree e fresche della camicia, definendo un look perfetto per i pomeriggi d'estate.\nQuiet Luxury Relaxed\n: Portalo in combinazione con la\npolo in maglia Karl beige\ncon scollo a V; la texture ordinata ed elegante della polo color panna eleverà istantaneamente lo spirito informale del pantalone balloon, bilanciando ricercatezza e attitudine disinvolta.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt Uat blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicia Nadoto Khaki",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "polo in maglia Karl beige",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/polo.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.5,
+      "streetwear": 0.5
+    },
+    "formality": 2,
+    "formality_perche": "Jeans con taglio balloon, vita elastica arricciata e coulisse bianca a contrasto d'ispirazione skate",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-lee-resort-shirt-es3-112376588-md-indigo",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE RESORT SHIRT MD INDIGO: L'ELEGANZA RILASSATA DELL'ESTATE\nQuesta camicia a maniche corte incarna lo spirito delle vacanze con un tocco di sofisticatezza urbana. Caratterizzata dalla profonda tonalità Md Indigo, offre un look versatile che passa con naturalezza dalla spiaggia all'aperitivo in città.\nColletto a Revers:\nIl classico colletto aperto in stile \"resort\" dona un'aria casual e rinfrescante, perfetta per le temperature più calde.\nDettagli di Contrasto:\nI bottoni chiari risaltano sulla base indaco scuro, aggiungendo un punto di luce e un tocco di design moderno.\nDesign Funzionale:\nDotata di un taschino sul petto rifinito con la discreta etichetta logo Lee, per unire praticità e identità di marca.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.2,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Camicia a maniche corte stile resort con colletto a revers, adatta a contesti casual estivi e tempo libero",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

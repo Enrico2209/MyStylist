@@ -16,5 +16,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/jeans-esf-luke-l719-mid-stone-pr55",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nJeans Uomo Lee Mid Stone\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nJeans Uomo Lee Mid Stone",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a cinque tasche, capo base del guardaroba casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

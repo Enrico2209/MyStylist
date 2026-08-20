@@ -22,5 +22,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/sneakers-uomo-gel-nyc-1203a897-birch-driftwood-200",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe\nSneakers Uomo Asics Gel-Nyc Birch/Driftwood\nfondono l'estetica heritage del running dei primi anni 2000 con tecnologie di ammortizzazione all'avanguardia. La silhouette trae ispirazione da modelli iconici come la GEL-CUMULUS 16, reinterpretandoli in chiave lifestyle per un look urban sofisticato e ricco di texture.\nDesign e Caratteristiche Principali\nTomaia Multimaterica\n: La struttura combina strati di suede grigio e marrone driftwood con ampie zone in mesh traspirante color birch, offrendo un mix visivo dinamico e una ventilazione ottimale.\nTecnologia GEL™\n: L'intersuola integra inserti in tecnologia GEL™ visibili sia nell'avampiede che nel tallone, garantendo un assorbimento degli urti eccezionale e un comfort superiore per tutto il giorno.\nSupporto Ibrido\n: Il sistema di ammortizzazione utilizza una combinazione di schiume leggere e inserti strutturali per assicurare stabilità senza appesantire la calzata.\nDettagli Cromatici Ricercati\n: La palette si arricchisce di accenti color ruggine/mauve che delineano i profili laterali, creando un contrasto armonioso con le iconiche strisce Asics.\nBattistrada in Gomma Segmentata\n: Progettato per offrire flessibilità e una trazione affidabile sulle superfici metropolitane, il fondo scuro completa l'estetica robusta della scarpa.\nEstetica Y2K Moderna\n: Il design stratificato e complesso celebra il trend retro-running, rendendola una delle silhouette più amate del panorama contemporaneo.\nSuggerimenti di Stile\nEcco 3 modi per abbinare queste sneakers dal carattere deciso:\nRetro Streetwear\n: Indossale con dei\npantaloni cargo\noversize e una felpa boxy per richiamare i volumi tipici della moda anni 2000.\nSophisticated Neutral\n: Abbinale a dei\npantaloni chino\ncolor sabbia e una\ncamicia\nin flanella per un outfit coordinato che gioca sulle sfumature naturali della terra.\nContemporary Casual\n: Provale con dei\njeans\nlavaggio scuro e una\novershirt\ntecnica per un look versatile che unisce comfort sportivo e stile cittadino.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "pantaloni chino",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/chino.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers retro-running, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

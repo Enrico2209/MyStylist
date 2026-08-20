@@ -21,5 +21,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/sneakers/gel-cumulus-1203a733-cinnamon-silver-200",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLe Asics GEL-CUMULUS rappresentano l'essenza della morbidezza e della fluidità, posizionandosi come una delle calzature più affidabili per chi cerca un'esperienza di camminata o corsa \"sulle nuvole\". Se le GEL-KAYANO sono le regine della stabilità, le Cumulus sono le campionesse dell'ammortizzazione neutra e della leggerezza.\nAsics GEL-CUMULUS Comfort Superiore e Falcata Fluida\n- Ammortizzazione PureGEL™: Integra la versione più avanzata della tecnologia GEL, posizionata strategicamente per assorbire gli impatti in modo ancora più soffice e reattivo rispetto ai modelli tradizionali.\n- Intersuola FF BLAST™ PLUS: Realizzata con una schiuma di ultima generazione che offre un ritorno di energia dinamico e una leggerezza eccezionale, riducendo la fatica durante l'uso prolungato.\n- Tomaia in Mesh Tecnico: Il tessuto superiore è progettato per avvolgere il piede come una seconda pelle, garantendo una traspirazione costante e un supporto mirato dove necessario.\n- Design Moderno e Aerodinamico: A differenza delle versioni più \"retro-tech\" come la GEL-KAYANO 14, la Cumulus presenta linee più pulite e contemporanee, perfette per un look sportivo moderno.\n- Suola a Pieno Contatto: La geometria della suola è studiata per favorire transizioni più fluide dal tallone alla punta, rendendo ogni passo naturale e senza sforzo.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nEU\nUS\n35.5\n3.5\n36\n4\n37\n4.5\n37.5\n5\n38\n5.5\n39\n6\n39.5\n6.5\n40\n7\n40.5\n7.5\n41.5\n8\n42\n8.5\n42.5\n9\n43.5\n9.5\n44\n10\n44.5\n10.5\n45\n11\n46\n11.5\n46.5\n12\n47\n12.5\n48\n13",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.7,
+      "casual": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "sneakers da running tecniche, tetto di marchio sportivo",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

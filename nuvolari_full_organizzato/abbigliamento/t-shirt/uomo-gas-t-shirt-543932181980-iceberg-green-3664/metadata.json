@@ -27,5 +27,33 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/uomo-gas-t-shirt-543932181980-iceberg-green-3664",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo Gas Iceberg Green\nincarna un'estetica minimalista e naturale, pensata per chi desidera arricchire il proprio guardaroba estivo con una nota di colore sobria, fresca e straordinariamente versatile. Tinta in una delicata sfumatura verde salvia/menta spento (\"Iceberg Green\"), questa maglietta a maniche corte si distacca dalle classiche tonalità neutre offrendo un'alternativa raffinata, esaltata da una costruzione pulita e da un dettaglio d'ispirazione utility.\nDesign e Caratteristiche Principali\nTessuto in Jersey di Cotone Fiammato (Slub)\n: Confezionata in un jersey di puro cotone leggero e altamente traspirante, caratterizzato da una texture leggermente irregolare e fiammata. Questa particolare lavorazione dona al filato una mano morbida, un aspetto vissuto naturale e un'eccellente freschezza a contatto con la pelle.\nTaschino Frontale d'Ispirazione Workwear\n: Il pannello frontale, pulito e privo di grafiche stampate, è impreziosito sul lato sinistro del petto da un taschino applicato a punta aperta. Il dettaglio non solo spezza la linearità del capo introducendo un accento urban-utility, ma ospita anche una piccola etichetta logata o un ricamo tono su tono che firma con discrezione la creazione del brand.\nScollo a Girocollo e Finiture di Qualità\n: Presenta un classico scollo a girocollo rifinito con un profilo in costina sottile ed elastica, progettato per mantenere la forma ottimale anche dopo ripetuti lavaggi. Le cuciture piatte a due aghi su spalle, orlo inferiore e maniche assicurano robustezza e pulizia visiva.\nTonalità Desaturata ed Eclettica\n: Il colore \"Iceberg Green\" è un verde polveroso a base fredda che si comporta quasi come un colore neutro; si coordina con estrema facilità sia con i diversi lavaggi del denim sia con i toni caldi della terra come il beige, il kaki e l'avorio.\nVestibilità Regular Fit Calibrata\n: Il taglio propone una silhouette regolare e fluida che accarezza il busto senza costringerlo, garantendo massima libertà di movimento e un'ottima gestione della ventilazione durante la stagione estiva.\nProposta di Outfit\nSafari Urban Utility Look\n: Indossala sopra il\nbermuda cargo\nverde militare in cotone e lino; la combinazione tra le due differenti gradazioni di verde (quella chiara e polverosa della t-shirt e quella solida del pantalone) strutturerà un outfit d'ispirazione avventura metropolitana coerente, grintoso e di forte tendenza.\nSummer Riviera Comfort\n: Abbinala al\nbermuda\nbeige chiaro con coulisse in vita; la luminosità della base Tidal Foam esalterà la delicatezza del verde salvia superiore, dando vita a un insieme arioso, rilassato e chic, ideale per una giornata di vacanza o un pomeriggio all'aria aperta.\nCasual Denim Contrast\n: Portala in abbinamento al\nbermuda jeans\ndal lavaggio grigio medio-chiaro con risvolto; il contrasto materico tra la morbidezza fiammata della t-shirt e la texture vintage del denim grigio creerà un look streetwear fresco, minimale e bilanciato per i momenti di svago quotidiani.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "bermuda cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "bermuda",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    },
+    {
+      "testo": "bermuda jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/bermuda.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a girocollo con taschino, capo casual quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

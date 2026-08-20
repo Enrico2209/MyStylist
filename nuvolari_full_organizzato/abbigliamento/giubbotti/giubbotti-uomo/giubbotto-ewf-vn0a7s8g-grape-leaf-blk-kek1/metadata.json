@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/giubbotti-uomo/giubbotto-ewf-vn0a7s8g-grape-leaf-blk-kek1",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGiubbotto da uomo Vans.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nVestibilità regular\nComposizione: 100% poliestere\nCodice articolo: EWF VN0A7S8G",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "piumino leggero bicolore con cappuccio, stile casual/streetwear quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

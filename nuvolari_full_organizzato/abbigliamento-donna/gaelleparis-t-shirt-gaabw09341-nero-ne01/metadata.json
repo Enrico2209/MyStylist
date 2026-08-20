@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/gaelleparis-t-shirt-gaabw09341-nero-ne01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nT-Shirt Gaëlle Paris: Eleganza Urban e Dettagli Iconic\nT-Shirt Donna Gaëlle Paris Black Essential\nRendi unico il tuo stile quotidiano con la t-shirt firmata Gaëlle Paris. Questo capo rappresenta l'essenza del brand, unendo la semplicità di una maglia in cotone nero alla ricercatezza di un logo lavorato a rilievo. Pensata per la donna contemporanea, è la base perfetta per outfit che spaziano dal casual al rock-chic, garantendo sempre un fit confortevole e una forte identità visiva.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica con logo tono su tono, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

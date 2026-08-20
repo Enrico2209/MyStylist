@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "scarpe/stivaletti/buwick-uomo-dr-martens-31185001-black-black",
-  "image_count": 5
+  "image_count": 5,
+  "descrizione_completa": "Descrizione\nScarpa Uomo Dr. Martens Buwick Black\nGli scarponcini Dr. Martens Buwick sono realizzati in pelle resistente e robusta, progettati per un look versatile e durevole. Caratterizzati da una suola Goodyear welted per una maggiore durata e comfort, e dotati di lacci regolabili e una chiusura a zip laterale per una vestibilità sicura. La loro estetica combina elementi classici con dettagli moderni, rendendoli adatti sia per l'uso quotidiano che per occasioni più informali.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie UK\n64% pelle 36% tessuto\nCodice articolo: 31185001 BLACK-BLACK",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "scarponcino ibrido in pelle e tessuto dall'aspetto tecnico e casual quotidiano",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

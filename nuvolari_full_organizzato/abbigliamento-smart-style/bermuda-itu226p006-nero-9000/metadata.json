@@ -23,5 +23,31 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/bermuda-itu226p006-nero-9000",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'ironia minimale, il fascino della cultura pop cinematografica e un'estetica underground d'élite ridefiniscono il concetto di casualwear estivo nei\nbermuda uomo \"I Told Ya\"\n. Ispirati al celebre tormentone grafico che ha conquistato lo streetwear globale e le icone della moda internazionale, questi pantaloncini fondono un messaggio bold e anticonformista a una struttura tessile premium, progettata per chi ama distinguersi con un'attitudine rilassata e intellettuale allo stesso tempo.\nDesign e Caratteristiche Distintive\nL'Iconico Lettering Frontale Minimale\n: Il segno grafico identitario risiede nella celebre scritta stampata \"I TOLD YA\" (\"Te l'avevo detto\"). Posizionato geometricamente sulla parte inferiore della gamba o vicino alla tasca, il testo pulito ad alta leggibilità trasforma il bermuda in un vero e proprio manifesto di stile senza bisogno di grafiche sovraccariche.\nTessuti Premium in Cotone Heavyweight e Felpa Leggera\n: La selezione dei materiali mette in primo piano la consistenza e la morbidezza. Confezionati prevalentemente in puro cotone jersey a spessore maggiorato o in morbida felpa sgarzata (french terry), questi bermuda garantiscono un'eccellente resistenza ai lavaggi e una caduta geometrica strutturata che non perde mai la forma.\nGirovita Elastico con Coulisse e Fitting Rilassato\n: Sviluppati con una silhouette relaxed d'ispirazione skate e rétro anni '90, presentano un taglio confortevole che si attesta appena sopra il ginocchio. La fascia elastica in vita, integrata da un cordoncino piatto regolabile, azzera le costrizioni e assicura la massima stabilità sui fianchi.\nDettagli Funzionali ed Essenziali\n: L'architettura minimale del pantaloncino è rifinita con tasche laterali a filo capienti e una tasca posteriore applicata, perfette per mantenere un design pulito e geometrico, ideale per accogliere una palette di colori neutri classici come il grigio melange, il bianco ottico o il nero profondo.\nIdee di Stile: Costruisci il Tuo Outfit Pop-Street\nTotal Pop Icon Uniform\n: Esalta il legame di tendenza di questa grafica creando un outfit street pulito e coordinato. Abbina il bermuda \"I Told Ya\" a una delle\nt-shirt uomo\ndella stessa linea o a una t-shirt basica in cotone compatto heavyweight, completando il look con una sneaker bassa e un occhiale da sole lifestyle specchiato Oakley.\nMetropolitan Lounge Transition\n: Gioca di contrasti tessili per un aperitivo informale o per il tempo libero nel weekend. Accosta il bermuda in felpa alla precisione lineare di una delle freschissime\ncamicie uomo\nSquad in puro lino lasciata completamente aperta sopra una canotta chiara, risvoltando le maniche per un'aria disinvolta.\nContemporary Utility Skater Look\n: Inserisci l'ironia del lettering in un contesto street di carattere e movimento. Combina il bermuda alla struttura a coste spugnata di un calzino Deus Ex Machina portato a vista, indossando nella parte superiore una polo Psycho Bunny o una t-shirt grafica e definendo il tutto con un cappello con visiera ricurva.\nSperimenta la perfetta sintesi tra l'understatement grafico contemporaneo e il massimo comfort per la stagione calda. Scegli la versatilità espressiva, i materiali premium e lo stile inconfondibile dei bermuda uomo \"I Told Ya\".\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "camicie uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.4,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "Bermuda in felpa con coulisse, vestibilità rilassata d'ispirazione skate e grafica streetwear.",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

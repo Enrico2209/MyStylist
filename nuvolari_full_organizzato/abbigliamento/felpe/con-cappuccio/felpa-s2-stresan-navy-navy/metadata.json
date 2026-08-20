@@ -25,5 +25,34 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-s2-stresan-navy-navy",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nFelpa Uomo Nuvolari Stresan\nLa felpa uomo Nuvolari Stresan è il capo ideale per chi cerca comfort e stile in un’unica soluzione. Realizzata in morbido cotone, offre una vestibilità comoda e un look casual perfetto per il tempo libero. Il design essenziale e i dettagli curati rendono questa felpa un must-have per ogni stagione.\nProposta Outfit:\nIndossala con un paio di\npantaloni cargo\nper uno stile urbano e dinamico oppure con dei\njeans\nper un look più rilassato. Completa il tutto con un paio di\nsneakers\nper un outfit moderno e versatile.\nScopri i capi ideali per il tuo outfit:\nPantaloni Cargo\nJeans\nSneakers\nPorta il tuo stile casual a un livello superiore con la felpa Stresan!\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n1° tessuto: 86% poliammide, 14% elastane\n2° tessuto: 72% cotone, 24% poliestere, 4% elastane\nVestibilità regular\nCodice articolo: S2 STRESAN NAVY-NAVY",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Pantaloni Cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "Jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "Sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.8
+    },
+    "formality": 2,
+    "formality_perche": "giubbotto leggero/felpa tecnica con cappuccio, abbinato a cargo e sneakers",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

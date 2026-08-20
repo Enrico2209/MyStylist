@@ -20,5 +20,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantaloni-felpa/w-tuta-donna-disclaimer-24ids54657-nero-bianca-nro-bca",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nPantalone Tuta Donna Disclaimer Nero/Bianca\nI\npantaloni\ntuta Disclaimer da donna combinano stile casual e comfort. Realizzati con\n100% cotone\n, offrono una vestibilità comoda e versatile. Il logo a contrasto aggiunge un dettaglio originale, rendendoli ideali per completare look moderni e rilassati.\nAbbinalo ad una\nfelpa\ne ad una\nborsa\nscelte appositamente da\nNuvolari\nper il tuo look\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n100% cotone\nCodice articolo: 24IDS54657 NERO/BIANCA-NRO/BCA",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    },
+    {
+      "testo": "felpa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/felpe-e-maglie-donna.html"
+    },
+    {
+      "testo": "borsa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/accessori-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.3,
+      "streetwear": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "pantalone della tuta con coulisse ed elastico alle caviglie, logo grande laterale",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

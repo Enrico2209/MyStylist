@@ -22,5 +22,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/chinos/pantalone-uomo-nuvolari-s1-old-fight-nero-nero2",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nEsplora il comfort e lo stile dei nostri pantaloni uomo Nuvolari\nQuesti pantaloni rappresentano la perfetta combinazione di eleganza e praticità, ideali per affrontare le tue giornate con stile e comodità. Grazie alla loro composizione in cotone, offrono un'esperienza di indossatura piacevole e traspirante, adattandosi perfettamente a ogni tua mossa. Il design sobrio e raffinato di questi pantaloni li rende perfetti per molteplici occasioni, dall'ufficio alle uscite informali con gli amici. Completa il tuo look con i pantaloni Nuvolari e scopri un nuovo livello di comfort e stile.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nComposizione Pantalone S1 OLD FIGHT\nVestibilità Regular\nComposizione: 98%COTONE - 2%ELASTAN",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino/cinque tasche in cotone, vestibilità regular, adatto a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

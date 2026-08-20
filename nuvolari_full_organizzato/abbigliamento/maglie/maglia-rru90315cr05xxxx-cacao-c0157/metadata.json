@@ -19,5 +19,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-rru90315cr05xxxx-cacao-c0157",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nMaglia Uomo Roy Roger's Cacao\nè un capolavoro di maglieria italiana che fonde calore cromatico e raffinatezza sartoriale. Caratterizzata da una profonda tonalità terra bruciata, questa maglia a girocollo rappresenta l'essenza dello stile \"Earth Tone\", ideale per l'uomo che ricerca un'eleganza naturale e discreta senza rinunciare alla qualità superiore dei materiali.\nRoy Roger's Cacao Il Comfort della Maglieria Italiana\nPerché sceglierlo\nIl punto di forza di questo capo risiede nella sua versatilità e nella mano eccezionalmente morbida. Il colore cacao conferisce una profondità unica al look, risultando meno severo del nero ma altrettanto sofisticato. La lavorazione a maglia fine permette di indossare il capo sia direttamente sulla pelle che come strato intermedio, garantendo sempre un profilo pulito e una termoregolazione ottimale per le mezze stagioni.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo a maglia fine, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

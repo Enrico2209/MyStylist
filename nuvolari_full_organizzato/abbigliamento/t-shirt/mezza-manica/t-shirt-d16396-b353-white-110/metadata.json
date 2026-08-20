@@ -22,5 +22,17 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/mezza-manica/t-shirt-d16396-b353-white-110",
-  "image_count": 1
+  "image_count": 1,
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "t-shirt basica a girocollo, capo quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

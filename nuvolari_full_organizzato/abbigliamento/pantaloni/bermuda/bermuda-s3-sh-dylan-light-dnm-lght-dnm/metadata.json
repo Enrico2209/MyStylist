@@ -21,5 +21,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/bermuda/bermuda-s3-sh-dylan-light-dnm-lght-dnm",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI\nBermuda Uomo Nuvolari Dylan Lght Dnm\nsono la scelta perfetta per chi cerca la freschezza e la praticità del pantaloncino corto senza rinunciare al fascino intramontabile del vero stile denim. Caratterizzati da un lavaggio chiaro e luminoso, questi shorts in jeans uniscono un'attitudine relaxed-street a una grande cura sartoriale, confermandosi come un pezzo chiave del guardaroba per la bella stagione.\nDesign e Caratteristiche Principali\nPregiato Denim Light Wash\n: Il tessuto si distingue per una tonalità indaco chiara (\"Lght Dnm\"), arricchita da sfumature naturali ed effetti leggermente vissuti che regalano al capo una piacevole tridimensionalità estiva.\nCostruzione Classica a 5 Tasche\n: Rispetta la più autentica tradizione del jeanswear, presentando due tasche posteriori sagomate, due tasche anteriori ad arco e il classico taschino porta-monete sul lato destro.\nOrlo con Risvolto Cucito\n: Il fondo gamba è rifinito da un risvolto fisso che stabilizza la caduta del tessuto sulla coscia, aggiungendo una nota di stile curata e preppy al design complessivo.\nCintura Strutturata con Salpa Istituzionale\n: La parte posteriore della vita è completata da robusti passanti per cintura e personalizzata dall'esclusiva salpa logata Nuvolari, firma discreta di qualità e manifattura.\nChiusura Funzionale con Bottone e Zip\n: Il fronte integra una patta tradizionale con cerniera metallica e un bottone a chiodo strutturato posizionato sulla riga della vita per una chiusura solida e confortevole.\nTaglio Regular Fit Bilanciato\n: La vestibilità è studiata per offrire il giusto comfort sul bacino e una linea dritta e rilassata sulla coscia, fermandosi appena sopra il ginocchio per assicurare la massima libertà di movimento.\nSuggerimenti di Stile\nEcco 3 modi per inserire questi bermuda in denim chiaro nei tuoi outfit estivi:\nUrban Summer Street\n: Abbinali a una t-shirt basic oversize bianca, al\nGiubbotto Nuvolari Polline\n(lato color caffè) e a sneakers robuste per un look urban perfetto per le giornate in città.\nCasual Chic da Aperitivo\n: Indossali insieme alla\nCamicia Nuvolari Lioserio Blue\ncon maniche arrotolate e a un paio di mocassini estivi o slip-on in tela per un perfetto look da tramonto.\nRelaxed Weekend Vibe\n: Provali in combinazione con la\nMaglia Nuvolari Special Blu\ne un\ncappello a secchiello The North Face\nper un outfit da tempo libero comodo, fresco e protettivo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Giubbotto Nuvolari Polline",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "Camicia Nuvolari Lioserio Blue",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "Maglia Nuvolari Special Blu",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/maglieria.html"
+    },
+    {
+      "testo": "cappello a secchiello The North Face",
+      "categoria_url": "https://www.nuvolari.biz/accessori/cappelli.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "da_mare": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "bermuda in denim, capo casual estivo quotidiano",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

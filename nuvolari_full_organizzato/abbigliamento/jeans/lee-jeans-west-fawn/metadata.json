@@ -16,5 +16,20 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/jeans/lee-jeans-west-fawn",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nI jeans Lee West nella colorazione Fawn Blue rappresentano una rivisitazione moderna del fit classico, caratterizzati da una linea pulita e un lavaggio estivo e luminoso.\nFit e Silhouette\nModello West: Questo jeans offre una vestibilità \"relaxed straight\", con una vita regolare e una gamba che scende dritta ma leggermente affusolata verso il fondo. È il perfetto compromesso tra comfort e uno stile contemporaneo più asciutto.\nGamba Dritta: La linea strutturata valorizza la figura senza stringere, rendendolo ideale per chi cerca libertà di movimento.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 1.0
+    },
+    "formality": 2,
+    "formality_perche": "jeans classico a gamba dritta, capo base casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

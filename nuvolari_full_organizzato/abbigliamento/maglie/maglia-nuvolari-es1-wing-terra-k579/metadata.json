@@ -19,5 +19,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-nuvolari-es1-wing-terra-k579",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nMaglia Nuvolari Terra\nLa maglia girocollo\nNuvolari\nin colore terra è un capo versatile e sofisticato, perfetto per completare il tuo outfit. Realizzata con attenzione ai dettagli e con un design raffinato, questa maglia aggiunge un tocco di eleganza a qualsiasi look. Con la sua tonalità calda e neutra, è ideale da indossare sopra una\nt-shirt\nper creare uno stile unico e alla moda.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica, adatta a contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

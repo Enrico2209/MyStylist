@@ -20,5 +20,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/brooklands-t-shirt-ts1b01-smokey-smokey",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe t-shirt uomo Weekend Offender sono l'emblema della \"Terrace Culture\" britannica: un mix perfetto di provocazione, design funzionale e spirito ribelle. Nate per chi vive la città con attitudine sfrontata e ironica, queste magliette sono diventate un cult assoluto nel panorama del casual wear internazionale.\nT-shirt Weekend Offender Urban Heritage & Attitude\nPerché sceglierle\nOgni t-shirt Weekend Offender non è solo un capo di abbigliamento, ma un manifesto di appartenenza. Realizzate con un taglio \"Regular Fit\" studiato per offrire comfort e una silhouette definita, sono costruite per resistere all'uso quotidiano senza perdere la loro forma originale, grazie a un cotone di alta qualità che garantisce morbidezza e resistenza.\nConsigli di Outfit\nTerrace Style\n: Abbinale ad un\nJeans\ne ad un\nTracktop Lyle & Scott\nper un look che celebra le radici del casual wear britannico.\nUrban Utility\n: Indossale sotto la\nOvershirt Nuvolari\naperta, completando l'outfit con un paio di\nNew Balance U740\nper un contrasto tra tradizione e tecnicità.\nModern Casual\n: Perfette con il\nPantalaccio\nNuvolari\ned uno\nSmanicato\nper un set dinamico e pronto a ogni cambio di programma in città.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "Jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "Tracktop Lyle & Scott",
+      "categoria_url": "https://www.nuvolari.biz/tracktop-ml2507v-dark-navy-z271.html?___store=default"
+    },
+    {
+      "testo": "Overshirt Nuvolari",
+      "categoria_url": "https://www.nuvolari.biz/overshirt-w2-3-0-illinois-panna-panna.html?___store=default"
+    },
+    {
+      "testo": "Pantalaccio",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica con piccolo logo, adatta a un contesto casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

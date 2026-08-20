@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "accessori/zaini/base-camp-daypack-nf0a8bk4-tnf-black-aspha-bia1",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nQuesto zaino combina la leggendaria\nresistenza\ndel tessuto Base Camp di The North Face con un design pensato per il comfort e l'organizzazione in ambiente urbano e per l'università.\nDettagli Tecnici\nPoliestere riciclato 600D con laminato in TPU e nylon 400D.\ncapacità Circa 22 Litri\nDimensioni Circa 31 cm x 46 cm x 16 cm\nCaratteristiche Funzionali\nScomparto per Laptop:\nTasca interna\nimbottita\ne foderata in pile per proteggere un\nlaptop fino a 16 pollici\n.\nComfort:\nSchienale e spallacci imbottiti per un maggiore comfort durante il trasporto, anche a pieno carico.\nOrganizzazione:\nAmpio scomparto principale e tasca frontale esterna con zip che include una tasca interna foderata in pile (ideale per telefono o occhiali) e un gancio per le chiavi.\nPortaborraccia:\nDue tasche esterne laterali in rete, con cinghie elastiche per tenere salde le borracce.\nDettagli Riflettenti:\nLa riflettività a\n360 gradi\naumenta la visibilità e la sicurezza in condizioni di scarsa illuminazione.\nPunti di Attacco:\nDaisy chain (fascette in fettuccia) sul davanti per agganciare attrezzatura esterna o una giacca.\nLo\nZaino Base Camp Daypack\nè l'ideale se cerca la durabilità estrema del borsone Base Camp, ma con la forma e le tasche organ\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 1,
+    "formality_perche": "zaino sportivo/outdoor, tetto di marchio",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

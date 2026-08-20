@@ -20,5 +20,26 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/w-gonna-donna-24colours-70760-black-01",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nGonna 24Colours N/Black\nLa\ngonna\n24Colours offre un design semplice ma sofisticato, pensata per chi desidera un outfit che sia sia comodo che alla moda. Con la sua linea fluida e il taglio versatile, è ideale per ogni stagione, facilmente abbinabile a una varietà di top e accessori per creare il look perfetto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nVestibilità regular\n55% nylon, 45% fibra metallizzata. Rivestimento: 100% poliestere\nCodice articolo: 70760 BLACK-01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "gonna",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/gonne.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.6,
+      "elegante": 0.4
+    },
+    "formality": 3,
+    "formality_perche": "gonna corta con finitura metallizzata, adatta a contesti smart casual o serali",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

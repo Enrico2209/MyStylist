@@ -19,5 +19,22 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/camicie/mezza-manica/camicia-lee-workshirt-es3-112376591-lt-chambray",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLEE WORKSHIRT LT CHAMBRAY: IL FASCINO DEL WORKWEAR CLASSICO\nQuesta camicia a maniche corte celebra l'eredità di Lee nel mondo dell'abbigliamento da lavoro, reinterpretandola con un tessuto chambray leggero e traspirante. Perfetta per chi cerca un capo robusto ma fresco, ideale per la stagione estiva.\nDesign a Doppia Tasca: Caratterizzata da due ampie tasche frontali con chiusura a bottone, che richiamano lo stile utility originale.\nTessuto Chambray Leggero: La colorazione \"Lt Chambray\" offre un azzurro melangiato naturale che dona un tocco di freschezza visiva e materica.\nDettagli Iconici: Rifinita con bottoni a contrasto e la classica etichetta nera Lee sulla tasca sinistra, simbolo di autenticità e qualità.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.1,
+      "da_mare": 0.1
+    },
+    "formality": 2,
+    "formality_perche": "camicia a maniche corte stile workwear in chambray leggero, con tasche utility",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

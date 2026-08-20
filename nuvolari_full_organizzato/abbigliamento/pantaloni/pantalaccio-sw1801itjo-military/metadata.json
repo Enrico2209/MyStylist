@@ -26,5 +26,30 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/pantaloni/pantalaccio-sw1801itjo-military",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza discreta della tradizione scozzese incontra il massimo comfort dell'abbigliamento lounge metropolitano nel\nPantalaccio Uomo Lyle & Scott SW1801ITJO Military\n. Questo modello reinterpreta il concetto di pantalone maschile destrutturandolo completamente: l'unione di una morbida vita elastica e di una tonalità d'ispirazione utility dà vita a un capo versatile, fresco e dal carattere contemporaneo, ideale per chi non scende a compromessi tra stile e libertà di movimento.\nDesign, Tessuto e Caratteristiche Distintive\nSfumatura Military Green d'Ispirazione Utility\n: Il pantalone si distingue per una solida e profonda tonalità verde militare. La finitura del tessuto presenta una texture leggermente opaca e lavata, che mette in risalto la tridimensionalità delle cuciture e dei profili laterali, offrendo un sofisticato appeal urban-vintage.\nIl Comfort Rivoluzionario del Girovita Elastico\n: Il focus ingegneristico del modello risiede nella costruzione della vita. Come visibile nell'immagine di riferimento, il fascione è interamente elasticizzato e arricciato, arricchito da una coulisse frontale con cordoncino scuro a contrasto che azzera la rigidità dei bottoni tradizionali, adattandosi millimetricamente a ogni silhouette.\nTela di Cotone Stretch Leggera e Traspirante\n: Confezionato in un pregiato mix di cotone ed elastane. Questa combinazione assicura che il pantalone mantenga una caduta fluida e ordinata per tutta la giornata, garantendo al contempo un perfetto comfort termico e la massima flessibilità nei movimenti durante la stagione calda.\nSilhouette Tapered Essenziale e Tasche a Filo\n: Il taglio si sviluppa con volumi calibrati d'ispirazione relaxed che accarezzano i fianchi e si restringono leggermente verso il fondo della gamba. L'architettura pulita è completata da tasche anteriori ad accesso diagonale perfettamente integrate lungo le cuciture laterali.\nIdee di Stile: Costruisci il Tuo Look Lounge-Street\nSmart Casual Summer Uniform\n: Crea un outfit estivo ordinato, fresco e sofisticato, ideale per i weekend di viaggio, il tempo libero o il lavoro informale. Abbina il pantalaccio Lyle & Scott military alla precisione geometrica di una\ncamicia uomo\nSquad in puro lino bianco con collo alla coreana, completando il look con un mocassino morbido scamosciato.\nPremium Metropolitan Streetwear Mix\n: Esalta l'anima underground inserendo la morbidezza del pantalone in un contesto urban deciso. Accosta il pantalaccio alla struttura minimale di una\nt-shirt uomo\nU.S. Polo Assn. Mick con logo ricamato a contrasto o alla forza grafica delle t-shirt biologiche firmate G-Star RAW. Chiudi il cerchio con una sneaker rétro bassa.\nContemporary Utility Layering\n: Gioca con le stratificazioni di texture per le fresche serate all'aperto o gli aperitivi nel fine settimana. Utilizza una maglietta chiara di base, indossa sopra una overshirt utility strutturata lasciata completamente aperta e lascia che la tonalità militare del pantalone definisca il carattere deciso dell'outfit.\nRidisegna le regole del tuo abbigliamento quotidiano sperimentando un nuovo concetto di libertà tessile, dove la comodità di una tuta incontra l'eleganza pulita del design firmato dal Grifone d'Oro. Scegli la qualità premium, lo stile disinvolto e la versatilità del modello SW1801ITJO firmato Lyle & Scott.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "camicia uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Pantalaccio con vita elastica e coulisse, stile utility/casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

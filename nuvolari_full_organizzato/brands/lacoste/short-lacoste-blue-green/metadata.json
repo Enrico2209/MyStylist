@@ -22,5 +22,25 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "brands/lacoste/short-lacoste-blue-green",
-  "image_count": 1
+  "image_count": 1,
+  "descrizione_completa": "Descrizione\nIl\ncostume da uomo\nfirmato\nLacoste\nè un costume blu, con interno verde.\nQuesti\nshorts\nhanno vita elasticizzata con cordini regolabili, fodera di rete, tasche laterali e logo visibile.\nGrazie alla realizzazione in poliestere, il\ncostume a pantaloncino\nsi asciugherà non appena uscirai dall'acqua.\nSe stai cercando l'outfit da mare più giusto per te, scopri su\nNuvolari\ngli ultimi\ncostumi di Lacoste!\nIl modello indossa la taglia L\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nShorts da uomo di Lacoste blu/verde\nVestibilità regular\nComposizione: 100% poliestere\nCodice articolo: MH6270 NAVY BLUE/GREEN-802",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "costumi di Lacoste!",
+      "categoria_url": "https://www.nuvolari.biz/brands/lacoste"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "da_mare": 1.0
+    },
+    "formality": 1,
+    "formality_perche": "costume da bagno a pantaloncino",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

@@ -23,5 +23,31 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/scarpa-keen-uneek-360-1031932-bir-pecan-bir-pecan",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nL'innovazione ingegneristica dell'outdoor e l'estetica d'avanguardia metropolitana si fondono nella nuova\nScarpa Uomo Keen Uneek 360\n. Questo modello ibrido rivoluziona il concetto di calzatura estiva attraverso una struttura intrecciata unica nel suo genere, progettata per adattarsi dinamicamente alla forma del piede e offrire una traspirabilità assoluta sia sui sentieri naturali che nelle esplorazioni urbane.\nDesign e Caratteristiche Principali\nSfumatura Total Black Minimalista\n: La scarpa è interamente declinata in una colorazione nera profonda e monocromatica, che avvolge la tomaia, i cordini e la suola. Una scelta cromatica essenziale, versatile e dall'attitudine urban gorpcore, ideale da abbinare a qualsiasi palette estiva.\nCostruzione Innovativa a Due Cordini\n: Il tratto distintivo del design Uneek è la tomaia realizzata con un sistema di cordini intrecciati in nylon elastico ad alta resistenza. Questa struttura mobile si muove in sintonia con il piede, eliminando i punti di pressione e garantendo una calzata personalizzata a 360 gradi.\nAllacciatura Rapida con Cursore (Toggle)\n: Dotata di un sistema di chiusura elastica quick-lace con cursore di bloccaggio sul collo del piede. Permette di regolare la tensione della calzata in un solo gesto, assicurando massima stabilità durante la camminata.\nTallone Predisposto e Supporto Posteriore\n: Il retro è strutturato con un inserto morbido e protettivo che stabilizza il tallone, arricchito da un pratico passante con il logo ufficiale\n\"KEEN\"\ncucito a contrasto, perfetto per agevolare la calzata.\nSuola Ammortizzata ad Alto Grip\n: La robusta suola in gomma presenta scanalature geometriche progettate per ottimizzare la trazione su superfici asciutte e bagnate. L'intersuola leggera garantisce un ritorno di energia elastico e un comfort duraturo anche dopo molte ore di utilizzo.\nIdee di Stile: Crea la Tua Wave\nGorpcore Urban Uniform\n: Esalta l'anima tecnica e avveniristica delle Keen Uneek abbinandole a un bermuda cargo strutturato in nylon o cotone tecnico (ottimi i modelli Proj3ct grigio chiaro) e a una\nt-shirt\nboxy heavyweight in tonalità terra o fango.\nTokyo Street Style\n: Sperimenta le simmetrie orientali indossando la scarpa insieme a un\npantalone\npantalaccio ampio in misto lino nero o beige, completando l'outfit con una camicia a maniche corte aperta a fantasia geometrica rétro, come il modello Obey Alan Woven.\nSperimenta una libertà di movimento mai provata prima e ridefinisci il concetto di comfort estivo. Scegli il design ibrido firmato Keen.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantalone",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.5,
+      "casual": 0.3,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "Sneaker ibrida outdoor/gorpcore, tetto di marchio sportivo/tecnico",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

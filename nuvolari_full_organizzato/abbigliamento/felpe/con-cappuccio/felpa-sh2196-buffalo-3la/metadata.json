@@ -22,5 +22,43 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/con-cappuccio/felpa-sh2196-buffalo-3la",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLa\nFelpa Uomo Lacoste SH2196\nè un capo distintivo della collezione, che celebra l'eredità tennistica del brand con un design grafico moderno e d'impatto. Caratterizzata da una base nera profonda, questa felpa con cappuccio unisce lo stile street alla tradizione sportiva di René Lacoste.\nDesign e Caratteristiche Principali\nGrafica Frontale\n: Sul petto è presente il logo \"LACOSTE\" rivisitato, dove la lettera \"O\" racchiude l'iconico coccodrillo all'interno di una grafica che richiama una palla da tennis.\nMaxi Stampa Posteriore\n: Il retro della felpa (come visibile nel file Schermata 2026-05-14 alle 14.17.47.jpg) è personalizzato con una grande stampa artistica a effetto gesso che raffigura un campo da tennis, sormontata dalla scritta \"LACOSTE ON TENNIS BY RENÉ LACOSTE\" in un delicato contrasto rosa.\nDettagli Funzionali\n: Dotata di un ampio cappuccio foderato e di una pratica tasca a marsupio frontale per un comfort ottimale.\nFiniture di Qualità\n: Polsini e fondo del capo sono rifiniti a coste elasticizzate per mantenere perfettamente la forma.\nTessuto Premium\n: Realizzata in morbido cotone, garantisce calore e una piacevole sensazione di morbidezza sulla pelle durante l'uso quotidiano.\nAbbinalo con\nPer un look urban e sportivo, ti consigliamo di abbinare questa felpa con:\nUn paio di\njeans\nscuri o neri per un outfit monocromatico di tendenza.\nI\ncargo\nNuvolari per enfatizzare l'estetica streetwear del capo.\nDelle\nsneakers\nbianche a contrasto o un modello Adidas Campus 00s per richiamare i dettagli grafici.\nSopra una\nt-shirt\nbianca basic per un perfetto gioco di stratificazioni.\nPer un outfit prettamente sportivo, indossala con i\npantaloni\njogger della linea Nuvolari Terry.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.4,
+      "streetwear": 0.4
+    },
+    "formality": 2,
+    "formality_perche": "felpa con cappuccio e maxi stampa posteriore, registro casual/streetwear quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "stampato"
+  }
 }

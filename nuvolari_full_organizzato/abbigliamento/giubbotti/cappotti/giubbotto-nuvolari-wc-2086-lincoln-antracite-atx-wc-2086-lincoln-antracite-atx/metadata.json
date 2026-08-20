@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/giubbotti/cappotti/giubbotto-nuvolari-wc-2086-lincoln-antracite-atx-wc-2086-lincoln-antracite-atx",
-  "image_count": 8
+  "image_count": 8,
+  "descrizione_completa": "",
+  "scheda_tecnica": "Caratteristiche\nCAPPOTTO Uomo Nuvolari modello LINCOLN 2086\nCappotto in tessuto misto lana disegno diagonale\nTasche con pattine\nFodera interna in raso\nPannello frontale chiuso da automatici interni\nZip frontale metallica con tirazip personalizzato\nPlacca metallica personalizzata montata sulla tasca\nTasche interne\nSpacco posteriore\nVestibilità slim ﬁt",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.2,
+      "elegante": 0.8
+    },
+    "formality": 4,
+    "formality_perche": "cappotto sartoriale in misto lana con vestibilita slim fit",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

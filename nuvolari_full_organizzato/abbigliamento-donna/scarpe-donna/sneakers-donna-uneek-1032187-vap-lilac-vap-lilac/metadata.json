@@ -20,5 +20,39 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/sneakers-donna-uneek-1032187-vap-lilac-vap-lilac",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nLe\nScarpe Donna Keen Uneek Vap/Lilac\nsono una declinazione eterea e delicata dell'iconica calzatura ibrida di Keen, caratterizzata da una palette cromatica pastello che fonde toni neutri e sfumature lilla. Questo modello combina l'ingegneria del sistema a corde intrecciate con un'estetica fresca e femminile, ideale per chi cerca una scarpa estiva versatile che si distingua per eleganza e innovazione tecnica.\nDesign e Caratteristiche Principali\nSistema a Due Corde Intrecciate\n: La tomaia è realizzata con cordini elastici che si adattano dinamicamente alla morfologia del piede, offrendo una libertà di movimento superiore e una traspirabilità continua.\nColorazione Vap/Lilac\n: Presenta un sofisticato intreccio in tonalità sabbia e lilla, completato da inserti in microfibra grigio chiaro sul tallone che donano morbidezza e supporto.\nPlantare Anatomico\n: Progettato per seguire la naturale curvatura del piede, il sottopiede assicura un sostegno costante all'arco plantare e un comfort duraturo durante le camminate.\nIntersuola Ammortizzata in PU\n: La struttura leggera garantisce un ottimo assorbimento degli urti senza appesantire la calzata, mantenendo la scarpa flessibile e reattiva.\nSistema di Chiusura Rapida\n: Dotate di una coulisse elastica bianca con cursore di regolazione, permettono di personalizzare la tenuta con un gesto semplice e veloce.\nSuola Esterna ad Alta Trazione\n: Il battistrada in gomma scura presenta intagli a lamelle per una presa sicura su diverse superfici, rendendole perfette per esplorazioni urbane o giornate all'aria aperta.\nSuggerimenti di Stile\nEcco 3 modi per abbinare queste calzature dai toni delicati:\nPastel Breeze\n: Indossale con un abito in maglia leggera o una gonna midi in tonalità pastello per un outfit armonioso e romantico, perfetto per il tempo libero.\nSummer Denim\n: Abbinale a dei\njeans\nbianchi o lavaggio chiaro e una\nt-shirt\nlilla per richiamare i dettagli cromatici della scarpa in un look quotidiano fresco.\nChic Explorer\n: Provale con degli\nshorts\ncolor crema e una\ncamicia\nin lino aperta per un mix equilibrato tra spirito d'avventura e stile ricercato.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "jeans",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "t-shirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "camicia",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/camicie.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.4,
+      "da_mare": 0.3
+    },
+    "formality": 1,
+    "formality_perche": "sandalo ibrido sportivo/outdoor, equiparabile a calzatura da spiaggia o tempo libero informale",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

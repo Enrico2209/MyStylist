@@ -23,5 +23,35 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/scarpe-donna/w-sneakers-donna-gaelle-paris-gacaw01119-bianco-bi01",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nSneakers Donna Gaelle Paris Leather Bianco\nLe\nsneakers\nda donna Gaelle Paris \"Skaters In Action\" sono realizzate in pelle e caratterizzate da un design contemporaneo con logo a contrasto sul retro. Perfette per un look casual, aggiungono un tocco di stile urbano.\nAbbinale ad un paio di\npantaloni\ne ad una\nborsa\nper uno stile moderno ed impeccabile\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\nScala taglie EU\n90% Action Leather 10% Poliuretanica\nCodice articolo: GACAW01119 BIANCO-BI01",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/scarpe-donna.html"
+    },
+    {
+      "testo": "pantaloni",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/pantaloni-e-shorts-donna.html"
+    },
+    {
+      "testo": "borsa",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento-donna/accessori-donna.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.5,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "sneakers in pelle dal design skater contemporaneo, adatte a un uso casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

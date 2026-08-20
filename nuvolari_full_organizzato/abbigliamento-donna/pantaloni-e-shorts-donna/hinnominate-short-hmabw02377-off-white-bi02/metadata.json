@@ -24,5 +24,22 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento-donna/pantaloni-e-shorts-donna/hinnominate-short-hmabw02377-off-white-bi02",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nIl comfort assoluto della felpa incontra la pulizia cromatica del bianco panna, dando vita a un essentials estivo dall'anima spiccatamente urban e loungewear. Gli\nShort Donna Hinnominate Off White\nridefiniscono il concetto di pantaloncino sportivo grazie a una silhouette morbida e a dettagli di design pensati per garantire la massima libertà di movimento in città. Questo modello unisce l'attitudine cozy a linee geometriche pulite, posizionandosi come il pezzo chiave per outfit quotidiani rilassati e di tendenza.\nDesign e Caratteristiche Principali\nSilhouette Sporty Cut con Spacchi Laterali\n: Il pantaloncino si sviluppa con una gamba corta e svasata, arricchita sul fondo da un orlo arrotondato con mini spacchi laterali. Questa costruzione d'ispirazione rétro running alleggerisce i volumi del capo e slancia otticamente la figura.\nFascione Elastico Multiriga con Coulisse\n: Progettato con una spessa fascia elastica arricciata in vita dotata di coulisse tubolare regolabile tono su tono. Struttura pensata per assicurare un fit personalizzabile, stabile e flessibile sia sui fianchi sia a vita alta.\nDettaglio Logo Minimalist Frontale\n: Sul lato inferiore sinistro spicca la stampa a contrasto del lettering ufficiale del brand\n\"HINNOMINATE\"\nin una tonalità nera e geometrica, firma immancabile che sigilla l'essenza streetwear del modello.\nTasche Laterali a Filo\n: Integrati in modo pulito lungo le cuciture dei fianchi, i due taschini anteriori offrono praticità d'uso senza alterare o appesantire la linea fluida e minimalista del pantaloncino.\nTessuto Premium in Cotone Felpato Leggero\n: Confezionato in una morbida felpa di cotone non garzata, ideale per la stagione calda grazie a una consistenza compatta, traspirante e incredibilmente piacevole a contatto con la pelle.\nIdee di Stile: Crea la Tua Wave\nThe Luxury Co-Ord Uniform\n: Crea un total look loungewear di grande impatto visivo abbinando lo short a una felpa leggera o a un top cropped Hinnominate nella stessa tonalità Off White o giocando sui contrasti caldi con la variante moka.\nVolume Contrast Basic Match\n: Bilancia la morbidezza della felpa indossando il pantaloncino insieme a un top super aderente a coste o alla canotta asimmetrica della linea essenziale infilata nel fascione. Chiudi il cerchio con una sneaker bold chunky.\nUrban Oversize Layering\n: Per un'attitudine street impeccabile, abbina il capo a una t-shirt cropped boxy o lascia cadere sopra una camicia over aperta a micro-righe, completando il tutto con calze bianche a vista e una sneaker bassa da skate.\nAbbraccia l'estetica cozy d'avanguardia e ridefinisci il tuo tempo libero. Scegli il design rilassato di Hinnominate e scendi in strada a dettare il passo.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.4,
+      "casual": 0.4,
+      "streetwear": 0.2
+    },
+    "formality": 1,
+    "formality_perche": "pantaloncino corto in felpa con coulisse, stile loungewear/sportivo",
+    "season": "estate",
+    "pattern": "tinta_unita"
+  }
 }

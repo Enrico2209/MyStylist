@@ -24,5 +24,42 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento-smart-style/pantalaccio-s3-arm-terry-blu-blu",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'estetica sartoriale incontra la massima praticità contemporanea nel\npantalaccio da uomo Nuvolari modello Arm Terry nella profonda sfumatura Blu Scuro\n. Progettato per chi ricerca un look curato senza rinunciare alla comodità quotidiana, questo pantalone unisce la versatilità del chino classico al comfort dinamico della vita elasticizzata regolabile con coulisse.\nDesign, Tessuti e Caratteristiche Costruttive\nTessuto In Cotone Elasticizzato e Confortevole\n: Confezionato in una speciale trama di cotone stretch, offre struttura, morbidezza al tatto e un'ottima libertà di movimento per tutta la giornata.\nCintura Elasticizzata con Coulisse e Bottone Personalizzato\n: La fascia elastica posteriore si unisce ai cordoni di regolazione tubolari frontali e alla chiusura con bottone incidato Nuvolari, per un fit sempre su misura.\nNuance Blu Scuro Raffinata e Versatile\n: Una tonalità elegante e facile da abbinare, perfetta per passare con disinvoltura dal giorno alla sera.\nDettagli Metallici e Taglio Tapered\n: Rifinito con piccoli rivetti metallici ai lati delle tasche trasversali e una linea affusolata che valorizza la silhouette.\nIdee di Stile: Costruisci il Tuo Look Smart Casual & Urban\nSmart Casual & Workday Look\n: Ideale per l'ufficio o per un appuntamento informale, abbina il pantalaccio a una camicia o a una polo essenziale, completando l'insieme con un paio di\nsneakers uomo\nin pelle.\nUrban Minimal Essential\n: Per il tempo libero, accosta il pantalone a una semplice\nt-shirt uomo\nmonocromatica inserita nel cinturino per risaltare il dettaglio della coulisse.\nLayering & Capi Alternativi\n: Durante le serate più fresche, indossa sopra una giacca o un capospalla leggero dalla nostra collezione\ngiubbotti uomo\n. Nelle giornate più calde o per le uscite nel weekend, scopri anche le nostre proposte di\nbermuda uomo\ne\njeans uomo\n.\nScegli la perfetta sintesi tra comfort e stile firmata Nuvolari: la flessibilità della coulisse in vita, la cura dei dettagli e l'intramontabile raffinatezza del blu scuro.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "t-shirt uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/t-shirt.html"
+    },
+    {
+      "testo": "giubbotti uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    },
+    {
+      "testo": "bermuda uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/bermuda.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "pantalone chino ibrido con coulisse (pantalaccio), si colloca perfettamente nello smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

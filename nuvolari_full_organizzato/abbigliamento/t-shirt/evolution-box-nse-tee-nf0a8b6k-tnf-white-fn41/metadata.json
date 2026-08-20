@@ -25,5 +25,35 @@
   "pattern": "stampato",
   "needs_vision_review": false,
   "relpath": "abbigliamento/t-shirt/evolution-box-nse-tee-nf0a8b6k-tnf-white-fn41",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa\nT-Shirt Uomo The North Face Evolution Box Nse Tee TNF White\ndeclina l'inconfondibile identità outdoor del brand in un'estetica streetwear pulita, luminosa ed essenziale. Costruita su una base bianca ottica, questa maglietta reinterpreta il celebre logo \"Box\" posizionando sul retro un elemento grafico di forte impatto visivo.\nDesign e Caratteristiche Principali\nMaxi Grafica Posteriore \"Box Logo\"\n: La schiena è caratterizzata da un grande riquadro nero pieno al cui interno risalta, in bianco a contrasto, il classico logo The North Face a mezza cupola.\nMotto Iconico Posteriore\n: Subito al di sotto del riquadro grafico è stampato in lettere maiuscole il celebre claim del marchio, \"NEVER STOP EXPLORERING\", che ribadisce la filosofia legata al viaggio e alla scoperta.\nFronte Minimalista e Pulito\n: Il lato anteriore della t-shirt si presenta lineare e privo di stampe sul petto, concentrando tutta l'attenzione visiva sul design grafico strutturato della parte posteriore.\nColorazione TNF White\n: La base bianca candida dona al capo la massima freschezza estiva, esaltando la nitidezza del blocco grafico nero sulla schiena.\nTaglio Regular Fit\n: La vestibilità classica garantisce una silhouette versatile, adatta a muoversi comodamente sia nei contesti urbani quotidiani sia durante i momenti di relax.\nTessuto in Puro Cotone\n: Realizzata in filato di cotone morbido, leggero e traspirante, offre un comfort ottimale sulla pelle e un'elevata resistenza all'uso frequente.\nSuggerimenti di Stile\nEcco 3 modi per abbinare questa t-shirt grafica in versione bianca:\nClassic Tech Street\n: Indossala con dei\npantaloni cargo\nneri o grigio antracite per richiamare direttamente il contrasto cromatico del box posteriore.\nSummer Casual\n: Abbinala a degli\nshorts\nin denim chiaro o in felpa colorata e a delle sneakers pulite per un outfit da giorno fresco e disinvolto.\nOpen Layering\n: Provala sotto una\novershirt\nleggera o una camicia di jeans lasciata aperta sul davanti, lasciando che la purezza del bianco frontale contrasti con la giacca.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni cargo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/cargo.html"
+    },
+    {
+      "testo": "shorts",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni/shorts.html"
+    },
+    {
+      "testo": "overshirt",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/overshirt.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.2,
+      "casual": 0.5,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica di marchio outdoor/streetwear, tetto massimo di formalita per il brand",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

@@ -24,5 +24,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "brands/icon/t-shirt-iut008-bianco-bianco",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nLa t-shirt uomo Icon in 100% cotone rappresenta l'essenza del comfort naturale e dello stile minimalista, ideale per chi cerca un capo fresco e versatile da indossare in ogni occasione. Realizzata interamente in fibre organiche, questa maglia garantisce una traspirabilità superiore e una delicatezza sulla pelle imbattibile.\nPerché sceglierla\nLa scelta del 100% cotone assicura un'esperienza di indosso ottimale, permettendo al corpo di respirare naturalmente anche durante le giornate più calde. La struttura del tessuto è studiata per offrire una mano morbida e una resistenza ai lavaggi che preserva la brillantezza dei colori e la forma del capo nel tempo.\nConsigli di Outfit\nUrban Dynamic\n: Indossala sotto la\nfelpa Icon\ncoordinata e abbinala a un paio di jeans o a un pantalaccio tecnico per un look a strati funzionale.\nSummer Relax\n: Portala insieme ai\nbermuda Rayz\nper un outfit estivo fresco e traspirante, perfetto per le giornate all'aperto.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: IUT008 BIANCO-BIANCO",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "streetwear": 0.2
+    },
+    "formality": 2,
+    "formality_perche": "T-shirt basica in cotone con piccolo dettaglio logo sul collo, tipico capo casual quotidiano",
+    "season": "tutte",
+    "pattern": "tinta_unita"
+  }
 }

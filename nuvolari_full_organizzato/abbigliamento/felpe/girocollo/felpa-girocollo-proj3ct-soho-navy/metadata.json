@@ -22,5 +22,30 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/felpe/girocollo/felpa-girocollo-proj3ct-soho-navy",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nFelpa girocollo uomo dallo stile streetwear e dal design semplice ma moderno. Capo della\ncollezione Proj3ct uomo\n, con logo ricamato sul petto e sul retro del polsino. Completa il tuo look con il\njeans bull nero\nsempre firmato Proj3ct.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nFelpa girocollo uomo Proj3ct modello Soho - Navy\nGirocollo\nBordi a costina\nLogo ricamato sul petto e sul retro del polsino\nVestibilità: Loose fit\nComposizione: 100% cotone",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "collezione Proj3ct uomo",
+      "categoria_url": "https://www.nuvolari.biz/brands/proj3ct"
+    },
+    {
+      "testo": "jeans bull nero",
+      "categoria_url": "https://www.nuvolari.biz/jeans-project-wd-bull-nero-9113.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "streetwear": 0.3
+    },
+    "formality": 2,
+    "formality_perche": "felpa girocollo casual con vestibilita loose fit",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

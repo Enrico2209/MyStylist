@@ -16,5 +16,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "scarpe/sneakers/sneakers-camper-pelotas-soller",
-  "image_count": 4
+  "image_count": 4,
+  "descrizione_completa": "Descrizione\nLa Camper Pelotas Soller rappresenta l'evoluzione contemporanea e ultra-leggera della famiglia Pelotas, il pilastro più iconico del brand di Maiorca. Mentre la Pelotas Ariel classica punta sulla robustezza, la versione Soller ridefinisce il concetto di comfort estivo attraverso una costruzione flessibile e materiali altamente traspiranti.\nCamper Pelotas Soller Leggerezza di ispirazione mediterranea\nPerché sceglierla\nIl nome rende omaggio alla valle di Sóller, nel cuore della Sierra de Tramuntana, riflettendo lo spirito rilassato e naturale della scarpa. È la scelta perfetta per chi cerca l'estetica distintiva dei \"pallini\" (le 87 sfere sulla suola) ma desidera una calzata molto più leggera, morbida e adatta ai climi caldi.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "sportivo": 0.3,
+      "casual": 0.7
+    },
+    "formality": 2,
+    "formality_perche": "sneakers scamosciate di stampo casual quotidiano",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }

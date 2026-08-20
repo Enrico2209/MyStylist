@@ -23,5 +23,38 @@
   "pattern": "tinta_unita",
   "needs_vision_review": false,
   "relpath": "abbigliamento/maglie/maglia-s3-platz-marrone-marrone",
-  "image_count": 3
+  "image_count": 3,
+  "descrizione_completa": "Descrizione\nL'eleganza informale del guardaroba Nuvolari prende forma nella\nmaglia da uomo Nuvolari nella tonalità marrone\n. Un capo versatile e raffinato, dove la calda nuance marrone incontra un filato dalla mano piacevole, perfetto per look curati dal gusto contemporaneo.\nDesign, Tessuti e Caratteristiche Costruttive\nFilato di Qualità\n: Realizzata in filato dalla mano morbida e confortevole, ideale per un comfort che dura tutto il giorno.\nTonalità Marrone\n: Un colore caldo e avvolgente, elegante e facile da abbinare, molto attuale.\nLinea Pulita\n: Design essenziale e curato, dalle finiture ordinate.\nVestibilità Regular\n: Fit comodo ed equilibrato, perfetto sia da solo sia in layering.\nIdee di Stile: Costruisci il Tuo Look Smart Casual\nSmart Casual\n: Abbinala a dei\npantaloni uomo\nchino e delle\nsneakers uomo\nper un look curato e rilassato.\nDenim Look\n: Indossala con un paio di\njeans uomo\nper un contrasto caldo e contemporaneo.\nLayering\n: Perfetta sotto un\ngiubbotto uomo\nnelle mezze stagioni per un look ordinato.\nScegli il calore del marrone e la versatilità firmata Nuvolari. La maglia è il capo che unisce comfort ed eleganza informale in ogni occasione.\nLeggi di più",
+  "scheda_tecnica": "",
+  "abbinamenti_suggeriti": [
+    {
+      "testo": "pantaloni uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/pantaloni.html"
+    },
+    {
+      "testo": "sneakers uomo",
+      "categoria_url": "https://www.nuvolari.biz/scarpe/sneakers.html"
+    },
+    {
+      "testo": "jeans uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/jeans.html"
+    },
+    {
+      "testo": "giubbotto uomo",
+      "categoria_url": "https://www.nuvolari.biz/abbigliamento/giubbotti.html"
+    }
+  ],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.7,
+      "elegante": 0.3
+    },
+    "formality": 3,
+    "formality_perche": "maglia girocollo classica dal design pulito, ideale per contesti smart casual",
+    "season": "inverno",
+    "pattern": "tinta_unita"
+  }
 }

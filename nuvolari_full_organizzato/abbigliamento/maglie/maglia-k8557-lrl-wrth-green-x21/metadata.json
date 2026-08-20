@@ -20,5 +20,21 @@
   "pattern": "tinta_unita",
   "needs_vision_review": true,
   "relpath": "abbigliamento/maglie/maglia-k8557-lrl-wrth-green-x21",
-  "image_count": 2
+  "image_count": 2,
+  "descrizione_completa": "Descrizione\nQuesto strato superiore (maglione/felpa) è un nuovo classico intramontabile di Fred Perry. Realizzato in cotone pettinato per un effetto consistente, presenta la distintiva lavorazione goffrata textured, un punto fermo ricorrente del brand che richiama le geometrie, le griglie e le scacchiere. È un capo impreziosito da dettagli pregiati, ideale per vestirsi a strati con eleganza sportiva.\nLeggi di più",
+  "scheda_tecnica": "Caratteristiche\nCOMPOSIZIONE\n100% cotone\nVestibilità regular\nCodice articolo: K8557 LRL WRTH GREEN-X21",
+  "abbinamenti_suggeriti": [],
+  "vision_review": {
+    "model": "gemini-3.5-flash",
+    "fonte": "foto+descrizione-5tag",
+    "quando": "2026-08-19",
+    "style_scores": {
+      "casual": 0.8,
+      "elegante": 0.2
+    },
+    "formality": 3,
+    "formality_perche": "maglione con mezza zip in cotone strutturato, ideale per contesti smart casual",
+    "season": "mezza_stagione",
+    "pattern": "tinta_unita"
+  }
 }
