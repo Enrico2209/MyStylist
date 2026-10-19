@@ -1,3 +1,5 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+nuvolari_full_organizzato/**/*.webp filter=lfs diff=lfs merge=lfs -text
+nuvolari_db/outfit_images/*.webp filter=lfs diff=lfs merge=lfs -text
