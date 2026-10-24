@@ -114,6 +114,10 @@ MATERIAL_SIGNALS = {
 # Ha la precedenza su materiale e testo proprio perché è il segnale più
 # affidabile: il tipo di capo non è ambiguo, la composizione e la descrizione sì.
 # Le chiavi si cercano nel titolo con confine di parola.
+# Sciarpe e tessuti leggeri: servono alla deroga in derive_attributes.
+SCIARPA = re.compile(r"\b(sciarp\w*|scaldacollo|foulard|stola)\b")
+TESSUTO_LEGGERO = re.compile(r"\b(lino|cotone|seta|linen|cotton|silk)\b")
+
 GARMENT_SEASON = {
     "inverno": [
         "sciarpa", "sciarpe", "scaldacollo", "guanti", "muffole",
@@ -736,29 +740,45 @@ def extract_metadata_from_soup(soup: BeautifulSoup, product_url: str) -> dict:
 PAROLE_TECNICHE_AFFIDABILI = set()
 
 
-def compute_style_scores(metadata: dict) -> dict:
-    """Punteggio grezzo (non sogliato) per ognuno dei 10 style_tags.
+def compute_style_scores(metadata: dict) -> tuple[dict, set]:
+    """Punteggio grezzo (non sogliato) per ognuno dei registri di STYLE_KEYWORDS,
+    piu' l'insieme dei registri che hanno un riscontro esplicito nel testo.
 
-    Usato sia da derive_attributes (che applica poi la soglia 0.5 per il
-    badge style_tags/needs_vision_review) sia dalla Fase 3, che ha bisogno
-    del segnale continuo per costruire un vettore stile senza perdere
-    l'informazione sotto soglia (vedi feature_engineering.py).
+    Il punteggio somma quattro sorgenti, di attendibilità decrescente: una
+    parola nel titolo 0.8, un materiale riconosciuto 0.5, il marchio 0.4, la
+    vestibilità 0.3. Non è né normalizzato né limitato: sul catalogo attuale
+    il massimo su un registro è 1.9, ed è il chiamante ad applicare la soglia.
+
+    Il secondo valore è quello che conta di più. Solo il titolo può metterci
+    dentro un registro (la deroga sulla descrizione oggi è inerte, vedi
+    PAROLE_TECNICHE_AFFIDABILI), e derive_attributes lo usa per decidere chi
+    va in revisione visiva: materiale, marchio e vestibilità alzano il
+    punteggio ma NON tolgono un capo dalla quarantena, perché sono attributi
+    di categorie di capi, non di quel capo. Un punteggio alto significa
+    quindi "molti indizi generici concordi", non "so com'è fatto".
+
+    Usato sia da derive_attributes (che applica la soglia 0.5 per il badge
+    style_tags/needs_vision_review) sia dalla Fase 3, che ha bisogno del
+    segnale continuo per costruire un vettore stile senza perdere
+    l'informazione sotto soglia (vedi feature_engineering.py) — lì però solo
+    come ripiego per i capi senza vision_review.
     """
     desc = (metadata.get("description_text") or "").lower()
     title = (metadata.get("title") or "").lower()
     composition = (metadata.get("composition") or "").lower()
     fit = metadata.get("fit")
     brand_slug = metadata.get("brand_slug")
-    combined_text = f"{desc} {title}"
 
     scores = {tag: 0.0 for tag in STYLE_KEYWORDS}
     text_matched_tags = set()  # tag con supporto esplicito da description_text/title
 
     for tag, keywords in STYLE_KEYWORDS.items():
         # dal titolo qualunque parola vale: lì la parola NOMINA il capo.
-        # dalla prosa solo i fatti tecnici (vedi PAROLE_TECNICHE_AFFIDABILI).
-        if any(kw in title for kw in keywords) or any(
-                kw in desc for kw in keywords if kw in PAROLE_TECNICHE_AFFIDABILI):
+        # dalla prosa solo i fatti tecnici: PAROLE_TECNICHE_AFFIDABILI oggi è
+        # vuoto, quindi questo secondo ramo non scatta mai e il titolo resta
+        # l'unica strada per uscire dalla quarantena testuale.
+        dalla_prosa = PAROLE_TECNICHE_AFFIDABILI.intersection(keywords)
+        if any(kw in title for kw in keywords) or any(kw in desc for kw in dalla_prosa):
             scores[tag] += 0.8
             text_matched_tags.add(tag)
 
@@ -844,6 +864,15 @@ def derive_attributes(metadata: dict, category_path: Path) -> dict:
     # sciarpa è invernale anche se è di cotone e la scheda non lo dice, e
     # lasciarla in "tutte" la rendeva abbinabile a una t-shirt estiva.
     season = season_da_tipo(metadata.get("title"))
+    # Unica deroga al tipo di capo: una sciarpa di lino, cotone o seta e' un
+    # capo da mezza stagione, non da inverno. Vale solo per le sciarpe e solo
+    # verso il basso di un gradino -- il tipo resta il segnale forte, e nessun
+    # tessuto rende una sciarpa estiva. Senza questa deroga il tipo aveva la
+    # precedenza assoluta e una sciarpa di lino risultava invernale.
+    if season == "inverno" and SCIARPA.search(
+            senza_accenti(metadata.get("title") or "").lower()):
+        if TESSUTO_LEGGERO.search(composition):
+            season = "mezza_stagione"
     if season is None:
         if STAGIONE_ESTIVA_DEL_CAPO.search(combined_text):
             season = "estate"

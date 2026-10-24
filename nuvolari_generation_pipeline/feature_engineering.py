@@ -40,7 +40,6 @@ STYLE_TAGS = [
     "sportivo", "casual", "elegante", "streetwear", "da_mare",
 ]
 SEASONS = ["estate", "inverno", "mezza_stagione", "tutte"]
-STYLE_SCORE_CAP = 3.0  # oltre questo valore il punteggio satura a 1.0 (vedi derive_attributes)
 
 MAX_DIM = 220                 # ridimensiona le foto prima del k-means (velocità)
 N_COLOR_CLUSTERS = 3
